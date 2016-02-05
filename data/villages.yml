@@ -1,0 +1,19 @@
+kh:
+  provinces:
+    12:
+      name_en: "Phnom Penh"
+      name_km: "ភ្នំពេញ"
+  districts:
+    1201:
+      name_en: "Chamkar Mon"
+      name_km: "ចំការមន"
+  communes:
+    120101:
+      name_en: "Tonle Basak"
+      name_km: "ទន្លេបាសាក់"
+  villages:
+    12010101:
+      name_en: "Phum 1"
+      name_km: "ភូមិ ១"
+      latitude: "11.550461"
+      longitude: "104.936599"
