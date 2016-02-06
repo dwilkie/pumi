@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Pumi::District do
-  let(:sample_id) { "0102" }
+describe Pumi::Commune do
+  let(:sample_id) { "010201" }
   include_examples "location"
 end

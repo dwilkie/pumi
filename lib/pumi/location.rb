@@ -4,11 +4,11 @@ class Pumi::Location
   DEFAULT_LOCALE = "km"
   AVAILABLE_LOCALES = [DEFAULT_LOCALE, "en"]
 
-  attr_reader :code, :attributes, :locale
+  attr_reader :id, :attributes, :locale
 
   def initialize(code, locale, attributes = {})
-    @code = code
-    @locale = (AVAILABLE_LOCALES.include?(locale) && locale) || DEFAULT_LOCALE
+    @id = code
+    @locale = (AVAILABLE_LOCALES.include?(locale.to_s) && locale.to_s) || DEFAULT_LOCALE
     @attributes = attributes
   end
 
@@ -17,7 +17,11 @@ class Pumi::Location
   end
 
   def self.data_set
-    @data ||= Pumi::DataSet.new
+    @data_set ||= Pumi::DataSet.new
+  end
+
+  def self.find_by_id(id)
+    new(id, nil, data[id]) if data[id]
   end
 
   def name

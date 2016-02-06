@@ -18,6 +18,14 @@ class Pumi::DataSet
     kh_data["districts"]
   end
 
+  def communes
+    kh_data["communes"]
+  end
+
+  def villages
+    kh_data["villages"]
+  end
+
   private
 
   def kh_data

@@ -1,19 +1,44 @@
 kh:
   provinces:
-    12:
+    "01":
+      name_en: "Banteay Meanchey"
+      name_km: "បន្ទាយមានជ័យ"
+    "12":
       name_en: "Phnom Penh"
       name_km: "ភ្នំពេញ"
   districts:
-    1201:
+    "0102":
+      name_en: "Mongkol Borei"
+      name_km: "មង្គលបុរី"
+    "1201":
       name_en: "Chamkar Mon"
       name_km: "ចំការមន"
+    "1202":
+      name_en: "Daun Penh"
+      name_km: "ដូនពេញ"
   communes:
-    120101:
+    "010201":
+      name_en: "Banteay Neang"
+      name_km: "បន្ទាយនាង"
+    "120101":
       name_en: "Tonle Basak"
       name_km: "ទន្លេបាសាក់"
+    "120201":
+      name_en: "Phsar Thmei 1"
+      name_km: "ផ្សារថ្មី ១"
   villages:
-    12010101:
+    "01020103":
+      name_en: "Banteay Neang"
+      name_km: "បន្ទាយនាង"
+      latitude: "13.509101"
+      longitude: "103.021903"
+    "12010101":
       name_en: "Phum 1"
       name_km: "ភូមិ ១"
       latitude: "11.550461"
       longitude: "104.936599"
+    "12020101":
+      name_en: "Phum 1"
+      name_km: "ភូមិ ១"
+      latitude: "11.565696"
+      longitude: "104.924929"
