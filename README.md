@@ -1,4 +1,6 @@
 # Pumi - ភូមិ
+[![Build Status](https://travis-ci.org/dwilkie/pumi.svg?branch=master)](https://travis-ci.org/dwilkie/pumi)
+
 Contains Geodata for administrative regions in Cambodia.
 
 ![alt tag](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi.jpg)
