@@ -104,7 +104,7 @@ Or install it yourself as:
   require 'pumi'
 
   village = Pumi::Village.all.first
-  # => #<Pumi::Village:0x0055b6c999d060 @id="01020103", @locale="km", @attributes={"name_en"=>"Banteay Neang", "name_km"=>"បន្ទាយនាង", "latitude"=>"13.509101", "longitude"=>"103.021903"}>
+  # => #<Pumi::Village:0x0055b6c999d060 @id="01020103", @locale="km", @attributes={"name_en"=>"Banteay Neang", "name_km"=>"បន្ទាយនាង"}>
 
   village.name
   # => "បន្ទាយនាង"
@@ -119,7 +119,7 @@ Or install it yourself as:
   # => "Banteay Neang"
 
   Pumi::Village.find_by_id("01020103")
-  # => #<Pumi::Village:0x0055b6c965d9b8 @id="01020103", @locale="km", @attributes={"name_en"=>"Banteay Neang", "name_km"=>"បន្ទាយនាង", "latitude"=>"13.509101", "longitude"=>"103.021903"}>
+  # => #<Pumi::Village:0x0055b6c965d9b8 @id="01020103", @locale="km", @attributes={"name_en"=>"Banteay Neang", "name_km"=>"បន្ទាយនាង"}>
 ```
 
 ## Development
