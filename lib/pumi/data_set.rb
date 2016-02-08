@@ -2,41 +2,27 @@ require 'yaml'
 
 class Pumi::DataSet
   DATA_DIRECTORY = "data"
-  DATA_FILE = "villages.yml"
+  PROVINCES_FILE_NAME = "provinces.yml"
+  DISTRICTS_FILE_NAME = "districts.yml"
+  COMMUNES_FILE_NAME = "communes.yml"
+  VILLAGES_FILE_NAME = "villages.yml"
 
-  attr_reader :data
+  attr_reader :provinces, :districts, :communes, :villages
 
   def initialize
-    @data = load_data
+    @provinces = load_data(PROVINCES_FILE_NAME)["provinces"]
+    @districts = load_data(DISTRICTS_FILE_NAME)["districts"]
+    @communes  = load_data(COMMUNES_FILE_NAME)["communes"]
+    @villages  = load_data(VILLAGES_FILE_NAME)["villages"]
   end
 
-  def provinces
-    kh_data["provinces"]
-  end
-
-  def districts
-    kh_data["districts"]
-  end
-
-  def communes
-    kh_data["communes"]
-  end
-
-  def villages
-    kh_data["villages"]
+  def self.data_path(filename)
+    File.join(File.expand_path('..', File.dirname(__dir__)), DATA_DIRECTORY, filename)
   end
 
   private
 
-  def kh_data
-    data["kh"]
-  end
-
-  def load_data
-    YAML.load_file(path_to_data)
-  end
-
-  def path_to_data
-    File.join(File.expand_path('..', File.dirname(__dir__)), DATA_DIRECTORY, DATA_FILE)
+  def load_data(filename)
+    YAML.load_file(self.class.data_path(filename))
   end
 end
