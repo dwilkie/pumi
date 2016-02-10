@@ -7,13 +7,20 @@ class Pumi::DataSet
   COMMUNES_FILE_NAME = "communes.yml"
   VILLAGES_FILE_NAME = "villages.yml"
 
-  attr_reader :provinces, :districts, :communes, :villages
+  def provinces
+    load_data(PROVINCES_FILE_NAME)["provinces"]
+  end
 
-  def initialize
-    @provinces = load_data(PROVINCES_FILE_NAME)["provinces"]
-    @districts = load_data(DISTRICTS_FILE_NAME)["districts"]
-    @communes  = load_data(COMMUNES_FILE_NAME)["communes"]
-    @villages  = load_data(VILLAGES_FILE_NAME)["villages"]
+  def districts
+    load_data(DISTRICTS_FILE_NAME)["districts"]
+  end
+
+  def communes
+    load_data(COMMUNES_FILE_NAME)["communes"]
+  end
+
+  def villages
+    load_data(VILLAGES_FILE_NAME)["villages"]
   end
 
   def self.data_path(filename)

@@ -1,5 +1,5 @@
 class Pumi::Province < Pumi::Location
   def self.data
-    data_set.provinces
+    @@provinces ||= from_raw_data(data_set.provinces)
   end
 end

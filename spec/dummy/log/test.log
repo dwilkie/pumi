@@ -1,0 +1,1085 @@
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:20:02 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 3ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:20:42 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 3ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:22:55 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:28:10 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:28:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:30:18 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:31:30 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 1ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:31:49 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:32:26 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:32:51 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:33:19 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:33:35 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:35:45 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-09 12:36:03 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:15:55 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 8ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:16:37 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 9ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:33:02 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 7ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:42:59 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 7ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:43:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 7ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:43:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 11ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:44:05 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 11ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:45:54 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 3.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:46:16 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 3.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:46:27 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 3.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:47:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 5ms (Views: 3.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:49:26 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 3.4ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:50:57 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 3.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:53:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 3.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 08:54:08 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 7ms (Views: 4.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:07:13 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 3ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:07:33 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 4ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:08:31 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:12:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 5ms (Views: 2.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:17:49 +0700
+Processing by Pumi::ProvincesController#index as JSON
+  Rendered /home/dave/work/contrib/pumi/app/views/pumi/provinces/index.json.erb (5.9ms)
+Completed 500 Internal Server Error in 13ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:18:45 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 0.6ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:19:00 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:19:24 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:19:57 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:20:11 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.6ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:20:20 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:20:29 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:20:43 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:21:52 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.4ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:22:56 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:23:24 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 5ms (Views: 2.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:44:35 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 500 Internal Server Error in 0ms
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:44:53 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:48:44 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:50:22 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:50:59 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:50:59 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 7ms (Views: 6.4ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:51:10 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:51:10 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 5.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:51:37 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:51:37 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 6.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:51:37 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:51:37 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:56:30 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:56:30 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 8ms (Views: 8.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:56:30 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:56:30 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:10 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:10 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 7ms (Views: 6.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:10 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:10 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 7ms (Views: 6.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:57:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:06 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:06 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 6.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:06 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:07 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 7ms (Views: 6.6ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:58:32 +0700
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 6.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 09:59:14 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.3ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 5.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 21ms (Views: 13.3ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.3ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:02:34 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 7ms (Views: 6.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.1ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.4ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:03:45 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 5.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.7ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:06:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 6.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.3ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.1ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:06:23 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 5.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:32 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:32 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:32 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:33 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 11ms (Views: 11.3ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:33 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.7ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:06:33 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 2.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 5.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 7.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.7ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.3ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:06:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 5.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.7ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.3ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:06:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 6ms (Views: 5.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:07:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 3ms (Views: 1.8ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 13ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.7ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.9ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:07:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 8ms (Views: 5.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 15ms (Views: 7.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.5ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:08:07 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 4ms (Views: 1.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 13ms (Views: 6.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.4ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.3ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:09:54 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 9ms (Views: 9.3ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 7ms (Views: 5.7ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.7ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.6ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:10:25 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.4ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:10:38 +0700
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 8ms (Views: 6.3ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.3ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.2ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 120ms (Views: 60.8ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 59ms (Views: 59.1ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 61ms (Views: 60.7ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:11:09 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 60ms (Views: 60.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.4ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 127ms (Views: 65.2ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 63ms (Views: 62.6ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:36 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 61ms (Views: 60.4ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:37 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 63ms (Views: 63.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 15ms (Views: 6.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 8.1ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.1ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:50 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 133ms (Views: 68.3ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:51 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 61ms (Views: 61.1ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:51 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 65ms (Views: 64.6ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:12:51 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 67ms (Views: 66.7ms)
+Started GET "/pumi/communes?district_id=1201" for 127.0.0.1 at 2016-02-10 10:12:51 +0700
+Processing by Pumi::CommunesController#index as JSON
+  Parameters: {"district_id"=>"1201"}
+Completed 200 OK in 2ms (Views: 0.6ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.7ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.4ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.6ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 124ms (Views: 62.6ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 59ms (Views: 58.6ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 60ms (Views: 60.2ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 64ms (Views: 63.8ms)
+Started GET "/pumi/communes?district_id=1201" for 127.0.0.1 at 2016-02-10 10:13:49 +0700
+Processing by Pumi::CommunesController#index as JSON
+  Parameters: {"district_id"=>"1201"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 16ms (Views: 7.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 8.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.2ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.6ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 132ms (Views: 63.8ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 65ms (Views: 64.9ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 61ms (Views: 61.2ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 62ms (Views: 62.1ms)
+Started GET "/pumi/communes?district_id=1201" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Processing by Pumi::CommunesController#index as JSON
+  Parameters: {"district_id"=>"1201"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:13:58 +0700
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.7ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.5ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.7ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 119ms (Views: 60.3ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 62ms (Views: 62.0ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 58ms (Views: 57.7ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 64ms (Views: 64.1ms)
+Started GET "/pumi/communes?district_id=1201" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Processing by Pumi::CommunesController#index as JSON
+  Parameters: {"district_id"=>"1201"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Started GET "/pumi/villages?commune_id=120101" for 127.0.0.1 at 2016-02-10 10:14:13 +0700
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 16ms (Views: 7.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.3ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 8ms (Views: 7.5ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.6ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 132ms (Views: 65.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 67ms (Views: 67.0ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 58ms (Views: 58.2ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 63ms (Views: 62.4ms)
+Started GET "/pumi/communes?district_id=1201" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::CommunesController#index as JSON
+  Parameters: {"district_id"=>"1201"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:50 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 1055ms (Views: 553.4ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:51 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 603ms (Views: 602.3ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:52 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 524ms (Views: 523.6ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:14:53 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 596ms (Views: 595.9ms)
+Started GET "/pumi/villages?commune_id=120101" for 127.0.0.1 at 2016-02-10 10:14:53 +0700
+Processing by Pumi::VillagesController#index as JSON
+  Parameters: {"commune_id"=>"120101"}
+Completed 200 OK in 12ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 2ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.0ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 14ms (Views: 6.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.8ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 6.6ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 6ms (Views: 6.3ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:29 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 114ms (Views: 58.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:30 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 58ms (Views: 58.2ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:30 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 55ms (Views: 55.2ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:30 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 57ms (Views: 56.5ms)
+Started GET "/pumi/communes?district_id=1201" for 127.0.0.1 at 2016-02-10 10:15:30 +0700
+Processing by Pumi::CommunesController#index as JSON
+  Parameters: {"district_id"=>"1201"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:30 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 1062ms (Views: 559.7ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:31 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 595ms (Views: 594.6ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:32 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 507ms (Views: 506.3ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:32 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 591ms (Views: 590.3ms)
+Started GET "/pumi/villages?commune_id=120101" for 127.0.0.1 at 2016-02-10 10:15:33 +0700
+Processing by Pumi::VillagesController#index as JSON
+  Parameters: {"commune_id"=>"120101"}
+Completed 200 OK in 11ms (Views: 0.9ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/provinces" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::ProvincesController#index as JSON
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 12ms (Views: 11.9ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 17ms (Views: 17.4ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 16ms (Views: 14.3ms)
+Started GET "/pumi/districts" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::DistrictsController#index as JSON
+Completed 200 OK in 7ms (Views: 7.0ms)
+Started GET "/pumi/districts?province_id=12" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::DistrictsController#index as JSON
+  Parameters: {"province_id"=>"12"}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 67ms (Views: 66.5ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 63ms (Views: 62.4ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 72ms (Views: 72.2ms)
+Started GET "/pumi/communes" for 127.0.0.1 at 2016-02-10 10:15:47 +0700
+Processing by Pumi::CommunesController#index as JSON
+Completed 200 OK in 58ms (Views: 57.7ms)
+Started GET "/pumi/communes?district_id=1201" for 127.0.0.1 at 2016-02-10 10:15:48 +0700
+Processing by Pumi::CommunesController#index as JSON
+  Parameters: {"district_id"=>"1201"}
+Completed 200 OK in 2ms (Views: 0.6ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:48 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 531ms (Views: 531.1ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:48 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 532ms (Views: 531.9ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:49 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 576ms (Views: 575.9ms)
+Started GET "/pumi/villages" for 127.0.0.1 at 2016-02-10 10:15:49 +0700
+Processing by Pumi::VillagesController#index as JSON
+Completed 200 OK in 563ms (Views: 562.6ms)
+Started GET "/pumi/villages?commune_id=120101" for 127.0.0.1 at 2016-02-10 10:15:50 +0700
+Processing by Pumi::VillagesController#index as JSON
+  Parameters: {"commune_id"=>"120101"}
+Completed 200 OK in 14ms (Views: 1.1ms)
