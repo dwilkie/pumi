@@ -6,6 +6,8 @@
 /doc/
 /pkg/
 /spec/reports/
+spec/dummy/tmp
+spec/dummy/log
 /tmp/
 vendor/ruby
 village_pt_join.csv

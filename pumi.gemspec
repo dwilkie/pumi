@@ -30,4 +30,10 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "rspec-rails", "~> 3.0"
   spec.add_development_dependency "rails", "~> 4.2.5.1"
+  spec.add_development_dependency "coffee-rails"
+  spec.add_development_dependency "jquery-rails"
+  spec.add_development_dependency "capybara"
+  spec.add_development_dependency "selenium-webdriver"
+  spec.add_development_dependency "launchy"
+  spec.add_development_dependency "pry"
 end

@@ -1,0 +1,21 @@
+<%= form_for(:address) do |f| -%>
+  <div id="province">
+    <%= f.label(:province_id) %>
+    <%= f.select(:province_id, [], {:prompt => true}, {:data => {:pumi_select_target => "district", :pumi_select_collection_url => pumi.provinces_path, :pumi_select_collection_label_method => "name_en", :pumi_select_collection_value_method => "id", :pumi_select_populate_on_load => true}}) %>
+  </div>
+
+  <div id="district">
+    <%= f.label(:district_id) %>
+    <%= f.select(:district_id, [], {:prompt => true}, {:data => {:pumi_select_id => "district", :pumi_select_target => "commune", :pumi_select_collection_url => pumi.districts_path(:province_id => "FILTER"), :pumi_select_collection_url_filter_interpolation_key => "FILTER", :pumi_select_collection_label_method => "name_en", :pumi_select_collection_value_method => "id", :pumi_select_disabled_target => "#district", :pumi_select_disabled_class => "my-disabled-class"}}) %>
+  </div>
+
+  <div id="commune">
+    <%= f.label(:commune_id) %>
+    <%= f.select(:commune_id, [], {:prompt => true}, {:data => {:pumi_select_id => "commune", :pumi_select_target => "village", :pumi_select_collection_url => pumi.communes_path(:district_id => "FILTER"), :pumi_select_collection_url_filter_interpolation_key => "FILTER", :pumi_select_collection_label_method => "name_en", :pumi_select_collection_value_method => "id", :pumi_select_disabled_target => "#commune", :pumi_select_disabled_class => "my-disabled-class"}}) %>
+  </div>
+
+  <div id="village">
+    <%= f.label(:village_id) %>
+    <%= f.select(:village_id, [], {:prompt => true}, {:data => {:pumi_select_id => "village", :pumi_select_collection_url => pumi.villages_path(:commune_id => "FILTER"), :pumi_select_collection_url_filter_interpolation_key => "FILTER", :pumi_select_collection_label_method => "name_en", :pumi_select_collection_value_method => "id", :pumi_select_disabled_target => "#village", :pumi_select_disabled_class => "my-disabled-class"}}) %>
+  </div>
+<% end -%>
