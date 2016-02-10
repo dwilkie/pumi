@@ -9,16 +9,35 @@ Provided Geodata for administrative regions in Cambodia.
 
 ### Rails
 
-Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both English and Khmer, as seen below:
+Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both English and Khmer as seen below:
 
 ![Pumi UI English](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_en.png)
 ![Pumi UI Khmer](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_km.png)
 
-Require `"pumi/rails"` in your Gemfile:
+To use Pumi with Rails first, require `"pumi/rails"` in your Gemfile:
 
 ```ruby
 gem 'pumi', :github => "dwilkie/pumi", :require => "pumi/rails"
 ```
+
+Next, mount the Pumi routes in `config/routes`
+
+```ruby
+# config/routes.rb
+
+mount Pumi::Engine => "/pumi"
+```
+
+Then require the pumi javascript in `app/assets/javascripts/application.js`
+
+```js
+//= require jquery
+//= require pumi
+```
+
+Note: `jquery` is a dependency of pumi and must be required before `pumi`
+
+Finally setup your view with selects for the province, district, commune and village. See the [dummy application](https://github.com/dwilkie/pumi/blob/master/spec/dummy/app/views/addresses/new.html.erb) for an example and refer to the [configuration](#configuration) below.
 
 ### Plain Ol' Ruby
 
@@ -116,6 +135,31 @@ Try the following:
   village.province.name_km
   # => "បន្ទាយមានជ័យ"
 ```
+
+## Configuration
+
+The following html5 data-attributes can be used to configure Pumi.
+
+<dl>
+  <dt>`data-pumi-select-id`</dt>
+  <dd>A unique id of the select input which is looked up by `data-pumi-select-target`</dd>
+  <dt>`data-pumi-select-target`</dt>
+  <dd>The `data-pumi-select-id` of the select input in which to update the options when this input is changed</dd>
+  <dt>`data-pumi-select-collection-url`</dt>
+  <dd>The url in which to lookup the values for this select input. If this option is not given then no ajax request will be made. Hint: You can use the Rails url helpers here e.g. `pumi.districts_path(:province_id => "FILTER")`</dd>
+  <dt>`data-pumi-select-collection-url-filter-interpolation-key`</dt>
+  <dd>The key value to interpolate for filtering via the collection url. E.g. if you set `data-pumi-select-collection-url="/pumi/districts?province_id=FILTER"`, then a value of `"FILTER"` here will replace the collection URL with the value of the select input which this select input is the target of</dd>
+  <dt>`data-pumi-select-collection-label-method`</dt>
+  <dd>The name of the label method. E.g. `data-pumi-select-collection-label-method="name_en"` will display the labels in English or `data-pumi-select-collection-label-method="name_km"` will display the labels in Khmer</dd>
+  <dt>`data-pumi-select-collection-value-method`</dt>
+  <dd>The name of the value method. E.g. `data-pumi-select-collection-value-method="id"` will set the value of the select input to the Pumi of the location</dd>
+  <dt>`data-pumi-select-disabled-target`</dt>
+  <dd>The target of a parent selector in which to apply the class `data-pumi-select-disabled-class` to when the input is disabled</dd>
+  <dt>`data-pumi-select-disabled-class`</dt>
+  <dd>When the input is disabled this class will be applied to `data-pumi-select-disabled-target`</dd>
+  <dt>`data-pumi-select-populate-on-load`</dt>
+  <dd>Set to true to populate the select input with options on load. Default: false</dd>
+</dl>
 
 ## Development
 

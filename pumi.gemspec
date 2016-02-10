@@ -8,7 +8,6 @@ Gem::Specification.new do |spec|
   spec.version       = Pumi::VERSION
   spec.authors       = ["David Wilkie"]
   spec.email         = ["dwilkie@gmail.com"]
-
   spec.summary       = %q{Villages (ភូមិ), Communes (ឃុំ - សង្កាត់), Districts (ស្រុក - ខណ្ឌ) and Provinces (ខេត្ត) in Cambodia}
   spec.homepage      = "https://github.com/dwilkie/pumi"
 
