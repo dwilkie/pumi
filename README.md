@@ -3,7 +3,7 @@
 
 Provided Geodata for administrative regions in Cambodia.
 
-![alt tag](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi.jpg)
+![Khmer Village](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi.jpg)
 
 ## Usage
 
@@ -11,8 +11,8 @@ Provided Geodata for administrative regions in Cambodia.
 
 Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both English and Khmer, as seen below:
 
-![alt tag](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_en.jpg)
-![alt tag](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_km.jpg)
+![Pumi UI English](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_en.png)
+![Pumi UI Khmer](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_km.png)
 
 Require `"pumi/rails"` in your Gemfile:
 
