@@ -1,15 +1,19 @@
-# Pumi - ភូមិ
+# Pumi
 [![Build Status](https://travis-ci.org/dwilkie/pumi.svg?branch=master)](https://travis-ci.org/dwilkie/pumi)
 
-Provided Geodata for administrative regions in Cambodia.
+Pumi (ភូមិ pronounced Poom, which means Village in Khmer) is an Open Source library containing Geodata for administrative regions in Cambodia including Provinces, Districts, Communes and Villages.
 
 ![Khmer Village](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi.jpg)
+
+## Demo and API
+
+A [JSON API](https://pumiapp.herokuapp.com) is available to if you're not using Ruby or if you just don't want to install a local copy of the data. The [API Start Page](https://pumiapp.herokuapp.com) also shows a Demo of a UI for for entering any location in Cambodia.
 
 ## Usage
 
 ### Rails
 
-Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both English and Khmer as seen below:
+Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both English and Khmer as seen below and in the [Pumi API Start Page](https://pumiapp.herokuapp.com)
 
 ![Pumi UI English](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_en.png)
 ![Pumi UI Khmer](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_km.png)
@@ -40,6 +44,8 @@ Note: `jquery` is a dependency of pumi and must be required before `pumi`
 Finally setup your view with selects for the province, district, commune and village. See the [dummy application](https://github.com/dwilkie/pumi/blob/master/spec/dummy/app/views/addresses/new.html.erb) for an example and refer to the [configuration](#configuration) below.
 
 ### Plain Ol' Ruby
+
+Rails is not a dependency of Pumi so you can use it with Plain Ol' Ruby if you don't need the javascript and route helpers.
 
 Add this line to your application's Gemfile:
 
