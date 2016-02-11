@@ -141,23 +141,23 @@ Try the following:
 The following html5 data-attributes can be used to configure Pumi.
 
 <dl>
-  <dt>`data-pumi-select-id`</dt>
-  <dd>A unique id of the select input which is looked up by `data-pumi-select-target`</dd>
-  <dt>`data-pumi-select-target`</dt>
-  <dd>The `data-pumi-select-id` of the select input in which to update the options when this input is changed</dd>
-  <dt>`data-pumi-select-collection-url`</dt>
-  <dd>The url in which to lookup the values for this select input. If this option is not given then no ajax request will be made. Hint: You can use the Rails url helpers here e.g. `pumi.districts_path(:province_id => "FILTER")`</dd>
-  <dt>`data-pumi-select-collection-url-filter-interpolation-key`</dt>
-  <dd>The key value to interpolate for filtering via the collection url. E.g. if you set `data-pumi-select-collection-url="/pumi/districts?province_id=FILTER"`, then a value of `"FILTER"` here will replace the collection URL with the value of the select input which this select input is the target of</dd>
-  <dt>`data-pumi-select-collection-label-method`</dt>
-  <dd>The name of the label method. E.g. `data-pumi-select-collection-label-method="name_en"` will display the labels in English or `data-pumi-select-collection-label-method="name_km"` will display the labels in Khmer</dd>
-  <dt>`data-pumi-select-collection-value-method`</dt>
-  <dd>The name of the value method. E.g. `data-pumi-select-collection-value-method="id"` will set the value of the select input to the Pumi of the location</dd>
-  <dt>`data-pumi-select-disabled-target`</dt>
-  <dd>The target of a parent selector in which to apply the class `data-pumi-select-disabled-class` to when the input is disabled</dd>
-  <dt>`data-pumi-select-disabled-class`</dt>
-  <dd>When the input is disabled this class will be applied to `data-pumi-select-disabled-target`</dd>
-  <dt>`data-pumi-select-populate-on-load`</dt>
+  <dt><code>data-pumi-select-id</code></dt>
+  <dd>A unique id of the select input which is looked up by <code>data-pumi-select-target</code></dd>
+  <dt><code>data-pumi-select-target</code></dt>
+  <dd>The <code>data-pumi-select-id</code> of the select input in which to update the options when this input is changed</dd>
+  <dt><code>data-pumi-select-collection-url</code></dt>
+  <dd>The url in which to lookup the values for this select input. If this option is not given then no ajax request will be made. Hint: You can use the Rails url helpers here e.g. <code>pumi.districts_path(:province_id => "FILTER")</code></dd>
+  <dt><code>data-pumi-select-collection-url-filter-interpolation-key</code></dt>
+  <dd>The key value to interpolate for filtering via the collection url. E.g. if you set <code>data-pumi-select-collection-url="/pumi/districts?province_id=FILTER"</code>, then a value of <code>"FILTER"</code> here will replace the collection URL with the value of the select input which this select input is the target of</dd>
+  <dt><code>data-pumi-select-collection-label-method</code></dt>
+  <dd>The name of the label method. E.g. <code>data-pumi-select-collection-label-method="name_en"</code> will display the labels in English or <code>data-pumi-select-collection-label-method="name_km"</code> will display the labels in Khmer</dd>
+  <dt><code>data-pumi-select-collection-value-method</code></dt>
+  <dd>The name of the value method. E.g. <code>data-pumi-select-collection-value-method="id"</code> will set the value of the select input to the Pumi of the location</dd>
+  <dt><code>data-pumi-select-disabled-target</code></dt>
+  <dd>The target of a parent selector in which to apply the class <code>data-pumi-select-disabled-class</code> to when the input is disabled</dd>
+  <dt><code>data-pumi-select-disabled-class</code></dt>
+  <dd>When the input is disabled this class will be applied to <code>data-pumi-select-disabled-target</code></dd>
+  <dt><code>data-pumi-select-populate-on-load</code></dt>
   <dd>Set to true to populate the select input with options on load. Default: false</dd>
 </dl>
 
