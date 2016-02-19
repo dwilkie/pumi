@@ -165,6 +165,8 @@ The following html5 data-attributes can be used to configure Pumi.
   <dd>When the input is disabled this class will be applied to <code>data-pumi-select-disabled-target</code></dd>
   <dt><code>data-pumi-select-populate-on-load</code></dt>
   <dd>Set to true to populate the select input with options on load. Default: false</dd>
+  <dt><code>data-pumi-select-has-hidden-value</code></dt>
+  <dd>Set to true if you also have a hidden field for this input with the same name. Useful for remembering the selection across page reloads. Default: false</dd>
 </dl>
 
 ## Development

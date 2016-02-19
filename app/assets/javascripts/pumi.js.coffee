@@ -12,6 +12,9 @@ pumi =
   getDataAttribute: (element, attribute, value) ->
     element.data(pumi.dataAttributeTag(attribute))
 
+  removeDataAttribute: (element, attribute) ->
+    element.removeData(pumi.dataAttributeTag(attribute))
+
   toggleEnableSelect: (select, enable) ->
     wrapperTarget = select.closest(pumi.getDataAttribute(select, 'disabled-target'))
     disabledClass = pumi.getDataAttribute(select, 'disabled-class')
@@ -35,9 +38,16 @@ pumi =
   selectTarget: (id) ->
     $(pumi.dataAttributeTag("id=#{id}", true))
 
+  selectHasHiddenValue: =>
+    $(pumi.dataAttributeTag('has-hidden-value', true))
+
   setupOnLoad: ->
     pumi.selectPopulateOnLoad().each ->
       pumi.populateFromAjax($(this))
+
+    pumi.selectHasHiddenValue().each ->
+      select = $(this)
+      pumi.setDataAttribute(select, 'default-value', $($.find("[name='#{select.attr('name')}']")).val())
 
   populateFromAjax: (select, filterValue) ->
     collectionUrl = pumi.getDataAttribute(select, 'collection-url')
@@ -48,6 +58,11 @@ pumi =
       $.getJSON collectionUrl.replace(filterInterpolationKey, filterValue), (data) ->
         $.each data, (index, item) ->
           select.append($('<option>').text(item[labelMethod]).val(item[valueMethod]))
+        defaultValue = pumi.getDataAttribute(select, 'default-value')
+        if !!defaultValue
+          select.val(defaultValue)
+          pumi.removeDataAttribute(select, 'default-value')
+          select.trigger("change")
 
   setupTargets: (selects) ->
     selects.each ->
