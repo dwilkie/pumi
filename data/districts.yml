@@ -13,20 +13,20 @@ districts:
     name_en: Ou Chrov
     name_km: អូរជ្រៅ
   '0106':
-    name_en: Krong Serei Saophoan
+    name_en: Serei Saophoan
     name_km: សិរីសោភ័ណ
   '0107':
     name_en: Thma Puok
     name_km: ថ្មពួក
-  0108:
+  '0108':
     name_en: Svay Chek
     name_km: ស្វាយចេក
-  0109:
+  '0109':
     name_en: Malai
     name_km: ម៉ាឡៃ
   '0110':
-    name_en: Krong Paoy Paet
-    name_km: ក្រុងប៉ោយប៉ែត
+    name_en: Paoy Paet
+    name_km: ប៉ោយប៉ែត
   '0201':
     name_en: Banan
     name_km: បាណន់
@@ -34,7 +34,7 @@ districts:
     name_en: Thma Koul
     name_km: ថ្មគោល
   '0203':
-    name_en: Krong Battambang
+    name_en: Battambang
     name_km: បាត់ដំបង
   '0204':
     name_en: Bavel
@@ -48,17 +48,17 @@ districts:
   '0207':
     name_en: Rotonak Mondol
     name_km: រតនមណ្ឌល
-  0208:
+  '0208':
     name_en: Sangkae
     name_km: សង្កែ
-  0209:
+  '0209':
     name_en: Samlout
     name_km: សំឡូត
   '0210':
     name_en: Sampov Lun
     name_km: សំពៅលូន
   '0211':
-    name_en: Phnom Proek
+    name_en: Phnum Proek
     name_km: ភ្នំព្រឹក
   '0212':
     name_en: Kamrieng
@@ -67,7 +67,7 @@ districts:
     name_en: Koas Krala
     name_km: គាស់ក្រឡ
   '0214':
-    name_en: Rukhak Kiri
+    name_en: Rukh Kiri
     name_km: រុក្ខគិរី
   '0301':
     name_en: Batheay
@@ -79,7 +79,7 @@ districts:
     name_en: Cheung Prey
     name_km: ជើងព្រៃ
   '0305':
-    name_en: Krong Kampong Cham
+    name_en: Kampong Cham
     name_km: កំពង់ចាម
   '0306':
     name_en: Kampong Siem
@@ -87,7 +87,7 @@ districts:
   '0307':
     name_en: Kang Meas
     name_km: កងមាស
-  0308:
+  '0308':
     name_en: Kaoh Soutin
     name_km: កោះសូទិន
   '0313':
@@ -106,7 +106,7 @@ districts:
     name_en: Chol Kiri
     name_km: ជលគីរី
   '0403':
-    name_en: Krong Kampong Chhnang
+    name_en: Kampong Chhnang
     name_km: កំពង់ឆ្នាំង
   '0404':
     name_en: Kampong Leaeng
@@ -120,14 +120,14 @@ districts:
   '0407':
     name_en: Sameakki Mean Chey
     name_km: សាមគ្គីមានជ័យ
-  0408:
+  '0408':
     name_en: Tuek Phos
     name_km: ទឹកផុស
   '0501':
     name_en: Basedth
     name_km: បរសេដ្ឋ
   '0502':
-    name_en: Krong Chbar Mon
+    name_en: Chbar Mon
     name_km: ច្បារមន
   '0503':
     name_en: Kong Pisei
@@ -144,28 +144,7 @@ districts:
   '0507':
     name_en: Samraong Tong
     name_km: សំរោងទង
-  '2501':
-    name_en: Dambae
-    name_km: តំបែរ
-  '2502':
-    name_en: Krouch Chhmar
-    name_km: ក្រូចឆ្មារ
-  '2503':
-    name_en: Memot
-    name_km: មេមត់
-  '2504':
-    name_en: Ou Reang Ov
-    name_km: អូររាំងឪ
-  '2505':
-    name_en: Ponhea Kraek
-    name_km: ពញាក្រែក
-  '2506':
-    name_en: Krong Suong
-    name_km: ក្រុងសួង
-  '2507':
-    name_en: Tboung Khmum
-    name_km: ត្បូងឃ្មុំ
-  0508:
+  '0508':
     name_en: Thpong
     name_km: ថ្ពង
   '0601':
@@ -175,7 +154,7 @@ districts:
     name_en: Kampong Svay
     name_km: កំពង់ស្វាយ
   '0603':
-    name_en: Krong Stueng Saen
+    name_en: Stueng Saen
     name_km: ស្ទឹងសែន
   '0604':
     name_en: Prasat Ballangk
@@ -189,7 +168,7 @@ districts:
   '0607':
     name_en: Santuk
     name_km: សន្ទុក
-  0608:
+  '0608':
     name_en: Stoung
     name_km: ស្ទោង
   '0701':
@@ -213,71 +192,71 @@ districts:
   '0707':
     name_en: Tuek Chhou
     name_km: ទឹកឈូ
-  0708:
-    name_en: Krong Kampot
+  '0708':
+    name_en: Kampot
     name_km: កំពត
-  0801:
+  '0801':
     name_en: Kandal Stueng
     name_km: កណ្ដាលស្ទឹង
-  0802:
+  '0802':
     name_en: Kien Svay
     name_km: កៀនស្វាយ
-  0803:
+  '0803':
     name_en: Khsach Kandal
     name_km: ខ្សាច់កណ្ដាល
-  0804:
+  '0804':
     name_en: Kaoh Thum
     name_km: កោះធំ
-  0805:
+  '0805':
     name_en: Leuk Daek
     name_km: លើកដែក
-  0806:
+  '0806':
     name_en: Lvea Aem
     name_km: ល្វាឯម
-  0807:
+  '0807':
     name_en: Mukh Kampul
     name_km: មុខកំពូល
-  0808:
+  '0808':
     name_en: Angk Snuol
     name_km: អង្គស្នួល
-  0809:
-    name_en: Popnhea Lueu
+  '0809':
+    name_en: Ponhea Lueu
     name_km: ពញាឮ
-  0810:
+  '0810':
     name_en: S'ang
     name_km: ស្អាង
-  0811:
-    name_en: Krong Ta Khmau
+  '0811':
+    name_en: Ta Khmau
     name_km: តាខ្មៅ
-  0901:
+  '0901':
     name_en: Botum Sakor
     name_km: បុទុមសាគរ
-  0902:
+  '0902':
     name_en: Kiri Sakor
     name_km: គិរីសាគរ
-  0903:
-    name_en: Koh Kong
+  '0903':
+    name_en: Kaoh Kong
     name_km: កោះកុង
-  0904:
-    name_en: Krong Khemarak Phoumin
+  '0904':
+    name_en: Khemara Phoumin
     name_km: ខេមរភូមិន្ទ
-  0905:
+  '0905':
     name_en: Mondol Seima
     name_km: មណ្ឌលសីមា
-  0906:
+  '0906':
     name_en: Srae Ambel
     name_km: ស្រែ អំបិល
-  0907:
+  '0907':
     name_en: Thma Bang
     name_km: ថ្មបាំង
   '1001':
     name_en: Chhloung
     name_km: ឆ្លូង
   '1002':
-    name_en: Krong Kracheh
+    name_en: Kracheh
     name_km: ក្រចេះ
   '1003':
-    name_en: Preaek Prasab
+    name_en: Prek Prasab
     name_km: ព្រែកប្រសព្វ
   '1004':
     name_en: Sambour
@@ -286,7 +265,7 @@ districts:
     name_en: Snuol
     name_km: ស្នួល
   '1006':
-    name_en: Chitr Borie
+    name_en: Chetr Borei
     name_km: ចិត្របុរី
   '1101':
     name_en: Kaev Seima
@@ -301,44 +280,44 @@ districts:
     name_en: Pech Chreada
     name_km: ពេជ្រាដា
   '1105':
-    name_en: Krong Saen Monourom
+    name_en: Saen Monourom
     name_km: សែនមនោរម្យ
   '1201':
-    name_en: Chamkar Mon
-    name_km: ចំការមន
+    name_en: Chamkar Mon Khan
+    name_km: ខណ្ឌចំការមន
   '1202':
-    name_en: Doun Penh
-    name_km: ដូនពេញ
+    name_en: Doun Penh Khan
+    name_km: ខណ្ឌដូនពេញ
   '1203':
-    name_en: Prampir Meakkakra
-    name_km: ៧មករា
+    name_en: Prampir Meakkakra Khan
+    name_km: ខណ្ឌ៧មករា
   '1204':
-    name_en: Tuol Kouk
-    name_km: ទួលគោក
+    name_en: Tuol Kouk Khan
+    name_km: ខណ្ឌទួលគោក
   '1205':
-    name_en: Dangkao
-    name_km: ដង្កោ
+    name_en: Dangkao Khan
+    name_km: ខណ្ឌដង្កោ
   '1206':
-    name_en: Mean Chey
-    name_km: មានជ័យ
+    name_en: Mean Chey Khan
+    name_km: ខណ្ឌមានជ័យ
   '1207':
-    name_en: Ruessei Kaev
-    name_km: ឫស្សីកែវ
+    name_en: Russey Keo Khan
+    name_km: ខណ្ឌឫស្សីកែវ
   '1208':
-    name_en: Saensokh
-    name_km: សែនសុខ
+    name_en: Saensokh Khan
+    name_km: ខណ្ឌសែនសុខ
   '1209':
-    name_en: Por Senchey
-    name_km: ពោធិសែនជ័យ
+    name_en: Pur SenChey Khan
+    name_km: ខណ្ឌពោធិ៍សែនជ័យ
   '1210':
-    name_en: Chrouy Changva
-    name_km: ជ្រោយចង្វារ
+    name_en: Chraoy Chongvar Khan
+    name_km: ខណ្ឌជ្រោយចង្វារ
   '1211':
-    name_en: Preaek Pnov
-    name_km: ព្រែកព្នៅ
+    name_en: Praek Pnov Khan
+    name_km: ខណ្ឌព្រែកព្នៅ
   '1212':
-    name_en: Chbar Ampov
-    name_km: ច្បារអំពៅ
+    name_en: Chbar Ampov Khan
+    name_km: ខណ្ឌច្បារអំពៅ
   '1301':
     name_en: Chey Saen
     name_km: ជ័យសែន
@@ -346,7 +325,7 @@ districts:
     name_en: Chhaeb
     name_km: ឆែប
   '1303':
-    name_en: Choam Khsant
+    name_en: Choam Ksant
     name_km: ជាំក្សាន្ដ
   '1304':
     name_en: Kuleaen
@@ -361,8 +340,8 @@ districts:
     name_en: Tbaeng Mean Chey
     name_km: ត្បែងមានជ័យ
   '1308':
-    name_en: Krong Preah Vihear
-    name_km: ក្រុងព្រះវិហារ
+    name_en: Preah Vihear
+    name_km: ព្រះវិហារ
   '1401':
     name_en: Ba Phnum
     name_km: បាភ្នំ
@@ -391,10 +370,10 @@ districts:
     name_en: Preah Sdach
     name_km: ព្រះស្ដេច
   '1410':
-    name_en: Krong Prey Veng
+    name_en: Prey Veng
     name_km: ព្រៃវែង
   '1411':
-    name_en: Kampong Leav
+    name_en: Pur Rieng
     name_km: ពោធិ៍រៀង
   '1412':
     name_en: Sithor Kandal
@@ -415,7 +394,7 @@ districts:
     name_en: Phnum Kravanh
     name_km: ភ្នំក្រវ៉ាញ
   '1505':
-    name_en: Krong Pursat
+    name_en: Pursat
     name_km: ពោធិ៍សាត់
   '1506':
     name_en: Veal Veaeng
@@ -424,7 +403,7 @@ districts:
     name_en: Andoung Meas
     name_km: អណ្ដូងមាស
   '1602':
-    name_en: Krong Ban Lung
+    name_en: Ban Lung
     name_km: បានលុង
   '1603':
     name_en: Bar Kaev
@@ -469,7 +448,7 @@ districts:
     name_en: Prasat Bakong
     name_km: ប្រាសាទបាគង
   '1710':
-    name_en: Krong Siem Reab
+    name_en: Siem Reap
     name_km: សៀមរាប
   '1711':
     name_en: Soutr Nikom
@@ -484,7 +463,7 @@ districts:
     name_en: Varin
     name_km: វ៉ារិន
   '1801':
-    name_en: Krong Preah Sihanouk
+    name_en: Preah Sihanouk
     name_km: ព្រះសីហនុ
   '1802':
     name_en: Prey Nob
@@ -505,7 +484,7 @@ districts:
     name_en: Siem Pang
     name_km: សៀមប៉ាង
   '1904':
-    name_en: Krong Stueng Traeng
+    name_en: Stueng Traeng
     name_km: ស្ទឹងត្រែង
   '1905':
     name_en: Thala Barivat
@@ -526,13 +505,13 @@ districts:
     name_en: Svay Chrum
     name_km: ស្វាយជ្រំ
   '2006':
-    name_en: Krong Svay Rieng
+    name_en: Svay Rieng
     name_km: ស្វាយរៀង
   '2007':
     name_en: Svay Teab
     name_km: ស្វាយទាប
   '2008':
-    name_en: Krong Bavet
+    name_en: Bavet
     name_km: បាវិត
   '2101':
     name_en: Angkor Borei
@@ -556,7 +535,7 @@ districts:
     name_en: Samraong
     name_km: សំរោង
   '2108':
-    name_en: Krong Doun Kaev
+    name_en: Doun Kaev
     name_km: ដូនកែវ
   '2109':
     name_en: Tram Kak
@@ -574,7 +553,7 @@ districts:
     name_en: Chong Kal
     name_km: ចុងកាល់
   '2204':
-    name_en: Krong Samraong
+    name_en: Samraong
     name_km: សំរោង
   '2205':
     name_en: Trapeang Prasat
@@ -583,11 +562,32 @@ districts:
     name_en: Damnak Chang'aeur
     name_km: ដំណាក់ចង្អើរ
   '2302':
-    name_en: Krong Kaeb
+    name_en: Kaeb
     name_km: កែប
   '2401':
-    name_en: Krong Pailin
+    name_en: Pailin
     name_km: ប៉ៃលិន
   '2402':
     name_en: Sala Krau
     name_km: សាលាក្រៅ
+  '2501':
+    name_en: Dambae
+    name_km: តំបែរ
+  '2502':
+    name_en: Krouch Chhmar
+    name_km: ក្រូចឆ្មារ
+  '2503':
+    name_en: Memot
+    name_km: មេមត់
+  '2504':
+    name_en: Ou Reang Ov
+    name_km: អូររាំងឪ
+  '2505':
+    name_en: Ponhea Kraek
+    name_km: ពញាក្រែក
+  '2506':
+    name_en: Suong
+    name_km: សួង
+  '2507':
+    name_en: Tboung Khmum
+    name_km: ត្បូងឃ្មុំ
