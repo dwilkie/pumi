@@ -1,7 +1,7 @@
-require 'spec_helper'
+require "rails_helper"
 
 describe Pumi::Commune do
-  include Pumi::SpecHelpers::LocationHelpers
+  subject { described_class.new(sample_id, "name_en" => sample_name_en, "name_km" => sample_name_km) }
 
   let(:sample_province_id) { "01" }
   let(:sample_district_id) { sample_province_id + "02" }
