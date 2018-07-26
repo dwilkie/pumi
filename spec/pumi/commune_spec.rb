@@ -9,8 +9,8 @@ describe Pumi::Commune do
 
   let(:sample_name_en) { "Banteay Neang" }
   let(:sample_name_km) { "បន្ទាយនាង" }
-  let(:asserted_number_of_total) { 1621 }
-  let(:asserted_number_of_in_province) { 64 }
+  let(:asserted_number_of_total) { 1634 }
+  let(:asserted_number_of_in_province) { 65 }
   let(:asserted_number_of_in_district) { 13 }
 
   include_examples "location"

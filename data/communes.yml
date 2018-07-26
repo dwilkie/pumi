@@ -21,10 +21,10 @@ communes:
   '010207':
     name_en: Phnum Touch
     name_km: ភ្នំតូច
-  010208:
+  '010208':
     name_en: Rohat Tuek
     name_km: រហាត់ទឹក
-  010209:
+  '010209':
     name_en: Ruessei Kraok
     name_km: ឫស្សីក្រោក
   '010210':
@@ -43,7 +43,7 @@ communes:
     name_en: Nam Tau
     name_km: ណាំតៅ
   '010302':
-    name_en: Paoy Char
+    name_en: Poy Char
     name_km: ប៉ោយចារ
   '010303':
     name_en: Ponley
@@ -58,10 +58,10 @@ communes:
     name_en: Phnum Dei
     name_km: ភ្នំដី
   '010401':
-    name_en: Chhnuor Mean Chey
+    name_en: Chnuor Mean Chey
     name_km: ឈ្នួរមានជ័យ
   '010402':
-    name_en: Chob Veari
+    name_en: Chob Vari
     name_km: ជប់វារី
   '010403':
     name_en: Phnum Lieb
@@ -70,7 +70,7 @@ communes:
     name_en: Prasat
     name_km: ប្រាសាទ
   '010405':
-    name_en: Preah Netr Preah
+    name_en: Preak Netr Preah
     name_km: ព្រះនេត្រព្រះ
   '010406':
     name_en: Rohal
@@ -78,10 +78,10 @@ communes:
   '010407':
     name_en: Tean Kam
     name_km: ទានកាំ
-  010408:
+  '010408':
     name_en: Tuek Chour
     name_km: ទឹកជោរ
-  010409:
+  '010409':
     name_en: Bos Sbov
     name_km: បុស្បូវ
   '010501':
@@ -100,10 +100,10 @@ communes:
     name_en: Souphi
     name_km: សូភី
   '010507':
-    name_en: Soeng
+    name_en: Soengh
     name_km: សឹង្ហ
-  010509:
-    name_en: Ou Bei Choan
+  '010509':
+    name_en: Ou Beichoan
     name_km: អូរបីជាន់
   '010602':
     name_en: Kampong Svay
@@ -123,7 +123,7 @@ communes:
   '010607':
     name_en: Preah Ponlea
     name_km: ព្រះពន្លា
-  010608:
+  '010608':
     name_en: Tuek Thla
     name_km: ទឹកថ្លា
   '010701':
@@ -144,46 +144,46 @@ communes:
   '010706':
     name_en: Kumru
     name_km: គំរូ
-  010801:
+  '010801':
     name_en: Phkoam
     name_km: ផ្គាំ
-  010802:
+  '010802':
     name_en: Sarongk
     name_km: សារង្គ
-  010803:
+  '010803':
     name_en: Sla Kram
     name_km: ស្លក្រាម
-  010804:
+  '010804':
     name_en: Svay Chek
     name_km: ស្វាយចេក
-  010805:
+  '010805':
     name_en: Ta Baen
     name_km: តាបែន
-  010806:
+  '010806':
     name_en: Ta Phou
     name_km: តាផូ
-  010807:
+  '010807':
     name_en: Treas
-    name_km: ត្រេះ
-  010808:
+    name_km: ទ្រាស
+  '010808':
     name_en: Roluos
     name_km: រលួស
-  010901:
+  '010901':
     name_en: Boeng Beng
     name_km: បឹងបេង
-  010902:
+  '010902':
     name_en: Malai
     name_km: ម៉ាឡៃ
-  010903:
-    name_en: Ou Sampor
+  '010903':
+    name_en: Ou Sampoar
     name_km: អូរសំព័រ
-  010904:
+  '010904':
     name_en: Ou Sralau
     name_km: អូរស្រឡៅ
-  010905:
+  '010905':
     name_en: Tuol Pongro
     name_km: ទួលពង្រ
-  010906:
+  '010906':
     name_en: Ta Kong
     name_km: តាគង់
   '011001':
@@ -192,6 +192,9 @@ communes:
   '011002':
     name_en: Paoy Paet
     name_km: ប៉ោយប៉ែត
+  '011003':
+    name_en: Phsar Kandal
+    name_km: ផ្សារកណ្តាល
   '020101':
     name_en: Kantueu Muoy
     name_km: កន្ទឺ ១
@@ -213,7 +216,7 @@ communes:
   '020107':
     name_en: Snoeng
     name_km: ស្នឹង
-  020108:
+  '020108':
     name_en: Ta Kream
     name_km: តាគ្រាម
   '020201':
@@ -237,44 +240,44 @@ communes:
   '020207':
     name_en: Boeng Pring
     name_km: បឹងព្រីង
-  020208:
+  '020208':
     name_en: Kouk Khmum
     name_km: គោកឃ្មុំ
-  020209:
+  '020209':
     name_en: Bansay Traeng
     name_km: បន្សាយត្រែង
   '020210':
     name_en: Rung Chrey
     name_km: រូងជ្រៃ
   '020301':
-    name_en: Tuol Ta Aek
+    name_en: Tuol Ta Ek
     name_km: ទួលតាឯក
   '020302':
-    name_en: Preaek Preah Sdach
+    name_en: Prek Preah Sdach
     name_km: ព្រែកព្រះស្ដេច
   '020303':
-    name_en: Rotanak
+    name_en: Rottanak
     name_km: រតនៈ
   '020304':
-    name_en: Chamkar Samraong
+    name_en: Chomkar Somraong
     name_km: ចំការសំរោង
   '020305':
-    name_en: Sla Kaet
+    name_en: Sla Ket
     name_km: ស្លាកែត
   '020306':
     name_en: Kdol Doun Teav
     name_km: ក្ដុលដូនទាវ
   '020307':
-    name_en: Ou Mal
+    name_en: OMal
     name_km: អូរម៉ាល់
-  020308:
-    name_en: Voat Kor
+  '020308':
+    name_en: wat Kor
     name_km: វត្ដគរ
-  020309:
+  '020309':
     name_en: Ou Char
     name_km: អូរចារ
   '020310':
-    name_en: Svay Pao
+    name_en: Svay Por
     name_km: ស្វាយប៉ោ
   '020401':
     name_en: Bavel
@@ -294,6 +297,12 @@ communes:
   '020406':
     name_en: Kdol Ta Haen
     name_km: ក្ដុលតាហែន
+  '020407':
+    name_en: Khlaeng Meas
+    name_km: ឃ្លាំងមាស
+  '020408':
+    name_en: Boeung Pram
+    name_km: បឹងប្រាំ
   '020501':
     name_en: Preaek Norint
     name_km: ព្រែកនរិន្ទ
@@ -336,10 +345,10 @@ communes:
   '020607':
     name_en: Kakaoh
     name_km: កកោះ
-  020608:
+  '020608':
     name_en: Prey Touch
     name_km: ព្រៃតូច
-  020609:
+  '020609':
     name_en: Robas Mongkol
     name_km: របស់មង្គល
   '020701':
@@ -354,55 +363,58 @@ communes:
   '020704':
     name_en: Traeng
     name_km: ត្រែង
-  020801:
+  '020705':
+    name_en: Reaksmei Songha
+    name_km: រស្មីសង្ហារ
+  '020801':
     name_en: Anlong Vil
     name_km: អន្លង់វិល
-  020802:
+  '020802':
     name_en: Norea
     name_km: នរា
-  020803:
+  '020803':
     name_en: Ta Pon
     name_km: តាប៉ុន
-  020804:
+  '020804':
     name_en: Roka
     name_km: រកា
-  020805:
+  '020805':
     name_en: Kampong Preah
     name_km: កំពង់ព្រះ
-  020806:
-    name_en: Kampong Pring
+  '020806':
+    name_en: Kampong Prieng
     name_km: កំពង់ព្រៀង
-  020807:
+  '020807':
     name_en: Reang Kesei
     name_km: រាំងកេសី
-  020808:
+  '020808':
     name_en: Ou Dambang Muoy
     name_km: អូរដំបង ១
-  020809:
+  '020809':
     name_en: Ou Dambang Pir
     name_km: អូរដំបង ២
-  020810:
-    name_en: Voat Ta Muem
+  '020810':
+    name_en: Vaot Ta Muem
     name_km: វត្ដតាមិម
-  020901:
+  '020901':
     name_en: Ta Taok
     name_km: តាតោក
-  020902:
+  '020902':
     name_en: Kampong Lpov
     name_km: កំពង់ល្ពៅ
-  020903:
-    name_en: Ou Samrel
+  '020903':
+    name_en: Ou Samril
     name_km: អូរសំរិល
-  020904:
+  '020904':
     name_en: Sung
     name_km: ស៊ុង
-  020905:
+  '020905':
     name_en: Samlout
     name_km: សំឡូត
-  020906:
+  '020906':
     name_en: Mean Chey
     name_km: មានជ័យ
-  020907:
+  '020907':
     name_en: Ta Sanh
     name_km: តាសាញ
   '021001':
@@ -424,14 +436,14 @@ communes:
     name_en: Chrey Seima
     name_km: ជ្រៃសីមា
   '021101':
-    name_en: Phnom Proek
+    name_en: Phnum Proek
     name_km: ភ្នំព្រឹក
   '021102':
     name_en: Pech Chenda
     name_km: ពេជ្រចិន្ដា
   '021103':
-    name_en: Chak Krey
-    name_km: " ចក្រី"
+    name_en: Bour
+    name_km: បួរ
   '021104':
     name_en: Barang Thleak
     name_km: បារាំងធ្លាក់
@@ -460,7 +472,7 @@ communes:
     name_en: Thipakdei
     name_km: ធិបតី
   '021302':
-    name_en: Koas Krala
+    name_en: Kaos Krala
     name_km: គាស់ក្រឡ
   '021303':
     name_en: Hab
@@ -472,7 +484,7 @@ communes:
     name_en: Doun Ba
     name_km: ដូនបា
   '021306':
-    name_en: Chhnal Mean
+    name_en: Chhnal Moan
     name_km: ឆ្នាល់មាន់
   '021401':
     name_en: Preaek Chik
@@ -480,6 +492,15 @@ communes:
   '021402':
     name_en: Prey Tralach
     name_km: ព្រៃត្រឡាច
+  '021403':
+    name_en: Mukh Reah
+    name_km: មុខរាហ៍
+  '021404':
+    name_en: Sdok Pravoek
+    name_km: ស្តុកប្រវឹក
+  '021405':
+    name_en: Basak
+    name_km: បាសាក់
   '030101':
     name_en: Batheay
     name_km: បាធាយ
@@ -501,10 +522,10 @@ communes:
   '030107':
     name_en: Sambour
     name_km: សំបូរ
-  030108:
+  '030108':
     name_en: Sandaek
     name_km: សណ្ដែក
-  030109:
+  '030109':
     name_en: Tang Krang
     name_km: តាំងក្រាំង
   '030110':
@@ -517,7 +538,7 @@ communes:
     name_en: Tumnob
     name_km: ទំនប់
   '030201':
-    name_en: Bos Khnaor
+    name_en: Bos Khnor
     name_km: បុសខ្នុរ
   '030202':
     name_en: Chamkar Andoung
@@ -537,17 +558,17 @@ communes:
   '030207':
     name_en: Ta Ong
     name_km: តាអុង
-  030208:
+  '030208':
     name_en: Ta Prok
     name_km: តាប្រុក
   '030301':
-    name_en: Khnaor Dambang
+    name_en: Khnor Dambang
     name_km: ខ្នុរដំបង
   '030302':
     name_en: Kouk Rovieng
     name_km: គោករវៀង
   '030303':
-    name_en: Phdau Chum
+    name_en: Pdau Chum
     name_km: ផ្ដៅជុំ
   '030304':
     name_en: Prey Char
@@ -561,11 +582,11 @@ communes:
   '030307':
     name_en: Sdaeung Chey
     name_km: ស្ដើងជ័យ
-  030308:
-    name_en: Soutip
+  '030308':
+    name_en: Soutib
     name_km: សូទិព្វ
-  030309:
-    name_en: Srama
+  '030309':
+    name_en: Sramar
     name_km: ស្រម៉រ
   '030310':
     name_en: Trapeang Kor
@@ -586,7 +607,7 @@ communes:
     name_en: Ampil
     name_km: អំពិល
   '030602':
-    name_en: Han Chey
+    name_en: Hanchey
     name_km: ហាន់ជ័យ
   '030603':
     name_en: Kien Chrey
@@ -603,10 +624,10 @@ communes:
   '030607':
     name_en: Kaoh Samraong
     name_km: កោះសំរោង
-  030608:
+  '030608':
     name_en: Kaoh Tontuem
     name_km: កោះទន្ទឹម
-  030609:
+  '030609':
     name_en: Krala
     name_km: ក្រឡា
   '030610':
@@ -648,10 +669,10 @@ communes:
   '030707':
     name_en: Reay Pay
     name_km: រាយប៉ាយ
-  030708:
+  '030708':
     name_en: Roka Ar
     name_km: រកាអារ
-  030709:
+  '030709':
     name_en: Roka Koy
     name_km: រកាគយ
   '030710':
@@ -660,28 +681,28 @@ communes:
   '030711':
     name_en: Sour Kong
     name_km: សូរគង
-  030801:
+  '030801':
     name_en: Kampong Reab
     name_km: កំពង់រាប
-  030802:
-    name_en: Kaoh Soutin
+  '030802':
+    name_en: Kaoh Sotin
     name_km: កោះសូទិន
-  030803:
+  '030803':
     name_en: Lve
     name_km: ល្វេ
-  030804:
+  '030804':
     name_en: Moha Leaph
     name_km: មហាលាភ
-  030805:
+  '030805':
     name_en: Moha Khnhoung
     name_km: មហាខ្ញូង
-  030806:
+  '030806':
     name_en: Peam Prathnuoh
     name_km: ពាមប្រធ្នោះ
-  030807:
+  '030807':
     name_en: Pongro
     name_km: ពង្រ
-  030808:
+  '030808':
     name_en: Preaek Ta Nong
     name_km: ព្រែកតានង់
   '031301':
@@ -705,10 +726,10 @@ communes:
   '031307':
     name_en: Lvea
     name_km: ល្វា
-  031308:
+  '031308':
     name_en: Mien
     name_km: មៀន
-  031309:
+  '031309':
     name_en: Prey Chhor
     name_km: ព្រៃឈរ
   '031310':
@@ -718,7 +739,7 @@ communes:
     name_en: Samraong
     name_km: សំរោង
   '031312':
-    name_en: Srangae
+    name_en: Sragnae
     name_km: ស្រង៉ែ
   '031313':
     name_en: Thma Pun
@@ -739,21 +760,21 @@ communes:
     name_en: Khnar Sa
     name_km: ខ្នារស
   '031404':
-    name_en: Kaoh  Andaet
+    name_en: Kaoh Andaet
     name_km: កោះអណ្ដែត
   '031405':
     name_en: Mean Chey
     name_km: មានជ័យ
   '031406':
-    name_en: Pteah Kandal
+    name_en: Phteah Kandal
     name_km: ផ្ទះកណ្ដាល
   '031407':
     name_en: Pram Yam
     name_km: ប្រាំយ៉ាម
-  031408:
+  '031408':
     name_en: Preaek Dambouk
     name_km: ព្រែកដំបូក
-  031409:
+  '031409':
     name_en: Preaek Pou
     name_km: ព្រែកពោធិ
   '031410':
@@ -766,13 +787,13 @@ communes:
     name_en: Svay Pou
     name_km: ស្វាយពោធិ
   '031413':
-    name_en: Svay Sach Phnum
+    name_en: Svay Khsach Phnum
     name_km: ស្វាយខ្សាច់ភ្នំ
   '031414':
     name_en: Tong Tralach
     name_km: ទងត្រឡាច
   '031501':
-    name_en: Areaks Tnaot
+    name_en: Areaks Tnot
     name_km: អារក្សត្នោត
   '031503':
     name_en: Dang Kdar
@@ -787,16 +808,16 @@ communes:
     name_en: Ou Mlu
     name_km: អូរម្លូ
   '031507':
-    name_en: Peam Kaoh Sna
+    name_en: Peam Kaoh Snar
     name_km: ពាមកោះស្នា
-  031508:
+  '031508':
     name_en: Preah Andoung
     name_km: ព្រះអណ្ដូង
-  031509:
+  '031509':
     name_en: Preaek Bak
     name_km: ព្រែកបាក់
   '031510':
-    name_en: Preaek Kak
+    name_en: Preak Kak
     name_km: ព្រែកកក់
   '031512':
     name_en: Soupheas
@@ -828,10 +849,10 @@ communes:
   '040107':
     name_en: Phsar
     name_km: ផ្សារ
-  040108:
+  '040108':
     name_en: Pech Changvar
     name_km: ពេជចង្វារ
-  040109:
+  '040109':
     name_en: Popel
     name_km: ពពេល
   '040110':
@@ -847,7 +868,7 @@ communes:
     name_en: Kaoh Thkov
     name_km: កោះថ្កូវ
   '040203':
-    name_en: Kampong Os
+    name_en: Kampong Ous
     name_km: កំពង់អុស
   '040204':
     name_en: Peam Chhkaok
@@ -862,7 +883,7 @@ communes:
     name_en: Kampong Chhnang
     name_km: កំពង់ឆ្នាំង
   '040303':
-    name_en: Ph'er
+    name_en: B'er
     name_km: ប្អេរ
   '040304':
     name_en: Khsam
@@ -888,10 +909,10 @@ communes:
   '040407':
     name_en: Samraong Saen
     name_km: សំរោងសែន
-  040408:
-    name_en: Svay Rumpea
+  '040408':
+    name_en: Svay Rumpear
     name_km: ស្វាយរំពារ
-  040409:
+  '040409':
     name_en: Trangel
     name_km: ត្រងិល
   '040501':
@@ -915,10 +936,10 @@ communes:
   '040507':
     name_en: Peani
     name_km: ពានី
-  040508:
+  '040508':
     name_en: Saeb
     name_km: សែប
-  040509:
+  '040509':
     name_en: Ta Ches
     name_km: តាជេស
   '040510':
@@ -945,10 +966,10 @@ communes:
   '040607':
     name_en: Pongro
     name_km: ពង្រ
-  040608:
-    name_en: Prasneb
+  '040608':
+    name_en: Prasnoeb
     name_km: ប្រស្នឹប
-  040609:
+  '040609':
     name_en: Prey Mul
     name_km: ព្រៃមូល
   '040610':
@@ -984,36 +1005,39 @@ communes:
   '040707':
     name_en: Svay Chuk
     name_km: ស្វាយជុក
-  040708:
+  '040708':
     name_en: Tbaeng Khpos
     name_km: ត្បែងខ្ពស់
-  040709:
+  '040709':
     name_en: Thlok Vien
     name_km: ធ្លកវៀន
-  040801:
+  '040801':
     name_en: Akphivoadth
     name_km: អភិវឌ្ឍន៍
-  040802:
+  '040802':
     name_en: Chieb
     name_km: ជៀប
-  040803:
+  '040803':
     name_en: Chaong Maong
     name_km: ចោងម៉ោង
-  040804:
+  '040804':
     name_en: Kbal Tuek
     name_km: ក្បាលទឹក
-  040805:
+  '040805':
     name_en: Khlong Popok
     name_km: ខ្លុងពពក
-  040806:
+  '040806':
     name_en: Krang Skear
     name_km: ក្រាំងស្គារ
-  040807:
+  '040807':
     name_en: Tang Krasang
     name_km: តាំងក្រសាំង
-  040808:
+  '040808':
     name_en: Tuol Khpos
     name_km: ទួលខ្ពស់
+  '040809':
+    name_en: Kdol Saen Chey
+    name_km: ក្តុលសែនជ័យ
   '050101':
     name_en: Basedth
     name_km: បរសេដ្ឋ
@@ -1035,10 +1059,10 @@ communes:
   '050107':
     name_en: Pou Angkrang
     name_km: ពោធិអង្ក្រង
-  050108:
+  '050108':
     name_en: Pou Chamraeun
     name_km: ពោធិ៍ចំរើន
-  050109:
+  '050109':
     name_en: Pou Mreal
     name_km: ពោធិ៍ម្រាល
   '050110':
@@ -1054,7 +1078,7 @@ communes:
     name_en: Kak
     name_km: កក់
   '050114':
-    name_en: Svay Rumpea
+    name_en: Svay Rumpear
     name_km: ស្វាយរំពារ
   '050115':
     name_en: Preah Khae
@@ -1066,8 +1090,8 @@ communes:
     name_en: Kandaol Dom
     name_km: កណ្ដោលដុំ
   '050203':
-    name_en: Roka Thum
-    name_km: រកាធំ
+    name_en: Rokar Thum
+    name_km: រការធំ
   '050204':
     name_en: Sopoar Tep
     name_km: សុព័រទេព
@@ -1095,10 +1119,10 @@ communes:
   '050307':
     name_en: Prey Vihear
     name_km: ព្រៃវិហារ
-  050308:
+  '050308':
     name_en: Roka Kaoh
     name_km: រកាកោះ
-  050309:
+  '050309':
     name_en: Sdok
     name_km: ស្ដុក
   '050310':
@@ -1129,7 +1153,7 @@ communes:
     name_en: Ta Sal
     name_km: តាសាល
   '050501':
-    name_en: Chant Saen
+    name_en: Chan Saen
     name_km: ចាន់សែន
   '050502':
     name_en: Cheung Roas
@@ -1138,7 +1162,7 @@ communes:
     name_en: Chumpu Proeks
     name_km: ជំពូព្រឹក្ស
   '050504':
-    name_en: Khsem Khsan
+    name_en: Khsem Khsant
     name_km: ក្សេមក្សាន្ដ
   '050505':
     name_en: Krang Chek
@@ -1149,14 +1173,14 @@ communes:
   '050507':
     name_en: Preah Srae
     name_km: ព្រះស្រែ
-  050508:
+  '050508':
     name_en: Prey Krasang
     name_km: ព្រៃក្រសាំង
-  050509:
+  '050509':
     name_en: Trach Tong
     name_km: ត្រាចទង
   '050510':
-    name_en: Veal  Pung
+    name_en: Veal Pong
     name_km: វាលពង់
   '050511':
     name_en: Veang Chas
@@ -1171,7 +1195,7 @@ communes:
     name_en: Peang Lvea
     name_km: ពាំងល្វា
   '050515':
-    name_en: Phnum Touch
+    name_en: Phnom Touch
     name_km: ភ្នំតូច
   '050601':
     name_en: Chambak
@@ -1194,10 +1218,10 @@ communes:
   '050607':
     name_en: Ou
     name_km: អូរ
-  050608:
+  '050608':
     name_en: Prey Rumduol
     name_km: ព្រៃរំដួល
-  050609:
+  '050609':
     name_en: Prey Kmeng
     name_km: ព្រៃក្មេង
   '050610':
@@ -1228,12 +1252,12 @@ communes:
     name_en: Roleang Kreul
     name_km: រលាំងគ្រើល
   '050707':
-    name_en: Samraong Tong
+    name_en: Samrong Tong
     name_km: សំរោងទង
-  050708:
+  '050708':
     name_en: Sambour
     name_km: សំបូរ
-  050709:
+  '050709':
     name_en: Saen Dei
     name_km: សែងដី
   '050710':
@@ -1243,228 +1267,36 @@ communes:
     name_en: Tang Krouch
     name_km: តាំងក្រូច
   '050712':
-    name_en: Thommoda Ar
-    name_km: ធម្មតាអរl
+    name_en: Thummoda Ar
+    name_km: ធម្មតាអរ
   '050713':
     name_en: Trapeang Kong
     name_km: ត្រពាំងគង
-  '250101':
-    name_en: Chong Cheach
-    name_km: ចុងជាច
-  '250102':
-    name_en: Dambae
-    name_km: តំបែរ
-  '250103':
-    name_en: Kouk Srok
-    name_km: គោកស្រុក
-  '250104':
-    name_en: Neang Teut
-    name_km: នាងទើត
-  '250105':
-    name_en: Seda
-    name_km: សេដា
-  '250106':
-    name_en: Trapeang Pring
-    name_km: ត្រពាំងព្រីង
-  '250107':
-    name_en: Tuek Chrov
-    name_km: ទឹកជ្រៅ
-  '250201':
-    name_en: Chhuk
-    name_km: ឈូក
-  '250202':
-    name_en: Chumnik
-    name_km: ជំនីក
-  '250203':
-    name_en: Kampong Treas
-    name_km: កំពង់ទ្រាស
-  '250204':
-    name_en: Kaoh Pir
-    name_km: កោះពីរ
-  '250205':
-    name_en: Krouch Chhmar
-    name_km: ក្រូចឆ្មារ
-  '250206':
-    name_en: Peus Muoy
-    name_km: ប៉ឺស១
-  '250207':
-    name_en: Peus Pir
-    name_km: ប៉ឺស២
-  '250208':
-    name_en: Preaek A Chi
-    name_km: ព្រែកអាជី
-  '250209':
-    name_en: Roka Khnaor
-    name_km: រការខ្នុរ
-  '250210':
-    name_en: Svay Khleang
-    name_km: ស្វាយឃ្លាំង
-  '250211':
-    name_en: Trea
-    name_km: ទ្រា
-  '250212':
-    name_en: Tuol Snuol
-    name_km: ទួលស្នួល
-  '250301':
-    name_en: Chan Mul
-    name_km: ចាន់មូល
-  '250302':
-    name_en: Choam
-    name_km: ជាំ
-  '250303':
-    name_en: Choam Kravien
-    name_km: ជាំក្រវៀន
-  '250304':
-    name_en: Choam Ta Mau
-    name_km: ជាំតាម៉ៅ
-  '250305':
-    name_en: Dar
-    name_km: ដារ
-  '250306':
-    name_en: Kampoan
-    name_km: កំពាន់
-  '250307':
-    name_en: Kokir
-    name_km: គគីរ
-  '250308':
-    name_en: Memong
-    name_km: មេមង
-  '250309':
-    name_en: Memot
-    name_km: មេមត់
-  '250310':
-    name_en: Rumchek
-    name_km: រំចេក
-  '250311':
-    name_en: Rung
-    name_km: រូង
-  '250312':
-    name_en: Tonlung
-    name_km: ទន្លូង
-  '250313':
-    name_en: Tramung
-    name_km: ត្រមូង
-  '250314':
-    name_en: Treak
-    name_km: ទ្រៀក
-  '250401':
-    name_en: Ampil Ta Pok
-    name_km: អំពិលតាពក
-  '250402':
-    name_en: Chak
-    name_km: ចក
-  '250403':
-    name_en: Damrel
-    name_km: ដំរិល
-  '250404':
-    name_en: Kong Chey
-    name_km: គងជ័យ
-  '250405':
-    name_en: Mien
-    name_km: មៀន
-  '250406':
-    name_en: Preah Theat
-    name_km: ព្រះធាតុ
-  '250407':
-    name_en: Tuol Sophi
-    name_km: ទួលសូភី
-  '250501':
-    name_en: Doun Tei
-    name_km: ដូនតី
-  '250502':
-    name_en: Kak
-    name_km: កក់
-  '250503':
-    name_en: Kandaol Chrum
-    name_km: កណ្ដោលជ្រុំ
-  '250504':
-    name_en: Kaong Kang
-    name_km: កោងកាង
-  '250505':
-    name_en: Kraek
-    name_km: ក្រែក
-  '250506':
-    name_en: Popel
-    name_km: ពពេល
-  '250507':
-    name_en: Trapeang Phlong
-    name_km: ត្រពាំងផ្លុង
-  '250508':
-    name_en: Veal Mlu
-    name_km: វាលម្លូរ
-  '250601':
-    name_en: Suong
-    name_km: សួង
-  '250602':
-    name_en: Vihear Luong
-    name_km: វិហារលួង
-  '250701':
-    name_en: Anhchaeum
-    name_km: អញ្ចើម
-  '250702':
-    name_en: Boeng Pruol
-    name_km: បឹងព្រួល
-  '250703':
-    name_en: Chikor
-    name_km: ជីគរ
-  '250704':
-    name_en: Chirou Muoy
-    name_km: ជីរោទ៍ ១
-  '250705':
-    name_en: Chirou Pir
-    name_km: ជីរោទ៍ ២
-  '250706':
-    name_en: Chob
-    name_km: ជប់
-  '250707':
-    name_en: Kor
-    name_km: គរ
-  '250708':
-    name_en: Lngieng
-    name_km: ល្ងៀង
-  '250709':
-    name_en: Moung Riev
-    name_km: មង់រៀវ
-  '250710':
-    name_en: Peam Chileang
-    name_km: ពាមជីលាំង
-  '250711':
-    name_en: Roka Po Pram
-    name_km: រកាពប្រាំ
-  '250712':
-    name_en: Sralab
-    name_km: ស្រឡប់
-  '250713':
-    name_en: Thma Pechr
-    name_km: ថ្មពេជ្រ
-  '250714':
-    name_en: Tonle Bet
-    name_km: ទន្លេបិទ
   '050714':
     name_en: Tumpoar Meas
     name_km: ទំព័រមាស
   '050715':
-    name_en: Voa Sa
+    name_en: Voa Sar
     name_km: វល្លិសរ
-  050801:
+  '050801':
     name_en: Amleang
     name_km: អមលាំង
-  050802:
+  '050802':
     name_en: Monourom
     name_km: មនោរម្យ
-  050804:
+  '050804':
     name_en: Prambei Mum
     name_km: ប្រាំបីមុម
-  050805:
+  '050805':
     name_en: Rung Roeang
     name_km: រុងរឿង
-  050806:
+  '050806':
     name_en: Toap Mean
     name_km: ទ័ពមាន
-  050807:
+  '050807':
     name_en: Veal Pon
     name_km: វាលពន់
-  050808:
+  '050808':
     name_en: Yea Angk
     name_km: យាអង្គ
   '060101':
@@ -1488,10 +1320,10 @@ communes:
   '060107':
     name_en: Chhuk Khsach
     name_km: ឈូកខ្សាច់
-  060108:
+  '060108':
     name_en: Chong Doung
     name_km: ចុងដូង
-  060109:
+  '060109':
     name_en: Chrolong
     name_km: ជ្រលង
   '060110':
@@ -1518,8 +1350,8 @@ communes:
   '060117':
     name_en: Tnaot Chum
     name_km: ត្នោតជុំ
-  060118:
-    name_en: Treal
+  '060118':
+    name_en: Triel
     name_km: ទ្រៀល
   '060201':
     name_en: Chey
@@ -1534,7 +1366,7 @@ communes:
     name_en: Kampong Svay
     name_km: កំពង់ស្វាយ
   '060205':
-    name_en: Ni Pechr
+    name_en: Nipech
     name_km: នីពេជ
   '060206':
     name_en: Phat Sanday
@@ -1542,10 +1374,10 @@ communes:
   '060207':
     name_en: San Kor
     name_km: សាន់គ
-  060208:
+  '060208':
     name_en: Tbaeng
     name_km: ត្បែង
-  060209:
+  '060209':
     name_en: Trapeang Ruessei
     name_km: ត្រពាំងឫស្សី
   '060210':
@@ -1569,10 +1401,10 @@ communes:
   '060306':
     name_en: Kampong Krabau
     name_km: កំពង់ក្របៅ
-  060308:
+  '060308':
     name_en: Prey Ta Hu
     name_km: ព្រៃតាហ៊ូ
-  060309:
+  '060309':
     name_en: Achar Leak
     name_km: អាចារ្យលាក់
   '060310':
@@ -1588,7 +1420,7 @@ communes:
     name_en: Phan Nheum
     name_km: ផាន់ញើម
   '060404':
-    name_en: Sa Kream
+    name_en: Sakream
     name_km: សាគ្រាម
   '060405':
     name_en: Sala Visai
@@ -1607,7 +1439,7 @@ communes:
     name_km: គោល
   '060503':
     name_en: Sambour
-    name_km: សំបូរ
+    name_km: សំបូរណ៍
   '060504':
     name_en: Sraeung
     name_km: ស្រើង
@@ -1624,8 +1456,8 @@ communes:
     name_en: Klaeng
     name_km: ក្លែង
   '060604':
-    name_en: Mean Ritth
-    name_km: មានរិទ្ធិ
+    name_en: Mean Rith
+    name_km: មានរិទ្ធ
   '060605':
     name_en: Mean Chey
     name_km: មានជ័យ
@@ -1635,10 +1467,10 @@ communes:
   '060607':
     name_en: Sandan
     name_km: សណ្ដាន់
-  060608:
+  '060608':
     name_en: Sochet
     name_km: សុចិត្រ
-  060609:
+  '060609':
     name_en: Tum Ring
     name_km: ទំរីង
   '060701':
@@ -1662,59 +1494,59 @@ communes:
   '060707':
     name_en: Prasat
     name_km: ប្រាសាទ
-  060708:
+  '060708':
     name_en: Tang Krasang
     name_km: តាំងក្រសាំង
-  060709:
+  '060709':
     name_en: Ti Pou
     name_km: ទីពោ
   '060710':
     name_en: Tboung Krapeu
     name_km: ត្បូងក្រពើ
-  060801:
+  '060801':
     name_en: Banteay Stoung
     name_km: បន្ទាយស្ទោង
-  060802:
-    name_en: Chamnar Kraom
+  '060802':
+    name_en: Chamna Kraom
     name_km: ចំណាក្រោម
-  060803:
-    name_en: Chamnar Leu
+  '060803':
+    name_en: Chamna Leu
     name_km: ចំណាលើ
-  060804:
+  '060804':
     name_en: Kampong Chen Cheung
     name_km: កំពង់ចិនជើង
-  060805:
+  '060805':
     name_en: Kampong Chen Tboung
     name_km: កំពង់ចិនត្បូង
-  060806:
-    name_en: Msar Krang
+  '060806':
+    name_en: Msa Krang
     name_km: ម្សាក្រង
-  060807:
+  '060807':
     name_en: Peam Bang
     name_km: ពាមបាង
-  060808:
+  '060808':
     name_en: Popok
     name_km: ពពក
-  060809:
+  '060809':
     name_en: Pralay
     name_km: ប្រឡាយ
-  060810:
+  '060810':
     name_en: Preah Damrei
     name_km: ព្រះដំរី
-  060811:
+  '060811':
     name_en: Rung Roeang
     name_km: រុងរឿង
-  060812:
+  '060812':
     name_en: Samprouch
     name_km: សំព្រោជ
-  060813:
+  '060813':
     name_en: Trea
     name_km: ទ្រា
   '070101':
     name_en: Angk Phnum Touch
     name_km: អង្គភ្នំតូច
   '070102':
-    name_en: Angkor Chey
+    name_en: Ankor Chey
     name_km: អង្គរជ័យ
   '070103':
     name_en: Champei
@@ -1731,10 +1563,10 @@ communes:
   '070107':
     name_en: Mroum
     name_km: ម្រោម
-  070108:
+  '070108':
     name_en: Phnum Kong
     name_km: ភ្នំកុង
-  070109:
+  '070109':
     name_en: Praphnum
     name_km: ប្រភ្នំ
   '070110':
@@ -1747,7 +1579,7 @@ communes:
     name_en: Banteay Meas Khang Kaeut
     name_km: បន្ទាយមាសខាងកើត
   '070202':
-    name_en: Banteay Meas Khang Lech
+    name_en: Banteay Meas Khang lech
     name_km: បន្ទាយមាសខាងលិច
   '070203':
     name_en: Prey Tonle
@@ -1762,13 +1594,13 @@ communes:
     name_en: Sdach Kong Khang Cheung
     name_km: ស្ដេចគង់ខាងជើង
   '070207':
-    name_en: Sdach Kong Khang Lech
+    name_en: Sdach Kong Khang lech
     name_km: ស្ដេចគង់ខាងលិច
-  070208:
+  '070208':
     name_en: Sdach Kong Khang Tboung
     name_km: ស្ដេចគង់ខាងត្បូង
-  070209:
-    name_en: Tnaot Chong Srang
+  '070209':
+    name_en: Tnoat Chong Srang
     name_km: ត្នោតចុងស្រង់
   '070210':
     name_en: Trapeang Sala Khang Kaeut
@@ -1792,7 +1624,7 @@ communes:
     name_en: Baniev
     name_km: បានៀវ
   '070302':
-    name_en: Ta Kaen
+    name_en: Takaen
     name_km: តាកែន
   '070303':
     name_en: Boeng Nimol
@@ -1809,17 +1641,17 @@ communes:
   '070307':
     name_en: Krang Snay
     name_km: ក្រាំងស្នាយ
-  070308:
+  '070308':
     name_en: Lbaeuk
     name_km: ល្បើក
-  070309:
-    name_en: Trapeang Plang
-    name_km: ត្រពាំងភ្លាំងរ
+  '070309':
+    name_en: Trapeang Phleang
+    name_km: ត្រពាំងភ្លាំង
   '070310':
     name_en: Mean Chey
     name_km: មានជ័យ
   '070311':
-    name_en: Nareay
+    name_en: Neareay
     name_km: នារាយណ៍
   '070312':
     name_en: Satv Pong
@@ -1830,6 +1662,9 @@ communes:
   '070314':
     name_en: Tramaeng
     name_km: ត្រមែង
+  '070315':
+    name_en: Dechou Akphivoadth
+    name_km: តេជោអភិវឌ្ឍន៍
   '070401':
     name_en: Chres
     name_km: ច្រេស
@@ -1837,7 +1672,7 @@ communes:
     name_en: Chumpu Voan
     name_km: ជំពូវន្ដ
   '070403':
-    name_en: Snay Anhchet
+    name_en: Snay Anhchit
     name_km: ស្នាយអញ្ជិត
   '070404':
     name_en: Srae Chaeng
@@ -1872,10 +1707,10 @@ communes:
   '070507':
     name_en: Srae Chea Khang Tboung
     name_km: ស្រែជាខាងត្បូង
-  070508:
+  '070508':
     name_en: Totung
     name_km: ទទុង
-  070509:
+  '070509':
     name_en: Angk  Romeas
     name_km: អង្គ រមាស
   '070510':
@@ -1900,14 +1735,14 @@ communes:
     name_en: Kampong Trach Khang Lech
     name_km: កំពង់ត្រាចខាងលិច
   '070607':
-    name_en: Kanthaor Khang Cheung
-    name_km: គន្ធរខាងជើង
-  070608:
-    name_en: Kanthaor Khang kaeut
-    name_km: គន្ធរខាងកើត
-  070609:
-    name_en: Kanthaor Khang Lech
-    name_km: គន្ធរខាងលិច
+    name_en: Prasat Phnom Khyang
+    name_km: ប្រាសាទភ្នំខ្យង
+  '070608':
+    name_en: Phnom Prasat
+    name_km: ភ្នំប្រាសាទ
+  '070609':
+    name_en: Ang Sophy
+    name_km: អង្គសុរភី
   '070612':
     name_en: Preaek Kroes
     name_km: ព្រែកក្រឹស
@@ -1936,19 +1771,19 @@ communes:
     name_en: Kampong Samraong
     name_km: កំពង់សំរោង
   '070705':
-    name_en: Kandal
-    name_km: ់កណ្ដាល
+    name_en: Kandaol
+    name_km: កណ្ដោល
   '070707':
     name_en: Kaoh Touch
     name_km: កោះតូច
-  070708:
+  '070708':
     name_en: Koun Satv
     name_km: កូនសត្វ
-  070709:
-    name_en: Meakprang
+  '070709':
+    name_en: Makprang
     name_km: ម៉ាក់ប្រាង្គ
   '070711':
-    name_en: Preaek Tnaot
+    name_en: Preaek Tnoat
     name_km: ព្រែកត្នោត
   '070712':
     name_en: Prey Khmum
@@ -1965,493 +1800,493 @@ communes:
   '070717':
     name_en: Trapeang Pring
     name_km: ត្រពាំងព្រីង
-  070718:
+  '070718':
     name_en: Trapeang Sangkae
     name_km: ត្រពាំងសង្កែ
-  070719:
+  '070719':
     name_en: Trapeang Thum
     name_km: ត្រពាំងធំ
-  070801:
+  '070801':
     name_en: Kampong Kandal
     name_km: កំពង់កណ្ដាល
-  070802:
+  '070802':
     name_en: Krang Ampil
     name_km: ក្រាំងអំពិល
-  070803:
+  '070803':
     name_en: Kampong Bay
     name_km: កំពង់បាយ
-  070804:
-    name_en: Andoung Khmaer
+  '070804':
+    name_en: Andoung Khmer
     name_km: អណ្ដូងខ្មែរ
-  070805:
+  '070805':
     name_en: Traeuy Kaoh
     name_km: ត្រើយកោះ
-  080101:
+  '080101':
     name_en: Ampov Prey
     name_km: អំពៅព្រៃ
-  080102:
+  '080102':
     name_en: Anlong Romiet
     name_km: អន្លង់រមៀត
-  080103:
+  '080103':
     name_en: Barku
     name_km: បារគូ
-  080104:
+  '080104':
     name_en: Boeng Khyang
     name_km: បឹងខ្យាង
-  080105:
+  '080105':
     name_en: Cheung Kaeub
     name_km: ជើងកើប
-  080106:
+  '080106':
     name_en: Daeum Rues
     name_km: ដើមឫស
-  080107:
+  '080107':
     name_en: Kandaok
     name_km: កណ្ដោក
-  080108:
+  '080108':
     name_en: Thmei
     name_km: ថ្មី
-  080109:
+  '080109':
     name_en: Kouk Trab
     name_km: គោកត្រប់
-  080113:
+  '080113':
     name_en: Preah Putth
     name_km: ព្រះពុទ្ធ
-  080115:
+  '080115':
     name_en: Preaek Roka
     name_km: ព្រែករកា
-  080116:
+  '080116':
     name_en: Preaek Slaeng
     name_km: ព្រែកស្លែង
-  080117:
+  '080117':
     name_en: Roka
     name_km: រកា
-  080118:
+  '080118':
     name_en: Roleang Kaen
     name_km: រលាំងកែន
-  080122:
+  '080122':
     name_en: Siem Reab
     name_km: សៀមរាប
-  080125:
+  '080125':
     name_en: Tbaeng
     name_km: ត្បែង
-  080127:
+  '080127':
     name_en: Trapeang Veaeng
     name_km: ត្រពាំងវែង
-  080128:
+  '080128':
     name_en: Trea
     name_km: ទ្រា
-  080201:
+  '080201':
     name_en: Banteay Daek
     name_km: បន្ទាយដែក
-  080202:
+  '080202':
     name_en: Chheu Teal
     name_km: ឈើទាល
-  080203:
+  '080203':
     name_en: Dei Edth
     name_km: ដីឥដ្ឋ
-  080204:
+  '080204':
     name_en: Kampong Svay
     name_km: កំពង់ស្វាយ
-  080206:
+  '080206':
     name_en: Kokir
     name_km: គគីរ
-  080207:
+  '080207':
     name_en: Kokir Thum
-    name_km: គគីធំ
-  080208:
+    name_km: គគីរធំ
+  '080208':
     name_en: Phum Thum
     name_km: ភូមិធំ
-  080211:
+  '080211':
     name_en: Samraong Thum
     name_km: សំរោងធំ
-  080301:
+  '080301':
     name_en: Bak Dav
     name_km: បាក់ដាវ
-  080302:
+  '080302':
     name_en: Chey Thum
     name_km: ជ័យធំ
-  080303:
+  '080303':
     name_en: Kampong Chamlang
     name_km: កំពង់ចំលង
-  080304:
+  '080304':
     name_en: Kaoh Chouram
     name_km: កោះចូរ៉ាម
-  080305:
+  '080305':
     name_en: Kaoh Oknha Tei
     name_km: កោះឧកញ៉ាតី
-  080306:
+  '080306':
     name_en: Preah Prasab
     name_km: ព្រះប្រសប់
-  080307:
+  '080307':
     name_en: Preaek Ampil
     name_km: ព្រែកអំពិល
-  080308:
+  '080308':
     name_en: Preaek Luong
-    name_km: ព្រែកហ្លួង
-  080309:
-    name_en: Preaek Ta Kov
+    name_km: ព្រែកលួង
+  '080309':
+    name_en: Preaek Ta kov
     name_km: ព្រែកតាកូវ
-  080310:
+  '080310':
     name_en: Preaek Ta Meak
     name_km: ព្រែកតាមាក់
-  080311:
+  '080311':
     name_en: Puk Ruessei
     name_km: ពុកឫស្សី
-  080312:
+  '080312':
     name_en: Roka Chonlueng
     name_km: រកាជន្លឹង
-  080313:
+  '080313':
     name_en: Sanlung
     name_km: សន្លុង
-  080314:
+  '080314':
     name_en: Sithor
     name_km: ស៊ីធរ
-  080315:
+  '080315':
     name_en: Svay Chrum
-    name_km: ស្វាយជ្រុំ
-  080316:
+    name_km: ស្វាយជ្រំ
+  '080316':
     name_en: Svay Romiet
     name_km: ស្វាយរមៀត
-  080317:
+  '080317':
     name_en: Ta Aek
     name_km: តាឯក
-  080318:
+  '080318':
     name_en: Vihear Suork
     name_km: វិហារសួគ៌
-  080401:
-    name_en: Chheu Khmau
+  '080401':
+    name_en: Chheu Kmau
     name_km: ឈើខ្មៅ
-  080402:
+  '080402':
     name_en: Chrouy Ta Kaev
     name_km: ជ្រោយតាកែវ
-  080403:
+  '080403':
     name_en: Kampong Kong
     name_km: កំពង់កុង
-  080404:
+  '080404':
     name_en: Kaoh Thum Ka
     name_km: កោះធំ ‹ក›
-  080405:
+  '080405':
     name_en: Kaoh Thum Kha
     name_km: កោះធំ ‹ខ›
-  080407:
+  '080407':
     name_en: Leuk Daek
     name_km: លើកដែក
-  080408:
+  '080408':
     name_en: Pouthi Ban
     name_km: ពោធិ៍បាន
-  080409:
-    name_en: Preaek Chrey
+  '080409':
+    name_en: Prea​ek Chrey
     name_km: ព្រែកជ្រៃ
-  080410:
+  '080410':
     name_en: Preaek Sdei
     name_km: ព្រែកស្ដី
-  080411:
+  '080411':
     name_en: Preaek Thmei
     name_km: ព្រែកថ្មី
-  080412:
-    name_en: Sampov Lun
-    name_km: សំពៅលូន
-  080501:
+  '080412':
+    name_en: Sampeou Poun
+    name_km: សំពៅពូន
+  '080501':
     name_en: Kampong Phnum
     name_km: កំពង់ភ្នំ
-  080502:
+  '080502':
     name_en: K'am Samnar
     name_km: ក្អមសំណរ
-  080503:
-    name_en: Khpob ateav
+  '080503':
+    name_en: Khpob Ateav
     name_km: ខ្ពបអាទាវ
-  080504:
+  '080504':
     name_en: Peam Reang
     name_km: ពាមរាំង
-  080505:
+  '080505':
     name_en: Preaek Dach
     name_km: ព្រែកដាច់
-  080506:
+  '080506':
     name_en: Preaek Tonloab
     name_km: ព្រែកទន្លាប់
-  080507:
+  '080507':
     name_en: Sandar
     name_km: សណ្ដារ
-  080601:
+  '080601':
     name_en: Akreiy Ksatr
     name_km: អរិយក្សត្រ
-  080602:
+  '080602':
     name_en: Barong
     name_km: បារុង
-  080603:
+  '080603':
     name_en: Boeng Krum
     name_km: បឹងគ្រំ
-  080604:
+  '080604':
     name_en: Kaoh Kaev
     name_km: កោះកែវ
-  080605:
+  '080605':
     name_en: Kaoh Reah
     name_km: កោះរះ
-  080606:
-    name_en: Lvea Sa
+  '080606':
+    name_en: Lvea Sar
     name_km: ល្វាសរ
-  080607:
+  '080607':
     name_en: Peam Oknha Ong
     name_km: ពាមឧកញ៉ាអុង
-  080608:
+  '080608':
     name_en: Phum Thum
     name_km: ភូមិធំ
-  080609:
+  '080609':
     name_en: Preaek Kmeng
     name_km: ព្រែកក្មេង
-  080610:
+  '080610':
     name_en: Preaek Rey
     name_km: ព្រែករៃ
-  080611:
+  '080611':
     name_en: Preaek Ruessei
     name_km: ព្រែកឫស្សី
-  080612:
+  '080612':
     name_en: Sambuor
     name_km: សំបួរ
-  080613:
+  '080613':
     name_en: Sarikakaev
     name_km: សារិកាកែវ
-  080614:
+  '080614':
     name_en: Thma Kor
     name_km: ថ្មគរ
-  080615:
+  '080615':
     name_en: Tuek Khleang
     name_km: ទឹកឃ្លាំង
-  080703:
+  '080703':
     name_en: Preaek Anhchanh
     name_km: ព្រែកអញ្ចាញ
-  080704:
+  '080704':
     name_en: Preaek Dambang
     name_km: ព្រែកដំបង
-  080707:
-    name_en: Roka Kaong Muoy
-    name_km: រកាកោង  ១
-  080708:
-    name_en: Roka Kaong Pir
-    name_km: រកាកោង  ២
-  080709:
+  '080707':
+    name_en: Roka Kong Ti Muoy
+    name_km: រកាកោង ទី ១
+  '080708':
+    name_en: Roka Kong Ti Pir
+    name_km: រកាកោង ទី ២
+  '080709':
     name_en: Ruessei Chrouy
     name_km: ឫស្សីជ្រោយ
-  080710:
+  '080710':
     name_en: Sambuor Meas
     name_km: សំបួរមាស
-  080711:
+  '080711':
     name_en: Svay Ampear
     name_km: ស្វាយអំពារ
-  080801:
+  '080801':
     name_en: Baek Chan
     name_km: បែកចាន
-  080803:
+  '080803':
     name_en: Chhak Chheu Neang
     name_km: ឆក់ឈើនាង
-  080804:
+  '080804':
     name_en: Damnak Ampil
     name_km: ដំណាក់អំពិល
-  080807:
+  '080807':
     name_en: Krang Mkak
     name_km: ក្រាំងម្កាក់
-  080808:
+  '080808':
     name_en: Lumhach
     name_km: លំហាច
-  080809:
+  '080809':
     name_en: Mkak
     name_km: ម្កាក់
-  080811:
+  '080811':
     name_en: Peuk
     name_km: ពើក
-  080813:
+  '080813':
     name_en: Prey Puoch
     name_km: ព្រៃពួច
-  080814:
+  '080814':
     name_en: Samraong Leu
     name_km: សំរោងលើ
-  080816:
+  '080816':
     name_en: Tuol Prech
     name_km: ទួលព្រេជ
-  080901:
+  '080901':
     name_en: Chhveang
     name_km: ឈ្វាំង
-  080902:
+  '080902':
     name_en: Chrey Loas
     name_km: ជ្រៃលាស់
-  080903:
+  '080903':
     name_en: Kampong Luong
     name_km: កំពង់ហ្លួង
-  080904:
+  '080904':
     name_en: Kampong Os
     name_km: កំពង់អុស
-  080905:
+  '080905':
     name_en: Kaoh Chen
     name_km: កោះចិន
-  080906:
+  '080906':
     name_en: Phnum Bat
     name_km: ភ្នំបាត
-  080907:
+  '080907':
     name_en: Ponhea Lueu
     name_km: ពញាឮ
-  080910:
+  '080910':
     name_en: Preaek Ta Teaen
     name_km: ព្រែកតាទែន
-  080911:
+  '080911':
     name_en: Phsar Daek
     name_km: ផ្សារដែក
-  080913:
+  '080913':
     name_en: Tumnob Thum
     name_km: ទំនប់ធំ
-  080914:
+  '080914':
     name_en: Vihear Luong
-    name_km: វិហារលួង
-  081001:
+    name_km: វិហារហ្លួង
+  '081001':
     name_en: Khpob
     name_km: ខ្ពប
-  081002:
+  '081002':
     name_en: Kaoh Anlong Chen
     name_km: កោះអន្លង់ចិន
-  081003:
+  '081003':
     name_en: Kaoh Khael
     name_km: កោះខែល
-  081004:
+  '081004':
     name_en: Kaoh Khsach Tonlea
     name_km: កោះខ្សាច់ទន្លា
-  081005:
+  '081005':
     name_en: Krang Yov
     name_km: ក្រាំងយ៉ូវ
-  081006:
+  '081006':
     name_en: Prasat
     name_km: ប្រាសាទ
-  081007:
+  '081007':
     name_en: Preaek Ambel
     name_km: ព្រែកអំបិល
-  081008:
+  '081008':
     name_en: Preaek Koy
-    name_km: ព្រែកកុយ
-  081009:
+    name_km: ព្រែកគយ
+  '081009':
     name_en: Roka Khpos
     name_km: រកាខ្ពស់
-  081010:
+  '081010':
     name_en: S'ang Phnum
     name_km: ស្អាងភ្នំ
-  081011:
+  '081011':
     name_en: Setbou
     name_km: សិត្បូ
-  081012:
+  '081012':
     name_en: Svay Prateal
     name_km: ស្វាយប្រទាល
-  081013:
+  '081013':
     name_en: Svay Rolum
     name_km: ស្វាយរលំ
-  081014:
+  '081014':
     name_en: Ta Lon
     name_km: តាលន់
-  081015:
+  '081015':
     name_en: Traeuy Sla
     name_km: ត្រើយស្លា
-  081016:
+  '081016':
     name_en: Tuek Vil
     name_km: ទឹកវិល
-  081101:
+  '081101':
     name_en: Ta Kdol
     name_km: តាក្ដុល
-  081102:
-    name_en: Preaek Ruessei
+  '081102':
+    name_en: Prek Ruessey
     name_km: ព្រែកឫស្សី
-  081103:
-    name_en: Daeum Mien
+  '081103':
+    name_en: Doeum Mien
     name_km: ដើមមៀន
-  081104:
-    name_en: Ta Khmau
+  '081104':
+    name_en: Ta Khmao
     name_km: តាខ្មៅ
-  081105:
-    name_en: Preaek Hour
+  '081105':
+    name_en: Prek Ho
     name_km: ព្រែកហូរ
-  081106:
+  '081106':
     name_en: Kampong Samnanh
     name_km: កំពង់សំណាញ់
-  090101:
+  '090101':
     name_en: Andoung Tuek
     name_km: អណ្ដូងទឹក
-  090102:
+  '090102':
     name_en: Kandaol
     name_km: កណ្ដោល
-  090103:
-    name_en: Ta Nuon
-    name_km: តានួន
-  090104:
+  '090103':
+    name_en: Ta Noun
+    name_km: តានូន
+  '090104':
     name_en: Thma Sa
     name_km: ថ្មស
-  090201:
+  '090201':
     name_en: Kaoh Sdach
     name_km: កោះស្ដេច
-  090202:
+  '090202':
     name_en: Phnhi Meas
     name_km: ភ្ញីមាស
-  090203:
+  '090203':
     name_en: Preaek Khsach
     name_km: ព្រែកខ្សាច់
-  090301:
+  '090301':
     name_en: Chrouy Pras
     name_km: ជ្រោយប្រស់
-  090302:
+  '090302':
     name_en: Kaoh Kapi
     name_km: កោះកាពិ
-  090303:
+  '090303':
     name_en: Ta Tai Kraom
     name_km: តាតៃក្រោម
-  090304:
+  '090304':
     name_en: Trapeang Rung
     name_km: ត្រពាំងរូង
-  090401:
+  '090401':
     name_en: Smach Mean Chey
     name_km: ស្មាច់មានជ័យ
-  090402:
+  '090402':
     name_en: Dang Tong
     name_km: ដងទង់
-  090403:
+  '090403':
     name_en: Stueng Veaeng
     name_km: ស្ទឹងវែង
-  090501:
-    name_en: Bak Khlang
+  '090501':
+    name_en: Pak Khlang
     name_km: ប៉ាក់ខ្លង
-  090502:
+  '090502':
     name_en: Peam Krasaob
     name_km: ពាមក្រសោប
-  090503:
+  '090503':
     name_en: Tuol Kokir
     name_km: ទួលគគីរ
-  090601:
+  '090601':
     name_en: Boeng Preav
     name_km: បឹងព្រាវ
-  090602:
+  '090602':
     name_en: Chi Kha Kraom
     name_km: ជី ខ ក្រោម
-  090603:
-    name_en: Chi Kha Leu
+  '090603':
+    name_en: Chi kha Leu
     name_km: ជី ខ លើ
-  090604:
+  '090604':
     name_en: Chrouy Svay
     name_km: ជ្រោយស្វាយ
-  090605:
+  '090605':
     name_en: Dang Peaeng
     name_km: ដងពែង
-  090606:
+  '090606':
     name_en: Srae Ambel
     name_km: ស្រែអំបិល
-  090701:
+  '090701':
     name_en: Ta Tey Leu
     name_km: តាទៃលើ
-  090702:
+  '090702':
     name_en: Pralay
     name_km: ប្រឡាយ
-  090703:
+  '090703':
     name_en: Chumnoab
     name_km: ជំនាប់
-  090704:
+  '090704':
     name_en: Ruessei Chrum
     name_km: ឫស្សីជ្រុំ
-  090705:
+  '090705':
     name_en: Chi Phat
     name_km: ជីផាត
-  090706:
+  '090706':
     name_en: Thma Doun Pov
     name_km: ថ្មដូនពៅ
   '100101':
@@ -2470,7 +2305,7 @@ communes:
     name_en: Kanhchor
     name_km: កញ្ជរ
   '100106':
-    name_en: Khsach Andaet
+    name_en: Khsach Andeth
     name_km: ខ្សាច់អណ្ដែត
   '100107':
     name_en: Pongro
@@ -2494,7 +2329,7 @@ communes:
     name_en: Roka Kandal
     name_km: រកាកណ្ដាល
   '100301':
-    name_en: Chambak
+    name_en: Chambâk
     name_km: ចំបក់
   '100302':
     name_en: Chrouy Banteay
@@ -2503,19 +2338,19 @@ communes:
     name_en: Kampong Kor
     name_km: កំពង់គរ
   '100304':
-    name_en: Kaoh Ta Suy
+    name_en: Koh Ta Suy
     name_km: កោះតាស៊ុយ
   '100305':
     name_en: Preaek Prasab
     name_km: ព្រែកប្រសព្វ
   '100306':
-    name_en: Ruessei Kaev
+    name_en: Russey Keo
     name_km: ឫស្សីកែវ
   '100307':
     name_en: Saob
     name_km: សោប
   '100308':
-    name_en: Ta Mau
+    name_en: Ta Mao
     name_km: តាម៉ៅ
   '100401':
     name_en: Boeng Char
@@ -2562,6 +2397,9 @@ communes:
   '100505':
     name_en: Svay Chreah
     name_km: ស្វាយជ្រះ
+  '100506':
+    name_en: Kronhoung Saen Chey
+    name_km: គ្រញូងសែនជ័យ
   '100601':
     name_en: Bos Leav
     name_km: បុសលាវ
@@ -2596,7 +2434,7 @@ communes:
     name_en: Chong Phlah
     name_km: ចុងផ្លាស់
   '110102':
-    name_en: Me Mang
+    name_en: Memang
     name_km: មេម៉ង់
   '110103':
     name_en: Srae Chhuk
@@ -2608,10 +2446,10 @@ communes:
     name_en: Srae Preah
     name_km: ស្រែព្រះ
   '110201':
-    name_en: Nang Khi Loek
+    name_en: Nang Khi Lik
     name_km: ណងឃីលិក
   '110202':
-    name_en: Ou Buon Leu
+    name_en: A Buon Leu
     name_km: អ បួនលើ
   '110203':
     name_en: Roya
@@ -2623,7 +2461,7 @@ communes:
     name_en: Srae Huy
     name_km: ស្រែហ៊ុយ
   '110206':
-    name_en: Srae Sangkom
+    name_en: Srae Sangkum
     name_km: ស្រែសង្គម
   '110301':
     name_en: Dak Dam
@@ -2635,7 +2473,7 @@ communes:
     name_en: Krang Teh
     name_km: ក្រង់តេះ
   '110402':
-    name_en: Bu Chri
+    name_en: Pu Chrey
     name_km: ពូជ្រៃ
   '110403':
     name_en: Srae Ampum
@@ -2659,31 +2497,28 @@ communes:
     name_en: Tonle Basak
     name_km: ទន្លេបាសាក់
   '120102':
-    name_en: Boeng Keng Kang Muoy
+    name_en: Boeng Keng Kang Ti Muoy
     name_km: បឹងកេងកងទី ១
   '120103':
-    name_en: Boeng Keng Kang Pir
+    name_en: Boeng Keng Kang Ti Pir
     name_km: បឹងកេងកងទី ២
   '120104':
-    name_en: Boeng Keng Kang Bei
+    name_en: Boeng Keng Kang Ti Bei
     name_km: បឹងកេងកងទី ៣
   '120105':
-    name_en: Oulampik
+    name_en: Olympic
     name_km: អូឡាំពិក
   '120106':
-    name_en: Tuol Svay Prey Muoy
+    name_en: Tuol Svay Prey Ti Muoy
     name_km: ទួលស្វាយព្រៃទី ១
-  '120107':
-    name_en: Tuol Svay Prey Pir
-    name_km: ទួលស្វាយព្រៃទី ២
   '120108':
     name_en: Tumnob Tuek
     name_km: ទំនប់ទឹក
   '120109':
-    name_en: Tuol Tumpung Pir
+    name_en: Tuol Tumpung Ti Pir
     name_km: ទួលទំពូងទី ២
   '120110':
-    name_en: Tuol Tumpung Muoy
+    name_en: Tuol Tumpung Ti Muoy
     name_km: ទួលទំពូងទី ១
   '120111':
     name_en: Boeng Trabaek
@@ -2692,28 +2527,28 @@ communes:
     name_en: Phsar Daeum Thkov
     name_km: ផ្សារដើមថ្កូវ
   '120201':
-    name_en: Phsar Thmei Muoy
+    name_en: Phsar Thmei Ti Muoy
     name_km: ផ្សារថ្មីទី ១
   '120202':
-    name_en: Phsar Thmei Pir
+    name_en: Phsar Thmei Ti Pir
     name_km: ផ្សារថ្មីទី ២
   '120203':
-    name_en: Phsar Thmei Bei
+    name_en: Phsar Thmei Ti Bei
     name_km: ផ្សារថ្មីទី ៣
   '120204':
     name_en: Boeng Reang
     name_km: បឹងរាំង
   '120205':
-    name_en: Phsar Kandal Muoy
+    name_en: Phsar Kandal Ti Muoy
     name_km: ផ្សារកណ្ដាលទី១
   '120206':
-    name_en: Phsar Kandal Pir
+    name_en: Phsar Kandal Ti Pir
     name_km: ផ្សារកណ្ដាលទី២
   '120207':
     name_en: Chakto Mukh
     name_km: ចតុមុខ
   '120208':
-    name_en: Chey Chumneah
+    name_en: Chey Chummeah
     name_km: ជ័យជំនះ
   '120209':
     name_en: Phsar Chas
@@ -2725,52 +2560,52 @@ communes:
     name_en: Voat Phnum
     name_km: វត្ដភ្នំ
   '120301':
-    name_en: Ou Ruessei Muoy
+    name_en: Ou Ruessei Ti Muoy
     name_km: អូរឫស្សីទី ១
   '120302':
-    name_en: Ou Ruessei Pir
+    name_en: Ou Ruessei Ti Pir
     name_km: អូរឫស្សីទី ២
   '120303':
-    name_en: Ou Ruessei Bei
+    name_en: Ou Ruessei Ti Bei
     name_km: អូរឫស្សីទី ៣
   '120304':
-    name_en: Ou Ruessei Buon
+    name_en: Ou Ruessei Ti Buon
     name_km: អូរឫស្សីទី ៤
   '120305':
     name_en: Monourom
     name_km: មនោរម្យ
   '120306':
-    name_en: Mittakpheap
+    name_en: Mittapheap
     name_km: មិត្ដភាព
   '120307':
     name_en: Veal Vong
     name_km: វាលវង់
   '120308':
-    name_en: Boeng Prolit
+    name_en: Boeng Proluet
     name_km: បឹងព្រលឹត
   '120401':
-    name_en: Phsar Depou Muoy
+    name_en: Phsar Depou Ti Muoy
     name_km: ផ្សារដេប៉ូទី ១
   '120402':
-    name_en: Phsar Depou Pir
+    name_en: Phsar Depou Ti Pir
     name_km: ផ្សារដេប៉ូទី ២
   '120403':
-    name_en: Phsar Depou Bei
+    name_en: Phsar Depou Ti Bei
     name_km: ផ្សារដេប៉ូទី ៣
   '120404':
-    name_en: Tuek L'ak Muoy
+    name_en: Tuek L'ak Ti Muoy
     name_km: ទឹកល្អក់ទី ១
   '120405':
-    name_en: Tuek L'ak Pir
+    name_en: Tuek L'ak Ti Pir
     name_km: ទឹកល្អក់ទី ២
   '120406':
-    name_en: Tuek L'ak Bei
+    name_en: Tuek L'ak Ti Bei
     name_km: ទឹកល្អក់ទី ៣
   '120407':
-    name_en: Boeng Kak Muoy
+    name_en: Boeng Kak Ti Muoy
     name_km: បឹងកក់ទី ១
   '120408':
-    name_en: Boeng Kak Pir
+    name_en: Boeng Kak Ti Pir
     name_km: បឹងកក់ទី ២
   '120409':
     name_en: Phsar Daeum Kor
@@ -2806,7 +2641,7 @@ communes:
     name_en: Kong Noy
     name_km: គងនយ
   '120517':
-    name_en: Preaek Kampis
+    name_en: Preaek Kampues
     name_km: ព្រែកកំពឹស
   '120518':
     name_en: Roluos
@@ -2817,48 +2652,69 @@ communes:
   '120520':
     name_en: Tien
     name_km: ទៀន
-  '120601':
-    name_en: Stueng Mean Chey
-    name_km: ស្ទឹងមានជ័យ
-  '120602':
-    name_en: Boeng Tumpun
-    name_km: បឹងទំពុន
   '120606':
     name_en: Chak Angrae Leu
     name_km: ចាក់អង្រែលើ
   '120607':
     name_en: Chak Angrae Kraom
     name_km: ចាក់អង្រែក្រោម
-  '120702':
-    name_en: Tuol Sangkae
-    name_km: ទួលសង្កែ
+  '120608':
+    name_en: Stueng Mean chey 1
+    name_km: ស្ទឹងមានជ័យទី១
+  '120609':
+    name_en: Stueng Mean chey 2
+    name_km: ស្ទឹងមានជ័យទី២
+  '120610':
+    name_en: Stueng Mean chey 3
+    name_km: ស្ទឹងមានជ័យទី៣
+  '120611':
+    name_en: Boeng Tumpun 1
+    name_km: បឹងទំពុនទី១
+  '120612':
+    name_en: Boeng Tumpun 2
+    name_km: បឹងទំពុនទី២
   '120703':
     name_en: Svay Pak
     name_km: ស្វាយប៉ាក
   '120704':
-    name_en: Kiloumaetr Lekh Prammuoy
+    name_en: Kilomaetr Lekh Prammuoy
     name_km: គីឡូម៉ែត្រលេខ៦
   '120706':
     name_en: Ruessei Kaev
     name_km: ឫស្សីកែវ
   '120711':
-    name_en: Chrang Chamreh Muoy
+    name_en: Chrang Chamreh Ti Muoy
     name_km: ច្រាំងចំរេះទី ១
+  '120712':
+    name_en: Chrang Chamreh Ti Pir
+    name_km: ច្រាំងចំរេះទី ២
+  '120713':
+    name_en: Tuol Sangkae 1
+    name_km: ទួលសង្កែទី១
+  '120714':
+    name_en: Tuol Sangkae 2
+    name_km: ទួលសង្កែទី២
+  '120801':
+    name_en: Phnom Penh Thmei
+    name_km: ភ្នំពេញថ្មី
+  '120803':
+    name_en: Khmuonh
+    name_km: ឃ្មួញ
   '120807':
     name_en: Krang Thnong
     name_km: ក្រាំងធ្នង់
+  '120808':
+    name_en: Ou Baek K'am
+    name_km: អូរបែកក្អម
+  '120809':
+    name_en: Kouk Khleang
+    name_km: គោកឃ្លាង
   '120901':
     name_en: Trapeang Krasang
     name_km: ត្រពាំងក្រសាំង
   '120903':
     name_en: Phleung Chheh Roteh
     name_km: ភ្លើងឆេះរទេះ
-  '120904':
-    name_en: Chaom Chau
-    name_km: ចោមចៅ
-  '120905':
-    name_en: Kakab
-    name_km: កាកាប
   '120906':
     name_en: Samraong Kraom
     name_km: សំរោងក្រោម
@@ -2875,10 +2731,25 @@ communes:
     name_en: Ovlaok
     name_km: ឪឡោក
   '120913':
-    name_en: Snao
-    name_km: ស្នោ
+    name_en: Snaor
+    name_km: ស្នោរ
+  '120914':
+    name_en: Chaom Chau 1
+    name_km: ចោមចៅទី១
+  '120915':
+    name_en: Chaom Chau 2
+    name_km: ចោមចៅទី២
+  '120916':
+    name_en: Chaom Chau 3
+    name_km: ចោមចៅទី៣
+  '120917':
+    name_en: Kakab 1
+    name_km: កាកាបទី១
+  '120918':
+    name_en: Kakab 2
+    name_km: កាកាបទី២
   '121001':
-    name_en: Chrouy Changva
+    name_en: Chrouy Changvar
     name_km: ជ្រោយចង្វារ
   '121002':
     name_en: Preaek Lieb
@@ -2890,10 +2761,10 @@ communes:
     name_en: Kaoh Dach
     name_km: កោះដាច់
   '121005':
-    name_en: Bak Khaeng
+    name_en: Bak Kaeng
     name_km: បាក់ខែង
   '121101':
-    name_en: Preaek Pnov
+    name_en: Preaek Phnov
     name_km: ព្រែកព្នៅ
   '121102':
     name_en: Ponhea Pon
@@ -2903,15 +2774,15 @@ communes:
     name_km: សំរោង
   '121104':
     name_en: Kouk Roka
-    name_km: ពញាពន់
+    name_km: គោករកា
   '121105':
     name_en: Ponsang
-    name_km: ពញាពន់
+    name_km: ពន្សាំង
   '121201':
-    name_en: Chbar Ampov Muoy
+    name_en: Chhbar Ampov Ti Muoy
     name_km: ច្បារអំពៅទី ១
   '121202':
-    name_en: Chbar Ampov Pir
+    name_en: Chbar Ampov Ti Pir
     name_km: ច្បារអំពៅទី ២
   '121203':
     name_en: Nirouth
@@ -2931,18 +2802,6 @@ communes:
   '121208':
     name_en: Preaek Thmei
     name_km: ព្រែកថ្មី
-  '120712':
-    name_en: Chrang Chamreh Pir
-    name_km: ច្រាំងចំរេះទី ២
-  '120801':
-    name_en: Phnom Penh Thmei
-    name_km: ភ្នំពេញថ្មី
-  '120802':
-    name_en: Tuek Thla
-    name_km: ទឹកថ្លា
-  '120803':
-    name_en: Khmuonh
-    name_km: ឃ្មួញ
   '130101':
     name_en: S'ang
     name_km: ស្អាង
@@ -2976,9 +2835,6 @@ communes:
   '130205':
     name_en: Mlu Prey Muoy
     name_km: ម្លូព្រៃមួយ
-  '130206':
-    name_en: Mlu Prey Pir
-    name_km: ម្លូព្រៃពីរ
   '130207':
     name_en: Kampong Sralau Muoy
     name_km: កំពង់ស្រឡៅមួយ
@@ -2986,7 +2842,7 @@ communes:
     name_en: Kampong Sralau Pir
     name_km: កំពង់ស្រឡៅពីរ
   '130301':
-    name_en: Choam Khsant
+    name_en: Choam Ksant
     name_km: ជាំក្សាន្ដ
   '130302':
     name_en: Tuek Kraham
@@ -3003,6 +2859,12 @@ communes:
   '130306':
     name_en: Kantuot
     name_km: កន្ទួត
+  '130307':
+    name_en: Sror Aem
+    name_km: ស្រអែម
+  '130308':
+    name_en: Morokot
+    name_km: មរកត
   '130401':
     name_en: Kuleaen Tboung
     name_km: គូលែនត្បូង
@@ -3037,7 +2899,7 @@ communes:
     name_en: Rik Reay
     name_km: រីករាយ
   '130506':
-    name_en: Ruos Rean
+    name_en: Ruos Roan
     name_km: រួសរាន់
   '130507':
     name_en: Rotanak
@@ -3046,16 +2908,16 @@ communes:
     name_en: Rieb Roy
     name_km: រៀបរយ
   '130509':
-    name_en: Raksa
+    name_en: Reaksa
     name_km: រក្សា
   '130510':
     name_en: Rumdaoh
     name_km: រំដោះ
   '130511':
-    name_en: Romtom
+    name_en: Romtum
     name_km: រមទម
   '130512':
-    name_en: Romoniy
+    name_en: Romoneiy
     name_km: រមណីយ
   '130601':
     name_en: Chamraeun
@@ -3211,7 +3073,7 @@ communes:
     name_en: Chres
     name_km: ច្រេស
   '140503':
-    name_en: Chi Phok
+    name_en: Chi Phoch
     name_km: ជីផុច
   '140504':
     name_en: Prey Khnes
@@ -3285,21 +3147,12 @@ communes:
   '140801':
     name_en: Kampong Popil
     name_km: កំពង់ពពិល
-  '140802':
-    name_en: Kanhcham
-    name_km: កញ្ចំ
   '140803':
     name_en: Kampong Prang
     name_km: កំពង់ប្រាំង
-  '140804':
-    name_en: Kampong Ruessei
-    name_km: កំពង់ឫស្សី
   '140805':
-    name_en: Mesa Prachan
+    name_en: Mesar Prachan
     name_km: មេសរប្រចាន់
-  '140806':
-    name_en: Preaek Ta Sar
-    name_km: ព្រែកតាសរ
   '140807':
     name_en: Prey Pnov
     name_km: ព្រៃព្នៅ
@@ -3357,21 +3210,27 @@ communes:
   '141003':
     name_en: Kampong Leav
     name_km: កំពង់លាវ
-  '141104':
+  '141101':
     name_en: Pou Rieng
     name_km: ពោធិ៍រៀង
-  '141105':
+  '141102':
     name_en: Preaek Anteah
     name_km: ព្រែកអន្ទះ
-  '141106':
+  '141103':
     name_en: Preaek Chrey
     name_km: ព្រែកជ្រៃ
-  '141107':
+  '141104':
     name_en: Prey Kanlaong
     name_km: ព្រៃកន្លោង
-  '141108':
+  '141105':
     name_en: Ta Kao
     name_km: តាកោ
+  '141106':
+    name_en: Kampong Ruessei
+    name_km: កំពង់ឫស្សី
+  '141107':
+    name_en: Preaek Ta Sar
+    name_km: ព្រែកតាសរ
   '141201':
     name_en: Ampil Krau
     name_km: អំពិលក្រៅ
@@ -3456,9 +3315,6 @@ communes:
   '150106':
     name_en: Rumlech
     name_km: រំលេច
-  '150107':
-    name_en: Snam Preah
-    name_km: ស្នាមព្រះ
   '150108':
     name_en: Svay Doun Kaev
     name_km: ស្វាយដូនកែវ
@@ -3466,7 +3322,7 @@ communes:
     name_en: Ta Lou
     name_km: តាលោ
   '150110':
-    name_en: Trapeang Chong
+    name_en: Trapeang chorng
     name_km: ត្រពាំងជង
   '150201':
     name_en: Anlong Vil
@@ -3509,7 +3365,7 @@ communes:
     name_km: ឈើតុំ
   '150305':
     name_en: Kampong Luong
-    name_km: កំពង់ហ្លួង
+    name_km: កំពង់លួង
   '150306':
     name_en: Kampong Pou
     name_km: កំពង់ពោធិ៍
@@ -3603,20 +3459,23 @@ communes:
   '160203':
     name_en: Yeak Laom
     name_km: យក្ខឡោម
+  '160204':
+    name_en: Boeng Kansaeng
+    name_km: បឹងកន្សែង
   '160301':
     name_en: Kak
     name_km: កក់
   '160302':
-    name_en: Ke Chong
+    name_en: Keh Chong
     name_km: កិះចុង
   '160303':
-    name_en: Laming
+    name_en: La Minh
     name_km: ឡាមីញ
   '160304':
     name_en: Lung Khung
     name_km: លុងឃុង
   '160305':
-    name_en: Seung
+    name_en: Saeung
     name_km: ស៊ើង
   '160306':
     name_en: Ting Chak
@@ -3625,7 +3484,7 @@ communes:
     name_en: Serei Mongkol
     name_km: សិរីមង្គល
   '160402':
-    name_en: Srae Angkrong
+    name_en: Srae Angkrorng
     name_km: ស្រែអង្គ្រង
   '160403':
     name_en: Ta Ang
@@ -3646,20 +3505,17 @@ communes:
     name_en: Ka Laeng
     name_km: កាឡែង
   '160503':
-    name_en: La Bang Muoy
+    name_en: Lbang Muoy
     name_km: ល្បាំង១
   '160504':
-    name_en: La Bang Pir
+    name_en: Lbang Pir
     name_km: ល្បាំង២
   '160505':
-    name_en: Pa Tang
+    name_en: Ba Tang
     name_km: បាតាង
   '160506':
     name_en: Seda
     name_km: សេដា
-  '160601':
-    name_en: Cha Ung
-    name_km: ចាអ៊ុង
   '160602':
     name_en: Pouy
     name_km: ប៉ូយ
@@ -3688,10 +3544,10 @@ communes:
     name_en: Pak Nhai
     name_km: ប៉ក់ញ៉ៃ
   '160704':
-    name_en: Pate
+    name_en: Pa Te
     name_km: ប៉ាតេ
   '160705':
-    name_en: Sesant
+    name_en: Sesan
     name_km: សេសាន
   '160706':
     name_en: Saom Thum
@@ -3706,7 +3562,7 @@ communes:
     name_en: Ta Veaeng Kraom
     name_km: តាវែងក្រោម
   '160901':
-    name_en: Ban Pong
+    name_en: Pong
     name_km: ប៉ុង
   '160903':
     name_en: Hat Pak
@@ -3736,7 +3592,7 @@ communes:
     name_en: Char Chhuk
     name_km: ចារឈូក
   '170102':
-    name_en: Doun  Peaeng
+    name_en: Doun Peng
     name_km: ដូនពេង
   '170103':
     name_en: Kouk Doung
@@ -3772,7 +3628,7 @@ communes:
     name_en: Khun Ream
     name_km: ឃុនរាម
   '170303':
-    name_en: Preak Dak
+    name_en: Preah Dak
     name_km: ព្រះដាក់
   '170304':
     name_en: Rumchek
@@ -3820,7 +3676,7 @@ communes:
     name_en: Spean Tnaot
     name_km: ស្ពានត្នោត
   '170601':
-    name_en: Chonloas Dai
+    name_en: Chanleas Dai
     name_km: ចន្លាសដៃ
   '170602':
     name_en: Kampong Thkov
@@ -3828,9 +3684,6 @@ communes:
   '170603':
     name_en: Kralanh
     name_km: ក្រឡាញ់
-  '170604':
-    name_en: Krouch Kor
-    name_km: ក្រូចគរ
   '170605':
     name_en: Roung Kou
     name_km: រោងគោ
@@ -3847,11 +3700,8 @@ communes:
     name_en: Sranal
     name_km: ស្រណាល
   '170610':
-    name_en: Ta an
+    name_en: Ta An
     name_km: តាអាន
-  '170701':
-    name_en: Sasar Sdam
-    name_km: សសរស្ដម្ភ
   '170702':
     name_en: Doun Kaev
     name_km: ដូនកែវ
@@ -3896,7 +3746,7 @@ communes:
     name_km: បាគង
   '170903':
     name_en: Ballangk
-    name_km: បល្ល័ង្គ
+    name_km: បល្ល័ង្ក
   '170904':
     name_en: Kampong Phluk
     name_km: កំពង់ភ្លុក
@@ -3915,17 +3765,20 @@ communes:
   '170909':
     name_en: Trapeang Thum
     name_km: ត្រពាំងធំ
+  '170910':
+    name_en: Ampil
+    name_km: អំពិល
   '171001':
     name_en: Sla Kram
     name_km: ស្លក្រាម
   '171002':
-    name_en: Svay Dangkum
+    name_en: Svay Dankum
     name_km: ស្វាយដង្គំ
   '171003':
-    name_en: Kouk Chak
+    name_en: Kok Chak
     name_km: គោកចក
   '171004':
-    name_en: Sala Kamraeuk
+    name_en: Sala Kamreuk
     name_km: សាលាកំរើក
   '171005':
     name_en: Nokor Thum
@@ -3934,10 +3787,10 @@ communes:
     name_en: Chreav
     name_km: ជ្រាវ
   '171007':
-    name_en: Chong Knies
+    name_en: Chong Khnies
     name_km: ចុងឃ្នៀស
   '171008':
-    name_en: Sambuor
+    name_en: Sngkat Sambuor
     name_km: សំបួរ
   '171009':
     name_en: Siem Reab
@@ -3945,9 +3798,6 @@ communes:
   '171010':
     name_en: Srangae
     name_km: ស្រង៉ែ
-  '171011':
-    name_en: Ampil
-    name_km: អំពិល
   '171012':
     name_en: Krabei Riel
     name_km: ក្របីរៀល
@@ -3955,7 +3805,7 @@ communes:
     name_en: Tuek Vil
     name_km: ទឹកវិល
   '171101':
-    name_en: Chan Sar
+    name_en: Chan Sa
     name_km: ចាន់ស
   '171102':
     name_en: Dam Daek
@@ -4017,9 +3867,6 @@ communes:
   '171305':
     name_en: Ta Siem
     name_km: តាសៀម
-  '171401':
-    name_en: Prasat
-    name_km: ប្រាសាទ
   '171402':
     name_en: Lvea Krang
     name_km: ល្វាក្រាំង
@@ -4028,25 +3875,28 @@ communes:
     name_km: ស្រែណូយ
   '171404':
     name_en: Svay Sa
-    name_km: ស្វាយស
+    name_km: ស្វាយ ស
   '171405':
     name_en: Varin
     name_km: វ៉ារិន
   '180101':
-    name_en: Sangkat Muoy
+    name_en: lek Muoy
     name_km: លេខ១
   '180102':
-    name_en: Sangkat Pir
-    name_km: សង្កាត់លេខ២
+    name_en: Pir
+    name_km: ២
   '180103':
-    name_en: Sangkat Bei
-    name_km: សង្កាត់លេខ៣
+    name_en: Bei
+    name_km: ៣
   '180104':
-    name_en: Sangkat Buon
-    name_km: សង្កាត់លេខ៤
+    name_en: Buon
+    name_km: ៤
   '180105':
     name_en: Kaoh Rung
     name_km: កោះរ៉ុង
+  '180106':
+    name_en: Koah Rung Sonlem
+    name_km: កោះរ៉ុងសន្លឹម
   '180201':
     name_en: Andoung Thma
     name_km: អណ្ដូងថ្ម
@@ -4065,9 +3915,6 @@ communes:
   '180206':
     name_en: Ou Oknha Heng
     name_km: អូរឧកញ៉ាហេង
-  '180207':
-    name_en: Prey Nob
-    name_km: ព្រៃនប់
   '180208':
     name_en: Ream
     name_km: រាម
@@ -4084,11 +3931,14 @@ communes:
     name_en: Tuek Thla
     name_km: ទឹកថ្លា
   '180213':
-    name_en: Tuol Toetueng
+    name_en: Tuol Totueng
     name_km: ទួលទទឹង
   '180214':
     name_en: Veal Renh
     name_km: វាលរេញ
+  '180215':
+    name_en: Ta Ney
+    name_km: តានៃ
   '180301':
     name_en: Kampenh
     name_km: កំពេញ
@@ -4098,6 +3948,9 @@ communes:
   '180303':
     name_en: Tumnob Rolok
     name_km: ទំនប់រលក
+  '180304':
+    name_en: Kaev Phos
+    name_km: កែវផុស
   '180401':
     name_en: Chamkar Luong
     name_km: ចំការហ្លួង
@@ -4111,7 +3964,7 @@ communes:
     name_en: Stueng Chhay
     name_km: ស្ទឹងឆាយ
   '190101':
-    name_en: Kampun
+    name_en: Kamphun
     name_km: កំភុន
   '190102':
     name_en: Kbal Romeas
@@ -4138,7 +3991,7 @@ communes:
     name_en: Kaoh Sampeay
     name_km: កោះសំពាយ
   '190203':
-    name_en: Kaoh Sralau
+    name_en: Kaoh Sralay
     name_km: កោះស្រឡាយ
   '190204':
     name_en: Ou Mreah
@@ -4165,13 +4018,13 @@ communes:
     name_en: Srae Sambour
     name_km: ស្រែសំបូរ
   '190305':
-    name_en: Thma Kaev
+    name_en: Tma Kaev
     name_km: ថ្មកែវ
   '190401':
     name_en: Stueng Traeng
     name_km: ស្ទឹងត្រែង
   '190402':
-    name_en: Sarh Ruessei
+    name_en: Srah Ruessei
     name_km: ស្រះឫស្សី
   '190403':
     name_en: Preah Bat
@@ -4204,13 +4057,13 @@ communes:
     name_en: Preah Rumkel
     name_km: ព្រះរំកិល
   '190509':
-    name_en: Sam'ang
+    name_en: Sam Ang
     name_km: សំអាង
   '190510':
     name_en: Srae Ruessei
     name_km: ស្រែឫស្សី
   '190511':
-    name_en: Thala
+    name_en: Thala Barivat
     name_km: ថាឡាបរិវ៉ាត់
   '200103':
     name_en: Chantrea
@@ -4219,7 +4072,7 @@ communes:
     name_en: Chres
     name_km: ច្រេស
   '200105':
-    name_en: Me Sa Thngak
+    name_en: Me Sar Thngak
     name_km: មេ សរថ្ងក
   '200108':
     name_en: Prey Kokir
@@ -4237,7 +4090,7 @@ communes:
     name_en: Nhor
     name_km: ញរ
   '200203':
-    name_en: Ksetr
+    name_en: Khsaetr
     name_km: ខ្សែត្រ
   '200204':
     name_en: Preah Ponlea
@@ -4270,8 +4123,8 @@ communes:
     name_en: Thmea
     name_km: ធ្មា
   '200303':
-    name_en: Chak
-    name_km: ចក
+    name_en: Kampong Chak
+    name_km: កំពង់ចក
   '200304':
     name_en: Chrung Popel
     name_km: ជ្រុងពពេល
@@ -4351,7 +4204,7 @@ communes:
     name_en: Chambak
     name_km: ចំបក់
   '200504':
-    name_en: Chamlang
+    name_en: Kampong Chamlang
     name_km: កំពង់ចំឡង
   '200505':
     name_en: Ta Suos
@@ -4368,9 +4221,6 @@ communes:
   '200510':
     name_en: Kraol Kou
     name_km: ក្រោលគោ
-  '200511':
-    name_en: Kruos
-    name_km: គ្រួស
   '200512':
     name_en: Pouthi Reach
     name_km: ពោធិរាជ
@@ -4379,7 +4229,7 @@ communes:
     name_km: ស្វាយអង្គ
   '200514':
     name_en: Svay Chrum
-    name_km: ស្វាយជ្រុំ
+    name_km: ស្វាយជ្រំ
   '200515':
     name_en: Svay Thum
     name_km: ស្វាយធំ
@@ -4411,7 +4261,7 @@ communes:
     name_en: Sangkhoar
     name_km: សង្ឃរ័
   '200702':
-    name_en: Kokir Saom
+    name_en: Koki Saom
     name_km: គគីសោម
   '200703':
     name_en: Kandieng Reay
@@ -4420,13 +4270,13 @@ communes:
     name_en: Monourom
     name_km: មនោរម្យ
   '200705':
-    name_en: Popeaek
+    name_en: Popeaet
     name_km: ពពែត
   '200706':
     name_en: Prey Ta Ei
     name_km: ព្រៃតាអី
   '200707':
-    name_en: Prasout
+    name_en: Prasoutr
     name_km: ប្រសូត្រ
   '200708':
     name_en: Romeang Thkaol
@@ -4435,7 +4285,7 @@ communes:
     name_en: Sambuor
     name_km: សំបួរ
   '200711':
-    name_en: Svay Rumpea
+    name_en: Svay Rumpear
     name_km: ស្វាយរំពារ
   '200801':
     name_en: Bati
@@ -4501,8 +4351,8 @@ communes:
     name_en: Pot Sar
     name_km: ពត់សរ
   '210211':
-    name_en: Souphi
-    name_km: សូភី
+    name_en: Sour Phi
+    name_km: សូរភី
   '210212':
     name_en: Tang Doung
     name_km: តាំងដូង
@@ -4516,7 +4366,7 @@ communes:
     name_en: Trapeang Sab
     name_km: ត្រពាំងសាប
   '210301':
-    name_en: Bourei Cholsar
+    name_en: Borei Cholsar
     name_km: បូរីជលសារ
   '210302':
     name_en: Chey Chouk
@@ -4648,7 +4498,7 @@ communes:
     name_en: Samraong
     name_km: សំរោង
   '210709':
-    name_en: Soeng
+    name_en: Soengh
     name_km: សឹង្ហ
   '210710':
     name_en: Sla
@@ -4684,10 +4534,10 @@ communes:
     name_en: Ou Saray
     name_km: អូរសារាយ
   '210907':
-    name_en: Trapeang Kranhung
+    name_en: Trapeang Kranhoung
     name_km: ត្រពាំងក្រញូង
   '210908':
-    name_en: Otdam Souriya
+    name_en: Otdam Soriya
     name_km: ឧត្ដមសុរិយា
   '210909':
     name_en: Popel
@@ -4714,16 +4564,16 @@ communes:
     name_en: Angkanh
     name_km: អង្កាញ់
   '211002':
-    name_en: Angk Khnaor
+    name_en: Angk Khnor
     name_km: អង្គខ្នុរ
   '211003':
-    name_en: Chi Khmar
+    name_en: Chi Khma
     name_km: ជីខ្មា
   '211004':
     name_en: Khvav
     name_km: ខ្វាវ
   '211005':
-    name_en: Prambei Mom
+    name_en: Prambei Mum
     name_km: ប្រាំបីមុំ
   '211006':
     name_en: Angk Kaev
@@ -4798,7 +4648,7 @@ communes:
     name_en: Bos Sbov
     name_km: បុស្បូវ
   '220403':
-    name_en: Kriel
+    name_en: Koun Kriel
     name_km: កូនក្រៀល
   '220404':
     name_en: Samraong
@@ -4807,7 +4657,7 @@ communes:
     name_en: Ou Smach
     name_km: អូរស្មាច់
   '220501':
-    name_en: Bak Anlung
+    name_en: Bak Anloung
     name_km: បាក់អន្លូង
   '220502':
     name_en: Ph'av
@@ -4827,9 +4677,6 @@ communes:
   '230101':
     name_en: Angkaol
     name_km: អង្កោល
-  '230102':
-    name_en: Ou Krasar
-    name_km: អូរក្រសារ
   '230103':
     name_en: Pong Tuek
     name_km: ពងទឹក
@@ -4839,17 +4686,20 @@ communes:
   '230202':
     name_en: Prey Thum
     name_km: ព្រៃធំ
+  '230203':
+    name_en: Ou Krasar
+    name_km: អូរក្រសារ
   '240101':
     name_en: Pailin
     name_km: ប៉ៃលិន
   '240102':
-    name_en: Ou Tavau
+    name_en: Ou Ta Vau
     name_km: អូរតាវ៉ៅ
   '240103':
     name_en: Tuol Lvea
     name_km: ទួលល្វា
   '240104':
-    name_en: Ba Yakha
+    name_en: Bar Yakha
     name_km: បរយ៉ាខា
   '240201':
     name_en: Sala Krau
@@ -4863,3 +4713,192 @@ communes:
   '240204':
     name_en: Ou Andoung
     name_km: អូរអណ្ដូង
+  '250101':
+    name_en: Chong Cheach
+    name_km: ចុងជាច
+  '250102':
+    name_en: Dambae
+    name_km: តំបែរ
+  '250103':
+    name_en: Kouk Srok
+    name_km: គោកស្រុក
+  '250104':
+    name_en: Neang Teut
+    name_km: នាងទើត
+  '250105':
+    name_en: Seda
+    name_km: សេដា
+  '250106':
+    name_en: Trapeang Pring
+    name_km: ត្រពាំងព្រីង
+  '250107':
+    name_en: Tuek Chrov
+    name_km: ទឹកជ្រៅ
+  '250201':
+    name_en: Chhuk
+    name_km: ឈូក
+  '250202':
+    name_en: Chumnik
+    name_km: ជំនីក
+  '250203':
+    name_en: Kampong Treas
+    name_km: កំពង់ទ្រាស
+  '250204':
+    name_en: Kaoh Pir
+    name_km: កោះពីរ
+  '250205':
+    name_en: Krouch Chhmar
+    name_km: ក្រូចឆ្មារ
+  '250206':
+    name_en: Peus Muoy
+    name_km: ប៉ឺស១
+  '250207':
+    name_en: Peus Pir
+    name_km: ប៉ឺស២
+  '250208':
+    name_en: Preaek A chi
+    name_km: ព្រែកអាជី
+  '250209':
+    name_en: Roka Khnor
+    name_km: រការខ្នុរ
+  '250210':
+    name_en: Svay Khleang
+    name_km: ស្វាយឃ្លាំង
+  '250211':
+    name_en: Trea
+    name_km: ទ្រា
+  '250212':
+    name_en: Tuol Snuol
+    name_km: ទួលស្នួល
+  '250301':
+    name_en: Chan Mul
+    name_km: ចាន់មូល
+  '250302':
+    name_en: Choam
+    name_km: ជាំ
+  '250303':
+    name_en: Choam Kravien
+    name_km: ជាំក្រវៀន
+  '250304':
+    name_en: Choam Ta Mau
+    name_km: ជាំតាម៉ៅ
+  '250305':
+    name_en: Dar
+    name_km: ដារ
+  '250306':
+    name_en: Kampoan
+    name_km: កំពាន់
+  '250307':
+    name_en: Kokir
+    name_km: គគីរ
+  '250308':
+    name_en: Memong
+    name_km: មេមង
+  '250309':
+    name_en: Memot
+    name_km: មេមត់
+  '250310':
+    name_en: Rumchek
+    name_km: រំចេក
+  '250311':
+    name_en: Rung
+    name_km: រូង
+  '250312':
+    name_en: Tonlung
+    name_km: ទន្លូង
+  '250313':
+    name_en: Tramung
+    name_km: ត្រមូង
+  '250314':
+    name_en: Triek
+    name_km: ទ្រៀក
+  '250401':
+    name_en: Ampil Ta Pok
+    name_km: អំពិលតាពក
+  '250402':
+    name_en: Chak
+    name_km: ចក
+  '250403':
+    name_en: Damril
+    name_km: ដំរិល
+  '250404':
+    name_en: Kong Chey
+    name_km: គងជ័យ
+  '250405':
+    name_en: Mien
+    name_km: មៀន
+  '250406':
+    name_en: Preah Theat
+    name_km: ព្រះធាតុ
+  '250407':
+    name_en: Tuol Souphi
+    name_km: ទួលសូភី
+  '250501':
+    name_en: Dountei
+    name_km: ដូនតី
+  '250502':
+    name_en: Kak
+    name_km: កក់
+  '250503':
+    name_en: Kandaol Chrum
+    name_km: កណ្ដោលជ្រុំ
+  '250504':
+    name_en: Kaong Kang
+    name_km: កោងកាង
+  '250505':
+    name_en: Kraek
+    name_km: ក្រែក
+  '250506':
+    name_en: Popel
+    name_km: ពពេល
+  '250507':
+    name_en: Trapeang Phlong
+    name_km: ត្រពាំងផ្លុង
+  '250508':
+    name_en: Veal Mlu
+    name_km: វាលម្លូរ
+  '250601':
+    name_en: Suong
+    name_km: សួង
+  '250602':
+    name_en: Vihear Luong
+    name_km: វិហារលួង
+  '250702':
+    name_en: Boeng Pruol
+    name_km: បឹងព្រួល
+  '250703':
+    name_en: Chikor
+    name_km: ជីគរ
+  '250704':
+    name_en: Chirou Ti Muoy
+    name_km: ជីរោទ៍ ទី១
+  '250705':
+    name_en: Chirou Ti Pir
+    name_km: ជីរោទ៍ ទី២
+  '250706':
+    name_en: Chob
+    name_km: ជប់
+  '250707':
+    name_en: Kor
+    name_km: គរ
+  '250708':
+    name_en: Lngieng
+    name_km: ល្ងៀង
+  '250709':
+    name_en: Mong Riev
+    name_km: មង់រៀវ
+  '250710':
+    name_en: Peam Chileang
+    name_km: ពាមជីលាំង
+  '250711':
+    name_en: Roka Po Pram
+    name_km: រកាពប្រាំ
+  '250712':
+    name_en: Sralab
+    name_km: ស្រឡប់
+  '250713':
+    name_en: Thma Pech
+    name_km: ថ្មពេជ្រ
+  '250714':
+    name_en: Tonle Bet
+    name_km: ទន្លេបិទ

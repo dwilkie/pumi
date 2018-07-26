@@ -15,19 +15,16 @@ provinces:
   '05':
     name_en: Kampong Speu
     name_km: កំពង់ស្ពឺ
-  '25':
-    name_en: Tbuong Kmoum
-    name_km: ត្បូងឃ្មុំ
   '06':
     name_en: Kampong Thom
     name_km: កំពង់ធំ
   '07':
     name_en: Kampot
     name_km: កំពត
-  08:
+  '08':
     name_en: Kandal
-    name_km: កណ្តាល
-  09:
+    name_km: កណ្ដាល
+  '09':
     name_en: Koh Kong
     name_km: កោះកុង
   '10':
@@ -35,7 +32,7 @@ provinces:
     name_km: ក្រចេះ
   '11':
     name_en: Mondul Kiri
-    name_km: មណ្ឌលគីរី
+    name_km: មណ្ឌលគិរី
   '12':
     name_en: Phnom Penh
     name_km: ភ្នំពេញ
@@ -47,12 +44,12 @@ provinces:
     name_km: ព្រៃវែង
   '15':
     name_en: Pursat
-    name_km: ពោធ៌សាត់
+    name_km: ពោធិ៍សាត់
   '16':
     name_en: Ratanak Kiri
-    name_km: រតនគីរី
+    name_km: រតនគិរី
   '17':
-    name_en: Siem Reap
+    name_en: Siemreap
     name_km: សៀមរាប
   '18':
     name_en: Preah Sihanouk
@@ -67,11 +64,14 @@ provinces:
     name_en: Takeo
     name_km: តាកែវ
   '22':
-    name_en: Otdar Meanchey
-    name_km: ឧត្តមានជ័យ
+    name_en: Oddar Meanchey
+    name_km: ឧត្ដរមានជ័យ
   '23':
     name_en: Kep
     name_km: កែប
   '24':
     name_en: Pailin
     name_km: ប៉ៃលិន
+  '25':
+    name_en: Tboung Khmum
+    name_km: ត្បូងឃ្មុំ
