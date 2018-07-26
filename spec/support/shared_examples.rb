@@ -1,4 +1,4 @@
-shared_examples_for "location" do
+RSpec.shared_examples_for "location" do
   describe ".all" do
     let(:result) { described_class.all }
     it { expect(result.first).to be_a(described_class) }

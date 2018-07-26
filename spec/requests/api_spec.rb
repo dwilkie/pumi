@@ -5,7 +5,7 @@ describe "API" do
   let(:json) { JSON.parse(response.body) }
 
   def do_api_request
-    get(api_endpoint, search_params)
+    get(api_endpoint, params: search_params)
   end
 
   describe "'/pumi/provinces'" do
