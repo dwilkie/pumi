@@ -29,7 +29,7 @@ describe "pumi.js", :js, type: :system do
 
     context "Choosing a district" do
       before do
-        select("Chamkar Mon", :from => "District")
+        select("Chamkar Mon Khan", :from => "District")
       end
 
       it "should enable the Commune input" do
@@ -55,7 +55,7 @@ describe "pumi.js", :js, type: :system do
 
           it "should remember by selection" do
             expect(page).to have_select("Province", :selected => "Phnom Penh")
-            expect(page).to have_select("District", :selected => "Chamkar Mon")
+            expect(page).to have_select("District", :selected => "Chamkar Mon Khan")
             expect(page).to have_select("Commune", :selected => "Tonle Basak")
             expect(page).to have_select("Village", :selected => "Phum 1")
           end
