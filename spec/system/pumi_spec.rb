@@ -1,7 +1,7 @@
 require 'rails_helper'
 require 'pry'
 
-describe "pumi.js", :js do
+describe "pumi.js", :js, type: :system do
   before do
     visit(new_address_path)
   end
