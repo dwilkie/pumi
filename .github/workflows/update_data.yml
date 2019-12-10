@@ -1,0 +1,11 @@
+name: Update Pumi Data
+
+on: [push]
+
+jobs:
+  fetch_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch Data
+        uses: docker://mrooding/docker-ssconvert-xls2csv:latest
