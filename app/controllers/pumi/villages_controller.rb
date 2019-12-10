@@ -1,7 +1,7 @@
 module Pumi
-  class VillagesController < ApplicationController
+  class VillagesController < ActionController::Base
     def index
-      render(json: Village.where(permitted_params.to_h))
+      render(json: Village.where(request.query_parameters))
     end
   end
 end

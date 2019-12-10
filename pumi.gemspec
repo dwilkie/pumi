@@ -25,10 +25,8 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "capybara"
-  spec.add_development_dependency "chromedriver-helper"
   spec.add_development_dependency "coffee-rails"
   spec.add_development_dependency "jquery-rails"
-  spec.add_development_dependency "launchy"
   spec.add_development_dependency "pry"
   spec.add_development_dependency "puma"
   spec.add_development_dependency "rails", ">= 5.0"
@@ -37,5 +35,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec-rails", "~> 3.0"
   spec.add_development_dependency "rubocop"
   spec.add_development_dependency "rubocop-rspec"
+  spec.add_development_dependency "selenium-webdriver"
   spec.add_development_dependency "webdrivers"
 end

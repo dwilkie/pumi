@@ -1,7 +1,7 @@
 module Pumi
-  class DistrictsController < ApplicationController
+  class DistrictsController < ActionController::Base
     def index
-      render(json: District.where(permitted_params.to_h))
+      render(json: District.where(request.query_parameters))
     end
   end
 end

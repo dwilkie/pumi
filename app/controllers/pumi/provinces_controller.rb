@@ -1,7 +1,7 @@
 module Pumi
-  class ProvincesController < ApplicationController
+  class ProvincesController < ActionController::Base
     def index
-      render(json: Province.where(permitted_params.to_h))
+      render(json: Province.where(request.query_parameters))
     end
   end
 end
