@@ -16,4 +16,6 @@ jobs:
           who-to-greet: 'Mona the Octocat'
 
       - name: Get the output time
-        run: ls -lat
+        run: |
+          ls -lat
+          ls -lat tmp
