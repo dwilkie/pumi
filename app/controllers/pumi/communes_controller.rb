@@ -1,7 +1,7 @@
-class Pumi::CommunesController < Pumi::ApplicationController
-  private
-
-  def results
-    Pumi::Commune.where(params)
+module Pumi
+  class CommunesController < ApplicationController
+    def index
+      render(json: Commune.where(permitted_params.to_h))
+    end
   end
 end

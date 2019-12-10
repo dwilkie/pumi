@@ -1,7 +1,7 @@
-class Pumi::DistrictsController < Pumi::ApplicationController
-  private
-
-  def results
-    Pumi::District.where(params)
+module Pumi
+  class DistrictsController < ApplicationController
+    def index
+      render(json: District.where(permitted_params.to_h))
+    end
   end
 end

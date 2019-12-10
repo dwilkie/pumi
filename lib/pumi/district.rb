@@ -1,17 +1,16 @@
-class Pumi::District < Pumi::Location
-  def self.data
-    @districts ||= from_raw_data(data_set.districts)
-  end
+module Pumi
+  class District < Location
+    self.data_store_key = :districts
 
-  def self.whitelist_search_params(params = {})
-    super.merge("province_id" => normalize_search_param("province_id", params))
-  end
+    attr_reader :province_id
 
-  def province_id
-    id[0..1]
-  end
+    def initialize(id, attributes)
+      super
+      @province_id = @attributes["province_id"] = id.chars.first(2).join
+    end
 
-  def province
-    Pumi::Province.find_by_id(province_id)
+    def province
+      Province.find_by_id(province_id)
+    end
   end
 end

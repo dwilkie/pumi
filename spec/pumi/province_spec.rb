@@ -12,6 +12,12 @@ module Pumi
     end
 
     describe ".where" do
+      it "returns an empty result if the filter doesn't match" do
+        results = Province.where(id: "01", name_en: "Phnom Penh")
+
+        expect(results).to be_empty
+      end
+
       it "filters by id" do
         results = Province.where(id: "01")
 

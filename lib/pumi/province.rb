@@ -1,5 +1,5 @@
-class Pumi::Province < Pumi::Location
-  def self.data
-    @@provinces ||= from_raw_data(data_set.provinces)
+module Pumi
+  class Province < Location
+    self.data_store_key = :provinces
   end
 end

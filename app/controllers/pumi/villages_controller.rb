@@ -1,7 +1,7 @@
-class Pumi::VillagesController < Pumi::ApplicationController
-  private
-
-  def results
-    Pumi::Village.where(params)
+module Pumi
+  class VillagesController < ApplicationController
+    def index
+      render(json: Village.where(permitted_params.to_h))
+    end
   end
 end
