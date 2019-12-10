@@ -1,4 +1,4 @@
-name: Update Pumi Data
+name: Update Data
 
 on: [push]
 
