@@ -8,14 +8,10 @@ jobs:
 
     steps:
       - name: Fetch Data
-        uses: docker://mrooding/docker-ssconvert-xls2csv:latest
-        run: |
-          mkdir csv
-          curl -s "http://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=1" > p1.xls
-          ssconvert p1.xls csv/p1.csv
-
-      - name: Upload Data
-        uses: actions/upload-artifact@v1
+        uses: ./.github/actions/update_pumi
+        id: hello
         with:
-          name: csv_data
-          path: csv
+          who-to-greet: 'Mona the Octocat'
+
+      - name: Get the output time
+        run: echo "The time was ${{ steps.hello.outputs.time }}"
