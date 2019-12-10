@@ -15,7 +15,8 @@ jobs:
         with:
           who-to-greet: 'Mona the Octocat'
 
-      - name: Get the output time
-        run: |
-          ls -lat
-          ls -lat tmp
+      - name: Upload API Documentation
+        uses: actions/upload-artifact@v1
+        with:
+          name: data_files
+          path: tmp
