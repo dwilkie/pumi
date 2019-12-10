@@ -1,2 +1,2 @@
-require_relative '../pumi'
-require_relative 'rails/engine'
+require_relative "../pumi"
+require_relative "rails/engine"

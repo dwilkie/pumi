@@ -1,5 +1,0 @@
-language: ruby
-addons:
-  chrome: stable
-cache:
-  bundler: true

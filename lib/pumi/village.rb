@@ -1,17 +1,16 @@
-class Pumi::Village < Pumi::Commune
-  def self.data
-    @@villages ||= from_raw_data(data_set.villages)
-  end
+module Pumi
+  class Village < Commune
+    self.data_store_key = :villages
 
-  def self.whitelist_search_params(params = {})
-    super.merge("commune_id" => normalize_search_param("commune_id", params))
-  end
+    attr_reader :commune_id
 
-  def commune_id
-    id[0..5]
-  end
+    def initialize(id, attributes)
+      super
+      @commune_id = @attributes["commune_id"] = id.chars.first(6).join
+    end
 
-  def commune
-    Pumi::Commune.find_by_id(commune_id)
+    def commune
+      Commune.find_by_id(commune_id)
+    end
   end
 end
