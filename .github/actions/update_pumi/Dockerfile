@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-RUN apk update && apk upgrade && apk add --update --no-cache curl gnumeric
+RUN apk update && apk upgrade && apk add --update --no-cache curl gnumeric font-noto-khmer ttf-opensans
 
 COPY entrypoint.sh /entrypoint.sh
 

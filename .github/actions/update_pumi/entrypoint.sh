@@ -1,9 +1,7 @@
 #!/bin/sh -l
 
-for i in {1..5}
+for province_code in `seq 1 2`
 do
-   echo "http://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=$i"
-   curl -s "http://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=$i" > "pv$i.xls"
-   ssconvert "pv$i.xls" "csv/pv$i.csv"
-   cat "csv/pv$i.csv"
+   curl -s "http://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=$province_code" > "p$province_code.xls"
+   ssconvert "p$province_code.xls" "csv_data/p$province_code.csv"
 done
