@@ -1,66 +1,37 @@
-require 'rails_helper'
-require 'pry'
+require "rails_helper"
 
-describe "pumi.js", :js, type: :system do
-  before do
+RSpec.describe "pumi.js", :js, type: :system do
+  it "submits a Pumi form" do
     visit(new_address_path)
-  end
 
-  let(:sample_disabled_class) { "my-disabled-class" }
+    expect(page).to have_field("District", disabled: true)
+    expect(page.find("#district")[:class]).to eq("my-disabled-class")
+    expect(page).to have_field("Commune", disabled: true)
+    expect(page.find("#commune")[:class]).to eq("my-disabled-class")
+    expect(page).to have_field("Village", disabled: true)
+    expect(page.find("#village")[:class]).to eq("my-disabled-class")
 
-  it "should disable the District, Commune and Village fields by default" do
-    expect(page).to have_field('District', :disabled => true)
-    expect(page.find("#district")[:class]).to eq(sample_disabled_class)
-    expect(page).to have_field('Commune', :disabled => true)
-    expect(page.find("#commune")[:class]).to eq(sample_disabled_class)
-    expect(page).to have_field('Village', :disabled => true)
-    expect(page.find("#village")[:class]).to eq(sample_disabled_class)
-  end
+    select("Banteay Meanchey", from: "Province")
 
-  context "Choosing a province" do
-    before do
-      select("Phnom Penh", :from => "Province")
-    end
+    expect(page).to have_field("District", disabled: false)
+    expect(page.find("#district")[:class]).not_to eq("my-disabled-class")
 
-    it "should enable the District input" do
-      expect(page).to have_field('District')
-      expect(page.find("#district")[:class]).not_to eq(sample_disabled_class)
-    end
+    select("Mongkol Borei", from: "District")
 
-    context "Choosing a district" do
-      before do
-        select("Chamkar Mon Khan", :from => "District")
-      end
+    expect(page).to have_field("Commune", disabled: false)
+    expect(page.find("#commune")[:class]).not_to eq("my-disabled-class")
 
-      it "should enable the Commune input" do
-        expect(page).to have_field('Commune')
-        expect(page.find("#commune")[:class]).not_to eq(sample_disabled_class)
-      end
+    select("Bat Trang", from: "Commune")
 
-      context "Choosing a commune" do
-        before do
-          select("Tonle Basak", :from => "Commune")
-        end
+    expect(page).to have_field("Village", disabled: false)
+    expect(page.find("#village")[:class]).not_to eq("my-disabled-class")
 
-        it "should enable the Village input" do
-          expect(page).to have_field('Village')
-          expect(page.find("#village")[:class]).not_to eq(sample_disabled_class)
-        end
+    select("Khtum Reay Lech", from: "Village")
+    click_button("Save")
 
-        context "Choosing a province then submitting the form" do
-          before do
-            select("Phum 1", :from => "Village")
-            click_button("Save")
-          end
-
-          it "should remember by selection" do
-            expect(page).to have_select("Province", :selected => "Phnom Penh")
-            expect(page).to have_select("District", :selected => "Chamkar Mon Khan")
-            expect(page).to have_select("Commune", :selected => "Tonle Basak")
-            expect(page).to have_select("Village", :selected => "Phum 1")
-          end
-        end
-      end
-    end
+    expect(page).to have_select("Province", selected: "Banteay Meanchey")
+    expect(page).to have_select("District", selected: "Mongkol Borei")
+    expect(page).to have_select("Commune", selected: "Bat Trang")
+    expect(page).to have_select("Village", selected: "Khtum Reay Lech")
   end
 end

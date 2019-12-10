@@ -1,0 +1,22 @@
+require: rubocop-rspec
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Metrics/LineLength:
+  Max: 100
+
+Style/Documentation:
+  Enabled: false
+
+MultipleExpectations:
+  Enabled: false
+
+ExampleLength:
+  Max: 10
+
+RSpec/DescribedClass:
+  Enabled: false

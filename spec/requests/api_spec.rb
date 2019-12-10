@@ -1,63 +1,52 @@
-require 'rails_helper'
+require "rails_helper"
 
-describe "API" do
-  let(:search_params) { {} }
-  let(:json) { JSON.parse(response.body) }
+RSpec.describe "API" do
+  describe "GET /pumi/provinces" do
+    it "returns all provinces" do
+      get(Pumi::Engine.routes.url_helpers.provinces_path)
 
-  def do_api_request
-    get(api_endpoint, params: search_params)
-  end
-
-  describe "'/pumi/provinces'" do
-    let(:api_endpoint) { Pumi::Engine.routes.url_helpers.provinces_path }
-    include_examples "api request"
-  end
-
-  describe "'/pumi/districts'" do
-    let(:api_endpoint) { Pumi::Engine.routes.url_helpers.districts_path }
-    include_examples "api request"
-
-    context "filtering by province" do
-      let(:province_id) { "12" }
-      let(:search_params) { { :province_id => province_id } }
-
-      before do
-        do_api_request
-      end
-
-      it { expect(json.map { |district| Pumi::District.new(district.delete("id"), district).province_id }.uniq).to eq([province_id]) }
+      results = JSON.parse(response.body)
+      expect(results.size).to eq(25)
+      expect(results.dig(0, "name_en")).to eq("Banteay Meanchey")
     end
   end
 
-  describe "'/pumi/communes'" do
-    let(:api_endpoint) { Pumi::Engine.routes.url_helpers.communes_path }
-    include_examples "api request"
+  describe "GET /pumi/districts" do
+    it "returns all districts filtered by province" do
+      get(
+        Pumi::Engine.routes.url_helpers.districts_path,
+        params: { province_id: "01" }
+      )
 
-    context "filtering by district" do
-      let(:district_id) { "1201" }
-      let(:search_params) { { :district_id => district_id } }
-
-      before do
-        do_api_request
-      end
-
-      it { expect(json.map { |commune| Pumi::Commune.new(commune.delete("id"), commune).district_id }.uniq).to eq([district_id]) }
+      results = JSON.parse(response.body)
+      expect(results.size).to eq(9)
+      expect(results.dig(0, "name_en")).to eq("Mongkol Borei")
     end
   end
 
-  describe "'/pumi/villages'" do
-    let(:api_endpoint) { Pumi::Engine.routes.url_helpers.villages_path }
-    include_examples "api request"
+  describe "GET /pumi/communes" do
+    it "returns all communes filtered by district" do
+      get(
+        Pumi::Engine.routes.url_helpers.communes_path,
+        params: { district_id: "0102" }
+      )
 
-    context "filtering by commune" do
-      let(:commune_id) { "120101" }
-      let(:search_params) { { :commune_id => commune_id } }
+      results = JSON.parse(response.body)
+      expect(results.size).to eq(13)
+      expect(results.dig(0, "name_en")).to eq("Banteay Neang")
+    end
+  end
 
-      before do
-        do_api_request
-      end
+  describe "GET /pumi/villages" do
+    it "returns all villages filtered by commune" do
+      get(
+        Pumi::Engine.routes.url_helpers.villages_path,
+        params: { commune_id: "010202" }
+      )
 
-      it { expect(json.map { |village| Pumi::Village.new(village.delete("id"), village).commune_id }.uniq).to eq([commune_id]) }
+      results = JSON.parse(response.body)
+      expect(results.size).to eq(11)
+      expect(results.dig(0, "name_en")).to eq("Khtum Reay Lech")
     end
   end
 end
