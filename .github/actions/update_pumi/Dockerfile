@@ -1,6 +1,6 @@
-FROM debian:latest
+FROM alpine:latest
 
-RUN apt-get update && apt-get install -y gnumeric curl
+RUN apk update && apk upgrade && apk add --update --no-cache curl gnumeric
 
 COPY entrypoint.sh /entrypoint.sh
 
