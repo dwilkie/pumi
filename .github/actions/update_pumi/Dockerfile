@@ -4,10 +4,7 @@ RUN apk update && apk upgrade && apk add --update --no-cache curl gnumeric font-
 
 COPY entrypoint.sh /entrypoint.sh
 
-RUN mkdir -p /github/workspace/tmp/csv_data
-
-ENV APP_HOME /github/workspace/tmp
-WORKDIR $APP_HOME
+RUN touch provinces.csv
 
 # Code file to execute when the docker container starts up (`entrypoint.sh`)
 ENTRYPOINT ["/entrypoint.sh"]
