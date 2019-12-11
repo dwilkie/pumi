@@ -10,12 +10,12 @@ jobs:
       - uses: actions/checkout@v1
 
       - name: Fetch Data
-        uses: ./.github/actions/update_pumi
+        uses: ./.github/actions/update_data
         id: hello
         with:
           who-to-greet: 'Mona the Octocat'
 
-      - name: Upload API Documentation
+      - name: Upload Data
         uses: actions/upload-artifact@v1
         with:
           name: data_files

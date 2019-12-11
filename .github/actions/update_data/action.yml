@@ -1,0 +1,5 @@
+name: 'Update Data'
+description: 'Updates Pumi with the latest data from http://db.ncdd.gov.kh/gazetteer/view/index.castle'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
