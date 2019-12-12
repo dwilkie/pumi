@@ -1,8 +1,6 @@
 name: Update Data
 
-on:
-  schedule:
-    - cron:  '*/5 * * * *'
+on: [push]
 
 jobs:
   fetch_data:
@@ -25,7 +23,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.REPO_TOKEN }}
           commit-message: "Update pumi data"
           title: "Update pumi data"
           labels: "update_data,automerge"
