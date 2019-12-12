@@ -6,6 +6,7 @@
 
 require "pathname"
 require "csv"
+require "yaml"
 
 HEADERS = %w[type code name_km name_en reference note1 note2].freeze
 CODE_LENGTHS = {
