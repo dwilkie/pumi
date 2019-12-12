@@ -27,6 +27,7 @@ jobs:
           commit-message: "Update pumi data"
           title: "Update pumi data"
           labels: "update_data"
+          base: "master"
 
       - name: Upload Data
         uses: actions/upload-artifact@v1
