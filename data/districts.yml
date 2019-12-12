@@ -171,6 +171,9 @@ districts:
   '0608':
     name_en: Stoung
     name_km: ស្ទោង
+  '0609':
+    name_en: Taing Kouk
+    name_km: តាំងគោក
   '0701':
     name_en: Angkor Chey
     name_km: អង្គរជ័យ
@@ -283,41 +286,47 @@ districts:
     name_en: Saen Monourom
     name_km: សែនមនោរម្យ
   '1201':
-    name_en: Chamkar Mon Khan
-    name_km: ខណ្ឌចំការមន
+    name_en: Chamkar Mon
+    name_km: ចំការមន
   '1202':
-    name_en: Doun Penh Khan
-    name_km: ខណ្ឌដូនពេញ
+    name_en: Doun Penh
+    name_km: ដូនពេញ
   '1203':
-    name_en: Prampir Meakkakra Khan
-    name_km: ខណ្ឌ៧មករា
+    name_en: Prampir Meakkakra
+    name_km: ៧មករា
   '1204':
-    name_en: Tuol Kouk Khan
-    name_km: ខណ្ឌទួលគោក
+    name_en: Tuol Kouk
+    name_km: ទួលគោក
   '1205':
-    name_en: Dangkao Khan
-    name_km: ខណ្ឌដង្កោ
+    name_en: Dangkao
+    name_km: ដង្កោ
   '1206':
-    name_en: Mean Chey Khan
-    name_km: ខណ្ឌមានជ័យ
+    name_en: Mean Chey
+    name_km: មានជ័យ
   '1207':
-    name_en: Russey Keo Khan
-    name_km: ខណ្ឌឫស្សីកែវ
+    name_en: Russey Keo
+    name_km: ឫស្សីកែវ
   '1208':
-    name_en: Saensokh Khan
-    name_km: ខណ្ឌសែនសុខ
+    name_en: Saensokh
+    name_km: សែនសុខ
   '1209':
-    name_en: Pur SenChey Khan
-    name_km: ខណ្ឌពោធិ៍សែនជ័យ
+    name_en: Pur SenChey
+    name_km: ពោធិ៍សែនជ័យ
   '1210':
-    name_en: Chraoy Chongvar Khan
-    name_km: ខណ្ឌជ្រោយចង្វារ
+    name_en: Chraoy Chongvar
+    name_km: ជ្រោយចង្វារ
   '1211':
-    name_en: Praek Pnov Khan
-    name_km: ខណ្ឌព្រែកព្នៅ
+    name_en: Praek Pnov
+    name_km: ព្រែកព្នៅ
   '1212':
-    name_en: Chbar Ampov Khan
-    name_km: ខណ្ឌច្បារអំពៅ
+    name_en: Chbar Ampov
+    name_km: ច្បារអំពៅ
+  '1213':
+    name_en: Boeng Keng Kang
+    name_km: បឹងកេងកង
+  '1214':
+    name_en: Kamboul
+    name_km: កំបូល
   '1301':
     name_en: Chey Saen
     name_km: ជ័យសែន
@@ -399,6 +408,9 @@ districts:
   '1506':
     name_en: Veal Veaeng
     name_km: វាលវែង
+  '1507':
+    name_en: Ta Lou Senchey
+    name_km: តាលោសែនជ័យ
   '1601':
     name_en: Andoung Meas
     name_km: អណ្ដូងមាស
@@ -474,6 +486,9 @@ districts:
   '1804':
     name_en: Kampong Seila
     name_km: កំពង់សីលា
+  '1805':
+    name_en: Kaoh Rung
+    name_km: កោះរ៉ុង
   '1901':
     name_en: Sesan
     name_km: សេសាន
@@ -489,6 +504,9 @@ districts:
   '1905':
     name_en: Thala Barivat
     name_km: ថាឡាបរិវ៉ាត់
+  '1906':
+    name_en: Borei Ou Svay Senchey
+    name_km: បុរីអូរស្វាយសែនជ័យ
   '2001':
     name_en: Chantrea
     name_km: ចន្ទ្រា
