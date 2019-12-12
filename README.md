@@ -1,6 +1,6 @@
 # Pumi
 
-![](https://github.com/dwilkie/pumi/workflows/build/badge.svg)
+![](https://github.com/dwilkie/pumi/workflows/Build/badge.svg)
 
 Pumi (ភូមិ pronounced Poom, which means Village in Khmer) is an Open Source library containing Geodata for administrative regions in Cambodia including Provinces, Districts, Communes and Villages.
 
