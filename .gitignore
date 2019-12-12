@@ -8,6 +8,7 @@
 /spec/reports/
 spec/dummy/tmp
 spec/dummy/log
-/tmp/
+/tmp/*
+!/tmp/.keep
 vendor/ruby
-village_pt_join.csv
+.DS_Store
