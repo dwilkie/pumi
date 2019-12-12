@@ -1,17 +1,17 @@
-name: 'Update Data'
-description: 'Updates Pumi with the latest data from http://db.ncdd.gov.kh/gazetteer/view/index.castle'
+name: Fetch Data
+description: Fetches the latest data
 inputs:
   num_provinces:
-    description: 'Number of provinces to fetch'
+    description: Number of provinces to fetch
     required: true
     default: 25
   url:
-    description: 'URL to fetch the data'
+    description: URL to fetch the data
     required: true
     default: 'http://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=${province_code}'
 runs:
-  using: 'docker'
-  image: 'Dockerfile'
+  using: docker
+  image: Dockerfile
   args:
     - ${{ inputs.num_provinces }}
     - ${{ inputs.url }}
