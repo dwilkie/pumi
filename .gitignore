@@ -11,4 +11,4 @@ spec/dummy/log
 /tmp/*
 !/tmp/.keep
 vendor/ruby
-village_pt_join.csv
+.DS_Store

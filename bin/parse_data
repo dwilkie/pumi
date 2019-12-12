@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+
+# Usage:
+
+# $ parse_data
+
+require "pathname"
+require "csv"
+
+HEADERS = %w[type code name_km name_en reference note1 note2].freeze
+CODE_LENGTHS = {
+  4 => :districts,
+  6 => :communes,
+  8 => :villages
+}.freeze
+
+data = {}
+
+Pathname.glob("tmp/*.csv").select(&:file?).each do |file|
+  CSV.read(file, headers: HEADERS).each do |row|
+    code = row.fetch("code")
+    next if code.to_s.gsub(/\D/, "").empty?
+
+    code = code.rjust(code.length + 1, "0") if code.length.odd?
+    location_type = CODE_LENGTHS.fetch(code.length)
+
+    data[location_type] ||= {}
+    data[location_type][code] = {
+      "name_en" => row.fetch("name_en"),
+      "name_km" => row.fetch("name_km")
+    }
+  end
+end
+
+if data.any?
+  CODE_LENGTHS.each do |_, type|
+    File.write("data/#{type}.yml", data.fetch(type).sort.to_h.to_yaml)
+  end
+end
