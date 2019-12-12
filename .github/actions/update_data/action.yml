@@ -8,7 +8,7 @@ inputs:
   url:
     description: 'URL to fetch the data'
     required: true
-    default: "http://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=${province_code}"
+    default: 'http://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=${province_code}'
 runs:
   using: 'docker'
   image: 'Dockerfile'

@@ -12,8 +12,6 @@ jobs:
       - name: Fetch Data
         uses: ./.github/actions/update_data
         id: hello
-        with:
-          who-to-greet: 'Mona the Octocat'
 
       - name: Upload Data
         uses: actions/upload-artifact@v1
