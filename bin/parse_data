@@ -10,9 +10,9 @@ require "yaml"
 
 HEADERS = %w[type code name_km name_en reference note1 note2].freeze
 CODE_LENGTHS = {
-  4 => :districts,
-  6 => :communes,
-  8 => :villages
+  4 => "districts",
+  6 => "communes",
+  8 => "villages"
 }.freeze
 
 data = {}
