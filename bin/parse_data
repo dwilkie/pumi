@@ -35,6 +35,9 @@ end
 
 if data.any?
   CODE_LENGTHS.each do |_, type|
-    File.write("data/#{type}.yml", data.fetch(type).sort.to_h.to_yaml)
+    File.write(
+      "data/#{type}.yml",
+      { type => data.fetch(type).sort.to_h }.to_yaml
+    )
   end
 end
