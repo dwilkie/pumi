@@ -6,7 +6,7 @@ module Pumi
       it "returns all communes" do
         results = Commune.all
 
-        expect(results.size).to eq(1634)
+        expect(results.size).to eq(1646)
         expect(results.first).to be_a(Commune)
       end
     end

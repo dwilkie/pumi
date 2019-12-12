@@ -6,7 +6,7 @@ module Pumi
       it "returns all districts" do
         results = District.all
 
-        expect(results.size).to eq(197)
+        expect(results.size).to eq(203)
         expect(results.first).to be_a(District)
       end
     end

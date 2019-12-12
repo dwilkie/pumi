@@ -6,7 +6,7 @@ module Pumi
       it "returns all villages" do
         results = Village.all
 
-        expect(results.size).to eq(14_245)
+        expect(results.size).to eq(14_372)
         expect(results.first).to be_a(Village)
       end
     end
@@ -35,14 +35,14 @@ module Pumi
       it "filters by district_id" do
         results = Village.where(district_id: "0102")
 
-        expect(results.size).to eq(157)
+        expect(results.size).to eq(159)
         expect(results.map(&:district_id).uniq).to eq(["0102"])
       end
 
       it "filters by province_id" do
         results = Village.where(province_id: "01")
 
-        expect(results.size).to eq(645)
+        expect(results.size).to eq(652)
         expect(results.map(&:province_id).uniq).to eq(["01"])
       end
 
