@@ -1,0 +1,14 @@
+name: automerge
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: automerge
+        uses: "pascalgn/automerge-action@75ca70eb25b33837664f25d6270d20b629d23614"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_METHOD: rebase
+          UPDATE_METHOD: rebase
