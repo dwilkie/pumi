@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.REPO_TOKEN }}
           commit-message: "Update pumi data"
           title: "Update pumi data"
-          labels: "update_data,automerge"
+          labels: "update_data"
           base: "master"
 
       - name: Upload Data
