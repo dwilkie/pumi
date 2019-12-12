@@ -9,19 +9,24 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
+      - name: Setup Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.x'
+
       - name: Fetch Data
         uses: ./.github/actions/fetch_data
 
       - name: Parse Data
         run: ./bin/parse_data
 
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Upload Data
         uses: actions/upload-artifact@v1
         with:
           name: data_files
           path: tmp
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
