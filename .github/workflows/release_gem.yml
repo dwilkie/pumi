@@ -14,6 +14,11 @@ jobs:
       with:
         ruby-version: 2.6.x
 
+    - name: Install Dependencies
+      run: |
+        gem install bundler
+        bundle install --jobs 4 --retry 3
+
     - name: Bump version and push tag
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

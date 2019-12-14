@@ -15,8 +15,11 @@ jobs:
       with:
         ruby-version: 2.6.x
 
-    - name: Run Specs
+    - name: Install Dependencies
       run: |
         gem install bundler
         bundle install --jobs 4 --retry 3
+
+    - name: Run Specs
+      run: |
         bundle exec rake
