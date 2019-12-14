@@ -1,10 +1,10 @@
-name: Bump version
+name: Create Release
 on:
   push:
     branches:
       - release_new_gems
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -27,6 +27,7 @@ jobs:
     - name: Bump version and push tag
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GEM_HOST_API_KEY: ${{ secrets.GEM_HOST_API_KEY }}
       run: |
         bundle exec bump patch --tag
-        git push --tags
+        bundle exec rake release
