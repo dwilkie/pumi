@@ -4,14 +4,14 @@ on:
     branches:
       - master
 
-  jobs:
-    release_gem:
-      runs-on: ubuntu-latest
+jobs:
+  release_gem:
+    runs-on: ubuntu-latest
 
-      steps:
-      - uses: actions/checkout@v1
+    steps:
+    - uses: actions/checkout@v1
 
-      - name: Set up Ruby
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: 2.6.x
+    - name: Set up Ruby
+    uses: actions/setup-ruby@v1
+    with:
+      ruby-version: 2.6.x
