@@ -19,7 +19,7 @@ jobs:
         gem install bundler
         bundle install --jobs 4 --retry 3
 
-    - name: Setup git
+    - name: Set up Git
       run: |
         git config --global user.email "dwilkie@gmail.com"
         git config --global user.name "David Wilkie"
