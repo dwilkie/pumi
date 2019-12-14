@@ -19,6 +19,11 @@ jobs:
         gem install bundler
         bundle install --jobs 4 --retry 3
 
+    - name: Setup git
+      run: |
+        git config --global user.email "dwilkie@gmail.com"
+        git config --global user.name "David Wilkie"
+
     - name: Bump version and push tag
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
