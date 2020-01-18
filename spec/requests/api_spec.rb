@@ -7,7 +7,7 @@ RSpec.describe "API" do
 
       results = JSON.parse(response.body)
       expect(results.size).to eq(25)
-      expect(results.dig(0, "name_en")).to eq("Banteay Meanchey")
+      expect(results.dig(0, "name_latin")).to eq("Banteay Meanchey")
     end
   end
 
@@ -20,7 +20,7 @@ RSpec.describe "API" do
 
       results = JSON.parse(response.body)
       expect(results.size).to eq(9)
-      expect(results.dig(0, "name_en")).to eq("Mongkol Borei")
+      expect(results.dig(0, "name_latin")).to eq("Mongkol Borei")
     end
   end
 
@@ -33,7 +33,7 @@ RSpec.describe "API" do
 
       results = JSON.parse(response.body)
       expect(results.size).to eq(13)
-      expect(results.dig(0, "name_en")).to eq("Banteay Neang")
+      expect(results.dig(0, "name_latin")).to eq("Banteay Neang")
     end
   end
 
@@ -46,7 +46,7 @@ RSpec.describe "API" do
 
       results = JSON.parse(response.body)
       expect(results.size).to eq(11)
-      expect(results.dig(0, "name_en")).to eq("Khtum Reay Lech")
+      expect(results.dig(0, "name_latin")).to eq("Khtum Reay Lech")
     end
   end
 end

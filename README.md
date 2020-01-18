@@ -14,15 +14,15 @@ A [JSON API](https://pumiapp.herokuapp.com) is available to if you're not using 
 
 ### Rails
 
-Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both English and Khmer as seen below and in the [Pumi API Start Page](https://pumiapp.herokuapp.com)
+Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both latin and Khmer as seen below and in the [Pumi API Start Page](https://pumiapp.herokuapp.com)
 
-![Pumi UI English](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_en.png)
+![Pumi UI Latin](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_en.png)
 ![Pumi UI Khmer](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_km.png)
 
 To use Pumi with Rails first, require `"pumi/rails"` in your Gemfile:
 
 ```ruby
-gem 'pumi', :github => "dwilkie/pumi", :require => "pumi/rails"
+gem 'pumi', github: "dwilkie/pumi", require: "pumi/rails"
 ```
 
 Next, mount the Pumi routes in `config/routes`
@@ -58,10 +58,6 @@ And then execute:
 
     $ bundle
 
-Try the following:
-
-    $ bundle exec irb
-
 ```ruby
   require 'pumi'
 
@@ -69,47 +65,38 @@ Try the following:
 
   # Get all provinces
   Pumi::Province.all
-  # => [#<Pumi::Province:0x005569528b4820 @id="01", @name_en="Banteay Meanchey", @name_km="បន្ទាយមានជ័យ">,...]
 
   # Find a province by id
   Pumi::Province.find_by_id("12")
-  # => #<Pumi::Province:0x005569528b40a0 @id="12", @name_en="Phnom Penh", @name_km="ភ្នំពេញ">
 
-  # Find a province by it's English name
-  Pumi::Province.where(:name_en => "Phnom Penh")
-  => [#<Pumi::Province:0x005569528b40a0 @id="12", @name_en="Phnom Penh", @name_km="ភ្នំពេញ">]
+  # Find a province by its latin name
+  Pumi::Province.where(name_latin: "Phnom Penh")
 
-  # Find a province by it's Khmer name
-  Pumi::Province.where(:name_km => "បន្ទាយមានជ័យ")
-  # => [#<Pumi::Province:0x005569528b4820 @id="01", @name_en="Banteay Meanchey", @name_km="បន្ទាយមានជ័យ">]
+  # Find a province by its Khmer name
+  Pumi::Province.where(name_km: "បន្ទាយមានជ័យ")
 
   # Working with Districts (ស្រុក / ខណ្ឌ)
 
   # Get all districts
   Pumi::District.all
-  # => [#<Pumi::District:0x0055695241b2f0 @id="0102", @name_en="Mongkol Borei", @name_km="មង្គលបូរី">, ...]
 
   # Get all districts by province_id
-  Pumi::District.where(:province_id => "12")
-  # => [#<Pumi::District:0x005569523f9b28 @id="1201", @name_en="Chamkar Mon", @name_km="ចំការមន">,...]
+  Pumi::District.where(province_id: "12")
 
-  # Find district by it's Khmer name and Province ID
-  district = Pumi::District.where(:province_id => "12", :name_km => "ចំការមន").first
-  # => #<Pumi::District:0x005569523f9b28 @id="1201", @name_en="Chamkar Mon", @name_km="ចំការមន">
+  # Find district by its Khmer name and Province ID
+  district = Pumi::District.where(province_id: "12", name_km: "ចំការមន").first
 
-  # Return the district's province name in English
-  district.province.name_en
+  # Return the district's province name in latin
+  district.province.name_latin
   # => Phnom Penh
 
   # Working with Communes (ឃុំ / សង្កាត់)
 
   # Get all communes by district_id
-  Pumi::Commune.where(:district_id => "1201")
-  # => [#<Pumi::Commune:0x0055695296ea90 @id="120101", @name_en="Tonle Basak", @name_km="ទន្លេបាសាក់">,...]
+  Pumi::Commune.where(district_id: "1201")
 
-  # Find a commune by it's English name and District ID
-  commune = Pumi::Commune.where(:district_id => "1201", :name_en => "Tonle Basak").first
-  # => #<Pumi::Commune:0x0055695296ea90 @id="120101", @name_en="Tonle Basak", @name_km="ទន្លេបាសាក់">
+  # Find a commune by its latin name and District ID
+  commune = Pumi::Commune.where(district_id: "1201", name_latin: "Tonle Basak").first
 
   # Return the commune's district name in Khmer
   commune.district.name_km
@@ -122,16 +109,13 @@ Try the following:
   # Working with Villages (ភូមិ)
 
   # Get all villages by commune_id
-  Pumi::Village.where(:commune_id => "010201")
-  # => [#<Pumi::Village:0x005569545f1fa0 @id="01020101", @name_en="Ou Thum", @name_km="អូរធំ">,...]
+  Pumi::Village.where(commune_id: "010201")
 
   # Find a village by it's Khmer name and Commune ID
-  village = Pumi::Village.where(:commune_id => "010201", :name_km => "អូរធំ").first
-  # => #<Pumi::Village:0x005569545f1fa0 @id="01020101", @name_en="Ou Thum", @name_km="អូរធំ">
+  village = Pumi::Village.where(commune_id: "010201", name_km: "អូរធំ").first
 
-  # Return the village's commune name in English
-
-  village.commune.name_en
+  # Return the village's commune name in latin
+  village.commune.name_latin
   # => "Banteay Neang"
 
   # Return the village's district name in Khmer
@@ -141,6 +125,18 @@ Try the following:
   # Return the village's province name in Khmer
   village.province.name_km
   # => "បន្ទាយមានជ័យ"
+
+  # Get the villages address in Latin
+  village.address_latin
+  # => "Phum Ou Thum, Khum Banteay Neang, Srok Mongkol Borei, Khaet Banteay Meanchey"
+
+  # In English
+  village.address_en
+  # => "Ou Thum Village, Banteay Neang Commune, Mongkol Borei District, Banteay Meanchey Province"
+
+  # In Khmer
+  village.address_en
+  # => "ភូមិអូរធំ ឃុំបន្ទាយនាង ស្រុកមង្គលបូរី ខេត្តបន្ទាយមានជ័យ"
 ```
 
 ## Configuration
@@ -157,7 +153,7 @@ The following html5 data-attributes can be used to configure Pumi.
   <dt><code>data-pumi-select-collection-url-filter-interpolation-key</code></dt>
   <dd>The key value to interpolate for filtering via the collection url. E.g. if you set <code>data-pumi-select-collection-url="/pumi/districts?province_id=FILTER"</code>, then a value of <code>"FILTER"</code> here will replace the collection URL with the value of the select input which this select input is the target of</dd>
   <dt><code>data-pumi-select-collection-label-method</code></dt>
-  <dd>The name of the label method. E.g. <code>data-pumi-select-collection-label-method="name_en"</code> will display the labels in English or <code>data-pumi-select-collection-label-method="name_km"</code> will display the labels in Khmer</dd>
+  <dd>The name of the label method. E.g. <code>data-pumi-select-collection-label-method="name_en"</code> will display the labels in Latin or <code>data-pumi-select-collection-label-method="name_km"</code> will display the labels in Khmer</dd>
   <dt><code>data-pumi-select-collection-value-method</code></dt>
   <dd>The name of the value method. E.g. <code>data-pumi-select-collection-value-method="id"</code> will set the value of the select input to the Pumi of the location</dd>
   <dt><code>data-pumi-select-disabled-target</code></dt>

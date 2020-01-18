@@ -8,9 +8,9 @@ module Pumi
       @cached = {}
     end
 
-    def fetch(name, *args)
-      cached.fetch(name) do
-        cached[name] = super
+    def load(type, *args)
+      cached.fetch(type) do
+        cached[type] = super
       end
     end
   end
