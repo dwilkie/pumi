@@ -1,5 +1,3 @@
 module Pumi
-  class Province < Location
-    self.data_store_key = :provinces
-  end
+  class Province < Location; end
 end

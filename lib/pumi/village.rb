@@ -1,5 +1,3 @@
 module Pumi
-  class Village < Location
-    self.data_store_key = :villages
-  end
+  class Village < Location; end
 end
