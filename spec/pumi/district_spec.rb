@@ -18,8 +18,12 @@ module Pumi
         district = results.first
         expect(results.size).to eq(1)
         expect(district.id).to eq("0102")
-        expect(district.name_en).to eq("Mongkol Borei")
         expect(district.name_km).to eq("មង្គលបូរី")
+        expect(district.full_name_km).to eq("ស្រុកមង្គលបូរី")
+        expect(district.name_latin).to eq("Mongkol Borei")
+        expect(district.full_name_latin).to eq("Srok Mongkol Borei")
+        expect(district.name_en).to eq("Mongkol Borei")
+        expect(district.full_name_en).to eq("Mongkol Borei District")
         expect(district.province.name_en).to eq("Banteay Meanchey")
       end
 
@@ -30,13 +34,14 @@ module Pumi
         expect(results.map(&:province_id).uniq).to eq(["01"])
       end
 
-      it "filters by name_en" do
-        results = District.where(name_en: "Banan")
+      it "filters by name_latin" do
+        results = District.where(name_latin: "Chamkar Mon")
 
         district = results.first
         expect(results.size).to eq(1)
-        expect(district.id).to eq("0201")
-        expect(district.name_km).to eq("បាណន់")
+        expect(district.full_name_km).to eq("ខណ្ឌចំការមន")
+        expect(district.full_name_latin).to eq("Khan Chamkar Mon")
+        expect(district.full_name_en).to eq("Chamkar Mon Section")
       end
 
       it "filters by name_km" do
@@ -44,7 +49,6 @@ module Pumi
 
         district = results.first
         expect(results.size).to eq(1)
-        expect(district.id).to eq("0806")
         expect(district.name_en).to eq("Lvea Aem")
       end
     end

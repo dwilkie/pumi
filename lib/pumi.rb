@@ -11,14 +11,13 @@ module Pumi
     private
 
     def reset_data_store!
-      @data_store = StoreCache.new(
-        DataStore.new
-      )
+      @data_store = StoreCache.new(DataStore.new)
     end
   end
 end
 
 require_relative "pumi/version"
+require_relative "pumi/administrative_unit"
 require_relative "pumi/location"
 require_relative "pumi/province"
 require_relative "pumi/district"

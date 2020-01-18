@@ -1,611 +1,1626 @@
 ---
 districts:
   '0102':
-    name_en: Mongkol Borei
-    name_km: មង្គលបូរី
+    name:
+      km: មង្គលបូរី
+      latin: Mongkol Borei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0103':
-    name_en: Phnum Srok
-    name_km: ភ្នំស្រុក
+    name:
+      km: ភ្នំស្រុក
+      latin: Phnum Srok
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0104':
-    name_en: Preah Netr Preah
-    name_km: ព្រះនេត្រព្រះ
+    name:
+      km: ព្រះនេត្រព្រះ
+      latin: Preah Netr Preah
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0105':
-    name_en: Ou Chrov
-    name_km: អូរជ្រៅ
+    name:
+      km: អូរជ្រៅ
+      latin: Ou Chrov
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0106':
-    name_en: Serei Saophoan
-    name_km: សិរីសោភ័ណ
+    name:
+      km: សិរីសោភ័ណ
+      latin: Serei Saophoan
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0107':
-    name_en: Thma Puok
-    name_km: ថ្មពួក
+    name:
+      km: ថ្មពួក
+      latin: Thma Puok
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0108':
-    name_en: Svay Chek
-    name_km: ស្វាយចេក
+    name:
+      km: ស្វាយចេក
+      latin: Svay Chek
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0109':
-    name_en: Malai
-    name_km: ម៉ាឡៃ
+    name:
+      km: ម៉ាឡៃ
+      latin: Malai
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0110':
-    name_en: Paoy Paet
-    name_km: ប៉ោយប៉ែត
+    name:
+      km: ប៉ោយប៉ែត
+      latin: Paoy Paet
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0201':
-    name_en: Banan
-    name_km: បាណន់
+    name:
+      km: បាណន់
+      latin: Banan
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0202':
-    name_en: Thma Koul
-    name_km: ថ្មគោល
+    name:
+      km: ថ្មគោល
+      latin: Thma Koul
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0203':
-    name_en: Battambang
-    name_km: បាត់ដំបង
+    name:
+      km: បាត់ដំបង
+      latin: Battambang
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0204':
-    name_en: Bavel
-    name_km: បវេល
+    name:
+      km: បវេល
+      latin: Bavel
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0205':
-    name_en: Aek Phnum
-    name_km: ឯកភ្នំ
+    name:
+      km: ឯកភ្នំ
+      latin: Aek Phnum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0206':
-    name_en: Moung Ruessei
-    name_km: មោងឫស្សី
+    name:
+      km: មោងឫស្សី
+      latin: Moung Ruessei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0207':
-    name_en: Rotonak Mondol
-    name_km: រតនមណ្ឌល
+    name:
+      km: រតនមណ្ឌល
+      latin: Rotonak Mondol
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0208':
-    name_en: Sangkae
-    name_km: សង្កែ
+    name:
+      km: សង្កែ
+      latin: Sangkae
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0209':
-    name_en: Samlout
-    name_km: សំឡូត
+    name:
+      km: សំឡូត
+      latin: Samlout
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0210':
-    name_en: Sampov Lun
-    name_km: សំពៅលូន
+    name:
+      km: សំពៅលូន
+      latin: Sampov Lun
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0211':
-    name_en: Phnum Proek
-    name_km: ភ្នំព្រឹក
+    name:
+      km: ភ្នំព្រឹក
+      latin: Phnum Proek
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0212':
-    name_en: Kamrieng
-    name_km: កំរៀង
+    name:
+      km: កំរៀង
+      latin: Kamrieng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0213':
-    name_en: Koas Krala
-    name_km: គាស់ក្រឡ
+    name:
+      km: គាស់ក្រឡ
+      latin: Koas Krala
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0214':
-    name_en: Rukh Kiri
-    name_km: រុក្ខគិរី
+    name:
+      km: រុក្ខគិរី
+      latin: Rukh Kiri
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0301':
-    name_en: Batheay
-    name_km: បាធាយ
+    name:
+      km: បាធាយ
+      latin: Batheay
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0302':
-    name_en: Chamkar Leu
-    name_km: ចំការលើ
+    name:
+      km: ចំការលើ
+      latin: Chamkar Leu
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0303':
-    name_en: Cheung Prey
-    name_km: ជើងព្រៃ
+    name:
+      km: ជើងព្រៃ
+      latin: Cheung Prey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0305':
-    name_en: Kampong Cham
-    name_km: កំពង់ចាម
+    name:
+      km: កំពង់ចាម
+      latin: Kampong Cham
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0306':
-    name_en: Kampong Siem
-    name_km: កំពង់សៀម
+    name:
+      km: កំពង់សៀម
+      latin: Kampong Siem
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0307':
-    name_en: Kang Meas
-    name_km: កងមាស
+    name:
+      km: កងមាស
+      latin: Kang Meas
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0308':
-    name_en: Kaoh Soutin
-    name_km: កោះសូទិន
+    name:
+      km: កោះសូទិន
+      latin: Kaoh Soutin
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0313':
-    name_en: Prey Chhor
-    name_km: ព្រៃឈរ
+    name:
+      km: ព្រៃឈរ
+      latin: Prey Chhor
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0314':
-    name_en: Srei Santhor
-    name_km: ស្រីសន្ធរ
+    name:
+      km: ស្រីសន្ធរ
+      latin: Srei Santhor
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0315':
-    name_en: Stueng Trang
-    name_km: ស្ទឹងត្រង់
+    name:
+      km: ស្ទឹងត្រង់
+      latin: Stueng Trang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0401':
-    name_en: Baribour
-    name_km: បរិបូណ៌
+    name:
+      km: បរិបូណ៌
+      latin: Baribour
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0402':
-    name_en: Chol Kiri
-    name_km: ជលគីរី
+    name:
+      km: ជលគីរី
+      latin: Chol Kiri
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0403':
-    name_en: Kampong Chhnang
-    name_km: កំពង់ឆ្នាំង
+    name:
+      km: កំពង់ឆ្នាំង
+      latin: Kampong Chhnang
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0404':
-    name_en: Kampong Leaeng
-    name_km: កំពង់លែង
+    name:
+      km: កំពង់លែង
+      latin: Kampong Leaeng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0405':
-    name_en: Kampong Tralach
-    name_km: កំពង់ត្រឡាច
+    name:
+      km: កំពង់ត្រឡាច
+      latin: Kampong Tralach
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0406':
-    name_en: Rolea B'ier
-    name_km: រលាប្អៀរ
+    name:
+      km: រលាប្អៀរ
+      latin: Rolea B'ier
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0407':
-    name_en: Sameakki Mean Chey
-    name_km: សាមគ្គីមានជ័យ
+    name:
+      km: សាមគ្គីមានជ័យ
+      latin: Sameakki Mean Chey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0408':
-    name_en: Tuek Phos
-    name_km: ទឹកផុស
+    name:
+      km: ទឹកផុស
+      latin: Tuek Phos
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0501':
-    name_en: Basedth
-    name_km: បរសេដ្ឋ
+    name:
+      km: បរសេដ្ឋ
+      latin: Basedth
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0502':
-    name_en: Chbar Mon
-    name_km: ច្បារមន
+    name:
+      km: ច្បារមន
+      latin: Chbar Mon
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0503':
-    name_en: Kong Pisei
-    name_km: គងពិសី
+    name:
+      km: គងពិសី
+      latin: Kong Pisei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0504':
-    name_en: Aoral
-    name_km: ឱរ៉ាល់
+    name:
+      km: ឱរ៉ាល់
+      latin: Aoral
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0505':
-    name_en: Odongk
-    name_km: ឧដុង្គ
+    name:
+      km: ឧដុង្គ
+      latin: Odongk
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0506':
-    name_en: Phnum Sruoch
-    name_km: ភ្នំស្រួច
+    name:
+      km: ភ្នំស្រួច
+      latin: Phnum Sruoch
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0507':
-    name_en: Samraong Tong
-    name_km: សំរោងទង
+    name:
+      km: សំរោងទង
+      latin: Samraong Tong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0508':
-    name_en: Thpong
-    name_km: ថ្ពង
+    name:
+      km: ថ្ពង
+      latin: Thpong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0601':
-    name_en: Baray
-    name_km: បារាយណ៍
+    name:
+      km: បារាយណ៍
+      latin: Baray
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0602':
-    name_en: Kampong Svay
-    name_km: កំពង់ស្វាយ
+    name:
+      km: កំពង់ស្វាយ
+      latin: Kampong Svay
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0603':
-    name_en: Stueng Saen
-    name_km: ស្ទឹងសែន
+    name:
+      km: ស្ទឹងសែន
+      latin: Stueng Saen
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0604':
-    name_en: Prasat Ballangk
-    name_km: ប្រាសាទបល្ល័ង្គ
+    name:
+      km: ប្រាសាទបល្ល័ង្គ
+      latin: Prasat Ballangk
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0605':
-    name_en: Prasat Sambour
-    name_km: ប្រាសាទសំបូរ
+    name:
+      km: ប្រាសាទសំបូរ
+      latin: Prasat Sambour
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0606':
-    name_en: Sandan
-    name_km: សណ្ដាន់
+    name:
+      km: សណ្ដាន់
+      latin: Sandan
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0607':
-    name_en: Santuk
-    name_km: សន្ទុក
+    name:
+      km: សន្ទុក
+      latin: Santuk
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0608':
-    name_en: Stoung
-    name_km: ស្ទោង
+    name:
+      km: ស្ទោង
+      latin: Stoung
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0609':
-    name_en: Taing Kouk
-    name_km: តាំងគោក
+    name:
+      km: តាំងគោក
+      latin: Taing Kouk
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0701':
-    name_en: Angkor Chey
-    name_km: អង្គរជ័យ
+    name:
+      km: អង្គរជ័យ
+      latin: Angkor Chey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0702':
-    name_en: Banteay Meas
-    name_km: បន្ទាយមាស
+    name:
+      km: បន្ទាយមាស
+      latin: Banteay Meas
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0703':
-    name_en: Chhuk
-    name_km: ឈូក
+    name:
+      km: ឈូក
+      latin: Chhuk
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0704':
-    name_en: Chum Kiri
-    name_km: ជុំគិរី
+    name:
+      km: ជុំគិរី
+      latin: Chum Kiri
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0705':
-    name_en: Dang Tong
-    name_km: ដងទង់
+    name:
+      km: ដងទង់
+      latin: Dang Tong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0706':
-    name_en: Kampong Trach
-    name_km: កំពង់ត្រាច
+    name:
+      km: កំពង់ត្រាច
+      latin: Kampong Trach
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0707':
-    name_en: Tuek Chhou
-    name_km: ទឹកឈូ
+    name:
+      km: ទឹកឈូ
+      latin: Tuek Chhou
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0708':
-    name_en: Kampot
-    name_km: កំពត
+    name:
+      km: កំពត
+      latin: Kampot
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0801':
-    name_en: Kandal Stueng
-    name_km: កណ្ដាលស្ទឹង
+    name:
+      km: កណ្ដាលស្ទឹង
+      latin: Kandal Stueng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0802':
-    name_en: Kien Svay
-    name_km: កៀនស្វាយ
+    name:
+      km: កៀនស្វាយ
+      latin: Kien Svay
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0803':
-    name_en: Khsach Kandal
-    name_km: ខ្សាច់កណ្ដាល
+    name:
+      km: ខ្សាច់កណ្ដាល
+      latin: Khsach Kandal
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0804':
-    name_en: Kaoh Thum
-    name_km: កោះធំ
+    name:
+      km: កោះធំ
+      latin: Kaoh Thum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0805':
-    name_en: Leuk Daek
-    name_km: លើកដែក
+    name:
+      km: លើកដែក
+      latin: Leuk Daek
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0806':
-    name_en: Lvea Aem
-    name_km: ល្វាឯម
+    name:
+      km: ល្វាឯម
+      latin: Lvea Aem
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0807':
-    name_en: Mukh Kampul
-    name_km: មុខកំពូល
+    name:
+      km: មុខកំពូល
+      latin: Mukh Kampul
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0808':
-    name_en: Angk Snuol
-    name_km: អង្គស្នួល
+    name:
+      km: អង្គស្នួល
+      latin: Angk Snuol
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0809':
-    name_en: Ponhea Lueu
-    name_km: ពញាឮ
+    name:
+      km: ពញាឮ
+      latin: Ponhea Lueu
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0810':
-    name_en: S'ang
-    name_km: ស្អាង
+    name:
+      km: ស្អាង
+      latin: S'ang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0811':
-    name_en: Ta Khmau
-    name_km: តាខ្មៅ
+    name:
+      km: តាខ្មៅ
+      latin: Ta Khmau
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0901':
-    name_en: Botum Sakor
-    name_km: បុទុមសាគរ
+    name:
+      km: បុទុមសាគរ
+      latin: Botum Sakor
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0902':
-    name_en: Kiri Sakor
-    name_km: គិរីសាគរ
+    name:
+      km: គិរីសាគរ
+      latin: Kiri Sakor
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0903':
-    name_en: Kaoh Kong
-    name_km: កោះកុង
+    name:
+      km: កោះកុង
+      latin: Kaoh Kong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0904':
-    name_en: Khemara Phoumin
-    name_km: ខេមរភូមិន្ទ
+    name:
+      km: ខេមរភូមិន្ទ
+      latin: Khemara Phoumin
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0905':
-    name_en: Mondol Seima
-    name_km: មណ្ឌលសីមា
+    name:
+      km: មណ្ឌលសីមា
+      latin: Mondol Seima
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0906':
-    name_en: Srae Ambel
-    name_km: ស្រែ អំបិល
+    name:
+      km: ស្រែ អំបិល
+      latin: Srae Ambel
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0907':
-    name_en: Thma Bang
-    name_km: ថ្មបាំង
+    name:
+      km: ថ្មបាំង
+      latin: Thma Bang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1001':
-    name_en: Chhloung
-    name_km: ឆ្លូង
+    name:
+      km: ឆ្លូង
+      latin: Chhloung
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1002':
-    name_en: Kracheh
-    name_km: ក្រចេះ
+    name:
+      km: ក្រចេះ
+      latin: Kracheh
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1003':
-    name_en: Prek Prasab
-    name_km: ព្រែកប្រសព្វ
+    name:
+      km: ព្រែកប្រសព្វ
+      latin: Prek Prasab
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1004':
-    name_en: Sambour
-    name_km: សំបូរ
+    name:
+      km: សំបូរ
+      latin: Sambour
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1005':
-    name_en: Snuol
-    name_km: ស្នួល
+    name:
+      km: ស្នួល
+      latin: Snuol
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1006':
-    name_en: Chetr Borei
-    name_km: ចិត្របុរី
+    name:
+      km: ចិត្របុរី
+      latin: Chetr Borei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1101':
-    name_en: Kaev Seima
-    name_km: កែវសីមា
+    name:
+      km: កែវសីមា
+      latin: Kaev Seima
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1102':
-    name_en: Kaoh Nheaek
-    name_km: កោះញែក
+    name:
+      km: កោះញែក
+      latin: Kaoh Nheaek
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1103':
-    name_en: Ou Reang
-    name_km: អូររាំង
+    name:
+      km: អូររាំង
+      latin: Ou Reang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1104':
-    name_en: Pech Chreada
-    name_km: ពេជ្រាដា
+    name:
+      km: ពេជ្រាដា
+      latin: Pech Chreada
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1105':
-    name_en: Saen Monourom
-    name_km: សែនមនោរម្យ
+    name:
+      km: សែនមនោរម្យ
+      latin: Saen Monourom
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1201':
-    name_en: Chamkar Mon
-    name_km: ចំការមន
+    name:
+      km: ចំការមន
+      latin: Chamkar Mon
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1202':
-    name_en: Doun Penh
-    name_km: ដូនពេញ
+    name:
+      km: ដូនពេញ
+      latin: Doun Penh
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1203':
-    name_en: Prampir Meakkakra
-    name_km: ៧មករា
+    name:
+      km: ៧មករា
+      latin: Prampir Meakkakra
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1204':
-    name_en: Tuol Kouk
-    name_km: ទួលគោក
+    name:
+      km: ទួលគោក
+      latin: Tuol Kouk
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1205':
-    name_en: Dangkao
-    name_km: ដង្កោ
+    name:
+      km: ដង្កោ
+      latin: Dangkao
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1206':
-    name_en: Mean Chey
-    name_km: មានជ័យ
+    name:
+      km: មានជ័យ
+      latin: Mean Chey
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1207':
-    name_en: Russey Keo
-    name_km: ឫស្សីកែវ
+    name:
+      km: ឫស្សីកែវ
+      latin: Russey Keo
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1208':
-    name_en: Saensokh
-    name_km: សែនសុខ
+    name:
+      km: សែនសុខ
+      latin: Saensokh
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1209':
-    name_en: Pur SenChey
-    name_km: ពោធិ៍សែនជ័យ
+    name:
+      km: ពោធិ៍សែនជ័យ
+      latin: Pur SenChey
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1210':
-    name_en: Chraoy Chongvar
-    name_km: ជ្រោយចង្វារ
+    name:
+      km: ជ្រោយចង្វារ
+      latin: Chraoy Chongvar
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1211':
-    name_en: Praek Pnov
-    name_km: ព្រែកព្នៅ
+    name:
+      km: ព្រែកព្នៅ
+      latin: Praek Pnov
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1212':
-    name_en: Chbar Ampov
-    name_km: ច្បារអំពៅ
+    name:
+      km: ច្បារអំពៅ
+      latin: Chbar Ampov
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1213':
-    name_en: Boeng Keng Kang
-    name_km: បឹងកេងកង
+    name:
+      km: បឹងកេងកង
+      latin: Boeng Keng Kang
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1214':
-    name_en: Kamboul
-    name_km: កំបូល
+    name:
+      km: កំបូល
+      latin: Kamboul
+    administrative_unit:
+      km: ខណ្ឌ
+      latin: Khan
+      en: Section
   '1301':
-    name_en: Chey Saen
-    name_km: ជ័យសែន
+    name:
+      km: ជ័យសែន
+      latin: Chey Saen
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1302':
-    name_en: Chhaeb
-    name_km: ឆែប
+    name:
+      km: ឆែប
+      latin: Chhaeb
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1303':
-    name_en: Choam Ksant
-    name_km: ជាំក្សាន្ដ
+    name:
+      km: ជាំក្សាន្ដ
+      latin: Choam Ksant
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1304':
-    name_en: Kuleaen
-    name_km: គូលែន
+    name:
+      km: គូលែន
+      latin: Kuleaen
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1305':
-    name_en: Rovieng
-    name_km: រវៀង
+    name:
+      km: រវៀង
+      latin: Rovieng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1306':
-    name_en: Sangkum Thmei
-    name_km: សង្គមថ្មី
+    name:
+      km: សង្គមថ្មី
+      latin: Sangkum Thmei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1307':
-    name_en: Tbaeng Mean Chey
-    name_km: ត្បែងមានជ័យ
+    name:
+      km: ត្បែងមានជ័យ
+      latin: Tbaeng Mean Chey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1308':
-    name_en: Preah Vihear
-    name_km: ព្រះវិហារ
+    name:
+      km: ព្រះវិហារ
+      latin: Preah Vihear
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1401':
-    name_en: Ba Phnum
-    name_km: បាភ្នំ
+    name:
+      km: បាភ្នំ
+      latin: Ba Phnum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1402':
-    name_en: Kamchay Mear
-    name_km: កំចាយមារ
+    name:
+      km: កំចាយមារ
+      latin: Kamchay Mear
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1403':
-    name_en: Kampong Trabaek
-    name_km: កំពង់ត្របែក
+    name:
+      km: កំពង់ត្របែក
+      latin: Kampong Trabaek
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1404':
-    name_en: Kanhchriech
-    name_km: កញ្ជ្រៀច
+    name:
+      km: កញ្ជ្រៀច
+      latin: Kanhchriech
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1405':
-    name_en: Me Sang
-    name_km: មេសាង
+    name:
+      km: មេសាង
+      latin: Me Sang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1406':
-    name_en: Peam Chor
-    name_km: ពាមជរ
+    name:
+      km: ពាមជរ
+      latin: Peam Chor
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1407':
-    name_en: Peam Ro
-    name_km: ពាមរក៍
+    name:
+      km: ពាមរក៍
+      latin: Peam Ro
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1408':
-    name_en: Pea Reang
-    name_km: ពារាំង
+    name:
+      km: ពារាំង
+      latin: Pea Reang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1409':
-    name_en: Preah Sdach
-    name_km: ព្រះស្ដេច
+    name:
+      km: ព្រះស្ដេច
+      latin: Preah Sdach
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1410':
-    name_en: Prey Veng
-    name_km: ព្រៃវែង
+    name:
+      km: ព្រៃវែង
+      latin: Prey Veng
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1411':
-    name_en: Pur Rieng
-    name_km: ពោធិ៍រៀង
+    name:
+      km: ពោធិ៍រៀង
+      latin: Pur Rieng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1412':
-    name_en: Sithor Kandal
-    name_km: ស៊ីធរកណ្ដាល
+    name:
+      km: ស៊ីធរកណ្ដាល
+      latin: Sithor Kandal
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1413':
-    name_en: Svay Antor
-    name_km: ស្វាយអន្ទរ
+    name:
+      km: ស្វាយអន្ទរ
+      latin: Svay Antor
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1501':
-    name_en: Bakan
-    name_km: បាកាន
+    name:
+      km: បាកាន
+      latin: Bakan
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1502':
-    name_en: Kandieng
-    name_km: កណ្ដៀង
+    name:
+      km: កណ្ដៀង
+      latin: Kandieng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1503':
-    name_en: Krakor
-    name_km: ក្រគរ
+    name:
+      km: ក្រគរ
+      latin: Krakor
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1504':
-    name_en: Phnum Kravanh
-    name_km: ភ្នំក្រវ៉ាញ
+    name:
+      km: ភ្នំក្រវ៉ាញ
+      latin: Phnum Kravanh
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1505':
-    name_en: Pursat
-    name_km: ពោធិ៍សាត់
+    name:
+      km: ពោធិ៍សាត់
+      latin: Pursat
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1506':
-    name_en: Veal Veaeng
-    name_km: វាលវែង
+    name:
+      km: វាលវែង
+      latin: Veal Veaeng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1507':
-    name_en: Ta Lou Senchey
-    name_km: តាលោសែនជ័យ
+    name:
+      km: តាលោសែនជ័យ
+      latin: Ta Lou Senchey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1601':
-    name_en: Andoung Meas
-    name_km: អណ្ដូងមាស
+    name:
+      km: អណ្ដូងមាស
+      latin: Andoung Meas
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1602':
-    name_en: Ban Lung
-    name_km: បានលុង
+    name:
+      km: បានលុង
+      latin: Ban Lung
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1603':
-    name_en: Bar Kaev
-    name_km: បរកែវ
+    name:
+      km: បរកែវ
+      latin: Bar Kaev
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1604':
-    name_en: Koun Mom
-    name_km: កូនមុំ
+    name:
+      km: កូនមុំ
+      latin: Koun Mom
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1605':
-    name_en: Lumphat
-    name_km: លំផាត់
+    name:
+      km: លំផាត់
+      latin: Lumphat
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1606':
-    name_en: Ou Chum
-    name_km: អូរជុំ
+    name:
+      km: អូរជុំ
+      latin: Ou Chum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1607':
-    name_en: Ou Ya Dav
-    name_km: អូរយ៉ាដាវ
+    name:
+      km: អូរយ៉ាដាវ
+      latin: Ou Ya Dav
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1608':
-    name_en: Ta Veaeng
-    name_km: តាវែង
+    name:
+      km: តាវែង
+      latin: Ta Veaeng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1609':
-    name_en: Veun Sai
-    name_km: វើនសៃ
+    name:
+      km: វើនសៃ
+      latin: Veun Sai
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1701':
-    name_en: Angkor Chum
-    name_km: អង្គរជុំ
+    name:
+      km: អង្គរជុំ
+      latin: Angkor Chum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1702':
-    name_en: Angkor Thum
-    name_km: អង្គរធំ
+    name:
+      km: អង្គរធំ
+      latin: Angkor Thum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1703':
-    name_en: Banteay Srei
-    name_km: បន្ទាយស្រី
+    name:
+      km: បន្ទាយស្រី
+      latin: Banteay Srei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1704':
-    name_en: Chi Kraeng
-    name_km: ជីក្រែង
+    name:
+      km: ជីក្រែង
+      latin: Chi Kraeng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1706':
-    name_en: Kralanh
-    name_km: ក្រឡាញ់
+    name:
+      km: ក្រឡាញ់
+      latin: Kralanh
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1707':
-    name_en: Puok
-    name_km: ពួក
+    name:
+      km: ពួក
+      latin: Puok
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1709':
-    name_en: Prasat Bakong
-    name_km: ប្រាសាទបាគង
+    name:
+      km: ប្រាសាទបាគង
+      latin: Prasat Bakong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1710':
-    name_en: Siem Reap
-    name_km: សៀមរាប
+    name:
+      km: សៀមរាប
+      latin: Siem Reap
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1711':
-    name_en: Soutr Nikom
-    name_km: សូទ្រនិគម
+    name:
+      km: សូទ្រនិគម
+      latin: Soutr Nikom
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1712':
-    name_en: Srei Snam
-    name_km: ស្រីស្នំ
+    name:
+      km: ស្រីស្នំ
+      latin: Srei Snam
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1713':
-    name_en: Svay Leu
-    name_km: ស្វាយលើ
+    name:
+      km: ស្វាយលើ
+      latin: Svay Leu
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1714':
-    name_en: Varin
-    name_km: វ៉ារិន
+    name:
+      km: វ៉ារិន
+      latin: Varin
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1801':
-    name_en: Preah Sihanouk
-    name_km: ព្រះសីហនុ
+    name:
+      km: ព្រះសីហនុ
+      latin: Preah Sihanouk
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1802':
-    name_en: Prey Nob
-    name_km: ព្រៃនប់
+    name:
+      km: ព្រៃនប់
+      latin: Prey Nob
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1803':
-    name_en: Stueng Hav
-    name_km: ស្ទឹងហាវ
+    name:
+      km: ស្ទឹងហាវ
+      latin: Stueng Hav
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1804':
-    name_en: Kampong Seila
-    name_km: កំពង់សីលា
+    name:
+      km: កំពង់សីលា
+      latin: Kampong Seila
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1805':
-    name_en: Kaoh Rung
-    name_km: កោះរ៉ុង
+    name:
+      km: កោះរ៉ុង
+      latin: Kaoh Rung
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1901':
-    name_en: Sesan
-    name_km: សេសាន
+    name:
+      km: សេសាន
+      latin: Sesan
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1902':
-    name_en: Siem Bouk
-    name_km: សៀមបូក
+    name:
+      km: សៀមបូក
+      latin: Siem Bouk
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1903':
-    name_en: Siem Pang
-    name_km: សៀមប៉ាង
+    name:
+      km: សៀមប៉ាង
+      latin: Siem Pang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1904':
-    name_en: Stueng Traeng
-    name_km: ស្ទឹងត្រែង
+    name:
+      km: ស្ទឹងត្រែង
+      latin: Stueng Traeng
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1905':
-    name_en: Thala Barivat
-    name_km: ថាឡាបរិវ៉ាត់
+    name:
+      km: ថាឡាបរិវ៉ាត់
+      latin: Thala Barivat
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1906':
-    name_en: Borei Ou Svay Senchey
-    name_km: បុរីអូរស្វាយសែនជ័យ
+    name:
+      km: បុរីអូរស្វាយសែនជ័យ
+      latin: Borei Ou Svay Senchey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2001':
-    name_en: Chantrea
-    name_km: ចន្ទ្រា
+    name:
+      km: ចន្ទ្រា
+      latin: Chantrea
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2002':
-    name_en: Kampong Rou
-    name_km: កំពង់រោទិ៍
+    name:
+      km: កំពង់រោទិ៍
+      latin: Kampong Rou
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2003':
-    name_en: Rumduol
-    name_km: រំដួល
+    name:
+      km: រំដួល
+      latin: Rumduol
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2004':
-    name_en: Romeas Haek
-    name_km: រមាសហែក
+    name:
+      km: រមាសហែក
+      latin: Romeas Haek
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2005':
-    name_en: Svay Chrum
-    name_km: ស្វាយជ្រំ
+    name:
+      km: ស្វាយជ្រំ
+      latin: Svay Chrum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2006':
-    name_en: Svay Rieng
-    name_km: ស្វាយរៀង
+    name:
+      km: ស្វាយរៀង
+      latin: Svay Rieng
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '2007':
-    name_en: Svay Teab
-    name_km: ស្វាយទាប
+    name:
+      km: ស្វាយទាប
+      latin: Svay Teab
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2008':
-    name_en: Bavet
-    name_km: បាវិត
+    name:
+      km: បាវិត
+      latin: Bavet
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '2101':
-    name_en: Angkor Borei
-    name_km: អង្គរបូរី
+    name:
+      km: អង្គរបូរី
+      latin: Angkor Borei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2102':
-    name_en: Bati
-    name_km: បាទី
+    name:
+      km: បាទី
+      latin: Bati
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2103':
-    name_en: Borei Cholsar
-    name_km: បូរីជលសារ
+    name:
+      km: បូរីជលសារ
+      latin: Borei Cholsar
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2104':
-    name_en: Kiri Vong
-    name_km: គីរីវង់
+    name:
+      km: គីរីវង់
+      latin: Kiri Vong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2105':
-    name_en: Kaoh Andaet
-    name_km: កោះអណ្ដែត
+    name:
+      km: កោះអណ្ដែត
+      latin: Kaoh Andaet
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2106':
-    name_en: Prey Kabbas
-    name_km: ព្រៃកប្បាស
+    name:
+      km: ព្រៃកប្បាស
+      latin: Prey Kabbas
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2107':
-    name_en: Samraong
-    name_km: សំរោង
+    name:
+      km: សំរោង
+      latin: Samraong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2108':
-    name_en: Doun Kaev
-    name_km: ដូនកែវ
+    name:
+      km: ដូនកែវ
+      latin: Doun Kaev
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '2109':
-    name_en: Tram Kak
-    name_km: ត្រាំកក់
+    name:
+      km: ត្រាំកក់
+      latin: Tram Kak
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2110':
-    name_en: Treang
-    name_km: ទ្រាំង
+    name:
+      km: ទ្រាំង
+      latin: Treang
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2201':
-    name_en: Anlong Veaeng
-    name_km: អន្លង់វែង
+    name:
+      km: អន្លង់វែង
+      latin: Anlong Veaeng
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2202':
-    name_en: Banteay Ampil
-    name_km: បន្ទាយអំពិល
+    name:
+      km: បន្ទាយអំពិល
+      latin: Banteay Ampil
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2203':
-    name_en: Chong Kal
-    name_km: ចុងកាល់
+    name:
+      km: ចុងកាល់
+      latin: Chong Kal
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2204':
-    name_en: Samraong
-    name_km: សំរោង
+    name:
+      km: សំរោង
+      latin: Samraong
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '2205':
-    name_en: Trapeang Prasat
-    name_km: ត្រពាំងប្រាសាទ
+    name:
+      km: ត្រពាំងប្រាសាទ
+      latin: Trapeang Prasat
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2301':
-    name_en: Damnak Chang'aeur
-    name_km: ដំណាក់ចង្អើរ
+    name:
+      km: ដំណាក់ចង្អើរ
+      latin: Damnak Chang'aeur
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2302':
-    name_en: Kaeb
-    name_km: កែប
+    name:
+      km: កែប
+      latin: Kaeb
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '2401':
-    name_en: Pailin
-    name_km: ប៉ៃលិន
+    name:
+      km: ប៉ៃលិន
+      latin: Pailin
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '2402':
-    name_en: Sala Krau
-    name_km: សាលាក្រៅ
+    name:
+      km: សាលាក្រៅ
+      latin: Sala Krau
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2501':
-    name_en: Dambae
-    name_km: តំបែរ
+    name:
+      km: តំបែរ
+      latin: Dambae
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2502':
-    name_en: Krouch Chhmar
-    name_km: ក្រូចឆ្មារ
+    name:
+      km: ក្រូចឆ្មារ
+      latin: Krouch Chhmar
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2503':
-    name_en: Memot
-    name_km: មេមត់
+    name:
+      km: មេមត់
+      latin: Memot
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2504':
-    name_en: Ou Reang Ov
-    name_km: អូររាំងឪ
+    name:
+      km: អូររាំងឪ
+      latin: Ou Reang Ov
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2505':
-    name_en: Ponhea Kraek
-    name_km: ពញាក្រែក
+    name:
+      km: ពញាក្រែក
+      latin: Ponhea Kraek
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2506':
-    name_en: Suong
-    name_km: សួង
+    name:
+      km: សួង
+      latin: Suong
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '2507':
-    name_en: Tboung Khmum
-    name_km: ត្បូងឃ្មុំ
+    name:
+      km: ត្បូងឃ្មុំ
+      latin: Tboung Khmum
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District

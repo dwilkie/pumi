@@ -1,77 +1,202 @@
 ---
 provinces:
   '01':
-    name_en: Banteay Meanchey
-    name_km: បន្ទាយមានជ័យ
+    name:
+      km: បន្ទាយមានជ័យ
+      latin: Banteay Meanchey
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '02':
-    name_en: Battambang
-    name_km: បាត់ដំបង
+    name:
+      km: បាត់ដំបង
+      latin: Battambang
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '03':
-    name_en: Kampong Cham
-    name_km: កំពង់ចាម
+    name:
+      km: កំពង់ចាម
+      latin: Kampong Cham
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '04':
-    name_en: Kampong Chhnang
-    name_km: កំពង់ឆ្នាំង
+    name:
+      km: កំពង់ឆ្នាំង
+      latin: Kampong Chhnang
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '05':
-    name_en: Kampong Speu
-    name_km: កំពង់ស្ពឺ
+    name:
+      km: កំពង់ស្ពឺ
+      latin: Kampong Speu
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '06':
-    name_en: Kampong Thom
-    name_km: កំពង់ធំ
+    name:
+      km: កំពង់ធំ
+      latin: Kampong Thom
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '07':
-    name_en: Kampot
-    name_km: កំពត
+    name:
+      km: កំពត
+      latin: Kampot
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '08':
-    name_en: Kandal
-    name_km: កណ្ដាល
+    name:
+      km: កណ្ដាល
+      latin: Kandal
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '09':
-    name_en: Koh Kong
-    name_km: កោះកុង
+    name:
+      km: កោះកុង
+      latin: Koh Kong
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '10':
-    name_en: Kratie
-    name_km: ក្រចេះ
+    name:
+      km: ក្រចេះ
+      latin: Kratie
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '11':
-    name_en: Mondul Kiri
-    name_km: មណ្ឌលគិរី
+    name:
+      km: មណ្ឌលគិរី
+      latin: Mondul Kiri
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '12':
-    name_en: Phnom Penh
-    name_km: ភ្នំពេញ
+    name:
+      km: ភ្នំពេញ
+      latin: Phnom Penh
+    administrative_unit:
+      km: រាជធានី
+      latin: Reach Theani
+      en: Capital
   '13':
-    name_en: Preah Vihear
-    name_km: ព្រះវិហារ
+    name:
+      km: ព្រះវិហារ
+      latin: Preah Vihear
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '14':
-    name_en: Prey Veng
-    name_km: ព្រៃវែង
+    name:
+      km: ព្រៃវែង
+      latin: Prey Veng
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '15':
-    name_en: Pursat
-    name_km: ពោធិ៍សាត់
+    name:
+      km: ពោធិ៍សាត់
+      latin: Pursat
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '16':
-    name_en: Ratanak Kiri
-    name_km: រតនគិរី
+    name:
+      km: រតនគិរី
+      latin: Ratanak Kiri
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '17':
-    name_en: Siemreap
-    name_km: សៀមរាប
+    name:
+      km: សៀមរាប
+      latin: Siemreap
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '18':
-    name_en: Preah Sihanouk
-    name_km: ព្រះសីហនុ
+    name:
+      km: ព្រះសីហនុ
+      latin: Preah Sihanouk
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '19':
-    name_en: Stung Treng
-    name_km: ស្ទឹងត្រែង
+    name:
+      km: ស្ទឹងត្រែង
+      latin: Stung Treng
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '20':
-    name_en: Svay Rieng
-    name_km: ស្វាយរៀង
+    name:
+      km: ស្វាយរៀង
+      latin: Svay Rieng
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '21':
-    name_en: Takeo
-    name_km: តាកែវ
+    name:
+      km: តាកែវ
+      latin: Takeo
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '22':
-    name_en: Oddar Meanchey
-    name_km: ឧត្ដរមានជ័យ
+    name:
+      km: ឧត្ដរមានជ័យ
+      latin: Oddar Meanchey
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '23':
-    name_en: Kep
-    name_km: កែប
+    name:
+      km: កែប
+      latin: Kep
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '24':
-    name_en: Pailin
-    name_km: ប៉ៃលិន
+    name:
+      km: ប៉ៃលិន
+      latin: Pailin
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '25':
-    name_en: Tboung Khmum
-    name_km: ត្បូងឃ្មុំ
+    name:
+      km: ត្បូងឃ្មុំ
+      latin: Tboung Khmum
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province

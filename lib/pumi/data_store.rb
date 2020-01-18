@@ -1,9 +1,7 @@
 module Pumi
   class DataStore
-    def fetch(key, klass)
-      Parser.new.load(key).each_with_object({}) do |(id, attributes), result|
-        result[id] = klass.new(id, attributes)
-      end
+    def load(type, *args)
+      Parser.new(type, *args).load
     end
   end
 end
