@@ -1,6 +1,5 @@
 require_relative "pumi/store_cache"
 require_relative "pumi/data_store"
-require_relative "pumi/parser"
 
 module Pumi
   class << self
@@ -23,3 +22,4 @@ require_relative "pumi/province"
 require_relative "pumi/district"
 require_relative "pumi/commune"
 require_relative "pumi/village"
+require_relative "pumi/parser"
