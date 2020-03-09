@@ -33,5 +33,6 @@ jobs:
         echo -e "---\r\n:rubygems_api_key: $GEM_HOST_API_KEY" > ~/.gem/credentials
         chmod 0600 ~/.gem/credentials
         bundle exec bump patch --tag
+        git push
         git push --tags
         bundle exec rake release
