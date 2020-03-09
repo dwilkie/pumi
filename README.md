@@ -22,7 +22,7 @@ Using Pumi with Rails gives you some javascript helpers as well as an API to fil
 To use Pumi with Rails first, require `"pumi/rails"` in your Gemfile:
 
 ```ruby
-gem 'pumi', github: "dwilkie/pumi", require: "pumi/rails"
+gem "pumi", require: "pumi/rails"
 ```
 
 Next, mount the Pumi routes in `config/routes`
@@ -51,7 +51,7 @@ Rails is not a dependency of Pumi so you can use it with Plain Ol' Ruby if you d
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'pumi', :github => "dwilkie/pumi"
+gem "pumi"
 ```
 
 And then execute:
