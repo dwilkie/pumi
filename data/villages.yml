@@ -11496,6 +11496,22 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '02140108':
+    name:
+      km: បឹងអំពិល
+      latin: Boeng Ampil
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140109':
+    name:
+      km: បឹងធ្មួយ
+      latin: Boeng Thmouy
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '02140201':
     name:
       km: ចុងពរ
@@ -11548,6 +11564,14 @@ villages:
     name:
       km: រូង២
       latin: Roung Pir
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140221':
+    name:
+      km: បឹងចក
+      latin: Boeng Chork
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -11656,6 +11680,38 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '02140407':
+    name:
+      km: ជំនាប់ស្បូវភ្លាំង
+      latin: Chumnoab Sbov Plaeng
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140408':
+    name:
+      km: ជំនាប់គគីរ
+      latin: Chumnoab Kokir
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140409':
+    name:
+      km: បឹងត្របែក
+      latin: Boeng Trabaek
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140410':
+    name:
+      km: អណ្តូងកន្លែង
+      latin: Andoung Konlaeng
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '02140501':
     name:
       km: ឈូក
@@ -11692,6 +11748,38 @@ villages:
     name:
       km: ច្រាំងខ្ពស់
       latin: Chrang Khpos
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140506':
+    name:
+      km: បុស្សដូង
+      latin: Bos Doung
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140507':
+    name:
+      km: អូររំចេក
+      latin: Ou Romchek
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140508':
+    name:
+      km: ពងទឹក
+      latin: Pong Toek
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140509':
+    name:
+      km: កែវមុន្នី
+      latin: Keo Mony
     administrative_unit:
       km: ភូមិ
       latin: Phum
