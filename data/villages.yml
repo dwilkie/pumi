@@ -1480,6 +1480,22 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '01030209':
+    name:
+      km: កូនខ្លែង
+      latin: Koun Klaeng
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '01030210':
+    name:
+      km: ព្រះអណ្តូង
+      latin: Pras Andoung
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '01030301':
     name:
       km: តាវង
