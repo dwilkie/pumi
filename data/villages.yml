@@ -99568,14 +99568,6 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
-  '21060602':
-    name:
-      km: ជំនីក
-      latin: Chumnik
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
   '21060603':
     name:
       km: កញ្ចិល
@@ -99612,6 +99604,22 @@ villages:
     name:
       km: ក្លែងគង់
       latin: Klaeng Kong
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '21060608':
+    name:
+      km: ជំនីកខាងជើង
+      latin: Chumnik Khang Cheung
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '21060609':
+    name:
+      km: ជំនីកខាងត្បូង
+      latin: Chumnik Khang Tboung
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -99884,6 +99892,14 @@ villages:
     name:
       km: ល្វាត្នោត
       latin: Lvea Tnaot
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '21061007':
+    name:
+      km: ព្រៃល្វាត្បួង
+      latin: Prey Lvea Tboung
     administrative_unit:
       km: ភូមិ
       latin: Phum
