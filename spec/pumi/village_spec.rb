@@ -21,7 +21,7 @@ module Pumi
       it "returns all villages" do
         results = Village.all
 
-        expect(results.size).to eq(14_385)
+        expect(results.size).to eq(14_387)
         expect(results.first).to be_a(Village)
       end
     end
