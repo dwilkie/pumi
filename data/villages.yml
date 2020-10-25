@@ -7056,6 +7056,14 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '02040120':
+    name:
+      km: សំរោងជ័យ
+      latin: Samraong Chey
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '02040201':
     name:
       km: ព្រៃសង្ហា
@@ -10160,6 +10168,30 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '02100405':
+    name:
+      km: អូរថ្ម
+      latin: Ou Thmor
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02100406':
+    name:
+      km: អូរស្ងាត់
+      latin: Ou Sngat
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02100407':
+    name:
+      km: ស្រះចក
+      latin: Sras Chak
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '02100501':
     name:
       km: ស្រឡៅជ្រុំ
@@ -10220,6 +10252,38 @@ villages:
     name:
       km: ទួលក្រសាំង
       latin: Tuol Krasang
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02100509':
+    name:
+      km: អូរប្រហ៊ូត
+      latin: Ou Prahout
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02100510':
+    name:
+      km: ថ្លុកសង្កែ
+      latin: Thlok Sangkae
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02100511':
+    name:
+      km: បឹងត្រកួន
+      latin: Boeng Trakoun
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02100512':
+    name:
+      km: បឹងក្ទម្ព
+      latin: Boeng Ktoum
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -10572,6 +10636,14 @@ villages:
     name:
       km: ចក្រី
       latin: Chakrei
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02110413':
+    name:
+      km: អូរជ្រៃ
+      latin: Ou Chrey
     administrative_unit:
       km: ភូមិ
       latin: Phum
