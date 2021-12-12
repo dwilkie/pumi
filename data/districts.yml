@@ -528,6 +528,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '0709':
+    name:
+      km: បូកគោ
+      latin: Bokor
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0801':
     name:
       km: កណ្ដាលស្ទឹង
