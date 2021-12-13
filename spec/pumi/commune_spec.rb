@@ -6,7 +6,7 @@ module Pumi
       it "returns all communes" do
         results = Commune.all
 
-        expect(results.size).to eq(1646)
+        expect(results.size).to eq(1652)
         expect(results.first).to be_a(Commune)
       end
     end
@@ -38,7 +38,7 @@ module Pumi
       it "filters by province_id" do
         results = Commune.where(province_id: "01")
 
-        expect(results.size).to eq(65)
+        expect(results.size).to eq(67)
         expect(results.map(&:province_id).uniq).to eq(["01"])
       end
 
