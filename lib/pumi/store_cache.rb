@@ -1,3 +1,5 @@
+require "delegate"
+
 module Pumi
   class StoreCache < SimpleDelegator
     attr_reader :cached
