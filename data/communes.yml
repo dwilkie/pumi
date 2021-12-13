@@ -520,6 +520,22 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+  '011004':
+    name:
+      km: អូរជ្រៅ
+      latin: Ou Chrov
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '011005':
+    name:
+      km: អូរឫស្សី
+      latin: Ou Reusey
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
   '020101':
     name:
       km: កន្ទឺ ១
@@ -804,6 +820,14 @@ communes:
     name:
       km: បឹងប្រាំ
       latin: Boeung Pram
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '020409':
+    name:
+      km: បួវិល
+      latin: Bouvel
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -2624,6 +2648,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+  '040614':
+    name:
+      km: ភ្នំក្រាំងដីមាស
+      latin: Phnom Kraing Dey Meas
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
   '040701':
     name:
       km: ឈានឡើង
@@ -3284,6 +3316,14 @@ communes:
     name:
       km: ត្រែងត្រយឹង
       latin: Traeng Trayueng
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '050614':
+    name:
+      km: យាយម៉ៅពេជ្យនិល
+      latin: Yeay Mao Pichnil
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -4688,14 +4728,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '070701':
-    name:
-      km: បឹងទូក
-      latin: Boeng Tuk
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '070702':
     name:
       km: ជុំគ្រៀល
@@ -4728,14 +4760,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '070707':
-    name:
-      km: កោះតូច
-      latin: Kaoh Touch
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '070708':
     name:
       km: កូនសត្វ
@@ -4748,14 +4772,6 @@ communes:
     name:
       km: ម៉ាក់ប្រាង្គ
       latin: Makprang
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '070711':
-    name:
-      km: ព្រែកត្នោត
-      latin: Preaek Tnoat
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -4852,6 +4868,30 @@ communes:
     name:
       km: ត្រើយកោះ
       latin: Traeuy Kaoh
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '070901':
+    name:
+      km: បឹងទូក
+      latin: Boeng Tuk
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '070902':
+    name:
+      km: កោះតូច
+      latin: Kaoh Touch
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '070903':
+    name:
+      km: ព្រែកត្នោត
+      latin: Preaek Tnoat
     administrative_unit:
       km: សង្កាត់
       latin: Sangkat
@@ -6348,6 +6388,14 @@ communes:
     name:
       km: វឌ្ឍនៈ
       latin: Voadthonak
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '100411':
+    name:
+      km: អូរកណ្តៀរសែនជ័យ
+      latin: Oukondear Senchey
     administrative_unit:
       km: ឃុំ
       latin: Khum
