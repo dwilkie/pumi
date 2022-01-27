@@ -36,5 +36,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rubocop"
   spec.add_development_dependency "rubocop-rspec"
   spec.add_development_dependency "selenium-webdriver"
+  spec.add_development_dependency "sprockets", "~> 4.0"
   spec.add_development_dependency "webdrivers"
 end
