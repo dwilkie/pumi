@@ -12624,6 +12624,38 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '03020112':
+    name:
+      km: បាំង១
+      latin: Bang 1
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020113':
+    name:
+      km: បាំង២
+      latin: Bang 2
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020114':
+    name:
+      km: បុសខ្នរលើ
+      latin: Bos Khnor Leu
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020115':
+    name:
+      km: ១០មករាលើ
+      latin: Dab Meakkakra Leu
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '03020201':
     name:
       km: ចំការអណ្ដូង
@@ -12680,26 +12712,10 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
-  '03020208':
-    name:
-      km: ភូមិលេខ ២
-      latin: Phum Lekh Pir
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
   '03020209':
     name:
       km: ភូមិ១១
       latin: Phum Dab Muoy
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '03020210':
-    name:
-      km: ភូមិ៣៣
-      latin: Phum Sam Bei
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -12728,14 +12744,6 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
-  '03020214':
-    name:
-      km: សហគ្រាស
-      latin: Sahak Kreas
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
   '03020215':
     name:
       km: សហគ្រាន់
@@ -12748,22 +12756,6 @@ villages:
     name:
       km: ស្រោងចាន់
       latin: Sraong Chan
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '03020217':
-    name:
-      km: រោងចក្រ
-      latin: Roung Chakr
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '03020218':
-    name:
-      km: ក្រុមហ៊ុន
-      latin: Kromhun
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -12804,6 +12796,22 @@ villages:
     name:
       km: ត្រពាំងល្ពៅ
       latin: Trapeang Lpov
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020306':
+    name:
+      km: ជយោត្បូង
+      latin: Cheyyou Tboung
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020307':
+    name:
+      km: អកមោក
+      latin: Ak Mouk
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -13040,6 +13048,30 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '03020615':
+    name:
+      km: ថ្នល់បែកជើង
+      latin: Thnal Baek Cheung
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020616':
+    name:
+      km: ថ្នល់បត់
+      latin: Thnal Bat
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020617':
+    name:
+      km: បុស្សចេកព្រៃ
+      latin: Bos Chek Prey
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '03020701':
     name:
       km: តាអុង
@@ -13112,34 +13144,26 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
-  '03020710':
-    name:
-      km: ភូមិ ៣១
-      latin: Phum Sammuoy
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '03020711':
-    name:
-      km: ភូមិ ៣២
-      latin: Phum Sampir
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '03020712':
-    name:
-      km: ភូមិ ៣៣
-      latin: Phum Sambei
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
   '03020713':
     name:
       km: ភូមិ ៣៤
       latin: Phum Sambuon
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020714':
+    name:
+      km: អំពិលជួរ
+      latin: Ampil Chuor
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020715':
+    name:
+      km: ឆាំឆា
+      latin: Chham Chha
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -13196,6 +13220,38 @@ villages:
     name:
       km: ផ្លាក
       latin: Phlak
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020808':
+    name:
+      km: តាប៉ាង១
+      latin: Ta Pang 1
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020809':
+    name:
+      km: តាប៉ាង២
+      latin: Ta Pang 1
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020810':
+    name:
+      km: តាប៉ាង៣
+      latin: Ta Pang 1
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '03020811':
+    name:
+      km: តាប៉ាង៤
+      latin: Ta Pang 1
     administrative_unit:
       km: ភូមិ
       latin: Phum
