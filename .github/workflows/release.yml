@@ -3,7 +3,7 @@ name: release
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   release-please:
@@ -15,7 +15,7 @@ jobs:
           release-type: ruby
           bump-minor-pre-major: true
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         if: ${{ steps.release.outputs.release_created }}
 
       - uses: ruby/setup-ruby@v1
