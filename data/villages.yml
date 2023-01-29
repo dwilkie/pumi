@@ -13235,7 +13235,7 @@ villages:
   '03020809':
     name:
       km: តាប៉ាង២
-      latin: Ta Pang 1
+      latin: Ta Pang 2
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -13243,7 +13243,7 @@ villages:
   '03020810':
     name:
       km: តាប៉ាង៣
-      latin: Ta Pang 1
+      latin: Ta Pang 3
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -13251,7 +13251,7 @@ villages:
   '03020811':
     name:
       km: តាប៉ាង៤
-      latin: Ta Pang 1
+      latin: Ta Pang 4
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -26250,7 +26250,7 @@ villages:
       en: Village
   '05030215':
     name:
-      km: អង្គ្ករមាស
+      km: អង្គរមាស
       latin: Angk Romeas
     administrative_unit:
       km: ភូមិ
@@ -61427,7 +61427,7 @@ villages:
   '12080301':
     name:
       km: ឃ្មួញ
-      latin: Anlong Kngan
+      latin: Khmuonh
     administrative_unit:
       km: ភូមិ
       latin: Phum
