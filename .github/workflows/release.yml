@@ -14,6 +14,7 @@ jobs:
         with:
           release-type: ruby
           bump-minor-pre-major: true
+          version-file: "lib/pumi/version.rb"
 
       - uses: actions/checkout@v3
         if: ${{ steps.release.outputs.release_created }}
@@ -25,6 +26,7 @@ jobs:
         if: ${{ steps.release.outputs.release_created }}
 
       - name: publish gem
+        if: ${{ steps.release.outputs.release_created }}
         run: |
           mkdir -p $HOME/.gem
           touch $HOME/.gem/credentials
@@ -34,4 +36,3 @@ jobs:
           gem push *.gem
         env:
           GEM_HOST_API_KEY: "${{secrets.GEM_HOST_API_KEY}}"
-        if: ${{ steps.release.outputs.release_created }}
