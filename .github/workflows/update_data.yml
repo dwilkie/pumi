@@ -9,12 +9,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Setup Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.x'
+        uses: ruby/setup-ruby@v1
 
       - name: Fetch Data
         uses: ./.github/actions/fetch_data
@@ -26,8 +24,8 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.REPO_TOKEN }}
-          commit-message: "Update pumi data"
-          title: "Update pumi data"
+          commit-message: "fix: Update data"
+          title: "fix: Update data"
           labels: "update_data"
           base: "master"
 
