@@ -360,14 +360,6 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
-  '0505':
-    name:
-      km: ឧដុង្គ
-      latin: Odongk
-    administrative_unit:
-      km: ស្រុក
-      latin: Srok
-      en: District
   '0506':
     name:
       km: ភ្នំស្រួច
@@ -388,6 +380,22 @@ districts:
     name:
       km: ថ្ពង
       latin: Thpong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
+  '0509':
+    name:
+      km: ឧដុង្គម៉ែជ័យ
+      latin: Odongk Maechay
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
+  '0510':
+    name:
+      km: សាមគ្គីមុនីជ័យ
+      latin: Samkkei Munichay
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -624,6 +632,22 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '0812':
+    name:
+      km: សំពៅពូន
+      latin: Sampeou Poun
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
+  '0813':
+    name:
+      km: អរិយក្សត្រ
+      latin: Akreiy Ksatr
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '0901':
     name:
       km: បុទុមសាគរ
@@ -724,6 +748,14 @@ districts:
     name:
       km: ចិត្របុរី
       latin: Chetr Borei
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
+  '1007':
+    name:
+      km: អូរគ្រៀងសែនជ័យ
+      latin: Or Krieng Saenchay
     administrative_unit:
       km: ស្រុក
       latin: Srok

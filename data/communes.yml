@@ -3104,126 +3104,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '050501':
-    name:
-      km: ចាន់សែន
-      latin: Chan Saen
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050502':
-    name:
-      km: ជើងរាស់
-      latin: Cheung Roas
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050503':
-    name:
-      km: ជំពូព្រឹក្ស
-      latin: Chumpu Proeks
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050504':
-    name:
-      km: ក្សេមក្សាន្ដ
-      latin: Khsem Khsant
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050505':
-    name:
-      km: ក្រាំងចេក
-      latin: Krang Chek
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050506':
-    name:
-      km: មានជ័យ
-      latin: Mean Chey
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050507':
-    name:
-      km: ព្រះស្រែ
-      latin: Preah Srae
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050508':
-    name:
-      km: ព្រៃក្រសាំង
-      latin: Prey Krasang
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050509':
-    name:
-      km: ត្រាចទង
-      latin: Trach Tong
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050510':
-    name:
-      km: វាលពង់
-      latin: Veal Pong
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050511':
-    name:
-      km: វាំងចាស់
-      latin: Veang Chas
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050512':
-    name:
-      km: យុទ្ធសាមគ្គី
-      latin: Yutth Sameakki
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050513':
-    name:
-      km: ដំណាក់រាំង
-      latin: Damnak Reang
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050514':
-    name:
-      km: ពាំងល្វា
-      latin: Peang Lvea
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '050515':
-    name:
-      km: ភ្នំតូច
-      latin: Phnom Touch
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '050601':
     name:
       km: ចំបក់
@@ -3500,6 +3380,126 @@ communes:
     name:
       km: យាអង្គ
       latin: Yea Angk
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '050901':
+    name:
+      km: វាំងចាស់
+      latin: Veang Chas
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '050902':
+    name:
+      km: វាលពង់
+      latin: Veal Pong
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '050903':
+    name:
+      km: ត្រាចទង
+      latin: Trach Tong
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '050904':
+    name:
+      km: ព្រះស្រែ
+      latin: Preah Srae
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '050905':
+    name:
+      km: ក្សេមក្សាន្ដ
+      latin: Khsem Khsant
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051001':
+    name:
+      km: ចាន់សែន
+      latin: Chan Saen
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051002':
+    name:
+      km: ជើងរាស់
+      latin: Cheung Roas
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051003':
+    name:
+      km: ជំពូព្រឹក្ស
+      latin: Chumpu Proeks
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051004':
+    name:
+      km: ក្រាំងចេក
+      latin: Krang Chek
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051005':
+    name:
+      km: មានជ័យ
+      latin: Mean Chey
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051006':
+    name:
+      km: ព្រៃក្រសាំង
+      latin: Prey Krasang
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051007':
+    name:
+      km: យុទ្ធសាមគ្គី
+      latin: Yutth Sameakki
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051008':
+    name:
+      km: ដំណាក់រាំង
+      latin: Damnak Reang
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051009':
+    name:
+      km: ពាំងល្វា
+      latin: Peang Lvea
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '051010':
+    name:
+      km: ភ្នំតូច
+      latin: Phnom Touch
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -5104,14 +5104,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '080301':
-    name:
-      km: បាក់ដាវ
-      latin: Bak Dav
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '080302':
     name:
       km: ជ័យធំ
@@ -5136,42 +5128,10 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '080305':
-    name:
-      km: កោះឧកញ៉ាតី
-      latin: Kaoh Oknha Tei
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '080306':
     name:
       km: ព្រះប្រសប់
       latin: Preah Prasab
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080307':
-    name:
-      km: ព្រែកអំពិល
-      latin: Preaek Ampil
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080308':
-    name:
-      km: ព្រែកលួង
-      latin: Preaek Luong
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080309':
-    name:
-      km: ព្រែកតាកូវ
-      latin: Preaek Ta kov
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -5216,14 +5176,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '080315':
-    name:
-      km: ស្វាយជ្រំ
-      latin: Svay Chrum
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '080316':
     name:
       km: ស្វាយរមៀត
@@ -5244,22 +5196,6 @@ communes:
     name:
       km: វិហារសួគ៌
       latin: Vihear Suork
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080401':
-    name:
-      km: ឈើខ្មៅ
-      latin: Chheu Kmau
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080402':
-    name:
-      km: ជ្រោយតាកែវ
-      latin: Chrouy Ta Kaev
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -5304,34 +5240,10 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '080409':
-    name:
-      km: ព្រែកជ្រៃ
-      latin: Prea​ek Chrey
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080410':
-    name:
-      km: ព្រែកស្ដី
-      latin: Preaek Sdei
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '080411':
     name:
       km: ព្រែកថ្មី
       latin: Preaek Thmei
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080412':
-    name:
-      km: សំពៅពូន
-      latin: Sampeou Poun
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -5392,22 +5304,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '080601':
-    name:
-      km: អរិយក្សត្រ
-      latin: Akreiy Ksatr
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080602':
-    name:
-      km: បារុង
-      latin: Barong
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '080603':
     name:
       km: បឹងគ្រំ
@@ -5440,26 +5336,10 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '080607':
-    name:
-      km: ពាមឧកញ៉ាអុង
-      latin: Peam Oknha Ong
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '080608':
     name:
       km: ភូមិធំ
       latin: Phum Thum
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080609':
-    name:
-      km: ព្រែកក្មេង
-      latin: Preaek Kmeng
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -5484,14 +5364,6 @@ communes:
     name:
       km: សំបួរ
       latin: Sambuor
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '080613':
-    name:
-      km: សារិកាកែវ
-      latin: Sarikakaev
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -5912,6 +5784,134 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+  '081201':
+    name:
+      km: ឈើខ្មៅ
+      latin: Chheu Kmau
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081202':
+    name:
+      km: ព្រែកជ្រៃ
+      latin: Prea​ek Chrey
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081203':
+    name:
+      km: ព្រែកស្ដី
+      latin: Preaek Sdei
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081204':
+    name:
+      km: ជ្រោយតាកែវ
+      latin: Chrouy Ta Kaev
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081205':
+    name:
+      km: សំពៅពូន
+      latin: Sampeou Poun
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081301':
+    name:
+      km: បាក់ដាវ
+      latin: Bak Dav
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081302':
+    name:
+      km: កោះឧកញ៉ាតី
+      latin: Kaoh Oknha Tei
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081303':
+    name:
+      km: ព្រែកអំពិល
+      latin: Preaek Ampil
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081304':
+    name:
+      km: ព្រែកលួង
+      latin: Preaek Luong
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081305':
+    name:
+      km: ព្រែកតាកូវ
+      latin: Preaek Ta kov
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081306':
+    name:
+      km: ស្វាយជ្រំ
+      latin: Svay Chrum
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081307':
+    name:
+      km: អរិយក្សត្រ
+      latin: Akreiy Ksatr
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081308':
+    name:
+      km: សារិកាកែវ
+      latin: Sarikakaev
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081309':
+    name:
+      km: ពាមឧកញ៉ាអុង
+      latin: Peam Oknha Ong
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081310':
+    name:
+      km: ព្រែកក្មេង
+      latin: Preaek Kmeng
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '081311':
+    name:
+      km: បារុង
+      latin: Barong
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
   '090101':
     name:
       km: អណ្ដូងទឹក
@@ -6328,34 +6328,10 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '100403':
-    name:
-      km: ក្បាលដំរី
-      latin: Kbal Damrei
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '100404':
     name:
       km: កោះខ្ញែរ
       latin: Kaoh Khnhaer
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '100405':
-    name:
-      km: អូរគ្រៀង
-      latin: Ou Krieng
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '100406':
-    name:
-      km: រលួសមានជ័យ
-      latin: Roluos Mean Chey
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -6376,26 +6352,10 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '100409':
-    name:
-      km: ស្រែជិះ
-      latin: Srae Chis
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
   '100410':
     name:
       km: វឌ្ឍនៈ
       latin: Voadthonak
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-  '100411':
-    name:
-      km: អូរកណ្តៀរសែនជ័យ
-      latin: Oukondear Senchey
     administrative_unit:
       km: ឃុំ
       latin: Khum
@@ -6524,6 +6484,46 @@ communes:
     name:
       km: ថ្មី
       latin: Thmei
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '100701':
+    name:
+      km: ក្បាលដំរី
+      latin: Kbal Damrei
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '100702':
+    name:
+      km: អូរគ្រៀង
+      latin: Ou Krieng
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '100703':
+    name:
+      km: អូរកណ្តៀរសែនជ័យ
+      latin: Oukondear Senchey
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '100704':
+    name:
+      km: រលួសមានជ័យ
+      latin: Roluos Mean Chey
+    administrative_unit:
+      km: ឃុំ
+      latin: Khum
+      en: Commune
+  '100705':
+    name:
+      km: ស្រែជិះ
+      latin: Srae Chis
     administrative_unit:
       km: ឃុំ
       latin: Khum
