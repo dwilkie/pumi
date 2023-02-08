@@ -8,13 +8,13 @@ Pumi (ភូមិ pronounced Poom, which means Village in Khmer) is an Open Sou
 
 ## Demo and API
 
-A [JSON API](https://pumiapp.herokuapp.com) is available to if you're not using Ruby or if you just don't want to install a local copy of the data. The [API Start Page](https://pumiapp.herokuapp.com) also shows a Demo of a UI for for entering any location in Cambodia.
+A [JSON API](https://pumi.onrender.com/) is available to if you're not using Ruby or if you just don't want to install a local copy of the data. The [API Start Page](https://pumi.onrender.com/) also shows a Demo of a UI for for entering any location in Cambodia.
 
 ## Usage
 
 ### Rails
 
-Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both latin and Khmer as seen below and in the [Pumi API Start Page](https://pumiapp.herokuapp.com)
+Using Pumi with Rails gives you some javascript helpers as well as an API to filter and select Provinces (ខេត្ត), Districts (ស្រុក / ខណ្ឌ), Communes (ឃុំ / សង្កាត់) and Villages (ភូមិ) in both latin and Khmer as seen below and in the [Pumi API Start Page](https://pumi.onrender.com/)
 
 ![Pumi UI Latin](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_en.png)
 ![Pumi UI Khmer](https://raw.githubusercontent.com/dwilkie/pumi/master/pumi_ui_km.png)
