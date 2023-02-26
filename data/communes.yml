@@ -1850,12 +1850,12 @@ communes:
       en: Commune
   '030802':
     name:
-      km: កោះសូទិន
-      latin: Kaoh Sotin
+      km: ទី១៥
+      latin: Ti Dobbram
     administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '030803':
     name:
       km: ល្វេ
