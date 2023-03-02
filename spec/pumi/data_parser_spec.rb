@@ -15,10 +15,16 @@ module Pumi
     end
 
     describe "#write_data!" do
-      data_parser = DataParser.new
+      it "writes the data as yaml" do
+        data_parser = DataParser.new
 
-      data = data_parser.load_data!(source_dir: "spec/fixtures/files/source_data")
-      data_parser.write_data!(data, destination_dir: "tmp")
+        data = data_parser.load_data!(source_dir: "spec/fixtures/files/source_data")
+        data_parser.write_data!(data, destination_dir: "tmp")
+
+        expect(File.exist?("tmp/districts.yml")).to eq(true)
+        expect(File.exist?("tmp/communes.yml")).to eq(true)
+        expect(File.exist?("tmp/villages.yml")).to eq(true)
+      end
     end
   end
 end
