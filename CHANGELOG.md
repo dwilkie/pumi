@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.1](https://github.com/dwilkie/pumi/compare/v0.13.0...v0.13.1) (2023-03-02)
+
+
+### Bug Fixes
+
+* Improve data parser ([#35](https://github.com/dwilkie/pumi/issues/35)) ([f17ebf5](https://github.com/dwilkie/pumi/commit/f17ebf5eba26d88f4fff4fb5bb2461d1817a0829))
+
 ## [0.13.0](https://github.com/dwilkie/pumi/compare/v0.12.2...v0.13.0) (2023-02-06)
 
 
