@@ -4,63 +4,9 @@
 
 # $ parse_data
 
-require "pathname"
-require "csv"
-require "yaml"
+require "bundler/setup"
+require "pumi"
 
-DEFAULT_DATA_LOCATION = "tmp/*.csv".freeze
-HEADERS = %w[type code name_km name_latin reference note1 note2].freeze
-CODE_LENGTHS = {
-  4 => "districts",
-  6 => "communes",
-  8 => "villages"
-}.freeze
-
-# https://en.wikipedia.org/wiki/Administrative_divisions_of_Cambodia
-# https://en.wikipedia.org/wiki/Romanization_of_Khmer
-# https://en.wikipedia.org/wiki/United_Nations_Group_of_Experts_on_Geographical_Names
-
-AdministrativeUnit = Struct.new(:en, :km, :latin, keyword_init: true)
-ADMINISTRATIVE_UNITS = {
-  "ស្រុក" => AdministrativeUnit.new(en: "District", km: "ស្រុក", latin: "Srok"),
-  "ខណ្ឌ" => AdministrativeUnit.new(en: "Section", km: "ខណ្ឌ", latin: "Khan"),
-  "ឃុំ" => AdministrativeUnit.new(en: "Commune", km: "ឃុំ", latin: "Khum"),
-  "សង្កាត់" => AdministrativeUnit.new(en: "Quarter", km: "សង្កាត់", latin: "Sangkat"),
-  "ភូមិ" => AdministrativeUnit.new(en: "Village", km: "ភូមិ", latin: "Phum"),
-  "ក្រុង" => AdministrativeUnit.new(en: "Municipality", km: "ក្រុង", latin: "Krong")
-}.freeze
-
-data = {}
-
-Pathname.glob(DEFAULT_DATA_LOCATION).select(&:file?).each do |file|
-  CSV.read(file, headers: HEADERS).each do |row|
-    code = row.fetch("code")
-    next if code.to_s.gsub(/\D/, "").empty?
-
-    code = code.rjust(code.length + 1, "0") if code.length.odd?
-    location_type = CODE_LENGTHS.fetch(code.length)
-    administrative_unit = ADMINISTRATIVE_UNITS.fetch(row.fetch("type"))
-
-    data[location_type] ||= {}
-    data[location_type][code] = {
-      "name" => {
-        "km" => row.fetch("name_km"),
-        "latin" => row.fetch("name_latin")
-      },
-      "administrative_unit" => {
-        "km" => administrative_unit.km,
-        "latin" => administrative_unit.latin,
-        "en" => administrative_unit.en
-      }
-    }
-  end
-end
-
-if data.any?
-  CODE_LENGTHS.each do |_, type|
-    File.write(
-      "data/#{type}.yml",
-      { type => data.fetch(type).sort.to_h }.to_yaml
-    )
-  end
-end
+data_parser = Pumi::DataParser.new
+data = data_parser.load_data!
+data_parser.write_data!(data)
