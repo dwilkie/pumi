@@ -4,8 +4,9 @@
 
 # $ parse_data
 
+require "bundler/setup"
 require "pumi"
 
 data_parser = Pumi::DataParser.new
 data = data_parser.load_data!
-parser.write_data!(data)
+data_parser.write_data!(data)
