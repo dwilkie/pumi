@@ -11,8 +11,8 @@ jobs:
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
+        with:
+          bundler-cache: true
 
       - name: Parse Data
         run: ./bin/parse_data
