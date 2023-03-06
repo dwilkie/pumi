@@ -13,6 +13,8 @@ jobs:
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
 
       - name: Fetch Data
         uses: ./.github/actions/fetch_data
@@ -24,8 +26,8 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.REPO_TOKEN }}
-          commit-message: "fix: Update data"
-          title: "fix: Update data"
+          commit-message: "feat: Update data"
+          title: "feat: Update data"
           labels: "update_data"
           base: "master"
 
