@@ -11,4 +11,5 @@ spec/dummy/log
 /tmp/*
 !/tmp/.keep
 vendor/ruby
+vendor/bundle
 .DS_Store
