@@ -32,7 +32,7 @@ jobs:
           base: "master"
 
       - name: Upload Data
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: data_files
           path: tmp
