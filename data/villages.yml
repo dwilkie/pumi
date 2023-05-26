@@ -53016,6 +53016,22 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '08130602':
+    name:
+      km: ស្វាយជ្រុំ
+      latin: Svay Chrum
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '08130603':
+    name:
+      km: បារាជ
+      latin: Ba Reach
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '08130701':
     name:
       km: អរិយក្សត្រ
