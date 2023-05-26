@@ -8,4 +8,13 @@ require "bundler/setup"
 require "pumi"
 
 Pumi::DataLoader::NCDD.new.load_data!
-Pumi::DataLoader::Provinces.new.load_data!
+
+Pumi::DataLoader::Locations.new(
+  scraper: Pumi::Scraper::ProvinceScraper.new,
+  data_file: Pumi::DataFile.new(:provinces)
+).load_data!
+
+Pumi::DataLoader::Locations.new(
+  scraper: Pumi::Scraper::DistrictScraper.new,
+  data_file: Pumi::DataFile.new(:districts)
+).load_data!

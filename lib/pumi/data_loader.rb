@@ -4,4 +4,4 @@ module Pumi
 end
 
 require_relative "data_loader/ncdd"
-require_relative "data_loader/provinces"
+require_relative "data_loader/locations"
