@@ -7,6 +7,5 @@
 require "bundler/setup"
 require "pumi"
 
-data_parser = Pumi::DataParser.new
-data = data_parser.load_data!
-data_parser.write_data!(data)
+Pumi::DataLoader::NCDD.new.load_data!
+Pumi::DataLoader::Provinces.new.load_data!
