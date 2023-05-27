@@ -6,7 +6,9 @@ module Pumi
     :name_latin, :full_name_latin,
     :name_en, :full_name_en,
     :address_km, :address_latin, :address_en,
-    :administrative_unit, keyword_init: true
+    :administrative_unit,
+    :links,
+    keyword_init: true
   ) do
     class << self
       attr_accessor :data_store_key

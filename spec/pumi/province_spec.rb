@@ -57,5 +57,13 @@ module Pumi
         expect(Province.find_by_id("99")).to eq(nil)
       end
     end
+
+    describe "#links" do
+      it "returns a list of links" do
+        expect(Province.find_by_id("12").links).to eq(
+          wikipedia: "https://en.wikipedia.org/wiki/Phnom_Penh"
+        )
+      end
+    end
   end
 end

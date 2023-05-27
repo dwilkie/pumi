@@ -75,6 +75,11 @@ And then execute:
   # Find a province by its Khmer name
   Pumi::Province.where(name_km: "បន្ទាយមានជ័យ")
 
+  # Get a list of links for a province
+  province = Pumi::Province.find_by_id("12")
+  province.links
+  # => {:wikipedia=>"https://en.wikipedia.org/wiki/Phnom_Penh"}
+
   # Working with Districts (ស្រុក / ខណ្ឌ)
 
   # Get all districts

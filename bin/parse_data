@@ -7,6 +7,19 @@
 require "bundler/setup"
 require "pumi"
 
-data_parser = Pumi::DataParser.new
-data = data_parser.load_data!
-data_parser.write_data!(data)
+Pumi::DataSource::NCDD.new.load_data!
+
+Pumi::DataSource::Wikipedia.new(
+  scraper: Pumi::DataSource::Wikipedia::CambodianProvincesScraper.new,
+  data_file: Pumi::DataFile.new(:provinces)
+).load_data!
+
+Pumi::DataSource::Wikipedia.new(
+  scraper: Pumi::DataSource::Wikipedia::CambodianDistrictsScraper.new,
+  data_file: Pumi::DataFile.new(:districts)
+).load_data!
+
+Pumi::DataSource::Wikipedia.new(
+  scraper: Pumi::DataSource::Wikipedia::CambodianCommunesScraper.new,
+  data_file: Pumi::DataFile.new(:communes)
+).load_data!

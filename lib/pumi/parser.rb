@@ -3,9 +3,12 @@ require "pathname"
 
 module Pumi
   class Parser
-    DATA_DIRECTORY = Pathname.new(File.expand_path("..", File.dirname(__dir__))).join("data")
+    DEFAULT_DATA_DIRECTORY = File.join(File.expand_path("..", File.dirname(__dir__)), "data")
 
-    AdministrativeDivision = Struct.new(:type, :name, :data_key, :id_length, :parent_divisions, keyword_init: true)
+    AdministrativeDivision = Struct.new(
+      :type, :name, :data_key, :id_length, :parent_divisions, keyword_init: true
+    )
+
     PROVINCE = AdministrativeDivision.new(
       type: Province,
       name: :province,
@@ -48,19 +51,16 @@ module Pumi
       AddressType.new(locale: :en, default_delimiter: ", ")
     ].freeze
 
-    attr_reader :type, :administrative_division
+    attr_reader :type, :data_directory, :administrative_division
 
-    def initialize(type)
+    def initialize(type, data_directory: DEFAULT_DATA_DIRECTORY)
       @type = type
+      @data_directory = Pathname(data_directory)
       @administrative_division = ADMINISTRATIVE_DIVISIONS.fetch(type)
     end
 
     def load
-      data = YAML.load_file(
-        DATA_DIRECTORY.join("#{administrative_division.data_key}.yml")
-      ).fetch(administrative_division.data_key.to_s)
-
-      data.each_with_object({}) do |(id, attributes), result|
+      raw_data.each_with_object({}) do |(id, attributes), result|
         location_data = build_location_data(id, attributes)
         add_parent_divisions(location_data)
         add_addresses(location_data)
@@ -71,6 +71,12 @@ module Pumi
 
     private
 
+    def raw_data
+      @raw_data ||= YAML.load_file(
+        data_directory.join("#{administrative_division.data_key}.yml")
+      ).fetch(administrative_division.data_key.to_s)
+    end
+
     def build_location_data(id, attributes)
       name = attributes.fetch("name")
       name_km = name.fetch("km")
@@ -80,10 +86,11 @@ module Pumi
       )
 
       {
-        id: id,
-        administrative_unit: administrative_unit,
-        name_km: name_km,
-        name_latin: name_latin,
+        id:,
+        administrative_unit:,
+        name_km:,
+        name_latin:,
+        links: attributes.fetch("links", {}).transform_keys(&:to_sym),
         name_en: name_latin,
         full_name_km: [
           administrative_unit_name(name_km, administrative_unit.name_km),

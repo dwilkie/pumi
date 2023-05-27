@@ -1,5 +1,6 @@
 require "selenium/webdriver"
 require "webdrivers"
+require "capybara"
 
 Capybara.register_driver :selenium_chrome do |app|
   Capybara::Selenium::Driver.new(app, browser: :chrome)

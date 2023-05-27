@@ -8,6 +8,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Banteay_Neang
   '010202':
     name:
       km: បត់ត្រង់
@@ -16,6 +18,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bat_Trang_(Cambodia)
   '010203':
     name:
       km: ចំណោម
@@ -24,6 +28,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chamnaom
   '010204':
     name:
       km: គោកបល្ល័ង្គ
@@ -32,6 +38,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kouk_Ballangk
   '010205':
     name:
       km: គយម៉ែង
@@ -40,6 +48,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Koy_Maeng
   '010206':
     name:
       km: អូរប្រាសាទ
@@ -48,6 +58,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Prasat
   '010207':
     name:
       km: ភ្នំតូច
@@ -56,6 +68,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phnum_Touch
   '010208':
     name:
       km: រហាត់ទឹក
@@ -64,6 +78,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Rohat_Tuek
   '010209':
     name:
       km: ឫស្សីក្រោក
@@ -72,6 +88,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ruessei_Kraok
   '010210':
     name:
       km: សំបួរ
@@ -80,6 +98,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sambuor
   '010211':
     name:
       km: សឿ
@@ -88,6 +108,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Soea
   '010212':
     name:
       km: ស្រះរាំង
@@ -96,6 +118,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Srah_Reang
   '010213':
     name:
       km: តាឡំ
@@ -104,6 +128,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Lam
   '010301':
     name:
       km: ណាំតៅ
@@ -112,6 +138,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Nam_Tau,_Cambodia
   '010302':
     name:
       km: ប៉ោយចារ
@@ -120,6 +148,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Paoy_Char
   '010303':
     name:
       km: ពន្លៃ
@@ -128,6 +158,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ponley
   '010304':
     name:
       km: ស្ពានស្រែង
@@ -136,6 +168,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Spean_Sraeng_Rouk
   '010305':
     name:
       km: ស្រះជីក
@@ -144,6 +178,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Srah_Chik
   '010306':
     name:
       km: ភ្នំដី
@@ -152,6 +188,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phnom_Dei
   '010401':
     name:
       km: ឈ្នួរមានជ័យ
@@ -160,6 +198,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chhnuor
   '010402':
     name:
       km: ជប់វារី
@@ -168,6 +208,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chob
   '010403':
     name:
       km: ភ្នំលៀប
@@ -176,6 +218,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phnum_Lieb
   '010404':
     name:
       km: ប្រាសាទ
@@ -184,6 +228,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prasat_Char
   '010405':
     name:
       km: ព្រះនេត្រព្រះ
@@ -192,6 +238,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preah_Netr_Preah
   '010406':
     name:
       km: រហាល
@@ -200,6 +248,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Rohal_Rohal
   '010407':
     name:
       km: ទានកាំ
@@ -208,6 +258,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tean_Kam
   '010408':
     name:
       km: ទឹកជោរ
@@ -216,6 +268,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tuek_Chour_Smach
   '010409':
     name:
       km: បុស្បូវ
@@ -224,6 +278,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bos_Sbov
   '010501':
     name:
       km: ចង្ហា
@@ -232,6 +288,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Changha
   '010502':
     name:
       km: កូប
@@ -240,6 +298,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Koub
   '010503':
     name:
       km: គុត្ដសត
@@ -248,6 +308,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kuttasat
   '010505':
     name:
       km: សំរោង
@@ -256,6 +318,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Samraong,_Banteay_Meanchey_(commune)
   '010506':
     name:
       km: សូភី
@@ -264,6 +328,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Souphi
   '010507':
     name:
       km: សឹង្ហ
@@ -272,6 +338,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Soengh
   '010509':
     name:
       km: អូរបីជាន់
@@ -280,6 +348,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Bei_Choan
   '010602':
     name:
       km: កំពង់ស្វាយ
@@ -288,6 +358,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Svay_(commune)
   '010603':
     name:
       km: កោះពងសត្វ
@@ -296,6 +368,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kaoh_Pong_Satv
   '010604':
     name:
       km: ម្កាក់
@@ -304,6 +378,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Mkak
   '010605':
     name:
       km: អូរអំបិល
@@ -312,6 +388,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Ambel
   '010606':
     name:
       km: ភ្នៀត
@@ -320,6 +398,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phniet
   '010607':
     name:
       km: ព្រះពន្លា
@@ -328,6 +408,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preah_Ponlea
   '010608':
     name:
       km: ទឹកថ្លា
@@ -336,6 +418,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tuek_Thla,_Banteay_Meanchey
   '010701':
     name:
       km: បន្ទាយឆ្មារ
@@ -344,6 +428,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Banteay_Chhmar
   '010702':
     name:
       km: គោករមៀត
@@ -352,6 +438,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kouk_Romiet
   '010703':
     name:
       km: ភូមិថ្មី
@@ -360,6 +448,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phum_Thmei
   '010704':
     name:
       km: ថ្មពួក
@@ -368,6 +458,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Thma_Puok_(commune)
   '010705':
     name:
       km: គោកកឋិន
@@ -376,6 +468,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kouk_Kakthen
   '010706':
     name:
       km: គំរូ
@@ -384,6 +478,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kumru,_Cambodia
   '010801':
     name:
       km: ផ្គាំ
@@ -392,6 +488,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phkoam
   '010802':
     name:
       km: សារង្គ
@@ -400,6 +498,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sarongk
   '010803':
     name:
       km: ស្លក្រាម
@@ -408,6 +508,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sla_Kram
   '010804':
     name:
       km: ស្វាយចេក
@@ -416,6 +518,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Svay_Chek_(commune)
   '010805':
     name:
       km: តាបែន
@@ -424,6 +528,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Baen
   '010806':
     name:
       km: តាផូ
@@ -432,6 +538,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Phou
   '010807':
     name:
       km: ទ្រាស
@@ -440,6 +548,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Treas
   '010808':
     name:
       km: រលួស
@@ -448,6 +558,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Roluos
   '010901':
     name:
       km: បឹងបេង
@@ -456,6 +568,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Boeng_Beng
   '010902':
     name:
       km: ម៉ាឡៃ
@@ -464,6 +578,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Malai_(commune)
   '010903':
     name:
       km: អូរសំព័រ
@@ -472,6 +588,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Sampor
   '010904':
     name:
       km: អូរស្រឡៅ
@@ -480,6 +598,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Sralau
   '010905':
     name:
       km: ទួលពង្រ
@@ -488,6 +608,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tuol_Pongro
   '010906':
     name:
       km: តាគង់
@@ -496,6 +618,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Kong
   '011001':
     name:
       km: និមិត្ដ
@@ -504,6 +628,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Nimitt
   '011002':
     name:
       km: ប៉ោយប៉ែត
@@ -512,6 +638,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Poipet
   '011003':
     name:
       km: ផ្សារកណ្តាល
@@ -544,6 +672,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kantueu_Muoy
   '020102':
     name:
       km: កន្ទឺ ២
@@ -552,6 +682,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kantueu_Pir
   '020103':
     name:
       km: បាយដំរាំ
@@ -560,6 +692,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bay_Damram
   '020104':
     name:
       km: ឈើទាល
@@ -568,6 +702,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chheu_Teal
   '020105':
     name:
       km: ចែងមានជ័យ
@@ -576,6 +712,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chaeng_Mean_Chey
   '020106':
     name:
       km: ភ្នំសំពៅ
@@ -584,6 +722,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phnum_Sampov
   '020107':
     name:
       km: ស្នឹង
@@ -592,6 +732,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Snoeng
   '020108':
     name:
       km: តាគ្រាម
@@ -600,6 +742,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Kream
   '020201':
     name:
       km: តាពូង
@@ -608,6 +752,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Pung
   '020202':
     name:
       km: តាម៉ឺន
@@ -616,6 +762,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Meun
   '020203':
     name:
       km: អូរតាគី
@@ -624,6 +772,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Ta_Ki
   '020204':
     name:
       km: ជ្រៃ
@@ -632,6 +782,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chrey,_Thma_Koul
   '020205':
     name:
       km: អន្លង់រុន
@@ -640,6 +792,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Anlong_Run
   '020206':
     name:
       km: ជ្រោយស្ដៅ
@@ -648,6 +802,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chrouy_Sdau
   '020207':
     name:
       km: បឹងព្រីង
@@ -656,6 +812,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Boeng_Pring
   '020208':
     name:
       km: គោកឃ្មុំ
@@ -664,6 +822,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kouk_Khmum
   '020209':
     name:
       km: បន្សាយត្រែង
@@ -672,6 +832,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bansay_Traeng
   '020210':
     name:
       km: រូងជ្រៃ
@@ -680,6 +842,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Rung_Chrey
   '020301':
     name:
       km: ទួលតាឯក
@@ -688,6 +852,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tuol_Ta_Aek
   '020302':
     name:
       km: ព្រែកព្រះស្ដេច
@@ -712,6 +878,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chamkar_Samraong
   '020305':
     name:
       km: ស្លាកែត
@@ -720,6 +888,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sla_Kaet
   '020306':
     name:
       km: ក្ដុលដូនទាវ
@@ -728,6 +898,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kdol_Doun_Teav
   '020307':
     name:
       km: អូរម៉ាល់
@@ -736,6 +908,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Mal
   '020308':
     name:
       km: វត្ដគរ
@@ -744,6 +918,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Voat_Kor
   '020309':
     name:
       km: អូរចារ
@@ -752,6 +928,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Char
   '020310':
     name:
       km: ស្វាយប៉ោ
@@ -760,6 +938,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Svay_Pao
   '020401':
     name:
       km: បវេល
@@ -768,6 +948,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bavel_(commune)
   '020402':
     name:
       km: ខ្នាចរមាស
@@ -776,6 +958,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Khnach_Romeas
   '020403':
     name:
       km: ល្វា
@@ -792,6 +976,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Khpos
   '020405':
     name:
       km: អំពិលប្រាំដើម
@@ -800,6 +986,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ampil_Pram_Daeum
   '020406':
     name:
       km: ក្ដុលតាហែន
@@ -808,6 +996,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kdol_Tahen
   '020407':
     name:
       km: ឃ្លាំងមាស
@@ -840,6 +1030,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preaek_Norint
   '020502':
     name:
       km: សំរោងក្នុង
@@ -848,6 +1040,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Samraong_Knong
   '020503':
     name:
       km: ព្រែកខ្ពប
@@ -856,6 +1050,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preaek_Khpob
   '020504':
     name:
       km: ព្រែកហ្លួង
@@ -864,6 +1060,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preaek_Luong
   '020505':
     name:
       km: ពាមឯក
@@ -872,6 +1070,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Peam_Aek
   '020506':
     name:
       km: ព្រៃចាស់
@@ -880,6 +1080,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Chas
   '020507':
     name:
       km: កោះជីវាំង
@@ -888,6 +1090,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kaoh_Chiveang_Thvang
   '020601':
     name:
       km: មោង
@@ -896,6 +1100,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Moung
   '020602':
     name:
       km: គារ
@@ -904,6 +1110,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kear_(khum)
   '020603':
     name:
       km: ព្រៃស្វាយ
@@ -912,6 +1120,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Svay
   '020604':
     name:
       km: ឫស្សីក្រាំង
@@ -920,6 +1130,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ruessei_Krang
   '020605':
     name:
       km: ជ្រៃ
@@ -928,6 +1140,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chrey,_Moung_Ruessei
   '020606':
     name:
       km: តាលាស់
@@ -936,6 +1150,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Loas
   '020607':
     name:
       km: កកោះ
@@ -944,6 +1160,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kakaoh
   '020608':
     name:
       km: ព្រៃតូច
@@ -952,6 +1170,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Touch
   '020609':
     name:
       km: របស់មង្គល
@@ -960,6 +1180,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Robas_Mongkol
   '020701':
     name:
       km: ស្ដៅ
@@ -968,6 +1190,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sdau
   '020702':
     name:
       km: អណ្ដើកហែប
@@ -976,6 +1200,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Andaeuk_Haeb
   '020703':
     name:
       km: ផ្លូវមាស
@@ -984,6 +1210,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phlov_Meas
   '020704':
     name:
       km: ត្រែង
@@ -992,6 +1220,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Traeng
   '020705':
     name:
       km: រស្មីសង្ហារ
@@ -1008,6 +1238,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Anlong_Vil
   '020802':
     name:
       km: នរា
@@ -1016,6 +1248,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Norea,_Cambodia
   '020803':
     name:
       km: តាប៉ុន
@@ -1024,6 +1258,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Pon
   '020804':
     name:
       km: រកា
@@ -1032,6 +1268,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Roka,_Cambodia
   '020805':
     name:
       km: កំពង់ព្រះ
@@ -1040,6 +1278,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Preah
   '020806':
     name:
       km: កំពង់ព្រៀង
@@ -1048,6 +1288,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Prieng
   '020807':
     name:
       km: រាំងកេសី
@@ -1056,6 +1298,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Reang_Kesei
   '020808':
     name:
       km: អូរដំបង ១
@@ -1064,6 +1308,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Dambang_Muoy
   '020809':
     name:
       km: អូរដំបង ២
@@ -1072,6 +1318,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Dambang_Pir
   '020810':
     name:
       km: វត្ដតាមិម
@@ -1080,6 +1328,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Voat_Ta_Muem
   '020901':
     name:
       km: តាតោក
@@ -1088,6 +1338,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Taok
   '020902':
     name:
       km: កំពង់ល្ពៅ
@@ -1096,6 +1348,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Lpov_Commune
   '020903':
     name:
       km: អូរសំរិល
@@ -1104,6 +1358,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Samrel
   '020904':
     name:
       km: ស៊ុង
@@ -1112,6 +1368,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sung,_Cambodia
   '020905':
     name:
       km: សំឡូត
@@ -1120,6 +1378,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Samlout_(commune)
   '020906':
     name:
       km: មានជ័យ
@@ -1128,6 +1388,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Mean_Chey_Commune_(Samlout)
   '020907':
     name:
       km: តាសាញ
@@ -1136,6 +1398,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Sanh
   '021001':
     name:
       km: សំពៅលូន
@@ -1144,6 +1408,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sampov_Lun_Commune
   '021002':
     name:
       km: អង្គរបាន
@@ -1152,6 +1418,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angkor_Ban
   '021003':
     name:
       km: តាស្ដា
@@ -1160,6 +1428,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Sda
   '021004':
     name:
       km: សន្ដិភាព
@@ -1168,6 +1438,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Santepheap
   '021005':
     name:
       km: សេរីមានជ័យ
@@ -1176,6 +1448,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Serei_Mean_Chey
   '021006':
     name:
       km: ជ្រៃសីមា
@@ -1184,6 +1458,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chrey_Seima
   '021101':
     name:
       km: ភ្នំព្រឹក
@@ -1192,6 +1468,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phnum_Proek_(commune)
   '021102':
     name:
       km: ពេជ្រចិន្ដា
@@ -1200,6 +1478,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pech_Chenda
   '021103':
     name:
       km: បួរ
@@ -1208,6 +1488,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bour_(commune)
   '021104':
     name:
       km: បារាំងធ្លាក់
@@ -1216,6 +1498,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Barang_Thleak
   '021105':
     name:
       km: អូររំដួល
@@ -1224,6 +1508,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Rumduol
   '021201':
     name:
       km: កំរៀង
@@ -1232,6 +1518,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kamrieng_(commune)
   '021202':
     name:
       km: បឹងរាំង
@@ -1240,6 +1528,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Boeng_Reang
   '021203':
     name:
       km: អូរដា
@@ -1248,6 +1538,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Da
   '021204':
     name:
       km: ត្រាង
@@ -1256,6 +1548,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Trang_(commune)
   '021205':
     name:
       km: តាសែន
@@ -1264,6 +1558,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Saen
   '021206':
     name:
       km: តាក្រី
@@ -1272,6 +1568,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Krai
   '021301':
     name:
       km: ធិបតី
@@ -1280,6 +1578,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Thipakdei
   '021302':
     name:
       km: គាស់ក្រឡ
@@ -1296,6 +1596,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Hab,_Cambodia
   '021304':
     name:
       km: ព្រះផុស
@@ -1304,6 +1606,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preah_Phos
   '021305':
     name:
       km: ដូនបា
@@ -1312,6 +1616,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Doun_Ba
   '021306':
     name:
       km: ឆ្នាល់មាន់
@@ -1320,6 +1626,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chhnal_Moan
   '021401':
     name:
       km: ព្រែកជីក
@@ -1328,6 +1636,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prek_Chik
   '021402':
     name:
       km: ព្រៃត្រឡាច
@@ -1336,6 +1646,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Tralach
   '021403':
     name:
       km: មុខរាហ៍
@@ -1616,6 +1928,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Cham_(city)
   '030503':
     name:
       km: សំបួរមាស
@@ -1912,6 +2226,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Baray
   '031302':
     name:
       km: បឹងណាយ
@@ -2336,6 +2652,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kaoh_Thkov
   '040203':
     name:
       km: កំពង់អុស
@@ -2376,6 +2694,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Chhnang_(city)
   '040303':
     name:
       km: ប្អេរ
@@ -2928,6 +3248,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chbar_Mon
   '050202':
     name:
       km: កណ្ដោលដុំ
@@ -3336,6 +3658,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Amleang
   '050802':
     name:
       km: មនោរម្យ
@@ -3688,6 +4012,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Thom_(city)
   '060303':
     name:
       km: កំពង់រទេះ
@@ -4040,6 +4366,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Peam_Bang
   '060808':
     name:
       km: ពពក
@@ -6232,6 +6560,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Krati%C3%A9_(town)
   '100210':
     name:
       km: អូរឫស្សី
@@ -6624,6 +6954,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Dak_Dam
   '110302':
     name:
       km: សែនមនោរម្យ
@@ -6704,6 +7036,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tonle_Bassac_(commune)
   '120109':
     name:
       km: ទួលទំពូងទី ២
@@ -6800,6 +7134,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chey_Chumneas
   '120209':
     name:
       km: ផ្សារចាស់
@@ -6888,6 +7224,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Boeung_Prolit
   '120401':
     name:
       km: ផ្សារដេប៉ូទី ១
@@ -7128,6 +7466,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Svay_Pak
   '120704':
     name:
       km: គីឡូម៉ែត្រលេខ៦
@@ -7192,6 +7532,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tuek_Thla,_Phnom_Penh
   '120803':
     name:
       km: ឃ្មួញ
@@ -7480,6 +7822,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tuol_Svay_Prey_2
   '121401':
     name:
       km: កំបូល
@@ -8416,6 +8760,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Neak_Leung
   '140704':
     name:
       km: ពាមមានជ័យ
@@ -9272,6 +9618,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Malik,_Cambodia
   '160103':
     name:
       km: ញ៉ាង
@@ -9528,6 +9876,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bar_Kham
   '160702':
     name:
       km: លំជ័រ
@@ -9552,6 +9902,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pate,_Cambodia
   '160705':
     name:
       km: សេសាន
@@ -9640,6 +9992,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kok_Lak
   '160908':
     name:
       km: ប៉ាកាឡាន់
@@ -10112,6 +10466,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Phluk
   '170905':
     name:
       km: កន្ទ្រាំង
@@ -11448,6 +11804,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Svay_Rieng_(town)
   '200602':
     name:
       km: ព្រៃឆ្លាក់
@@ -11616,6 +11974,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angkor_Borei_Commune
   '210102':
     name:
       km: បាស្រែ
@@ -11624,6 +11984,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ba_Srae_Commune
   '210103':
     name:
       km: គោកធ្លក
@@ -11632,6 +11994,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kouk_Thlok_Commune
   '210104':
     name:
       km: ពន្លៃ
@@ -11640,6 +12004,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ponley_Commune_(Angkor_Borei_District)
   '210105':
     name:
       km: ព្រែកផ្ទោល
@@ -11648,6 +12014,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prek_Phtoul_Commune
   '210106':
     name:
       km: ព្រៃផ្គាំ
@@ -11656,6 +12024,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Phkoam_Commune
   '210201':
     name:
       km: ចំបក់
@@ -11664,6 +12034,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chambak_Commune_(Bati_District)
   '210202':
     name:
       km: ចំប៉ី
@@ -11672,6 +12044,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Champei_Commune_(Bati_District)
   '210203':
     name:
       km: ដូង
@@ -11680,6 +12054,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Doung_Commune_(Bati_District)
   '210204':
     name:
       km: កណ្ដឹង
@@ -11688,6 +12064,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kandoeng_Commune
   '210205':
     name:
       km: កុមាររាជា
@@ -11696,6 +12074,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Komar_Reachea_Commune
   '210206':
     name:
       km: ក្រាំងលាវ
@@ -11704,6 +12084,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Krang_Leav_Commune_(Bati_District)
   '210207':
     name:
       km: ក្រាំងធ្នង់
@@ -11712,6 +12094,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Krang_Thnong_Commune
   '210208':
     name:
       km: លំពង់
@@ -11720,6 +12104,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Lumpong_Commune
   '210209':
     name:
       km: ពារាម
@@ -11728,6 +12114,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pea_Ream_Commune
   '210210':
     name:
       km: ពត់សរ
@@ -11736,6 +12124,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pot_Sar_Commune
   '210211':
     name:
       km: សូរភី
@@ -11744,6 +12134,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sour_Phi_Commune
   '210212':
     name:
       km: តាំងដូង
@@ -11752,6 +12144,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tang_Doung_Commune
   '210213':
     name:
       km: ត្នោត
@@ -11760,6 +12154,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tnaot_Commune_(Bati_District)
   '210214':
     name:
       km: ត្រពាំងក្រសាំង
@@ -11768,6 +12164,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Trapeang_Krasang_Commune
   '210215':
     name:
       km: ត្រពាំងសាប
@@ -11776,6 +12174,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Trapeang_Sab_Commune
   '210301':
     name:
       km: បូរីជលសារ
@@ -11784,6 +12184,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Bourei_Cholsar_Commune
   '210302':
     name:
       km: ជ័យជោគ
@@ -11792,6 +12194,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chey_Chouk_Commune
   '210303':
     name:
       km: ដូងខ្ពស់
@@ -11800,6 +12204,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Doung_Khpos_Commune
   '210304':
     name:
       km: កំពង់ក្រសាំង
@@ -11808,6 +12214,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Krasang_Commune
   '210305':
     name:
       km: គោកពោធិ៍
@@ -11816,6 +12224,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kouk_Pou_Commune
   '210401':
     name:
       km: អង្គប្រាសាទ
@@ -11824,6 +12234,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angk_Prasat_Commune
   '210402':
     name:
       km: ព្រះបាទជាន់ជុំ
@@ -11832,6 +12244,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preah_Bat_Choan_Chum_Commune
   '210403':
     name:
       km: កំណប់
@@ -11840,6 +12254,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kamnab_Commune
   '210404':
     name:
       km: កំពែង
@@ -11848,6 +12264,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampeaeng_Commune_(Kiri_Vong_District)
   '210405':
     name:
       km: គីរីចុងកោះ
@@ -11856,6 +12274,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kiri_Chong_Kaoh_Commune
   '210406':
     name:
       km: គោកព្រេច
@@ -11864,6 +12284,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kouk_Prech_Commune
   '210407':
     name:
       km: ភ្នំដិន
@@ -11872,6 +12294,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phnum_Den_Commune
   '210408':
     name:
       km: ព្រៃអំពក
@@ -11880,6 +12304,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Ampok_Commune
   '210409':
     name:
       km: ព្រៃរំដេង
@@ -11888,6 +12314,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Rumdeng_Commune_(Kiri_Vong_District)
   '210410':
     name:
       km: រាមអណ្ដើក
@@ -11896,6 +12324,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ream_Andaeuk_Commune
   '210411':
     name:
       km: សោម
@@ -11904,6 +12334,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Saom_Commune
   '210412':
     name:
       km: តាអូរ
@@ -11912,6 +12344,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Our_Commune
   '210501':
     name:
       km: ក្រពុំឈូក
@@ -11920,6 +12354,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Krapum_Chhuk_Commune
   '210502':
     name:
       km: ពេជសារ
@@ -11928,6 +12364,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pech_Sar_Commune
   '210503':
     name:
       km: ព្រៃខ្លា
@@ -11936,6 +12374,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Khla_Commune_(Kaoh_Andaet_District)
   '210504':
     name:
       km: ព្រៃយុថ្កា
@@ -11944,6 +12384,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Yuthka_Commune
   '210505':
     name:
       km: រមេញ
@@ -11952,6 +12394,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Romenh_Commune
   '210506':
     name:
       km: ធ្លាប្រជុំ
@@ -11960,6 +12404,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Thlea_Prachum_Commune
   '210601':
     name:
       km: អង្កាញ់
@@ -11968,6 +12414,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angkanh_Commune_(Prey_Kabbas_District)
   '210602':
     name:
       km: បានកាម
@@ -11976,6 +12424,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ban_Kam_Commune
   '210603':
     name:
       km: ចំប៉ា
@@ -11984,6 +12434,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Champa_Commune
   '210604':
     name:
       km: ចារ
@@ -11992,6 +12444,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Char_Commune
   '210605':
     name:
       km: កំពែង
@@ -12000,6 +12454,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampeaeng_Commune_(Prey_Kabbas_District)
   '210606':
     name:
       km: កំពង់រាប
@@ -12008,6 +12464,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Reab_Commune_(Prey_Kabbas_District)
   '210607':
     name:
       km: ក្ដាញ់
@@ -12016,6 +12474,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kdanh_Commune
   '210608':
     name:
       km: ពោធិ៍រំចាក
@@ -12024,6 +12484,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pou_Rumchak_Commune
   '210609':
     name:
       km: ព្រៃកប្បាស
@@ -12032,6 +12494,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Kabbas_Commune
   '210610':
     name:
       km: ព្រៃល្វា
@@ -12040,6 +12504,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Lvea_Commune
   '210611':
     name:
       km: ព្រៃផ្ដៅ
@@ -12048,6 +12514,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Phdau_Commune
   '210612':
     name:
       km: ស្នោ
@@ -12056,6 +12524,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Snao_Commune
   '210613':
     name:
       km: តាំងយ៉ាប
@@ -12064,6 +12534,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tang_Yab_Commune
   '210701':
     name:
       km: បឹងត្រាញ់ខាងជើង
@@ -12072,6 +12544,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Boeng_Tranh_Khang_Cheung_Commune
   '210702':
     name:
       km: បឹងត្រាញ់ខាងត្បូង
@@ -12080,6 +12554,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Boeng_Tranh_Khang_Tboung_Commune
   '210703':
     name:
       km: ជើងគួន
@@ -12088,6 +12564,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Cheung_Kuon_Commune
   '210704':
     name:
       km: ជំរះពេន
@@ -12096,6 +12574,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chumreah_Pen_Commune
   '210705':
     name:
       km: ខ្វាវ
@@ -12104,6 +12584,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Khvav_Commune_(Samraong_District)
   '210706':
     name:
       km: លំចង់
@@ -12112,6 +12594,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Lumchang_Commune
   '210707':
     name:
       km: រវៀង
@@ -12120,6 +12604,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Rovieng_Commune
   '210708':
     name:
       km: សំរោង
@@ -12128,6 +12614,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Samraong_Commune_(Samraong_District)
   '210709':
     name:
       km: សឹង្ហ
@@ -12136,6 +12624,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Soengh_Commune_(Samraong_District)
   '210710':
     name:
       km: ស្លា
@@ -12144,6 +12634,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sla_Commune
   '210711':
     name:
       km: ទ្រា
@@ -12152,6 +12644,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Trea_Commune_(Samraong_District)
   '210801':
     name:
       km: បារាយណ៍
@@ -12160,6 +12654,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sangkat_Baray_(Doun_Kaev_Municipality)
   '210802':
     name:
       km: រកាក្នុង
@@ -12168,6 +12664,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sangkat_Roka_Knong
   '210803':
     name:
       km: រកាក្រៅ
@@ -12176,6 +12674,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sangkat_Roka_Krau
   '210901':
     name:
       km: អង្គតាសោម
@@ -12184,6 +12684,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angk_Ta_Saom_Commune
   '210902':
     name:
       km: ជាងទង
@@ -12192,6 +12694,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Cheang_Tong_Commune
   '210903':
     name:
       km: គុស
@@ -12200,6 +12704,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kus_Commune
   '210904':
     name:
       km: លាយបូរ
@@ -12208,6 +12714,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Leay_Bour_Commune
   '210905':
     name:
       km: ញ៉ែងញ៉ង
@@ -12216,6 +12724,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Nhaeng_Nhang_Commune
   '210906':
     name:
       km: អូរសារាយ
@@ -12224,6 +12734,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Our_Saray_Commune
   '210907':
     name:
       km: ត្រពាំងក្រញូង
@@ -12232,6 +12744,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Trapeang_Kranhung_Commune
   '210908':
     name:
       km: ឧត្ដមសុរិយា
@@ -12240,6 +12754,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Otdam_Soriya_Commune
   '210909':
     name:
       km: ពពេល
@@ -12248,6 +12764,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Popel_Commune_(Tram_Kak_District)
   '210910':
     name:
       km: សំរោង
@@ -12256,6 +12774,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Samraong_Commune_(Tram_Kak_District)
   '210911':
     name:
       km: ស្រែរនោង
@@ -12264,6 +12784,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Srae_Ronoung_Commune
   '210912':
     name:
       km: តាភេម
@@ -12272,6 +12794,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ta_Phem_Commune
   '210913':
     name:
       km: ត្រាំកក់
@@ -12280,6 +12804,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tram_Kak_Commune
   '210914':
     name:
       km: ត្រពាំងធំខាងជើង
@@ -12288,6 +12814,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Trapeang_Thum_Khang_Cheung_Commune
   '210915':
     name:
       km: ត្រពាំងធំខាងត្បូង
@@ -12296,6 +12824,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Trapeang_Thum_Khang_Tboung_Commune
   '211001':
     name:
       km: អង្កាញ់
@@ -12304,6 +12834,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angkanh_Commune_(Treang_District)
   '211002':
     name:
       km: អង្គខ្នុរ
@@ -12312,6 +12844,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angk_Khnor_Commune
   '211003':
     name:
       km: ជីខ្មា
@@ -12320,6 +12854,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Chi_Khma_Commune
   '211004':
     name:
       km: ខ្វាវ
@@ -12328,6 +12864,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Khvav_Commune
   '211005':
     name:
       km: ប្រាំបីមុំ
@@ -12336,6 +12874,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prambei_Mum_Commune
   '211006':
     name:
       km: អង្គកែវ
@@ -12344,6 +12884,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angk_Kev_Commune
   '211007':
     name:
       km: ព្រៃស្លឹក
@@ -12352,6 +12894,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Sloek_Commune
   '211008':
     name:
       km: រនាម
@@ -12360,6 +12904,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Roneam_Commune
   '211009':
     name:
       km: សំបួរ
@@ -12368,6 +12914,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sambuor_Commune
   '211010':
     name:
       km: សន្លុង
@@ -12376,6 +12924,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sanlong_Commune
   '211011':
     name:
       km: ស្មោង
@@ -12384,6 +12934,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Smaong_Commune
   '211012':
     name:
       km: ស្រង៉ែ
@@ -12392,6 +12944,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Srangae_Commune_(Treang_District)
   '211013':
     name:
       km: ធ្លក
@@ -12400,6 +12954,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Thlok_Commune_(Treang_District)
   '211014':
     name:
       km: ត្រឡាច
@@ -12408,6 +12964,8 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tralach_Commune
   '220101':
     name:
       km: អន្លង់វែង
@@ -12552,6 +13110,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/O_Smach
   '220501':
     name:
       km: បាក់អន្លូង
@@ -13096,6 +13656,8 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Suong,_Cambodia
   '250602':
     name:
       km: វិហារលួង
