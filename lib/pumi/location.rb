@@ -7,7 +7,7 @@ module Pumi
     :name_en, :full_name_en,
     :address_km, :address_latin, :address_en,
     :administrative_unit,
-    :wikipedia,
+    :links,
     keyword_init: true
   ) do
     class << self

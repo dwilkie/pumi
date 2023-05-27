@@ -58,9 +58,11 @@ module Pumi
       end
     end
 
-    describe "#wikipedia" do
-      it "returns the wikipedia link" do
-        expect(Province.find_by_id("12").wikipedia).to eq("https://en.wikipedia.org/wiki/Phnom_Penh")
+    describe "#links" do
+      it "returns a list of links" do
+        expect(Province.find_by_id("12").links).to eq(
+          wikipedia: "https://en.wikipedia.org/wiki/Phnom_Penh"
+        )
       end
     end
   end

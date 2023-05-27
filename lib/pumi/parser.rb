@@ -90,7 +90,7 @@ module Pumi
         administrative_unit:,
         name_km:,
         name_latin:,
-        wikipedia: attributes["wikipedia"],
+        links: attributes.fetch("links", {}).transform_keys(&:to_sym),
         name_en: name_latin,
         full_name_km: [
           administrative_unit_name(name_km, administrative_unit.name_km),

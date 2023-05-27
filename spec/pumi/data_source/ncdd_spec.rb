@@ -1,7 +1,7 @@
 require "spec_helper"
 
 module Pumi
-  module DataLoader
+  module DataSource
     RSpec.describe NCDD do
       describe "#load_data!" do
         it "loads data from source" do

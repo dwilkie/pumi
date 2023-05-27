@@ -8,7 +8,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Banteay_Meanchey_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Banteay_Meanchey_province
   '02':
     name:
       km: បាត់ដំបង
@@ -17,7 +18,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Battambang_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Battambang_province
   '03':
     name:
       km: កំពង់ចាម
@@ -26,7 +28,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Kampong_Cham_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Cham_province
   '04':
     name:
       km: កំពង់ឆ្នាំង
@@ -35,7 +38,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Kampong_Chhnang_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Chhnang_province
   '05':
     name:
       km: កំពង់ស្ពឺ
@@ -44,7 +48,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Kampong_Speu_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Speu_province
   '06':
     name:
       km: កំពង់ធំ
@@ -53,7 +58,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Kampong_Thom_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Thom_province
   '07':
     name:
       km: កំពត
@@ -62,7 +68,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Kampot_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampot_province
   '08':
     name:
       km: កណ្តាល
@@ -71,7 +78,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Kandal_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kandal_province
   '09':
     name:
       km: កោះកុង
@@ -80,7 +88,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Koh_Kong_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Koh_Kong_province
   '10':
     name:
       km: ក្រចេះ
@@ -89,7 +98,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Krati%C3%A9_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Krati%C3%A9_province
   '11':
     name:
       km: មណ្ឌលគិរី
@@ -98,7 +108,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Mondulkiri_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Mondulkiri_province
   '12':
     name:
       km: ភ្នំពេញ
@@ -107,7 +118,8 @@ provinces:
       km: រាជធានី
       latin: Reach Theani
       en: Capital
-    wikipedia: https://en.wikipedia.org/wiki/Phnom_Penh
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Phnom_Penh
   '13':
     name:
       km: ព្រះវិហារ
@@ -116,7 +128,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Preah_Vihear_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Preah_Vihear_province
   '14':
     name:
       km: ព្រៃវែង
@@ -125,7 +138,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Prey_Veng_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prey_Veng_province
   '15':
     name:
       km: ពោធិ៍សាត់
@@ -134,7 +148,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Pursat_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pursat_province
   '16':
     name:
       km: រតនគិរី
@@ -143,7 +158,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Ratanakiri_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ratanakiri_province
   '17':
     name:
       km: សៀមរាប
@@ -152,7 +168,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Siem_Reap_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Siem_Reap_province
   '18':
     name:
       km: ព្រះសីហនុ
@@ -161,7 +178,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Sihanoukville_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sihanoukville_province
   '19':
     name:
       km: ស្ទឹងត្រែង
@@ -170,7 +188,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Stung_Treng_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Stung_Treng_province
   '20':
     name:
       km: ស្វាយរៀង
@@ -179,7 +198,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Svay_Rieng_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Svay_Rieng_province
   '21':
     name:
       km: តាកែវ
@@ -188,7 +208,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Tak%C3%A9o_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tak%C3%A9o_province
   '22':
     name:
       km: ឧត្តរមានជ័យ
@@ -197,7 +218,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Oddar_Meanchey_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Oddar_Meanchey_province
   '23':
     name:
       km: កែប
@@ -206,7 +228,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Kep_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kep_province
   '24':
     name:
       km: ប៉ៃលិន
@@ -215,7 +238,8 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Pailin_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Pailin_province
   '25':
     name:
       km: ត្បូងឃ្មុំ
@@ -224,4 +248,5 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-    wikipedia: https://en.wikipedia.org/wiki/Tboung_Khmum_province
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Tboung_Khmum_province

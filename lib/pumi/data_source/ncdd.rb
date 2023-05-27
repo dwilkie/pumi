@@ -7,7 +7,7 @@ require "yaml"
 # https://en.wikipedia.org/wiki/United_Nations_Group_of_Experts_on_Geographical_Names
 
 module Pumi
-  module DataLoader
+  module DataSource
     class NCDD
       CSV_HEADERS = %w[type code name_km name_latin reference note1 note2].freeze
 
@@ -92,7 +92,7 @@ module Pumi
         return if data.empty?
 
         ADMINISTRATIVE_UNITS.values.map(&:group).uniq do |data_group|
-          DataFile.new(data_group, data_directory: output_dir).write(data.fetch(data_group))
+          DataFile.new(data_group).write(data.fetch(data_group), data_directory: output_dir)
         end
       end
     end
