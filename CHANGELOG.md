@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.18.0](https://github.com/dwilkie/pumi/compare/v0.17.0...v0.18.0) (2023-05-27)
+
+
+### Features
+
+* Add Wikipedia data ([#49](https://github.com/dwilkie/pumi/issues/49)) ([f1cca6f](https://github.com/dwilkie/pumi/commit/f1cca6f81588a94872910284f686846a7876b7fe))
+
 ## [0.17.0](https://github.com/dwilkie/pumi/compare/v0.16.0...v0.17.0) (2023-05-26)
 
 
