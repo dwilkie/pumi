@@ -17,6 +17,7 @@ end
 
 require_relative "pumi/version"
 require_relative "pumi/administrative_unit"
+require_relative "pumi/bot"
 require_relative "pumi/location"
 require_relative "pumi/province"
 require_relative "pumi/district"
