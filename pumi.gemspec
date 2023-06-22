@@ -25,6 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "capybara"
   spec.add_development_dependency "coffee-rails"
+  spec.add_development_dependency "faraday"
   spec.add_development_dependency "jquery-rails"
   spec.add_development_dependency "nokogiri"
   spec.add_development_dependency "pry"
