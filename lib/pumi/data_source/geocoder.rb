@@ -150,10 +150,6 @@ module Pumi
         def ungeocoded_locations
           @ungeocoded_locations ||= []
         end
-
-        def iso3166_2(province)
-          "KH-#{province.id.to_i}"
-        end
       end
 
       class CambodianProvinces < AbstractGeocoder
@@ -164,12 +160,12 @@ module Pumi
         end
 
         def build_search_term(province)
-          iso3166_2(province)
+          province.iso3166_2
         end
 
         def filter(province, geocoder_results)
           geocoder_results.find do |r|
-            r.iso3166_2 == iso3166_2(province) && r.types.include?("administrative")
+            r.iso3166_2 == province.iso3166_2 && r.types.include?("administrative")
           end
         end
       end
@@ -184,7 +180,7 @@ module Pumi
         def filter(district, geocoder_results)
           geocoder_results.find do |r|
             r.country_code == "KH" &&
-              r.iso3166_2 == iso3166_2(district.province) &&
+              r.iso3166_2 == district.province.iso3166_2 &&
               %w[town city administrative].any? { |type| r.types.include?(type) }
           end
         end
@@ -201,7 +197,7 @@ module Pumi
         def filter(commune, geocoder_results)
           geocoder_results.find do |r|
             r.country_code == "KH" &&
-              (r.iso3166_2 == iso3166_2(commune.province) || r.district_name_en.to_s.downcase.include?(commune.district.name_en.downcase)) &&
+              (r.iso3166_2 == commune.province.iso3166_2 || r.district_name_en.to_s.downcase.include?(commune.district.name_en.downcase)) &&
               %w[village suburb neighbourhood].any? { |type| r.types.include?(type) }
           end
         end
