@@ -80,6 +80,14 @@ And then execute:
   province.links
   # => {:wikipedia=>"https://en.wikipedia.org/wiki/Phnom_Penh"}
 
+  # Get Geodata
+  province.geodata
+  # => #<struct Pumi::Geodata lat="11.5730391", long="104.857807", bounding_box=["11.4200852", "11.7349524", "104.7204046", "105.0440261"]>
+
+  # Get ISO3166_2 code
+  province.iso3166_2
+  # => "KH-12"
+
   # Working with Districts (ស្រុក / ខណ្ឌ)
 
   # Get all districts
