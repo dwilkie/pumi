@@ -3172,6 +3172,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.0953677'
+      long: '105.3118021'
+      bounding_box:
+      - '12.0753677'
+      - '12.1153677'
+      - '105.2918021'
+      - '105.3318021'
   '031306':
     name:
       km: ក្រូច
@@ -8042,6 +8050,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.1814318'
+      long: '106.8751427'
+      bounding_box:
+      - '12.1614318'
+      - '12.2014318'
+      - '106.8551427'
+      - '106.8951427'
   '110105':
     name:
       km: ស្រែព្រះ
@@ -8050,6 +8066,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.1884884'
+      long: '106.8793238'
+      bounding_box:
+      - '12.1684884'
+      - '12.2084884'
+      - '106.8593238'
+      - '106.8993238'
   '110201':
     name:
       km: ណងឃីលិក
@@ -10344,6 +10368,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.6582984'
+      long: '105.1685733'
+      bounding_box:
+      - '11.6382984'
+      - '11.6782984'
+      - '105.1485733'
+      - '105.1885733'
   '140305':
     name:
       km: កន្សោមអក
@@ -11074,6 +11106,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.6582984'
+      long: '105.1685733'
+      bounding_box:
+      - '11.6382984'
+      - '11.6782984'
+      - '105.1485733'
+      - '105.1885733'
   '141304':
     name:
       km: ដំរីពួន
@@ -12628,6 +12668,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.1063878'
+      long: '104.1263131'
+      bounding_box:
+      - '13.0863878'
+      - '13.1263878'
+      - '104.1063131'
+      - '104.1463131'
   '171105':
     name:
       km: កៀនសង្កែ
@@ -12732,6 +12780,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.4721544'
+      long: '104.2260009'
+      bounding_box:
+      - '13.4521544'
+      - '13.4921544'
+      - '104.2060009'
+      - '104.2460009'
   '171302':
     name:
       km: កន្ទួត
@@ -16154,3 +16210,11 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.9608226'
+      long: '105.4770383'
+      bounding_box:
+      - '11.9408226'
+      - '11.9808226'
+      - '105.4570383'
+      - '105.4970383'
