@@ -1,3 +1,3 @@
 module Pumi
-  class Province < Location;
+  class Province < Location; end
 end

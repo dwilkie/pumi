@@ -76,5 +76,11 @@ module Pumi
         )
       end
     end
+
+    describe "#iso3166_2" do
+      it "returns the ISO3166-2 code" do
+        expect(Province.find_by_id("12").iso3166_2).to eq("KH-12")
+      end
+    end
   end
 end

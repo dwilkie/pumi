@@ -3,7 +3,7 @@ module Pumi
     class ISO31662
       attr_reader :data_file
 
-      def initialize(data_file:)
+      def initialize(data_file: Pumi::DataFile.new(:provinces))
         @data_file = data_file
       end
 
