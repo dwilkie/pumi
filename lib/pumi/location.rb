@@ -8,6 +8,7 @@ module Pumi
     :address_km, :address_latin, :address_en,
     :administrative_unit,
     :links,
+    :geodata,
     keyword_init: true
   ) do
     class << self

@@ -10,6 +10,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Mongkol_Borei_District
+    geodata:
+      lat: '13.4940861'
+      long: '102.9791567'
+      bounding_box:
+      - '13.4540861'
+      - '13.5340861'
+      - '102.9391567'
+      - '103.0191567'
   '0103':
     name:
       km: ភ្នំស្រុក
@@ -20,6 +28,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnom_Srok_District
+    geodata:
+      lat: '13.7579963'
+      long: '103.3357732'
+      bounding_box:
+      - '13.7179963'
+      - '13.7979963'
+      - '103.2957732'
+      - '103.3757732'
   '0104':
     name:
       km: ព្រះនេត្រព្រះ
@@ -30,6 +46,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Netr_Preah_District
+    geodata:
+      lat: '13.5746664'
+      long: '103.2766571'
+      bounding_box:
+      - '13.5346664'
+      - '13.6146664'
+      - '103.2366571'
+      - '103.3166571'
   '0105':
     name:
       km: អូរជ្រៅ
@@ -40,6 +64,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Chrov_District
+    geodata:
+      lat: '13.6129122'
+      long: '102.7651907'
+      bounding_box:
+      - '13.5729122'
+      - '13.6529122'
+      - '102.7251907'
+      - '102.8051907'
   '0106':
     name:
       km: សិរីសោភ័ណ
@@ -50,6 +82,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Serei_Saophoan_municipality
+    geodata:
+      lat: '13.5884004'
+      long: '102.9700274'
+      bounding_box:
+      - '13.4284004'
+      - '13.7484004'
+      - '102.8100274'
+      - '103.1300274'
   '0107':
     name:
       km: ថ្មពួក
@@ -60,6 +100,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Thma_Puok_District
+    geodata:
+      lat: '13.9494974'
+      long: '103.0544638'
+      bounding_box:
+      - '13.9094974'
+      - '13.9894974'
+      - '103.0144638'
+      - '103.0944638'
   '0108':
     name:
       km: ស្វាយចេក
@@ -70,6 +118,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Chek_District
+    geodata:
+      lat: '13.7837644'
+      long: '102.961198'
+      bounding_box:
+      - '13.7437644'
+      - '13.8237644'
+      - '102.921198'
+      - '103.001198'
   '0109':
     name:
       km: ម៉ាឡៃ
@@ -80,6 +136,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Malai_District
+    geodata:
+      lat: '13.5609461'
+      long: '102.3709867'
+      bounding_box:
+      - '13.5209461'
+      - '13.6009461'
+      - '102.3309867'
+      - '102.4109867'
   '0110':
     name:
       km: ប៉ោយប៉ែត
@@ -90,6 +154,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Poipet_municipality
+    geodata:
+      lat: '13.6593962'
+      long: '102.5708301'
+      bounding_box:
+      - '13.4993962'
+      - '13.8193962'
+      - '102.4108301'
+      - '102.7308301'
   '0201':
     name:
       km: បាណន់
@@ -100,6 +172,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banan_District_(Cambodia)
+    geodata:
+      lat: '12.95192635'
+      long: '103.07601322092293'
+      bounding_box:
+      - '12.7694657'
+      - '13.1351362'
+      - '102.8292612'
+      - '103.2210377'
   '0202':
     name:
       km: ថ្មគោល
@@ -110,6 +190,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Thma_Koul
+    geodata:
+      lat: '13.24944415'
+      long: '103.07118059476997'
+      bounding_box:
+      - '13.086199'
+      - '13.4121769'
+      - '102.9064233'
+      - '103.2841429'
   '0203':
     name:
       km: បាត់ដំបង
@@ -120,6 +208,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Battambang_municipality
+    geodata:
+      lat: '13.0937231'
+      long: '103.18673434190434'
+      bounding_box:
+      - '13.0292716'
+      - '13.1586223'
+      - '103.0812694'
+      - '103.2305948'
   '0204':
     name:
       km: បវេល
@@ -130,6 +226,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bavel,_Cambodia
+    geodata:
+      lat: '13.216788000000001'
+      long: '102.82214789233467'
+      bounding_box:
+      - '13.0379977'
+      - '13.4122921'
+      - '102.6877233'
+      - '102.9989224'
   '0205':
     name:
       km: ឯកភ្នំ
@@ -140,6 +244,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ek_Phnom
+    geodata:
+      lat: '13.1631918'
+      long: '103.2305121'
+      bounding_box:
+      - '13.1231918'
+      - '13.2031918'
+      - '103.1905121'
+      - '103.2705121'
   '0206':
     name:
       km: មោងឫស្សី
@@ -150,6 +262,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Moung_Ruessei_District
+    geodata:
+      lat: '12.775758'
+      long: '103.4486415'
+      bounding_box:
+      - '12.735758'
+      - '12.815758'
+      - '103.4086415'
+      - '103.4886415'
   '0207':
     name:
       km: រតនមណ្ឌល
@@ -160,6 +280,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rotanak_Mondol
+    geodata:
+      lat: '12.9086418'
+      long: '102.8824003119087'
+      bounding_box:
+      - '12.7316946'
+      - '13.1071776'
+      - '102.695945'
+      - '103.0442466'
   '0208':
     name:
       km: សង្កែ
@@ -170,6 +298,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sangkae
+    geodata:
+      lat: '13.0744566'
+      long: '103.2438673'
+      bounding_box:
+      - '13.0344566'
+      - '13.1144566'
+      - '103.2038673'
+      - '103.2838673'
   '0209':
     name:
       km: សំឡូត
@@ -180,6 +316,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Samlout
+    geodata:
+      lat: '12.6226916'
+      long: '102.8523788'
+      bounding_box:
+      - '12.5826916'
+      - '12.6626916'
+      - '102.8123788'
+      - '102.8923788'
   '0210':
     name:
       km: សំពៅលូន
@@ -190,6 +334,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sampov_Loun
+    geodata:
+      lat: '13.419025099999999'
+      long: '102.5236318714496'
+      bounding_box:
+      - '13.3588451'
+      - '13.4793632'
+      - '102.354683'
+      - '102.6879568'
   '0211':
     name:
       km: ភ្នំព្រឹក
@@ -200,6 +352,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnum_Proek_District
+    geodata:
+      lat: '13.29109285'
+      long: '102.51932343699104'
+      bounding_box:
+      - '13.1965118'
+      - '13.3860608'
+      - '102.3450807'
+      - '102.6894221'
   '0212':
     name:
       km: កំរៀង
@@ -210,6 +370,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kamrieng_District
+    geodata:
+      lat: '13.0899494'
+      long: '102.51831760938151'
+      bounding_box:
+      - '12.9806928'
+      - '13.1994234'
+      - '102.3915658'
+      - '102.7639839'
   '0213':
     name:
       km: គាស់ក្រឡ
@@ -220,6 +388,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koas_Krala_District
+    geodata:
+      lat: '12.7550281'
+      long: '103.2628529'
+      bounding_box:
+      - '12.7150281'
+      - '12.7950281'
+      - '103.2228529'
+      - '103.3028529'
   '0214':
     name:
       km: រុក្ខគិរី
@@ -230,6 +406,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rukhak_Kiri_District
+    geodata:
+      lat: '12.59417915'
+      long: '103.43565034578185'
+      bounding_box:
+      - '12.5037868'
+      - '12.6855393'
+      - '103.2380235'
+      - '103.6430649'
   '0301':
     name:
       km: បាធាយ
@@ -240,6 +424,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Batheay_District
+    geodata:
+      lat: '11.9931056'
+      long: '104.9457831'
+      bounding_box:
+      - '11.9531056'
+      - '12.0331056'
+      - '104.9057831'
+      - '104.9857831'
   '0302':
     name:
       km: ចំការលើ
@@ -250,6 +442,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chamkar_Leu_District
+    geodata:
+      lat: '12.3013417'
+      long: '105.2924357'
+      bounding_box:
+      - '12.2613417'
+      - '12.3413417'
+      - '105.2524357'
+      - '105.3324357'
   '0303':
     name:
       km: ជើងព្រៃ
@@ -260,6 +460,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Cheung_Prey_District
+    geodata:
+      lat: '12.053626'
+      long: '105.0717844'
+      bounding_box:
+      - '12.013626'
+      - '12.093626'
+      - '105.0317844'
+      - '105.1117844'
   '0305':
     name:
       km: កំពង់ចាម
@@ -270,6 +478,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Cham_municipality
+    geodata:
+      lat: '11.9921855'
+      long: '105.4628346'
+      bounding_box:
+      - '11.8321855'
+      - '12.1521855'
+      - '105.3028346'
+      - '105.6228346'
   '0306':
     name:
       km: កំពង់សៀម
@@ -280,6 +496,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Siem_District
+    geodata:
+      lat: '12.0210166'
+      long: '105.4271324'
+      bounding_box:
+      - '11.9810166'
+      - '12.0610166'
+      - '105.3871324'
+      - '105.4671324'
   '0307':
     name:
       km: កងមាស
@@ -290,6 +514,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kang_Meas_District
+    geodata:
+      lat: '11.9504688'
+      long: '105.2707989'
+      bounding_box:
+      - '11.9104688'
+      - '11.9904688'
+      - '105.2307989'
+      - '105.3107989'
   '0308':
     name:
       km: កោះសូទិន
@@ -300,6 +532,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koh_Sotin_District
+    geodata:
+      lat: '11.8823352'
+      long: '105.4399467'
+      bounding_box:
+      - '11.8423352'
+      - '11.9223352'
+      - '105.3999467'
+      - '105.4799467'
   '0313':
     name:
       km: ព្រៃឈរ
@@ -310,6 +550,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Chhor_District
+    geodata:
+      lat: '12.055781'
+      long: '105.2552028'
+      bounding_box:
+      - '12.015781'
+      - '12.095781'
+      - '105.2152028'
+      - '105.2952028'
   '0314':
     name:
       km: ស្រីសន្ធរ
@@ -320,6 +568,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Srey_Santhor_District
+    geodata:
+      lat: '11.8363518'
+      long: '105.0858745'
+      bounding_box:
+      - '11.7963518'
+      - '11.8763518'
+      - '105.0458745'
+      - '105.1258745'
   '0315':
     name:
       km: ស្ទឹងត្រង់
@@ -330,6 +586,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Stueng_Trang_District
+    geodata:
+      lat: '12.2571813'
+      long: '105.5388356'
+      bounding_box:
+      - '12.2171813'
+      - '12.2971813'
+      - '105.4988356'
+      - '105.5788356'
   '0401':
     name:
       km: បរិបូណ៌
@@ -340,6 +604,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Baribour_District
+    geodata:
+      lat: '12.4389574'
+      long: '104.4623541'
+      bounding_box:
+      - '12.3989574'
+      - '12.4789574'
+      - '104.4223541'
+      - '104.5023541'
   '0402':
     name:
       km: ជលគីរី
@@ -350,6 +622,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chol_Kiri_District
+    geodata:
+      lat: '12.1593491'
+      long: '104.8815344'
+      bounding_box:
+      - '12.1193491'
+      - '12.1993491'
+      - '104.8415344'
+      - '104.9215344'
   '0403':
     name:
       km: កំពង់ឆ្នាំង
@@ -360,6 +640,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Chhnang_municipality
+    geodata:
+      lat: '12.2536026'
+      long: '104.6658389'
+      bounding_box:
+      - '12.0936026'
+      - '12.4136026'
+      - '104.5058389'
+      - '104.8258389'
   '0404':
     name:
       km: កំពង់លែង
@@ -370,6 +658,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Leaeng_District
+    geodata:
+      lat: '12.2741853'
+      long: '104.7254311'
+      bounding_box:
+      - '12.2341853'
+      - '12.3141853'
+      - '104.6854311'
+      - '104.7654311'
   '0405':
     name:
       km: កំពង់ត្រឡាច
@@ -380,6 +676,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Tralach_District
+    geodata:
+      lat: '11.9384963'
+      long: '104.7136203'
+      bounding_box:
+      - '11.8984963'
+      - '11.9784963'
+      - '104.6736203'
+      - '104.7536203'
   '0406':
     name:
       km: រលាប្អៀរ
@@ -390,6 +694,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rolea_B%27ier_District
+    geodata:
+      lat: '12.2059838'
+      long: '104.6613026'
+      bounding_box:
+      - '12.1659838'
+      - '12.2459838'
+      - '104.6213026'
+      - '104.7013026'
   '0407':
     name:
       km: សាមគ្គីមានជ័យ
@@ -400,6 +712,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sameakki_Mean_Chey_District
+    geodata:
+      lat: '11.8772162'
+      long: '104.6041473'
+      bounding_box:
+      - '11.8372162'
+      - '11.9172162'
+      - '104.5641473'
+      - '104.6441473'
   '0408':
     name:
       km: ទឹកផុស
@@ -410,6 +730,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuek_Phos_District
+    geodata:
+      lat: '12.052069'
+      long: '104.5259324'
+      bounding_box:
+      - '12.012069'
+      - '12.092069'
+      - '104.4859324'
+      - '104.5659324'
   '0501':
     name:
       km: បរសេដ្ឋ
@@ -420,6 +748,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Basedth
+    geodata:
+      lat: '11.200398'
+      long: '104.50433350548424'
+      bounding_box:
+      - '11.0779221'
+      - '11.3199165'
+      - '104.3818921'
+      - '104.6897207'
   '0502':
     name:
       km: ច្បារមន
@@ -430,6 +766,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chbar_Mon_municipality
+    geodata:
+      lat: '11.4647156'
+      long: '104.5194625'
+      bounding_box:
+      - '11.4300087'
+      - '11.5156294'
+      - '104.4547878'
+      - '104.572339'
   '0503':
     name:
       km: គងពិសី
@@ -440,6 +784,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kong_Pisei
+    geodata:
+      lat: '11.3106024'
+      long: '104.62320857080852'
+      bounding_box:
+      - '11.1875192'
+      - '11.4393298'
+      - '104.5343229'
+      - '104.7925761'
   '0504':
     name:
       km: ឱរ៉ាល់
@@ -450,6 +802,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Aoral
+    geodata:
+      lat: '11.777897450000001'
+      long: '104.01083834230268'
+      bounding_box:
+      - '11.4797997'
+      - '12.0768453'
+      - '103.7729787'
+      - '104.3038566'
   '0506':
     name:
       km: ភ្នំស្រួច
@@ -460,6 +820,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnom_Sruoch
+    geodata:
+      lat: '11.310279900000001'
+      long: '104.25317703358202'
+      bounding_box:
+      - '11.0928558'
+      - '11.5290542'
+      - '104.0204648'
+      - '104.4644349'
   '0507':
     name:
       km: សំរោងទង
@@ -470,6 +838,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Samraong_Tong
+    geodata:
+      lat: '11.45044745'
+      long: '104.60617304001704'
+      bounding_box:
+      - '11.2921079'
+      - '11.6085295'
+      - '104.2738274'
+      - '104.679954'
   '0508':
     name:
       km: ថ្ពង
@@ -480,6 +856,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Thpong
+    geodata:
+      lat: '11.758617300000001'
+      long: '104.34032516738003'
+      bounding_box:
+      - '11.5616431'
+      - '11.9555071'
+      - '104.225992'
+      - '104.6240921'
   '0509':
     name:
       km: ឧដុង្គម៉ែជ័យ
@@ -496,6 +880,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+    geodata:
+      lat: '11.8772162'
+      long: '104.6041473'
+      bounding_box:
+      - '11.8372162'
+      - '11.9172162'
+      - '104.5641473'
+      - '104.6441473'
   '0601':
     name:
       km: បារាយណ៍
@@ -506,6 +898,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Baray_District
+    geodata:
+      lat: '12.3892868'
+      long: '105.0789445'
+      bounding_box:
+      - '12.3492868'
+      - '12.4292868'
+      - '105.0389445'
+      - '105.1189445'
   '0602':
     name:
       km: កំពង់ស្វាយ
@@ -516,6 +916,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Svay_District
+    geodata:
+      lat: '12.7915777'
+      long: '104.8249107'
+      bounding_box:
+      - '12.7515777'
+      - '12.8315777'
+      - '104.7849107'
+      - '104.8649107'
   '0603':
     name:
       km: ស្ទឹងសែន
@@ -526,6 +934,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Stueng_Saen_municipality
+    geodata:
+      lat: '12.7126242'
+      long: '104.8891082'
+      bounding_box:
+      - '12.5526242'
+      - '12.8726242'
+      - '104.7291082'
+      - '105.0491082'
   '0604':
     name:
       km: ប្រាសាទបល្ល័ង្គ
@@ -536,6 +952,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prasat_Balangk
+    geodata:
+      lat: '12.9782682'
+      long: '104.941493'
+      bounding_box:
+      - '12.9382682'
+      - '13.0182682'
+      - '104.901493'
+      - '104.981493'
   '0605':
     name:
       km: ប្រាសាទសំបូរ
@@ -546,6 +970,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prasat_Sambour
+    geodata:
+      lat: '12.8857488'
+      long: '105.0679436'
+      bounding_box:
+      - '12.8457488'
+      - '12.9257488'
+      - '105.0279436'
+      - '105.1079436'
   '0606':
     name:
       km: សណ្ដាន់
@@ -556,6 +988,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sandaan
+    geodata:
+      lat: '13.1006423'
+      long: '105.245985'
+      bounding_box:
+      - '13.0606423'
+      - '13.1406423'
+      - '105.205985'
+      - '105.285985'
   '0607':
     name:
       km: សន្ទុក
@@ -566,6 +1006,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Santuk
+    geodata:
+      lat: '12.5628043'
+      long: '105.049388'
+      bounding_box:
+      - '12.5228043'
+      - '12.6028043'
+      - '105.009388'
+      - '105.089388'
   '0608':
     name:
       km: ស្ទោង
@@ -576,6 +1024,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Stoung
+    geodata:
+      lat: '12.9389734'
+      long: '104.5716049'
+      bounding_box:
+      - '12.8989734'
+      - '12.9789734'
+      - '104.5316049'
+      - '104.6116049'
   '0609':
     name:
       km: តាំងគោក
@@ -594,6 +1050,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angkor_Chey
+    geodata:
+      lat: '10.8393757'
+      long: '104.6545648'
+      bounding_box:
+      - '10.7993757'
+      - '10.8793757'
+      - '104.6145648'
+      - '104.6945648'
   '0702':
     name:
       km: បន្ទាយមាស
@@ -604,6 +1068,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banteay_Meas
+    geodata:
+      lat: '10.6731987'
+      long: '104.5571703'
+      bounding_box:
+      - '10.6331987'
+      - '10.7131987'
+      - '104.5171703'
+      - '104.5971703'
   '0703':
     name:
       km: ឈូក
@@ -624,6 +1096,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chum_Kiri
+    geodata:
+      lat: '10.9239398'
+      long: '104.4190765'
+      bounding_box:
+      - '10.8839398'
+      - '10.9639398'
+      - '104.3790765'
+      - '104.4590765'
   '0705':
     name:
       km: ដងទង់
@@ -634,6 +1114,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Dang_Tong
+    geodata:
+      lat: '10.7035925'
+      long: '104.4459825'
+      bounding_box:
+      - '10.6635925'
+      - '10.7435925'
+      - '104.4059825'
+      - '104.4859825'
   '0706':
     name:
       km: កំពង់ត្រាច
@@ -644,6 +1132,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Trach
+    geodata:
+      lat: '10.5571918'
+      long: '104.4678996'
+      bounding_box:
+      - '10.5171918'
+      - '10.5971918'
+      - '104.4278996'
+      - '104.5078996'
   '0707':
     name:
       km: ទឹកឈូ
@@ -654,6 +1150,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuek_Chhou_District
+    geodata:
+      lat: '10.6040823'
+      long: '104.2496624'
+      bounding_box:
+      - '10.5640823'
+      - '10.6440823'
+      - '104.2096624'
+      - '104.2896624'
   '0708':
     name:
       km: កំពត
@@ -664,6 +1168,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampot_municipality
+    geodata:
+      lat: '10.6183061'
+      long: '104.1797339'
+      bounding_box:
+      - '10.4583061'
+      - '10.7783061'
+      - '104.0197339'
+      - '104.3397339'
   '0709':
     name:
       km: បូកគោ
@@ -682,6 +1194,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kandal_Stueng
+    geodata:
+      lat: '11.4110928'
+      long: '104.8330526'
+      bounding_box:
+      - '11.3266871'
+      - '11.4669548'
+      - '104.6562154'
+      - '104.959538'
   '0802':
     name:
       km: កៀនស្វាយ
@@ -692,6 +1212,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kien_Svay
+    geodata:
+      lat: '11.5099783'
+      long: '105.0499924'
+      bounding_box:
+      - '11.3065921'
+      - '11.5322818'
+      - '105.0152526'
+      - '105.2755701'
   '0803':
     name:
       km: ខ្សាច់កណ្ដាល
@@ -702,6 +1230,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Khsach_Kandal
+    geodata:
+      lat: '11.7503523'
+      long: '105.0169623'
+      bounding_box:
+      - '11.5583656'
+      - '11.8521884'
+      - '104.9325791'
+      - '105.160273'
   '0804':
     name:
       km: កោះធំ
@@ -712,6 +1248,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kaoh_Thum
+    geodata:
+      lat: '11.1256716'
+      long: '105.0555595'
+      bounding_box:
+      - '10.8964776'
+      - '11.2441565'
+      - '104.9905941'
+      - '105.1637506'
   '0805':
     name:
       km: លើកដែក
@@ -722,6 +1266,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Leuk_Daek
+    geodata:
+      lat: '11.1778929'
+      long: '105.2277136'
+      bounding_box:
+      - '10.9115911'
+      - '11.3281591'
+      - '105.1277876'
+      - '105.2800322'
   '0806':
     name:
       km: ល្វាឯម
@@ -732,6 +1284,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Lvea_Aem
+    geodata:
+      lat: '11.5430427'
+      long: '105.0485316'
+      bounding_box:
+      - '11.3905578'
+      - '11.6448599'
+      - '104.9449703'
+      - '105.2971605'
   '0807':
     name:
       km: មុខកំពូល
@@ -742,6 +1302,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Mukh_Kampul
+    geodata:
+      lat: '11.72978'
+      long: '104.9664012'
+      bounding_box:
+      - '11.6670281'
+      - '11.8810524'
+      - '104.8558096'
+      - '105.0221404'
   '0808':
     name:
       km: អង្គស្នួល
@@ -752,6 +1320,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angk_Snuol
+    geodata:
+      lat: '11.5078333'
+      long: '104.7157787'
+      bounding_box:
+      - '11.4446527'
+      - '11.6892212'
+      - '104.6581589'
+      - '104.7677627'
   '0809':
     name:
       km: ពញាឮ
@@ -762,6 +1338,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ponhea_Lueu
+    geodata:
+      lat: '11.8197347'
+      long: '104.7974776'
+      bounding_box:
+      - '11.6598858'
+      - '11.8943134'
+      - '104.6961341'
+      - '104.8880194'
   '0810':
     name:
       km: ស្អាង
@@ -772,6 +1356,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/S%27ang
+    geodata:
+      lat: '11.3605612'
+      long: '105.0037187'
+      bounding_box:
+      - '11.1725278'
+      - '11.4137775'
+      - '104.9269986'
+      - '105.1689004'
   '0811':
     name:
       km: តាខ្មៅ
@@ -782,6 +1374,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Khmau_municipality
+    geodata:
+      lat: '11.4687395'
+      long: '104.9451162'
+      bounding_box:
+      - '11.3682577'
+      - '11.4945094'
+      - '104.9190394'
+      - '105.0547885'
   '0812':
     name:
       km: សំពៅពូន
@@ -808,6 +1408,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Botum_Sakor
+    geodata:
+      lat: '11.1910731'
+      long: '103.4626525'
+      bounding_box:
+      - '11.1510731'
+      - '11.2310731'
+      - '103.4226525'
+      - '103.5026525'
   '0902':
     name:
       km: គិរីសាគរ
@@ -818,6 +1426,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kiri_Sakor
+    geodata:
+      lat: '10.9422524'
+      long: '103.1004568'
+      bounding_box:
+      - '10.9022524'
+      - '10.9822524'
+      - '103.0604568'
+      - '103.1404568'
   '0903':
     name:
       km: កោះកុង
@@ -828,6 +1444,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Khemara_Phoumin_municipality
+    geodata:
+      lat: '11.4560302'
+      long: '103.122046'
+      bounding_box:
+      - '11.4160302'
+      - '11.4960302'
+      - '103.082046'
+      - '103.162046'
   '0904':
     name:
       km: ខេមរភូមិន្ទ
@@ -838,6 +1462,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Smach_Mean_Chey
+    geodata:
+      lat: '11.6110095'
+      long: '102.9818592'
+      bounding_box:
+      - '11.4510095'
+      - '11.7710095'
+      - '102.8218592'
+      - '103.1418592'
   '0905':
     name:
       km: មណ្ឌលសីមា
@@ -848,6 +1480,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Mondol_Seima
+    geodata:
+      lat: '11.5698303'
+      long: '102.9539371'
+      bounding_box:
+      - '11.5298303'
+      - '11.6098303'
+      - '102.9139371'
+      - '102.9939371'
   '0906':
     name:
       km: ស្រែ អំបិល
@@ -868,6 +1508,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Thma_Bang
+    geodata:
+      lat: '11.6893621'
+      long: '103.438509'
+      bounding_box:
+      - '11.6493621'
+      - '11.7293621'
+      - '103.398509'
+      - '103.478509'
   '1001':
     name:
       km: ឆ្លូង
@@ -878,6 +1526,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chhloung_District
+    geodata:
+      lat: '12.2570238'
+      long: '105.9606057'
+      bounding_box:
+      - '12.2170238'
+      - '12.2970238'
+      - '105.9206057'
+      - '106.0006057'
   '1002':
     name:
       km: ក្រចេះ
@@ -888,6 +1544,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Krati%C3%A9_municipality
+    geodata:
+      lat: '12.4889566'
+      long: '106.0200894'
+      bounding_box:
+      - '12.3289566'
+      - '12.6489566'
+      - '105.8600894'
+      - '106.1800894'
   '1003':
     name:
       km: ព្រែកប្រសព្វ
@@ -898,6 +1562,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preaek_Prasab_District
+    geodata:
+      lat: '12.3504569'
+      long: '106.0298985'
+      bounding_box:
+      - '12.3104569'
+      - '12.3904569'
+      - '105.9898985'
+      - '106.0698985'
   '1004':
     name:
       km: សំបូរ
@@ -908,6 +1580,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sambour_District
+    geodata:
+      lat: '12.7751998'
+      long: '105.965196'
+      bounding_box:
+      - '12.7351998'
+      - '12.8151998'
+      - '105.925196'
+      - '106.005196'
   '1005':
     name:
       km: ស្នួល
@@ -918,6 +1598,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Snuol_District
+    geodata:
+      lat: '12.0722176'
+      long: '106.4204015'
+      bounding_box:
+      - '12.0322176'
+      - '12.1122176'
+      - '106.3804015'
+      - '106.4604015'
   '1006':
     name:
       km: ចិត្របុរី
@@ -928,6 +1616,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chetr_Borei_District
+    geodata:
+      lat: '12.4680352'
+      long: '106.1742334'
+      bounding_box:
+      - '12.4280352'
+      - '12.5080352'
+      - '106.1342334'
+      - '106.2142334'
   '1007':
     name:
       km: អូរគ្រៀងសែនជ័យ
@@ -956,6 +1652,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kaoh_Nheaek
+    geodata:
+      lat: '13.0803581'
+      long: '107.0451837'
+      bounding_box:
+      - '13.0403581'
+      - '13.1203581'
+      - '107.0051837'
+      - '107.0851837'
   '1103':
     name:
       km: អូររាំង
@@ -966,6 +1670,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Reang
+    geodata:
+      lat: '12.3320472'
+      long: '107.1645963'
+      bounding_box:
+      - '12.2920472'
+      - '12.3720472'
+      - '107.1245963'
+      - '107.2045963'
   '1104':
     name:
       km: ពេជ្រាដា
@@ -976,6 +1688,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pechr_Chenda
+    geodata:
+      lat: '12.5392225'
+      long: '107.427935'
+      bounding_box:
+      - '12.4992225'
+      - '12.5792225'
+      - '107.387935'
+      - '107.467935'
   '1105':
     name:
       km: សែនមនោរម្យ
@@ -986,6 +1706,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Saen_Monourom_municipality
+    geodata:
+      lat: '12.4568561'
+      long: '107.1865184'
+      bounding_box:
+      - '12.2968561'
+      - '12.6168561'
+      - '107.0265184'
+      - '107.3465184'
   '1201':
     name:
       km: ចំការមន
@@ -996,6 +1724,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chamkar_Mon_Section
+    geodata:
+      lat: '11.5373071'
+      long: '104.9208767'
+      bounding_box:
+      - '11.5269679'
+      - '11.5591736'
+      - '104.9090339'
+      - '104.9465849'
   '1202':
     name:
       km: ដូនពេញ
@@ -1006,6 +1742,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Doun_Penh_Section
+    geodata:
+      lat: '11.5772693'
+      long: '104.9194273'
+      bounding_box:
+      - '11.5556271'
+      - '11.5895662'
+      - '104.9039228'
+      - '104.9395993'
   '1203':
     name:
       km: ៧មករា
@@ -1016,6 +1760,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prampir_Makara_Section
+    geodata:
+      lat: '11.5637649'
+      long: '104.9106689'
+      bounding_box:
+      - '11.555273'
+      - '11.5711986'
+      - '104.9060732'
+      - '104.9203451'
   '1204':
     name:
       km: ទួលគោក
@@ -1026,6 +1778,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuol_Kouk_Section
+    geodata:
+      lat: '11.5738692'
+      long: '104.8996872'
+      bounding_box:
+      - '11.5486635'
+      - '11.5907674'
+      - '104.8871481'
+      - '104.9078015'
   '1205':
     name:
       km: ដង្កោ
@@ -1036,6 +1796,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Dangkao_Section
+    geodata:
+      lat: '11.5057732'
+      long: '104.891422'
+      bounding_box:
+      - '11.4200852'
+      - '11.5257654'
+      - '104.7912514'
+      - '104.9237097'
   '1206':
     name:
       km: មានជ័យ
@@ -1046,6 +1814,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Mean_Chey_Section
+    geodata:
+      lat: '11.5315089'
+      long: '104.8984702'
+      bounding_box:
+      - '11.4823605'
+      - '11.5499792'
+      - '104.8659786'
+      - '104.9459257'
   '1207':
     name:
       km: ឫស្សីកែវ
@@ -1056,6 +1832,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Russey_Keo_Section
+    geodata:
+      lat: '11.6287927'
+      long: '104.9037583'
+      bounding_box:
+      - '11.58365'
+      - '11.658568'
+      - '104.85382'
+      - '104.9219402'
   '1208':
     name:
       km: សែនសុខ
@@ -1066,6 +1850,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sen_Sok_Section
+    geodata:
+      lat: '11.5785557'
+      long: '104.8692475'
+      bounding_box:
+      - '11.5426804'
+      - '11.6490011'
+      - '104.8180246'
+      - '104.892707'
   '1209':
     name:
       km: ពោធិ៍សែនជ័យ
@@ -1076,6 +1868,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pou_Senchey_Section
+    geodata:
+      lat: '11.5538562'
+      long: '104.826722'
+      bounding_box:
+      - '11.5023636'
+      - '11.6050999'
+      - '104.7817297'
+      - '104.8779722'
   '1210':
     name:
       km: ជ្រោយចង្វារ
@@ -1086,6 +1886,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chroy_Changvar_Section
+    geodata:
+      lat: '11.6586259'
+      long: '104.9092633'
+      bounding_box:
+      - '11.5588645'
+      - '11.7349524'
+      - '104.8624266'
+      - '104.9679638'
   '1211':
     name:
       km: ព្រែកព្នៅ
@@ -1096,6 +1904,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prek_Pnov_Section
+    geodata:
+      lat: '11.6591915'
+      long: '104.8608617'
+      bounding_box:
+      - '11.5789249'
+      - '11.7181771'
+      - '104.7315582'
+      - '104.8680251'
   '1212':
     name:
       km: ច្បារអំពៅ
@@ -1106,6 +1922,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chbar_Ampov_Section
+    geodata:
+      lat: '11.5228263'
+      long: '104.9667447'
+      bounding_box:
+      - '11.4623925'
+      - '11.5618864'
+      - '104.931409'
+      - '105.0440261'
   '1213':
     name:
       km: បឹងកេងកង
@@ -1116,6 +1940,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Boeng_Keng_Kang_Section
+    geodata:
+      lat: '11.5489263'
+      long: '104.9113011'
+      bounding_box:
+      - '11.5411862'
+      - '11.5576352'
+      - '104.8984549'
+      - '104.9290538'
   '1214':
     name:
       km: កំបូល
@@ -1126,6 +1958,14 @@ districts:
       en: Section
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kamboul_Section
+    geodata:
+      lat: '11.5363753'
+      long: '104.770603'
+      bounding_box:
+      - '11.4449666'
+      - '11.6063139'
+      - '104.7204046'
+      - '104.8213668'
   '1301':
     name:
       km: ជ័យសែន
@@ -1136,6 +1976,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chey_Saen
+    geodata:
+      lat: '13.6510167'
+      long: '105.2588244'
+      bounding_box:
+      - '13.6110167'
+      - '13.6910167'
+      - '105.2188244'
+      - '105.2988244'
   '1302':
     name:
       km: ឆែប
@@ -1146,6 +1994,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chhaeb
+    geodata:
+      lat: '13.8833353'
+      long: '105.3308329'
+      bounding_box:
+      - '13.8433353'
+      - '13.9233353'
+      - '105.2908329'
+      - '105.3708329'
   '1303':
     name:
       km: ជាំក្សាន្ដ
@@ -1156,6 +2012,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Choam_Khsant
+    geodata:
+      lat: '14.2172713'
+      long: '104.9430841'
+      bounding_box:
+      - '14.1772713'
+      - '14.2572713'
+      - '104.9030841'
+      - '104.9830841'
   '1304':
     name:
       km: គូលែន
@@ -1166,6 +2030,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kuleaen
+    geodata:
+      lat: '13.818762'
+      long: '104.6996781'
+      bounding_box:
+      - '13.778762'
+      - '13.858762'
+      - '104.6596781'
+      - '104.7396781'
   '1305':
     name:
       km: រវៀង
@@ -1176,6 +2048,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rovieng
+    geodata:
+      lat: '13.3488486'
+      long: '105.1084435'
+      bounding_box:
+      - '13.3088486'
+      - '13.3888486'
+      - '105.0684435'
+      - '105.1484435'
   '1306':
     name:
       km: សង្គមថ្មី
@@ -1186,6 +2066,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sangkum_Thmei_District
+    geodata:
+      lat: '13.5817856'
+      long: '104.9046589'
+      bounding_box:
+      - '13.5417856'
+      - '13.6217856'
+      - '104.8646589'
+      - '104.9446589'
   '1307':
     name:
       km: ត្បែងមានជ័យ
@@ -1196,6 +2084,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tbaeng_Mean_Chey
+    geodata:
+      lat: '13.8569139'
+      long: '105.0217438'
+      bounding_box:
+      - '13.8169139'
+      - '13.8969139'
+      - '104.9817438'
+      - '105.0617438'
   '1308':
     name:
       km: ព្រះវិហារ
@@ -1206,6 +2102,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Vihear_(town)
+    geodata:
+      lat: '13.8012643'
+      long: '104.9742871'
+      bounding_box:
+      - '13.6412643'
+      - '13.9612643'
+      - '104.8142871'
+      - '105.1342871'
   '1401':
     name:
       km: បាភ្នំ
@@ -1216,6 +2120,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ba_Phnum
+    geodata:
+      lat: '11.2580467'
+      long: '105.3989267'
+      bounding_box:
+      - '11.2180467'
+      - '11.2980467'
+      - '105.3589267'
+      - '105.4389267'
   '1402':
     name:
       km: កំចាយមារ
@@ -1226,6 +2138,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kamchay_Mear
+    geodata:
+      lat: '11.5744182'
+      long: '105.662875'
+      bounding_box:
+      - '11.5344182'
+      - '11.6144182'
+      - '105.622875'
+      - '105.702875'
   '1403':
     name:
       km: កំពង់ត្របែក
@@ -1236,6 +2156,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Trabaek
+    geodata:
+      lat: '11.1401552'
+      long: '105.4780783'
+      bounding_box:
+      - '11.1001552'
+      - '11.1801552'
+      - '105.4380783'
+      - '105.5180783'
   '1404':
     name:
       km: កញ្ជ្រៀច
@@ -1246,6 +2174,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kanhchriech
+    geodata:
+      lat: '11.6889825'
+      long: '105.5581607'
+      bounding_box:
+      - '11.6489825'
+      - '11.7289825'
+      - '105.5181607'
+      - '105.5981607'
   '1405':
     name:
       km: មេសាង
@@ -1256,6 +2192,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Me_Sang
+    geodata:
+      lat: '11.3247044'
+      long: '105.5766407'
+      bounding_box:
+      - '11.2847044'
+      - '11.3647044'
+      - '105.5366407'
+      - '105.6166407'
   '1406':
     name:
       km: ពាមជរ
@@ -1266,6 +2210,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Peam_Chor
+    geodata:
+      lat: '11.1079466'
+      long: '105.2245017'
+      bounding_box:
+      - '11.0679466'
+      - '11.1479466'
+      - '105.1845017'
+      - '105.2645017'
   '1407':
     name:
       km: ពាមរក៍
@@ -1276,6 +2228,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Peam_Ro
+    geodata:
+      lat: '11.3186652'
+      long: '105.2809166'
+      bounding_box:
+      - '11.2786652'
+      - '11.3586652'
+      - '105.2409166'
+      - '105.3209166'
   '1408':
     name:
       km: ពារាំង
@@ -1286,6 +2246,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pea_Reang
+    geodata:
+      lat: '11.6633953'
+      long: '105.2289245'
+      bounding_box:
+      - '11.6233953'
+      - '11.7033953'
+      - '105.1889245'
+      - '105.2689245'
   '1409':
     name:
       km: ព្រះស្ដេច
@@ -1296,6 +2264,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Sdach
+    geodata:
+      lat: '11.1187656'
+      long: '105.3769965'
+      bounding_box:
+      - '11.0787656'
+      - '11.1587656'
+      - '105.3369965'
+      - '105.4169965'
   '1410':
     name:
       km: ព្រៃវែង
@@ -1306,6 +2282,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Veaeng_municipality
+    geodata:
+      lat: '11.4826844'
+      long: '105.3251212'
+      bounding_box:
+      - '11.3226844'
+      - '11.6426844'
+      - '105.1651212'
+      - '105.4851212'
   '1411':
     name:
       km: ពោធិ៍រៀង
@@ -1316,6 +2300,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pou_Rieng_District
+    geodata:
+      lat: '11.5213787'
+      long: '105.3571127'
+      bounding_box:
+      - '11.4813787'
+      - '11.5613787'
+      - '105.3171127'
+      - '105.3971127'
   '1412':
     name:
       km: ស៊ីធរកណ្ដាល
@@ -1326,6 +2318,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sithor_Kandal
+    geodata:
+      lat: '11.7740666'
+      long: '105.380774'
+      bounding_box:
+      - '11.7340666'
+      - '11.8140666'
+      - '105.340774'
+      - '105.420774'
   '1413':
     name:
       km: ស្វាយអន្ទរ
@@ -1336,6 +2336,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Antor_District
+    geodata:
+      lat: '11.5729124'
+      long: '105.4252384'
+      bounding_box:
+      - '11.5329124'
+      - '11.6129124'
+      - '105.3852384'
+      - '105.4652384'
   '1501':
     name:
       km: បាកាន
@@ -1346,6 +2354,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bakan_District
+    geodata:
+      lat: '12.6030184'
+      long: '103.7904079'
+      bounding_box:
+      - '12.5630184'
+      - '12.6430184'
+      - '103.7504079'
+      - '103.8304079'
   '1502':
     name:
       km: កណ្ដៀង
@@ -1356,6 +2372,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kandieng_District
+    geodata:
+      lat: '12.5898656'
+      long: '103.9571307'
+      bounding_box:
+      - '12.5498656'
+      - '12.6298656'
+      - '103.9171307'
+      - '103.9971307'
   '1503':
     name:
       km: ក្រគរ
@@ -1366,6 +2390,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Krakor_District
+    geodata:
+      lat: '12.5287279'
+      long: '104.2100448'
+      bounding_box:
+      - '12.4887279'
+      - '12.5687279'
+      - '104.1700448'
+      - '104.2500448'
   '1504':
     name:
       km: ភ្នំក្រវ៉ាញ
@@ -1376,6 +2408,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnum_Kravanh_District
+    geodata:
+      lat: '12.3505536'
+      long: '103.7641348'
+      bounding_box:
+      - '12.3105536'
+      - '12.3905536'
+      - '103.7241348'
+      - '103.8041348'
   '1505':
     name:
       km: ពោធិ៍សាត់
@@ -1386,6 +2426,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pursat_municipality
+    geodata:
+      lat: '12.5377547'
+      long: '103.9178235'
+      bounding_box:
+      - '12.3777547'
+      - '12.6977547'
+      - '103.7578235'
+      - '104.0778235'
   '1506':
     name:
       km: វាលវែង
@@ -1396,6 +2444,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Veal_Veang_District
+    geodata:
+      lat: '12.234079'
+      long: '103.1238576'
+      bounding_box:
+      - '12.194079'
+      - '12.274079'
+      - '103.0838576'
+      - '103.1638576'
   '1507':
     name:
       km: តាលោសែនជ័យ
@@ -1416,6 +2472,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Andoung_Meas
+    geodata:
+      lat: '13.8662759'
+      long: '107.2970158'
+      bounding_box:
+      - '13.8262759'
+      - '13.9062759'
+      - '107.2570158'
+      - '107.3370158'
   '1602':
     name:
       km: បានលុង
@@ -1426,6 +2490,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banlung_municipality
+    geodata:
+      lat: '13.7414754'
+      long: '106.9873662'
+      bounding_box:
+      - '13.5814754'
+      - '13.9014754'
+      - '106.8273662'
+      - '107.1473662'
   '1603':
     name:
       km: បរកែវ
@@ -1436,6 +2508,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bar_Kaev
+    geodata:
+      lat: '13.6868898'
+      long: '107.2144802'
+      bounding_box:
+      - '13.6468898'
+      - '13.7268898'
+      - '107.1744802'
+      - '107.2544802'
   '1604':
     name:
       km: កូនមុំ
@@ -1446,6 +2526,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koun_Mom
+    geodata:
+      lat: '13.580944'
+      long: '106.7722214'
+      bounding_box:
+      - '13.540944'
+      - '13.620944'
+      - '106.7322214'
+      - '106.8122214'
   '1605':
     name:
       km: លំផាត់
@@ -1456,6 +2544,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Lumphat
+    geodata:
+      lat: '13.4998503'
+      long: '106.9736284'
+      bounding_box:
+      - '13.4598503'
+      - '13.5398503'
+      - '106.9336284'
+      - '107.0136284'
   '1606':
     name:
       km: អូរជុំ
@@ -1466,6 +2562,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Chum
+    geodata:
+      lat: '13.8018346'
+      long: '106.992574'
+      bounding_box:
+      - '13.7618346'
+      - '13.8418346'
+      - '106.952574'
+      - '107.032574'
   '1607':
     name:
       km: អូរយ៉ាដាវ
@@ -1476,6 +2580,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Ya_Dav
+    geodata:
+      lat: '13.6689224'
+      long: '107.3483187'
+      bounding_box:
+      - '13.6289224'
+      - '13.7089224'
+      - '107.3083187'
+      - '107.3883187'
   '1608':
     name:
       km: តាវែង
@@ -1486,6 +2598,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Veaeng
+    geodata:
+      lat: '14.0472873'
+      long: '107.1080429'
+      bounding_box:
+      - '14.0072873'
+      - '14.0872873'
+      - '107.0680429'
+      - '107.1480429'
   '1609':
     name:
       km: វើនសៃ
@@ -1496,6 +2616,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Veun_Sai
+    geodata:
+      lat: '13.9720878'
+      long: '106.8137949'
+      bounding_box:
+      - '13.9320878'
+      - '14.0120878'
+      - '106.7737949'
+      - '106.8537949'
   '1701':
     name:
       km: អង្គរជុំ
@@ -1506,6 +2634,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angkor_Chum
+    geodata:
+      lat: '13.6880963'
+      long: '103.6464558'
+      bounding_box:
+      - '13.5939876'
+      - '13.8486318'
+      - '103.5807366'
+      - '103.8850114'
   '1702':
     name:
       km: អង្គរធំ
@@ -1516,6 +2652,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angkor_Thom_District
+    geodata:
+      lat: '13.5793769'
+      long: '103.85457242215985'
+      bounding_box:
+      - '13.4566089'
+      - '13.7019714'
+      - '103.7527579'
+      - '103.9332778'
   '1703':
     name:
       km: បន្ទាយស្រី
@@ -1526,6 +2670,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banteay_Srei_District
+    geodata:
+      lat: '13.5958699'
+      long: '103.92117104314269'
+      bounding_box:
+      - '13.4229658'
+      - '13.7705959'
+      - '103.7527579'
+      - '104.1194213'
   '1704':
     name:
       km: ជីក្រែង
@@ -1536,6 +2688,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chi_Kraeng
+    geodata:
+      lat: '13.1627418'
+      long: '104.32432059828129'
+      bounding_box:
+      - '12.7720495'
+      - '13.5529328'
+      - '104.1734824'
+      - '104.6832474'
   '1706':
     name:
       km: ក្រឡាញ់
@@ -1546,6 +2706,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kralanh
+    geodata:
+      lat: '13.5473871'
+      long: '103.47742125362274'
+      bounding_box:
+      - '13.3440657'
+      - '13.7510376'
+      - '103.3892306'
+      - '103.6138896'
   '1707':
     name:
       km: ពួក
@@ -1556,6 +2724,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Puok
+    geodata:
+      lat: '13.4529277'
+      long: '103.62917029133641'
+      bounding_box:
+      - '13.274399'
+      - '13.6311836'
+      - '103.4734612'
+      - '103.8184773'
   '1709':
     name:
       km: ប្រាសាទបាគង
@@ -1566,6 +2742,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prasat_Bakong
+    geodata:
+      lat: '13.3421471'
+      long: '103.9978446'
+      bounding_box:
+      - '12.9545059'
+      - '13.4485631'
+      - '103.8857985'
+      - '104.0767308'
   '1710':
     name:
       km: សៀមរាប
@@ -1576,6 +2760,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Siem_Reap_municipality
+    geodata:
+      lat: '13.3617562'
+      long: '103.8590321'
+      bounding_box:
+      - '13.2017562'
+      - '13.5217562'
+      - '103.6990321'
+      - '104.0190321'
   '1711':
     name:
       km: សូទ្រនិគម
@@ -1586,6 +2778,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sout_Nikom
+    geodata:
+      lat: '13.2376056'
+      long: '104.1354139'
+      bounding_box:
+      - '12.7720495'
+      - '13.5008549'
+      - '104.0168366'
+      - '104.2250917'
   '1712':
     name:
       km: ស្រីស្នំ
@@ -1596,6 +2796,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Srei_Snam
+    geodata:
+      lat: '13.8323579'
+      long: '103.53640572541116'
+      bounding_box:
+      - '13.6925847'
+      - '13.9718578'
+      - '103.4096898'
+      - '103.7284031'
   '1713':
     name:
       km: ស្វាយលើ
@@ -1606,6 +2814,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Leu
+    geodata:
+      lat: '13.68175535'
+      long: '104.26044219887697'
+      bounding_box:
+      - '13.3989614'
+      - '13.9648194'
+      - '104.075383'
+      - '104.4574872'
   '1714':
     name:
       km: វ៉ារិន
@@ -1616,6 +2832,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Varin_District
+    geodata:
+      lat: '13.8239235'
+      long: '103.92390649704802'
+      bounding_box:
+      - '13.6802402'
+      - '13.9675896'
+      - '103.6810398'
+      - '104.115603'
   '1801':
     name:
       km: ព្រះសីហនុ
@@ -1626,6 +2850,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Sihanouk_municipality
+    geodata:
+      lat: '10.6220485'
+      long: '103.5223365'
+      bounding_box:
+      - '10.4620485'
+      - '10.7820485'
+      - '103.3623365'
+      - '103.6823365'
   '1802':
     name:
       km: ព្រៃនប់
@@ -1636,6 +2868,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Nob
+    geodata:
+      lat: '10.7198067'
+      long: '103.8161797853434'
+      bounding_box:
+      - '10.4870615'
+      - '10.9530333'
+      - '103.5594316'
+      - '103.9675125'
   '1803':
     name:
       km: ស្ទឹងហាវ
@@ -1646,6 +2886,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Stueng_Hav
+    geodata:
+      lat: '10.7432829'
+      long: '103.6200444'
+      bounding_box:
+      - '10.7032829'
+      - '10.7832829'
+      - '103.5800444'
+      - '103.6600444'
   '1804':
     name:
       km: កំពង់សីលា
@@ -1656,6 +2904,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Seila
+    geodata:
+      lat: '11.16935005'
+      long: '103.96776650807777'
+      bounding_box:
+      - '10.9020456'
+      - '11.436044'
+      - '103.7851656'
+      - '104.0772547'
   '1805':
     name:
       km: កោះរ៉ុង
@@ -1676,6 +2932,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sesan
+    geodata:
+      lat: '13.5508885'
+      long: '106.093824'
+      bounding_box:
+      - '13.5108885'
+      - '13.5908885'
+      - '106.053824'
+      - '106.133824'
   '1902':
     name:
       km: សៀមបូក
@@ -1686,6 +2950,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Siem_Bouk
+    geodata:
+      lat: '13.3612164'
+      long: '105.9594206'
+      bounding_box:
+      - '13.3212164'
+      - '13.4012164'
+      - '105.9194206'
+      - '105.9994206'
   '1903':
     name:
       km: សៀមប៉ាង
@@ -1696,6 +2968,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Siem_Pang
+    geodata:
+      lat: '14.1163575'
+      long: '106.3868945'
+      bounding_box:
+      - '14.0763575'
+      - '14.1563575'
+      - '106.3468945'
+      - '106.4268945'
   '1904':
     name:
       km: ស្ទឹងត្រែង
@@ -1706,6 +2986,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Stung_Treng_municipality
+    geodata:
+      lat: '13.5271207'
+      long: '105.9686727'
+      bounding_box:
+      - '13.3671207'
+      - '13.6871207'
+      - '105.8086727'
+      - '106.1286727'
   '1905':
     name:
       km: ថាឡាបរិវ៉ាត់
@@ -1716,6 +3004,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Thala_Barivat
+    geodata:
+      lat: '13.5717715'
+      long: '105.941917'
+      bounding_box:
+      - '13.5317715'
+      - '13.6117715'
+      - '105.901917'
+      - '105.981917'
   '1906':
     name:
       km: បុរីអូរស្វាយសែនជ័យ
@@ -1736,6 +3032,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chantrea
+    geodata:
+      lat: '10.9949854'
+      long: '106.1174193'
+      bounding_box:
+      - '10.9549854'
+      - '11.0349854'
+      - '106.0774193'
+      - '106.1574193'
   '2002':
     name:
       km: កំពង់រោទិ៍
@@ -1746,6 +3050,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Rou
+    geodata:
+      lat: '10.920359'
+      long: '105.9404897'
+      bounding_box:
+      - '10.880359'
+      - '10.960359'
+      - '105.9004897'
+      - '105.9804897'
   '2003':
     name:
       km: រំដួល
@@ -1756,6 +3068,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rumduol_District
+    geodata:
+      lat: '11.1593741'
+      long: '105.8184506'
+      bounding_box:
+      - '11.1193741'
+      - '11.1993741'
+      - '105.7784506'
+      - '105.8584506'
   '2004':
     name:
       km: រមាសហែក
@@ -1766,6 +3086,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Romeas_Haek
+    geodata:
+      lat: '11.41244'
+      long: '105.7908573'
+      bounding_box:
+      - '11.37244'
+      - '11.45244'
+      - '105.7508573'
+      - '105.8308573'
   '2005':
     name:
       km: ស្វាយជ្រំ
@@ -1776,6 +3104,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Chrum
+    geodata:
+      lat: '11.115479'
+      long: '105.7152969'
+      bounding_box:
+      - '11.075479'
+      - '11.155479'
+      - '105.6752969'
+      - '105.7552969'
   '2006':
     name:
       km: ស្វាយរៀង
@@ -1786,6 +3122,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Rieng_municipality
+    geodata:
+      lat: '11.080095'
+      long: '105.7974874'
+      bounding_box:
+      - '10.920095'
+      - '11.240095'
+      - '105.6374874'
+      - '105.9574874'
   '2007':
     name:
       km: ស្វាយទាប
@@ -1796,6 +3140,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Teab
+    geodata:
+      lat: '11.0488171'
+      long: '105.8806472'
+      bounding_box:
+      - '11.0088171'
+      - '11.0888171'
+      - '105.8406472'
+      - '105.9206472'
   '2008':
     name:
       km: បាវិត
@@ -1806,6 +3158,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bavet_municipality
+    geodata:
+      lat: '11.0691272'
+      long: '106.1436226'
+      bounding_box:
+      - '10.9091272'
+      - '11.2291272'
+      - '105.9836226'
+      - '106.3036226'
   '2101':
     name:
       km: អង្គរបូរី
@@ -1816,6 +3176,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angkor_Borei
+    geodata:
+      lat: '10.9958363'
+      long: '104.9753308'
+      bounding_box:
+      - '10.9558363'
+      - '11.0358363'
+      - '104.9353308'
+      - '105.0153308'
   '2102':
     name:
       km: បាទី
@@ -1826,6 +3194,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bati_District
+    geodata:
+      lat: '11.2407943'
+      long: '104.8119577'
+      bounding_box:
+      - '11.2007943'
+      - '11.2807943'
+      - '104.7719577'
+      - '104.8519577'
   '2103':
     name:
       km: បូរីជលសារ
@@ -1836,6 +3212,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bourei_Cholsar
+    geodata:
+      lat: '10.8340452'
+      long: '105.0179878'
+      bounding_box:
+      - '10.7940452'
+      - '10.8740452'
+      - '104.9779878'
+      - '105.0579878'
   '2104':
     name:
       km: គីរីវង់
@@ -1846,6 +3230,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kiri_Vong
+    geodata:
+      lat: '10.6400179'
+      long: '104.8767691'
+      bounding_box:
+      - '10.6000179'
+      - '10.6800179'
+      - '104.8367691'
+      - '104.9167691'
   '2105':
     name:
       km: កោះអណ្ដែត
@@ -1856,6 +3248,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kaoh_Andaet
+    geodata:
+      lat: '10.7965352'
+      long: '104.9482522'
+      bounding_box:
+      - '10.7565352'
+      - '10.8365352'
+      - '104.9082522'
+      - '104.9882522'
   '2106':
     name:
       km: ព្រៃកប្បាស
@@ -1866,6 +3266,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Kabbas
+    geodata:
+      lat: '11.1556469'
+      long: '104.9528949'
+      bounding_box:
+      - '11.1156469'
+      - '11.1956469'
+      - '104.9128949'
+      - '104.9928949'
   '2107':
     name:
       km: សំរោង
@@ -1876,6 +3284,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Samra%C5%8Fng_District
+    geodata:
+      lat: '11.1420911'
+      long: '104.8012079'
+      bounding_box:
+      - '11.1020911'
+      - '11.1820911'
+      - '104.7612079'
+      - '104.8412079'
   '2108':
     name:
       km: ដូនកែវ
@@ -1886,6 +3302,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Doun_Kaev_municipality
+    geodata:
+      lat: '10.9875805'
+      long: '104.7830181'
+      bounding_box:
+      - '10.8275805'
+      - '11.1475805'
+      - '104.6230181'
+      - '104.9430181'
   '2109':
     name:
       km: ត្រាំកក់
@@ -1896,6 +3320,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tram_Kak
+    geodata:
+      lat: '11.0065848'
+      long: '104.6649599'
+      bounding_box:
+      - '10.9665848'
+      - '11.0465848'
+      - '104.6249599'
+      - '104.7049599'
   '2110':
     name:
       km: ទ្រាំង
@@ -1906,6 +3338,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Treang
+    geodata:
+      lat: '10.9067461'
+      long: '104.7770461'
+      bounding_box:
+      - '10.8667461'
+      - '10.9467461'
+      - '104.7370461'
+      - '104.8170461'
   '2201':
     name:
       km: អន្លង់វែង
@@ -1916,6 +3356,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Anlong_Veaeng
+    geodata:
+      lat: '14.2331742'
+      long: '104.0812013'
+      bounding_box:
+      - '14.1931742'
+      - '14.2731742'
+      - '104.0412013'
+      - '104.1212013'
   '2202':
     name:
       km: បន្ទាយអំពិល
@@ -1926,6 +3374,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banteay_Ampil
+    geodata:
+      lat: '14.2333944'
+      long: '103.1323394'
+      bounding_box:
+      - '14.1933944'
+      - '14.2733944'
+      - '103.0923394'
+      - '103.1723394'
   '2203':
     name:
       km: ចុងកាល់
@@ -1936,6 +3392,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chong_Kal
+    geodata:
+      lat: '13.9544791'
+      long: '103.5702722'
+      bounding_box:
+      - '13.9144791'
+      - '13.9944791'
+      - '103.5302722'
+      - '103.6102722'
   '2204':
     name:
       km: សំរោង
@@ -1946,6 +3410,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Samraong_municipality
+    geodata:
+      lat: '14.1758059'
+      long: '103.5092331'
+      bounding_box:
+      - '14.0158059'
+      - '14.3358059'
+      - '103.3492331'
+      - '103.6692331'
   '2205':
     name:
       km: ត្រពាំងប្រាសាទ
@@ -1956,6 +3428,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Trapeang_Prasat
+    geodata:
+      lat: '14.1953083'
+      long: '104.3562242'
+      bounding_box:
+      - '14.1553083'
+      - '14.2353083'
+      - '104.3162242'
+      - '104.3962242'
   '2301':
     name:
       km: ដំណាក់ចង្អើរ
@@ -1966,6 +3446,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Damnak_Chang%27aeur_District
+    geodata:
+      lat: '10.526653'
+      long: '104.36731'
+      bounding_box:
+      - '10.486653'
+      - '10.566653'
+      - '104.32731'
+      - '104.40731'
   '2302':
     name:
       km: កែប
@@ -1976,6 +3464,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kep_municipality
+    geodata:
+      lat: '10.4860396'
+      long: '104.3148207'
+      bounding_box:
+      - '10.3260396'
+      - '10.6460396'
+      - '104.1548207'
+      - '104.4748207'
   '2401':
     name:
       km: ប៉ៃលិន
@@ -1986,6 +3482,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pailin_municipality
+    geodata:
+      lat: '12.8551384'
+      long: '102.6051776'
+      bounding_box:
+      - '12.663855'
+      - '12.8923275'
+      - '102.497282'
+      - '102.7533088'
   '2402':
     name:
       km: សាលាក្រៅ
@@ -1996,6 +3500,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sala_Krau
+    geodata:
+      lat: '13.003529050000001'
+      long: '102.66415391806129'
+      bounding_box:
+      - '12.8902412'
+      - '13.1166697'
+      - '102.485444'
+      - '102.7520714'
   '2501':
     name:
       km: តំបែរ
@@ -2006,6 +3518,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Dambae
+    geodata:
+      lat: '12.0178626'
+      long: '105.8900919'
+      bounding_box:
+      - '11.9778626'
+      - '12.0578626'
+      - '105.8500919'
+      - '105.9300919'
   '2502':
     name:
       km: ក្រូចឆ្មារ
@@ -2016,6 +3536,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Krouch_Chhmar
+    geodata:
+      lat: '12.2739218'
+      long: '105.6499844'
+      bounding_box:
+      - '12.2339218'
+      - '12.3139218'
+      - '105.6099844'
+      - '105.6899844'
   '2503':
     name:
       km: មេមត់
@@ -2026,6 +3554,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Memot
+    geodata:
+      lat: '11.822536'
+      long: '106.1767776'
+      bounding_box:
+      - '11.782536'
+      - '11.862536'
+      - '106.1367776'
+      - '106.2167776'
   '2504':
     name:
       km: អូររាំងឪ
@@ -2036,6 +3572,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Reang_Ov
+    geodata:
+      lat: '11.7951086'
+      long: '105.5020062'
+      bounding_box:
+      - '11.7551086'
+      - '11.8351086'
+      - '105.4620062'
+      - '105.5420062'
   '2505':
     name:
       km: ពញាក្រែក
@@ -2046,6 +3590,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ponhea_Kraek
+    geodata:
+      lat: '11.7937455'
+      long: '105.8777537'
+      bounding_box:
+      - '11.7537455'
+      - '11.8337455'
+      - '105.8377537'
+      - '105.9177537'
   '2506':
     name:
       km: សួង
@@ -2056,6 +3608,14 @@ districts:
       en: Municipality
     links:
       wikipedia: https://en.wikipedia.org/wiki/Suong_municipality
+    geodata:
+      lat: '11.9114877'
+      long: '105.6532755'
+      bounding_box:
+      - '11.8714877'
+      - '11.9514877'
+      - '105.6132755'
+      - '105.6932755'
   '2507':
     name:
       km: ត្បូងឃ្មុំ
@@ -2066,3 +3626,11 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tboung_Khmum_District
+    geodata:
+      lat: '11.8914565'
+      long: '105.7756828'
+      bounding_box:
+      - '11.7314565'
+      - '12.0514565'
+      - '105.6156828'
+      - '105.9356828'

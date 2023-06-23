@@ -10,6 +10,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banteay_Meanchey_province
+    geodata:
+      lat: '13.7989147'
+      long: '102.8862666'
+      bounding_box:
+      - '13.3579351'
+      - '14.2502283'
+      - '102.3338282'
+      - '103.4427283'
   '02':
     name:
       km: បាត់ដំបង
@@ -20,6 +28,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Battambang_province
+    geodata:
+      lat: '12.9256791'
+      long: '103.23171364274523'
+      bounding_box:
+      - '12.3711193'
+      - '13.4793632'
+      - '102.3450807'
+      - '103.9011713'
   '03':
     name:
       km: កំពង់ចាម
@@ -30,6 +46,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Cham_province
+    geodata:
+      lat: '12.1174857'
+      long: '105.20800220742942'
+      bounding_box:
+      - '11.7342165'
+      - '12.5014623'
+      - '104.8198072'
+      - '105.7759428'
   '04':
     name:
       km: កំពង់ឆ្នាំង
@@ -40,6 +64,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Chhnang_province
+    geodata:
+      lat: '12.1382025'
+      long: '104.3354098'
+      bounding_box:
+      - '11.7344035'
+      - '12.6074435'
+      - '104.1710946'
+      - '104.9019904'
   '05':
     name:
       km: កំពង់ស្ពឺ
@@ -50,6 +82,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Speu_province
+    geodata:
+      lat: '11.57753675'
+      long: '104.27140233242656'
+      bounding_box:
+      - '11.0779221'
+      - '12.0768453'
+      - '103.7729787'
+      - '104.7925761'
   '06':
     name:
       km: កំពង់ធំ
@@ -60,6 +100,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Thom_province
+    geodata:
+      lat: '12.6687923'
+      long: '104.8879197'
+      bounding_box:
+      - '12.1886895'
+      - '13.4495556'
+      - '104.1734824'
+      - '105.7348383'
   '07':
     name:
       km: កំពត
@@ -70,6 +118,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampot_province
+    geodata:
+      lat: '10.6314754'
+      long: '104.132637'
+      bounding_box:
+      - '10.3536198'
+      - '11.1722266'
+      - '103.8390342'
+      - '104.727076'
   '08':
     name:
       km: កណ្តាល
@@ -80,6 +136,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kandal_province
+    geodata:
+      lat: '11.396262499999999'
+      long: '105.02078685074581'
+      bounding_box:
+      - '10.8964776'
+      - '11.8943134'
+      - '104.6562154'
+      - '105.2971605'
   '09':
     name:
       km: កោះកុង
@@ -90,6 +154,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koh_Kong_province
+    geodata:
+      lat: '11.6813417'
+      long: '103.0258043'
+      bounding_box:
+      - '10.6542293'
+      - '12.116263'
+      - '102.5849839'
+      - '104.0645553'
   '10':
     name:
       km: ក្រចេះ
@@ -100,6 +172,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Krati%C3%A9_province
+    geodata:
+      lat: '12.678301699999999'
+      long: '106.05817329824376'
+      bounding_box:
+      - '11.9494318'
+      - '13.4073182'
+      - '105.5871802'
+      - '106.8019914'
   '11':
     name:
       km: មណ្ឌលគិរី
@@ -110,6 +190,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Mondulkiri_province
+    geodata:
+      lat: '12.7396454'
+      long: '107.00882593208544'
+      bounding_box:
+      - '12.0614615'
+      - '13.4175148'
+      - '106.3385777'
+      - '107.6033126'
   '12':
     name:
       km: ភ្នំពេញ
@@ -120,6 +208,14 @@ provinces:
       en: Capital
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnom_Penh
+    geodata:
+      lat: '11.5730391'
+      long: '104.857807'
+      bounding_box:
+      - '11.4200852'
+      - '11.7349524'
+      - '104.7204046'
+      - '105.0440261'
   '13':
     name:
       km: ព្រះវិហារ
@@ -130,6 +226,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Vihear_province
+    geodata:
+      lat: '13.746298150000001'
+      long: '104.97403002709669'
+      bounding_box:
+      - '13.0553454'
+      - '14.4374188'
+      - '104.3579998'
+      - '105.8992487'
   '14':
     name:
       km: ព្រៃវែង
@@ -140,6 +244,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Veng_province
+    geodata:
+      lat: '11.365959700000001'
+      long: '105.45572772976189'
+      bounding_box:
+      - '10.8598854'
+      - '11.8712687'
+      - '105.1039948'
+      - '105.8091078'
   '15':
     name:
       km: ពោធិ៍សាត់
@@ -150,6 +262,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pursat_province
+    geodata:
+      lat: '12.4662592'
+      long: '103.7426829518918'
+      bounding_box:
+      - '11.8432598'
+      - '13.0891438'
+      - '102.70351'
+      - '104.3951534'
   '16':
     name:
       km: រតនគិរី
@@ -160,6 +280,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ratanakiri_province
+    geodata:
+      lat: '13.9311155'
+      long: '107.03914990288844'
+      bounding_box:
+      - '13.1721622'
+      - '14.6904224'
+      - '106.5301893'
+      - '107.6276788'
   '17':
     name:
       km: សៀមរាប
@@ -170,6 +298,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Siem_Reap_province
+    geodata:
+      lat: '13.314962'
+      long: '103.805433'
+      bounding_box:
+      - '12.7720495'
+      - '13.9718578'
+      - '103.3892306'
+      - '104.6832474'
   '18':
     name:
       km: ព្រះសីហនុ
@@ -180,6 +316,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sihanoukville_province
+    geodata:
+      lat: '10.50614075'
+      long: '103.26205644863938'
+      bounding_box:
+      - '9.4110961'
+      - '11.436044'
+      - '102.6295604'
+      - '104.0772547'
   '19':
     name:
       km: ស្ទឹងត្រែង
@@ -190,6 +334,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Stung_Treng_province
+    geodata:
+      lat: '13.852468'
+      long: '106.0889848986395'
+      bounding_box:
+      - '13.1137001'
+      - '14.5919671'
+      - '105.5194671'
+      - '106.7891813'
   '20':
     name:
       km: ស្វាយរៀង
@@ -200,6 +352,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Rieng_province
+    geodata:
+      lat: '11.1942275'
+      long: '105.7973275083619'
+      bounding_box:
+      - '10.7889074'
+      - '11.5996145'
+      - '105.5796471'
+      - '106.206119'
   '21':
     name:
       km: តាកែវ
@@ -210,6 +370,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tak%C3%A9o_province
+    geodata:
+      lat: '10.93539205'
+      long: '104.78988300047047'
+      bounding_box:
+      - '10.5187794'
+      - '11.3530403'
+      - '104.4101661'
+      - '105.0983022'
   '22':
     name:
       km: ឧត្តរមានជ័យ
@@ -220,6 +388,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Oddar_Meanchey_province
+    geodata:
+      lat: '14.1585631'
+      long: '103.78279595655918'
+      bounding_box:
+      - '13.8769057'
+      - '14.4403696'
+      - '103.0318699'
+      - '104.5085773'
   '23':
     name:
       km: កែប
@@ -230,6 +406,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kep_province
+    geodata:
+      lat: '10.402153949999999'
+      long: '104.26506181616313'
+      bounding_box:
+      - '10.1548084'
+      - '10.5908859'
+      - '104.0710119'
+      - '104.4259394'
   '24':
     name:
       km: ប៉ៃលិន
@@ -240,6 +424,14 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pailin_province
+    geodata:
+      lat: '12.89053285'
+      long: '102.62946042446026'
+      bounding_box:
+      - '12.663855'
+      - '13.1166697'
+      - '102.485444'
+      - '102.7533088'
   '25':
     name:
       km: ត្បូងឃ្មុំ
@@ -250,3 +442,11 @@ provinces:
       en: Province
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tboung_Khmum_province
+    geodata:
+      lat: '11.950072599999999'
+      long: '105.824571891073'
+      bounding_box:
+      - '11.5995257'
+      - '12.3005412'
+      - '105.408445'
+      - '106.4674381'

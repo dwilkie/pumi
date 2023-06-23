@@ -85,11 +85,16 @@ module Pumi
         attributes.fetch("administrative_unit")
       )
 
+      if attributes.key?("geodata")
+        geodata = Geodata.new(attributes.fetch("geodata").transform_keys(&:to_sym))
+      end
+
       {
         id:,
         administrative_unit:,
         name_km:,
         name_latin:,
+        geodata:,
         links: attributes.fetch("links", {}).transform_keys(&:to_sym),
         name_en: name_latin,
         full_name_km: [
