@@ -10,6 +10,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banteay_Neang
+    geodata:
+      lat: '13.5104093'
+      long: '103.0177392'
+      bounding_box:
+      - '13.4904093'
+      - '13.5304093'
+      - '102.9977392'
+      - '103.0377392'
   '010202':
     name:
       km: បត់ត្រង់
@@ -20,6 +28,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bat_Trang_(Cambodia)
+    geodata:
+      lat: '13.5262537'
+      long: '102.9725752'
+      bounding_box:
+      - '13.5062537'
+      - '13.5462537'
+      - '102.9525752'
+      - '102.9925752'
   '010203':
     name:
       km: ចំណោម
@@ -30,6 +46,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chamnaom
+    geodata:
+      lat: '13.4569526'
+      long: '102.8923659'
+      bounding_box:
+      - '13.4369526'
+      - '13.4769526'
+      - '102.8723659'
+      - '102.9123659'
   '010204':
     name:
       km: គោកបល្ល័ង្គ
@@ -40,6 +64,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kouk_Ballangk
+    geodata:
+      lat: '13.459291'
+      long: '103.1305496'
+      bounding_box:
+      - '13.439291'
+      - '13.479291'
+      - '103.1105496'
+      - '103.1505496'
   '010205':
     name:
       km: គយម៉ែង
@@ -50,6 +82,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koy_Maeng
+    geodata:
+      lat: '13.5497698'
+      long: '103.1020792'
+      bounding_box:
+      - '13.5297698'
+      - '13.5697698'
+      - '103.0820792'
+      - '103.1220792'
   '010206':
     name:
       km: អូរប្រាសាទ
@@ -60,6 +100,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Prasat
+    geodata:
+      lat: '13.4456328'
+      long: '103.0224164'
+      bounding_box:
+      - '13.4256328'
+      - '13.4656328'
+      - '103.0024164'
+      - '103.0424164'
   '010207':
     name:
       km: ភ្នំតូច
@@ -70,6 +118,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnum_Touch
+    geodata:
+      lat: '13.4104346'
+      long: '103.0284867'
+      bounding_box:
+      - '13.3904346'
+      - '13.4304346'
+      - '103.0084867'
+      - '103.0484867'
   '010208':
     name:
       km: រហាត់ទឹក
@@ -80,6 +136,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rohat_Tuek
+    geodata:
+      lat: '13.4880225'
+      long: '102.9464501'
+      bounding_box:
+      - '13.4680225'
+      - '13.5080225'
+      - '102.9264501'
+      - '102.9664501'
   '010209':
     name:
       km: ឫស្សីក្រោក
@@ -90,6 +154,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ruessei_Kraok
+    geodata:
+      lat: '13.5470075'
+      long: '103.0346272'
+      bounding_box:
+      - '13.5270075'
+      - '13.5670075'
+      - '103.0146272'
+      - '103.0546272'
   '010210':
     name:
       km: សំបួរ
@@ -100,6 +172,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sambuor
+    geodata:
+      lat: '13.4371027'
+      long: '103.2106465'
+      bounding_box:
+      - '13.4171027'
+      - '13.4571027'
+      - '103.1906465'
+      - '103.2306465'
   '010211':
     name:
       km: សឿ
@@ -110,6 +190,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Soea
+    geodata:
+      lat: '13.4098467'
+      long: '102.8381483'
+      bounding_box:
+      - '13.3898467'
+      - '13.4298467'
+      - '102.8181483'
+      - '102.8581483'
   '010212':
     name:
       km: ស្រះរាំង
@@ -120,6 +208,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Srah_Reang
+    geodata:
+      lat: '13.4937096'
+      long: '103.0920226'
+      bounding_box:
+      - '13.4737096'
+      - '13.5137096'
+      - '103.0720226'
+      - '103.1120226'
   '010213':
     name:
       km: តាឡំ
@@ -130,6 +226,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Lam
+    geodata:
+      lat: '13.5211864'
+      long: '103.1132702'
+      bounding_box:
+      - '13.5011864'
+      - '13.5411864'
+      - '103.0932702'
+      - '103.1332702'
   '010301':
     name:
       km: ណាំតៅ
@@ -140,6 +244,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Nam_Tau,_Cambodia
+    geodata:
+      lat: '13.8918216'
+      long: '103.4052918'
+      bounding_box:
+      - '13.8718216'
+      - '13.9118216'
+      - '103.3852918'
+      - '103.4252918'
   '010302':
     name:
       km: ប៉ោយចារ
@@ -150,6 +262,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Paoy_Char
+    geodata:
+      lat: '13.8401992'
+      long: '103.3572299'
+      bounding_box:
+      - '13.8201992'
+      - '13.8601992'
+      - '103.3372299'
+      - '103.3772299'
   '010303':
     name:
       km: ពន្លៃ
@@ -160,6 +280,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ponley
+    geodata:
+      lat: '13.7927097'
+      long: '103.2139868'
+      bounding_box:
+      - '13.7727097'
+      - '13.8127097'
+      - '103.1939868'
+      - '103.2339868'
   '010304':
     name:
       km: ស្ពានស្រែង
@@ -170,6 +298,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Spean_Sraeng_Rouk
+    geodata:
+      lat: '13.711684'
+      long: '103.399776'
+      bounding_box:
+      - '13.691684'
+      - '13.731684'
+      - '103.379776'
+      - '103.419776'
   '010305':
     name:
       km: ស្រះជីក
@@ -180,6 +316,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Srah_Chik
+    geodata:
+      lat: '13.7275991'
+      long: '103.3192528'
+      bounding_box:
+      - '13.7075991'
+      - '13.7475991'
+      - '103.2992528'
+      - '103.3392528'
   '010306':
     name:
       km: ភ្នំដី
@@ -190,6 +334,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnom_Dei
+    geodata:
+      lat: '13.7704548'
+      long: '103.3828426'
+      bounding_box:
+      - '13.7504548'
+      - '13.7904548'
+      - '103.3628426'
+      - '103.4028426'
   '010401':
     name:
       km: ឈ្នួរមានជ័យ
@@ -200,6 +352,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chhnuor
+    geodata:
+      lat: '13.6225756'
+      long: '103.0957003'
+      bounding_box:
+      - '13.6025756'
+      - '13.6425756'
+      - '103.0757003'
+      - '103.1157003'
   '010402':
     name:
       km: ជប់វារី
@@ -210,6 +370,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chob
+    geodata:
+      lat: '13.6638149'
+      long: '103.1681942'
+      bounding_box:
+      - '13.6438149'
+      - '13.6838149'
+      - '103.1481942'
+      - '103.1881942'
   '010403':
     name:
       km: ភ្នំលៀប
@@ -220,6 +388,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnum_Lieb
+    geodata:
+      lat: '13.5387145'
+      long: '103.2928573'
+      bounding_box:
+      - '13.5187145'
+      - '13.5587145'
+      - '103.2728573'
+      - '103.3128573'
   '010404':
     name:
       km: ប្រាសាទ
@@ -230,6 +406,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prasat_Char
+    geodata:
+      lat: '13.449037'
+      long: '103.364093'
+      bounding_box:
+      - '13.429037'
+      - '13.469037'
+      - '103.344093'
+      - '103.384093'
   '010405':
     name:
       km: ព្រះនេត្រព្រះ
@@ -240,6 +424,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Netr_Preah
+    geodata:
+      lat: '13.5754057'
+      long: '103.1654096'
+      bounding_box:
+      - '13.5554057'
+      - '13.5954057'
+      - '103.1454096'
+      - '103.1854096'
   '010406':
     name:
       km: រហាល
@@ -250,6 +442,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rohal_Rohal
+    geodata:
+      lat: '13.6248637'
+      long: '103.2445687'
+      bounding_box:
+      - '13.6048637'
+      - '13.6448637'
+      - '103.2245687'
+      - '103.2645687'
   '010407':
     name:
       km: ទានកាំ
@@ -260,6 +460,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tean_Kam
+    geodata:
+      lat: '13.7086274'
+      long: '103.2210337'
+      bounding_box:
+      - '13.6886274'
+      - '13.7286274'
+      - '103.2010337'
+      - '103.2410337'
   '010408':
     name:
       km: ទឹកជោរ
@@ -270,6 +478,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuek_Chour_Smach
+    geodata:
+      lat: '13.6310672'
+      long: '103.3785291'
+      bounding_box:
+      - '13.6110672'
+      - '13.6510672'
+      - '103.3585291'
+      - '103.3985291'
   '010409':
     name:
       km: បុស្បូវ
@@ -280,6 +496,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bos_Sbov
+    geodata:
+      lat: '13.6969907'
+      long: '103.0792732'
+      bounding_box:
+      - '13.6769907'
+      - '13.7169907'
+      - '103.0592732'
+      - '103.0992732'
   '010501':
     name:
       km: ចង្ហា
@@ -290,6 +514,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Changha
+    geodata:
+      lat: '13.6441455'
+      long: '102.8895714'
+      bounding_box:
+      - '13.6241455'
+      - '13.6641455'
+      - '102.8695714'
+      - '102.9095714'
   '010502':
     name:
       km: កូប
@@ -300,6 +532,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koub
+    geodata:
+      lat: '13.6099675'
+      long: '102.782981'
+      bounding_box:
+      - '13.5899675'
+      - '13.6299675'
+      - '102.762981'
+      - '102.802981'
   '010503':
     name:
       km: គុត្ដសត
@@ -320,6 +560,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Samraong,_Banteay_Meanchey_(commune)
+    geodata:
+      lat: '13.5304714'
+      long: '102.8328438'
+      bounding_box:
+      - '13.5104714'
+      - '13.5504714'
+      - '102.8128438'
+      - '102.8528438'
   '010506':
     name:
       km: សូភី
@@ -330,6 +578,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Souphi
+    geodata:
+      lat: '13.6496689'
+      long: '102.822933'
+      bounding_box:
+      - '13.6296689'
+      - '13.6696689'
+      - '102.802933'
+      - '102.842933'
   '010507':
     name:
       km: សឹង្ហ
@@ -340,6 +596,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Soengh
+    geodata:
+      lat: '13.7273103'
+      long: '102.8351942'
+      bounding_box:
+      - '13.7073103'
+      - '13.7473103'
+      - '102.8151942'
+      - '102.8551942'
   '010509':
     name:
       km: អូរបីជាន់
@@ -350,6 +614,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Bei_Choan
+    geodata:
+      lat: '13.7374'
+      long: '102.7378202'
+      bounding_box:
+      - '13.7174'
+      - '13.7574'
+      - '102.7178202'
+      - '102.7578202'
   '010602':
     name:
       km: កំពង់ស្វាយ
@@ -360,6 +632,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Svay_(commune)
+    geodata:
+      lat: '13.6175852'
+      long: '102.9648068'
+      bounding_box:
+      - '13.5975852'
+      - '13.6375852'
+      - '102.9448068'
+      - '102.9848068'
   '010603':
     name:
       km: កោះពងសត្វ
@@ -370,6 +650,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kaoh_Pong_Satv
+    geodata:
+      lat: '13.5780457'
+      long: '103.0368099'
+      bounding_box:
+      - '13.5580457'
+      - '13.5980457'
+      - '103.0168099'
+      - '103.0568099'
   '010604':
     name:
       km: ម្កាក់
@@ -380,6 +668,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Mkak
+    geodata:
+      lat: '13.6708318'
+      long: '102.9620529'
+      bounding_box:
+      - '13.6508318'
+      - '13.6908318'
+      - '102.9420529'
+      - '102.9820529'
   '010605':
     name:
       km: អូរអំបិល
@@ -390,6 +686,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Ambel
+    geodata:
+      lat: '13.5575298'
+      long: '102.9315361'
+      bounding_box:
+      - '13.5375298'
+      - '13.5775298'
+      - '102.9115361'
+      - '102.9515361'
   '010606':
     name:
       km: ភ្នៀត
@@ -400,6 +704,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phniet
+    geodata:
+      lat: '13.6174063'
+      long: '103.0487352'
+      bounding_box:
+      - '13.5974063'
+      - '13.6374063'
+      - '103.0287352'
+      - '103.0687352'
   '010607':
     name:
       km: ព្រះពន្លា
@@ -410,6 +722,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Ponlea
+    geodata:
+      lat: '13.5828301'
+      long: '102.9863153'
+      bounding_box:
+      - '13.5628301'
+      - '13.6028301'
+      - '102.9663153'
+      - '103.0063153'
   '010608':
     name:
       km: ទឹកថ្លា
@@ -420,6 +740,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuek_Thla,_Banteay_Meanchey
+    geodata:
+      lat: '13.5819882'
+      long: '102.9081956'
+      bounding_box:
+      - '13.5619882'
+      - '13.6019882'
+      - '102.8881956'
+      - '102.9281956'
   '010701':
     name:
       km: បន្ទាយឆ្មារ
@@ -430,6 +758,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banteay_Chhmar
+    geodata:
+      lat: '14.0694373'
+      long: '103.0934719'
+      bounding_box:
+      - '14.0494373'
+      - '14.0894373'
+      - '103.0734719'
+      - '103.1134719'
   '010702':
     name:
       km: គោករមៀត
@@ -440,6 +776,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kouk_Romiet
+    geodata:
+      lat: '13.9951214'
+      long: '102.935528'
+      bounding_box:
+      - '13.9751214'
+      - '14.0151214'
+      - '102.915528'
+      - '102.955528'
   '010703':
     name:
       km: ភូមិថ្មី
@@ -450,6 +794,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phum_Thmei
+    geodata:
+      lat: '13.8893431'
+      long: '103.0612033'
+      bounding_box:
+      - '13.8693431'
+      - '13.9093431'
+      - '103.0412033'
+      - '103.0812033'
   '010704':
     name:
       km: ថ្មពួក
@@ -460,6 +812,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Thma_Puok_(commune)
+    geodata:
+      lat: '13.9414476'
+      long: '103.0523805'
+      bounding_box:
+      - '13.9214476'
+      - '13.9614476'
+      - '103.0323805'
+      - '103.0723805'
   '010705':
     name:
       km: គោកកឋិន
@@ -470,6 +830,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kouk_Kakthen
+    geodata:
+      lat: '13.8879594'
+      long: '103.1480637'
+      bounding_box:
+      - '13.8679594'
+      - '13.9079594'
+      - '103.1280637'
+      - '103.1680637'
   '010706':
     name:
       km: គំរូ
@@ -480,6 +848,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kumru,_Cambodia
+    geodata:
+      lat: '13.9806406'
+      long: '103.0261071'
+      bounding_box:
+      - '13.9606406'
+      - '14.0006406'
+      - '103.0061071'
+      - '103.0461071'
   '010801':
     name:
       km: ផ្គាំ
@@ -500,6 +876,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sarongk
+    geodata:
+      lat: '13.759706'
+      long: '103.1195475'
+      bounding_box:
+      - '13.739706'
+      - '13.779706'
+      - '103.0995475'
+      - '103.1395475'
   '010803':
     name:
       km: ស្លក្រាម
@@ -510,6 +894,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sla_Kram
+    geodata:
+      lat: '13.7742935'
+      long: '102.8419408'
+      bounding_box:
+      - '13.7542935'
+      - '13.7942935'
+      - '102.8219408'
+      - '102.8619408'
   '010804':
     name:
       km: ស្វាយចេក
@@ -520,6 +912,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Chek_(commune)
+    geodata:
+      lat: '13.8054986'
+      long: '102.9628788'
+      bounding_box:
+      - '13.7854986'
+      - '13.8254986'
+      - '102.9428788'
+      - '102.9828788'
   '010805':
     name:
       km: តាបែន
@@ -530,6 +930,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Baen
+    geodata:
+      lat: '13.7699563'
+      long: '102.9698263'
+      bounding_box:
+      - '13.7499563'
+      - '13.7899563'
+      - '102.9498263'
+      - '102.9898263'
   '010806':
     name:
       km: តាផូ
@@ -540,6 +948,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Phou
+    geodata:
+      lat: '13.7643945'
+      long: '103.0472572'
+      bounding_box:
+      - '13.7443945'
+      - '13.7843945'
+      - '103.0272572'
+      - '103.0672572'
   '010807':
     name:
       km: ទ្រាស
@@ -550,6 +966,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Treas
+    geodata:
+      lat: '13.8899882'
+      long: '102.9471226'
+      bounding_box:
+      - '13.8699882'
+      - '13.9099882'
+      - '102.9271226'
+      - '102.9671226'
   '010808':
     name:
       km: រលួស
@@ -560,6 +984,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Roluos
+    geodata:
+      lat: '13.8035946'
+      long: '102.9883113'
+      bounding_box:
+      - '13.7835946'
+      - '13.8235946'
+      - '102.9683113'
+      - '103.0083113'
   '010901':
     name:
       km: បឹងបេង
@@ -570,6 +1002,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Boeng_Beng
+    geodata:
+      lat: '13.5131183'
+      long: '102.3680025'
+      bounding_box:
+      - '13.4931183'
+      - '13.5331183'
+      - '102.3480025'
+      - '102.3880025'
   '010902':
     name:
       km: ម៉ាឡៃ
@@ -580,6 +1020,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Malai_(commune)
+    geodata:
+      lat: '13.5687169'
+      long: '102.3657833'
+      bounding_box:
+      - '13.5487169'
+      - '13.5887169'
+      - '102.3457833'
+      - '102.3857833'
   '010903':
     name:
       km: អូរសំព័រ
@@ -590,6 +1038,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Sampor
+    geodata:
+      lat: '13.5274362'
+      long: '102.5017998'
+      bounding_box:
+      - '13.5074362'
+      - '13.5474362'
+      - '102.4817998'
+      - '102.5217998'
   '010904':
     name:
       km: អូរស្រឡៅ
@@ -600,6 +1056,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Sralau
+    geodata:
+      lat: '13.5240854'
+      long: '102.4317522'
+      bounding_box:
+      - '13.5040854'
+      - '13.5440854'
+      - '102.4117522'
+      - '102.4517522'
   '010905':
     name:
       km: ទួលពង្រ
@@ -610,6 +1074,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuol_Pongro
+    geodata:
+      lat: '13.5531144'
+      long: '102.5938233'
+      bounding_box:
+      - '13.5331144'
+      - '13.5731144'
+      - '102.5738233'
+      - '102.6138233'
   '010906':
     name:
       km: តាគង់
@@ -620,6 +1092,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Kong
+    geodata:
+      lat: '13.5068435'
+      long: '102.7252954'
+      bounding_box:
+      - '13.4868435'
+      - '13.5268435'
+      - '102.7052954'
+      - '102.7452954'
   '011001':
     name:
       km: និមិត្ដ
@@ -1696,6 +2176,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.9126469'
+      long: '104.9291344'
+      bounding_box:
+      - '11.8926469'
+      - '11.9326469'
+      - '104.9091344'
+      - '104.9491344'
   '030104':
     name:
       km: ជើងព្រៃ
@@ -1720,6 +2208,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.0273582'
+      long: '104.9652024'
+      bounding_box:
+      - '12.0073582'
+      - '12.0473582'
+      - '104.9452024'
+      - '104.9852024'
   '030107':
     name:
       km: សំបូរ
@@ -1776,6 +2272,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.1793248'
+      long: '105.32127'
+      bounding_box:
+      - '12.1593248'
+      - '12.1993248'
+      - '105.30127'
+      - '105.34127'
   '030202':
     name:
       km: ចំការអណ្ដូង
@@ -1808,6 +2312,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.3303148'
+      long: '105.3310889'
+      bounding_box:
+      - '12.3103148'
+      - '12.3503148'
+      - '105.3110889'
+      - '105.3510889'
   '030206':
     name:
       km: ស្វាយទាប
@@ -1880,6 +2392,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.1917674'
+      long: '105.1226345'
+      bounding_box:
+      - '12.1717674'
+      - '12.2117674'
+      - '105.1026345'
+      - '105.1426345'
   '030307':
     name:
       km: ស្ដើងជ័យ
@@ -1888,6 +2408,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.0984948'
+      long: '105.0711401'
+      bounding_box:
+      - '12.0784948'
+      - '12.1184948'
+      - '105.0511401'
+      - '105.0911401'
   '030308':
     name:
       km: សូទិព្វ
@@ -2098,6 +2626,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.9451152'
+      long: '105.2690367'
+      bounding_box:
+      - '11.9251152'
+      - '11.9651152'
+      - '105.2490367'
+      - '105.2890367'
   '030705':
     name:
       km: ព្រែកកុយ
@@ -2218,6 +2754,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.9013183'
+      long: '105.28461'
+      bounding_box:
+      - '11.8813183'
+      - '11.9213183'
+      - '105.26461'
+      - '105.30461'
   '031301':
     name:
       km: បារាយណ៍
@@ -2308,6 +2852,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.0607274'
+      long: '105.1493395'
+      bounding_box:
+      - '12.0407274'
+      - '12.0807274'
+      - '105.1293395'
+      - '105.1693395'
   '031312':
     name:
       km: ស្រង៉ែ
@@ -2316,6 +2868,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.0607274'
+      long: '105.1493395'
+      bounding_box:
+      - '12.0407274'
+      - '12.0807274'
+      - '105.1293395'
+      - '105.1693395'
   '031313':
     name:
       km: ថ្មពូន
@@ -2484,6 +3044,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.2996807'
+      long: '105.4127089'
+      bounding_box:
+      - '12.2796807'
+      - '12.3196807'
+      - '105.3927089'
+      - '105.4327089'
   '031506':
     name:
       km: អូរម្លូ
@@ -2824,6 +3392,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.8703074'
+      long: '104.7465631'
+      bounding_box:
+      - '11.8503074'
+      - '11.8903074'
+      - '104.7265631'
+      - '104.7665631'
   '040506':
     name:
       km: អូរឫស្សី
@@ -3522,6 +4098,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.2772495'
+      long: '104.2126101'
+      bounding_box:
+      - '11.2572495'
+      - '11.2972495'
+      - '104.1926101'
+      - '104.2326101'
   '050614':
     name:
       km: យាយម៉ៅពេជ្យនិល
@@ -3748,6 +4332,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.6837497'
+      long: '104.7002298'
+      bounding_box:
+      - '11.6637497'
+      - '11.7037497'
+      - '104.6802298'
+      - '104.7202298'
   '051001':
     name:
       km: ចាន់សែន
@@ -3860,6 +4452,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.4291778'
+      long: '105.1185656'
+      bounding_box:
+      - '12.4091778'
+      - '12.4491778'
+      - '105.0985656'
+      - '105.1385656'
   '060105':
     name:
       km: ចើងដើង
@@ -4254,6 +4854,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.5004068'
+      long: '105.1265537'
+      bounding_box:
+      - '12.4804068'
+      - '12.5204068'
+      - '105.1065537'
+      - '105.1465537'
   '060704':
     name:
       km: កកោះ
@@ -4262,6 +4870,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.6254849'
+      long: '104.9916011'
+      bounding_box:
+      - '12.6054849'
+      - '12.6454849'
+      - '104.9716011'
+      - '105.0116011'
   '060705':
     name:
       km: ក្រយា
@@ -4448,6 +5064,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.3320015'
+      long: '105.10717'
+      bounding_box:
+      - '12.3120015'
+      - '12.3520015'
+      - '105.08717'
+      - '105.12717'
   '060905':
     name:
       km: សូយោង
@@ -4480,6 +5104,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.2933354'
+      long: '105.1489656'
+      bounding_box:
+      - '12.2733354'
+      - '12.3133354'
+      - '105.1289656'
+      - '105.1689656'
   '070101':
     name:
       km: អង្គភ្នំតូច
@@ -5408,6 +6040,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.5069608'
+      long: '105.0574279'
+      bounding_box:
+      - '11.4869608'
+      - '11.5269608'
+      - '105.0374279'
+      - '105.0774279'
   '080207':
     name:
       km: គគីរធំ
@@ -5424,6 +6064,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.5107159'
+      long: '105.1887109'
+      bounding_box:
+      - '11.4907159'
+      - '11.5307159'
+      - '105.1687109'
+      - '105.2087109'
   '080211':
     name:
       km: សំរោងធំ
@@ -5640,6 +6288,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.4795981'
+      long: '105.1701939'
+      bounding_box:
+      - '11.4595981'
+      - '11.4995981'
+      - '105.1501939'
+      - '105.1901939'
   '080604':
     name:
       km: កោះកែវ
@@ -5672,6 +6328,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.5107159'
+      long: '105.1887109'
+      bounding_box:
+      - '11.4907159'
+      - '11.5307159'
+      - '105.1687109'
+      - '105.2087109'
   '080610':
     name:
       km: ព្រែករៃ
@@ -5712,6 +6376,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.4970498'
+      long: '105.1410705'
+      bounding_box:
+      - '11.4770498'
+      - '11.5170498'
+      - '105.1210705'
+      - '105.1610705'
   '080703':
     name:
       km: ព្រែកអញ្ចាញ
@@ -5720,6 +6392,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.7367562'
+      long: '104.9686607'
+      bounding_box:
+      - '11.7167562'
+      - '11.7567562'
+      - '104.9486607'
+      - '104.9886607'
   '080704':
     name:
       km: ព្រែកដំបង
@@ -5736,6 +6416,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.8411311'
+      long: '104.9800047'
+      bounding_box:
+      - '11.8211311'
+      - '11.8611311'
+      - '104.9600047'
+      - '105.0000047'
   '080708':
     name:
       km: រកាកោង ទី ២
@@ -5744,6 +6432,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.8411311'
+      long: '104.9800047'
+      bounding_box:
+      - '11.8211311'
+      - '11.8611311'
+      - '104.9600047'
+      - '105.0000047'
   '080709':
     name:
       km: ឫស្សីជ្រោយ
@@ -5752,6 +6448,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.7867958'
+      long: '105.0041847'
+      bounding_box:
+      - '11.7667958'
+      - '11.8067958'
+      - '104.9841847'
+      - '105.0241847'
   '080710':
     name:
       km: សំបួរមាស
@@ -5792,6 +6496,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.5184607'
+      long: '104.6737586'
+      bounding_box:
+      - '11.4984607'
+      - '11.5384607'
+      - '104.6537586'
+      - '104.6937586'
   '080807':
     name:
       km: ក្រាំងម្កាក់
@@ -5816,6 +6528,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.6429433'
+      long: '104.7240956'
+      bounding_box:
+      - '11.6229433'
+      - '11.6629433'
+      - '104.7040956'
+      - '104.7440956'
   '080811':
     name:
       km: ពើក
@@ -5848,6 +6568,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.609557'
+      long: '104.7137945'
+      bounding_box:
+      - '11.589557'
+      - '11.629557'
+      - '104.6937945'
+      - '104.7337945'
   '080901':
     name:
       km: ឈ្វាំង
@@ -5960,6 +6688,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.3174496'
+      long: '105.0508747'
+      bounding_box:
+      - '11.2974496'
+      - '11.3374496'
+      - '105.0308747'
+      - '105.0708747'
   '081005':
     name:
       km: ក្រាំងយ៉ូវ
@@ -6032,6 +6768,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.306256'
+      long: '105.0212672'
+      bounding_box:
+      - '11.286256'
+      - '11.326256'
+      - '105.0012672'
+      - '105.0412672'
   '081101':
     name:
       km: តាក្ដុល
@@ -6874,6 +7618,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.5814971'
+      long: '106.9309687'
+      bounding_box:
+      - '12.5614971'
+      - '12.6014971'
+      - '106.9109687'
+      - '106.9509687'
   '110103':
     name:
       km: ស្រែឈូក
@@ -7038,6 +7790,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tonle_Bassac_(commune)
+    geodata:
+      lat: '11.5509405'
+      long: '104.9359091'
+      bounding_box:
+      - '11.5309405'
+      - '11.5709405'
+      - '104.9159091'
+      - '104.9559091'
   '120109':
     name:
       km: ទួលទំពូងទី ២
@@ -7046,6 +7806,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5390817'
+      long: '104.911736'
+      bounding_box:
+      - '11.5190817'
+      - '11.5590817'
+      - '104.891736'
+      - '104.931736'
   '120110':
     name:
       km: ទួលទំពូងទី ១
@@ -7054,6 +7822,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5402098'
+      long: '104.9171345'
+      bounding_box:
+      - '11.5202098'
+      - '11.5602098'
+      - '104.8971345'
+      - '104.9371345'
   '120111':
     name:
       km: បឹងត្របែក
@@ -7062,6 +7838,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5406943'
+      long: '104.922449'
+      bounding_box:
+      - '11.5206943'
+      - '11.5606943'
+      - '104.902449'
+      - '104.942449'
   '120112':
     name:
       km: ផ្សារដើមថ្កូវ
@@ -7070,6 +7854,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5307758'
+      long: '104.9192416'
+      bounding_box:
+      - '11.5107758'
+      - '11.5507758'
+      - '104.8992416'
+      - '104.9392416'
   '120201':
     name:
       km: ផ្សារថ្មីទី ១
@@ -7078,6 +7870,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5708489'
+      long: '104.9214864'
+      bounding_box:
+      - '11.5508489'
+      - '11.5908489'
+      - '104.9014864'
+      - '104.9414864'
   '120202':
     name:
       km: ផ្សារថ្មីទី ២
@@ -7086,6 +7886,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5690196'
+      long: '104.9194883'
+      bounding_box:
+      - '11.5490196'
+      - '11.5890196'
+      - '104.8994883'
+      - '104.9394883'
   '120203':
     name:
       km: ផ្សារថ្មីទី ៣
@@ -7094,6 +7902,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5664641'
+      long: '104.923734'
+      bounding_box:
+      - '11.5464641'
+      - '11.5864641'
+      - '104.903734'
+      - '104.943734'
   '120204':
     name:
       km: បឹងរាំង
@@ -7102,6 +7918,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5606982'
+      long: '104.9218237'
+      bounding_box:
+      - '11.5406982'
+      - '11.5806982'
+      - '104.9018237'
+      - '104.9418237'
   '120205':
     name:
       km: ផ្សារកណ្ដាលទី១
@@ -7126,6 +7950,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5589062'
+      long: '104.9310313'
+      bounding_box:
+      - '11.5389062'
+      - '11.5789062'
+      - '104.9110313'
+      - '104.9510313'
   '120208':
     name:
       km: ជ័យជំនះ
@@ -7136,6 +7968,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chey_Chumneas
+    geodata:
+      lat: '11.5635454'
+      long: '104.9318758'
+      bounding_box:
+      - '11.5435454'
+      - '11.5835454'
+      - '104.9118758'
+      - '104.9518758'
   '120209':
     name:
       km: ផ្សារចាស់
@@ -7144,6 +7984,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5713455'
+      long: '104.9261668'
+      bounding_box:
+      - '11.5513455'
+      - '11.5913455'
+      - '104.9061668'
+      - '104.9461668'
   '120210':
     name:
       km: ស្រះចក
@@ -7152,6 +8000,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5837416'
+      long: '104.9198536'
+      bounding_box:
+      - '11.5637416'
+      - '11.6037416'
+      - '104.8998536'
+      - '104.9398536'
   '120211':
     name:
       km: វត្ដភ្នំ
@@ -7200,6 +8056,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5694231'
+      long: '104.9171913'
+      bounding_box:
+      - '11.5494231'
+      - '11.5894231'
+      - '104.8971913'
+      - '104.9371913'
   '120306':
     name:
       km: មិត្ដភាព
@@ -7216,6 +8080,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5624743'
+      long: '104.9094089'
+      bounding_box:
+      - '11.5424743'
+      - '11.5824743'
+      - '104.8894089'
+      - '104.9294089'
   '120308':
     name:
       km: បឹងព្រលឹត
@@ -7226,6 +8098,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Boeung_Prolit
+    geodata:
+      lat: '11.5595067'
+      long: '104.9173953'
+      bounding_box:
+      - '11.5395067'
+      - '11.5795067'
+      - '104.8973953'
+      - '104.9373953'
   '120401':
     name:
       km: ផ្សារដេប៉ូទី ១
@@ -7234,6 +8114,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5690209'
+      long: '104.9029362'
+      bounding_box:
+      - '11.5490209'
+      - '11.5890209'
+      - '104.8829362'
+      - '104.9229362'
   '120402':
     name:
       km: ផ្សារដេប៉ូទី ២
@@ -7242,6 +8130,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5656231'
+      long: '104.9031949'
+      bounding_box:
+      - '11.5456231'
+      - '11.5856231'
+      - '104.8831949'
+      - '104.9231949'
   '120403':
     name:
       km: ផ្សារដេប៉ូទី ៣
@@ -7250,6 +8146,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5626152'
+      long: '104.904571'
+      bounding_box:
+      - '11.5426152'
+      - '11.5826152'
+      - '104.884571'
+      - '104.924571'
   '120404':
     name:
       km: ទឹកល្អក់ទី ១
@@ -7258,6 +8162,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5674848'
+      long: '104.8940296'
+      bounding_box:
+      - '11.5474848'
+      - '11.5874848'
+      - '104.8740296'
+      - '104.9140296'
   '120405':
     name:
       km: ទឹកល្អក់ទី ២
@@ -7266,6 +8178,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5637832'
+      long: '104.8955587'
+      bounding_box:
+      - '11.5437832'
+      - '11.5837832'
+      - '104.8755587'
+      - '104.9155587'
   '120406':
     name:
       km: ទឹកល្អក់ទី ៣
@@ -7274,6 +8194,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5574506'
+      long: '104.891708'
+      bounding_box:
+      - '11.5374506'
+      - '11.5774506'
+      - '104.871708'
+      - '104.911708'
   '120407':
     name:
       km: បឹងកក់ទី ១
@@ -7282,6 +8210,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5829536'
+      long: '104.8974246'
+      bounding_box:
+      - '11.5629536'
+      - '11.6029536'
+      - '104.8774246'
+      - '104.9174246'
   '120408':
     name:
       km: បឹងកក់ទី ២
@@ -7290,6 +8226,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5764495'
+      long: '104.8919929'
+      bounding_box:
+      - '11.5564495'
+      - '11.5964495'
+      - '104.8719929'
+      - '104.9119929'
   '120409':
     name:
       km: ផ្សារដើមគរ
@@ -7298,6 +8242,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5578276'
+      long: '104.9042409'
+      bounding_box:
+      - '11.5378276'
+      - '11.5778276'
+      - '104.8842409'
+      - '104.9242409'
   '120410':
     name:
       km: បឹងសាឡាង
@@ -7306,6 +8258,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5533121'
+      long: '104.8979144'
+      bounding_box:
+      - '11.5333121'
+      - '11.5733121'
+      - '104.8779144'
+      - '104.9179144'
   '120501':
     name:
       km: ដង្កោ
@@ -7314,6 +8274,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4960888'
+      long: '104.8863087'
+      bounding_box:
+      - '11.4760888'
+      - '11.5160888'
+      - '104.8663087'
+      - '104.9063087'
   '120507':
     name:
       km: ពងទឹក
@@ -7322,6 +8290,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.476319'
+      long: '104.8236934'
+      bounding_box:
+      - '11.456319'
+      - '11.496319'
+      - '104.8036934'
+      - '104.8436934'
   '120508':
     name:
       km: ព្រៃវែង
@@ -7330,6 +8306,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.475629'
+      long: '104.8397681'
+      bounding_box:
+      - '11.455629'
+      - '11.495629'
+      - '104.8197681'
+      - '104.8597681'
   '120510':
     name:
       km: ព្រៃស
@@ -7338,6 +8322,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4964374'
+      long: '104.8618029'
+      bounding_box:
+      - '11.4764374'
+      - '11.5164374'
+      - '104.8418029'
+      - '104.8818029'
   '120512':
     name:
       km: ក្រាំងពង្រ
@@ -7346,6 +8338,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4467139'
+      long: '104.8042486'
+      bounding_box:
+      - '11.4267139'
+      - '11.4667139'
+      - '104.7842486'
+      - '104.8242486'
   '120514':
     name:
       km: សាក់សំពៅ
@@ -7354,6 +8354,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4445966'
+      long: '104.8348848'
+      bounding_box:
+      - '11.4245966'
+      - '11.4645966'
+      - '104.8148848'
+      - '104.8548848'
   '120515':
     name:
       km: ជើងឯក
@@ -7362,6 +8370,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4882678'
+      long: '104.9036406'
+      bounding_box:
+      - '11.4682678'
+      - '11.5082678'
+      - '104.8836406'
+      - '104.9236406'
   '120516':
     name:
       km: គងនយ
@@ -7370,6 +8386,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4381788'
+      long: '104.8400571'
+      bounding_box:
+      - '11.4181788'
+      - '11.4581788'
+      - '104.8200571'
+      - '104.8600571'
   '120517':
     name:
       km: ព្រែកកំពឹស
@@ -7378,6 +8402,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4462201'
+      long: '104.9022203'
+      bounding_box:
+      - '11.4262201'
+      - '11.4662201'
+      - '104.8822203'
+      - '104.9222203'
   '120518':
     name:
       km: រលួស
@@ -7386,6 +8418,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4357024'
+      long: '104.8727746'
+      bounding_box:
+      - '11.4157024'
+      - '11.4557024'
+      - '104.8527746'
+      - '104.8927746'
   '120519':
     name:
       km: ស្ពានថ្ម
@@ -7394,6 +8434,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4628105'
+      long: '104.874518'
+      bounding_box:
+      - '11.4428105'
+      - '11.4828105'
+      - '104.854518'
+      - '104.894518'
   '120520':
     name:
       km: ទៀន
@@ -7402,6 +8450,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4392438'
+      long: '104.8567289'
+      bounding_box:
+      - '11.4192438'
+      - '11.4592438'
+      - '104.8367289'
+      - '104.8767289'
   '120606':
     name:
       km: ចាក់អង្រែលើ
@@ -7410,6 +8466,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5204875'
+      long: '104.9302511'
+      bounding_box:
+      - '11.5004875'
+      - '11.5404875'
+      - '104.9102511'
+      - '104.9502511'
   '120607':
     name:
       km: ចាក់អង្រែក្រោម
@@ -7418,6 +8482,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5041187'
+      long: '104.9354496'
+      bounding_box:
+      - '11.4841187'
+      - '11.5241187'
+      - '104.9154496'
+      - '104.9554496'
   '120608':
     name:
       km: ស្ទឹងមានជ័យទី១
@@ -7426,6 +8498,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5429278'
+      long: '104.8880421'
+      bounding_box:
+      - '11.5229278'
+      - '11.5629278'
+      - '104.8680421'
+      - '104.9080421'
   '120609':
     name:
       km: ស្ទឹងមានជ័យទី២
@@ -7434,6 +8514,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5343626'
+      long: '104.8922394'
+      bounding_box:
+      - '11.5143626'
+      - '11.5543626'
+      - '104.8722394'
+      - '104.9122394'
   '120610':
     name:
       km: ស្ទឹងមានជ័យទី៣
@@ -7442,6 +8530,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5347705'
+      long: '104.8761117'
+      bounding_box:
+      - '11.5147705'
+      - '11.5547705'
+      - '104.8561117'
+      - '104.8961117'
   '120611':
     name:
       km: បឹងទំពុនទី១
@@ -7450,6 +8546,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5334694'
+      long: '104.9058902'
+      bounding_box:
+      - '11.5134694'
+      - '11.5534694'
+      - '104.8858902'
+      - '104.9258902'
   '120612':
     name:
       km: បឹងទំពុនទី២
@@ -7458,6 +8562,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5229125'
+      long: '104.9093281'
+      bounding_box:
+      - '11.5029125'
+      - '11.5429125'
+      - '104.8893281'
+      - '104.9293281'
   '120703':
     name:
       km: ស្វាយប៉ាក
@@ -7468,6 +8580,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Pak
+    geodata:
+      lat: '11.6465889'
+      long: '104.8693076'
+      bounding_box:
+      - '11.6265889'
+      - '11.6665889'
+      - '104.8493076'
+      - '104.8893076'
   '120704':
     name:
       km: គីឡូម៉ែត្រលេខ៦
@@ -7476,6 +8596,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6192823'
+      long: '104.9051856'
+      bounding_box:
+      - '11.5992823'
+      - '11.6392823'
+      - '104.8851856'
+      - '104.9251856'
   '120706':
     name:
       km: ឫស្សីកែវ
@@ -7508,6 +8636,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5916578'
+      long: '104.912739'
+      bounding_box:
+      - '11.5716578'
+      - '11.6116578'
+      - '104.892739'
+      - '104.932739'
   '120714':
     name:
       km: ទួលសង្កែទី២
@@ -7516,6 +8652,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5994337'
+      long: '104.8955952'
+      bounding_box:
+      - '11.5794337'
+      - '11.6194337'
+      - '104.8755952'
+      - '104.9155952'
   '120801':
     name:
       km: ភ្នំពេញថ្មី
@@ -7524,6 +8668,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5831082'
+      long: '104.8765566'
+      bounding_box:
+      - '11.5631082'
+      - '11.6031082'
+      - '104.8565566'
+      - '104.8965566'
   '120802':
     name:
       km: ទឹកថ្លា
@@ -7534,6 +8686,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuek_Thla,_Phnom_Penh
+    geodata:
+      lat: '11.5643021'
+      long: '104.8774145'
+      bounding_box:
+      - '11.5443021'
+      - '11.5843021'
+      - '104.8574145'
+      - '104.8974145'
   '120803':
     name:
       km: ឃ្មួញ
@@ -7542,6 +8702,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6222282'
+      long: '104.8593363'
+      bounding_box:
+      - '11.6022282'
+      - '11.6422282'
+      - '104.8393363'
+      - '104.8793363'
   '120807':
     name:
       km: ក្រាំងធ្នង់
@@ -7550,6 +8718,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5857656'
+      long: '104.8379604'
+      bounding_box:
+      - '11.5657656'
+      - '11.6057656'
+      - '104.8179604'
+      - '104.8579604'
   '120808':
     name:
       km: អូរបែកក្អម
@@ -7558,6 +8734,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5508326'
+      long: '104.8746526'
+      bounding_box:
+      - '11.5308326'
+      - '11.5708326'
+      - '104.8546526'
+      - '104.8946526'
   '120809':
     name:
       km: គោកឃ្លាង
@@ -7566,6 +8750,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.583963'
+      long: '104.8608338'
+      bounding_box:
+      - '11.563963'
+      - '11.603963'
+      - '104.8408338'
+      - '104.8808338'
   '120901':
     name:
       km: ត្រពាំងក្រសាំង
@@ -7574,6 +8766,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.553532'
+      long: '104.795792'
+      bounding_box:
+      - '11.533532'
+      - '11.573532'
+      - '104.775792'
+      - '104.815792'
   '120906':
     name:
       km: សំរោងក្រោម
@@ -7582,6 +8782,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5751626'
+      long: '104.8086026'
+      bounding_box:
+      - '11.5551626'
+      - '11.5951626'
+      - '104.7886026'
+      - '104.8286026'
   '120914':
     name:
       km: ចោមចៅទី១
@@ -7590,6 +8798,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5234572'
+      long: '104.8605232'
+      bounding_box:
+      - '11.5034572'
+      - '11.5434572'
+      - '104.8405232'
+      - '104.8805232'
   '120915':
     name:
       km: ចោមចៅទី២
@@ -7598,6 +8814,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5187076'
+      long: '104.8335396'
+      bounding_box:
+      - '11.4987076'
+      - '11.5387076'
+      - '104.8135396'
+      - '104.8535396'
   '120916':
     name:
       km: ចោមចៅទី៣
@@ -7606,6 +8830,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5356956'
+      long: '104.8186051'
+      bounding_box:
+      - '11.5156956'
+      - '11.5556956'
+      - '104.7986051'
+      - '104.8386051'
   '120917':
     name:
       km: កាកាបទី១
@@ -7614,6 +8846,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5543778'
+      long: '104.8499764'
+      bounding_box:
+      - '11.5343778'
+      - '11.5743778'
+      - '104.8299764'
+      - '104.8699764'
   '120918':
     name:
       km: កាកាបទី២
@@ -7622,6 +8862,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5616803'
+      long: '104.8312223'
+      bounding_box:
+      - '11.5416803'
+      - '11.5816803'
+      - '104.8112223'
+      - '104.8512223'
   '121001':
     name:
       km: ជ្រោយចង្វារ
@@ -7638,6 +8886,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6456062'
+      long: '104.9170732'
+      bounding_box:
+      - '11.6256062'
+      - '11.6656062'
+      - '104.8970732'
+      - '104.9370732'
   '121003':
     name:
       km: ព្រែកតាសេក
@@ -7646,6 +8902,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6555149'
+      long: '104.8841571'
+      bounding_box:
+      - '11.6355149'
+      - '11.6755149'
+      - '104.8641571'
+      - '104.9041571'
   '121004':
     name:
       km: កោះដាច់
@@ -7654,6 +8918,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6647479'
+      long: '104.9363037'
+      bounding_box:
+      - '11.6447479'
+      - '11.6847479'
+      - '104.9163037'
+      - '104.9563037'
   '121005':
     name:
       km: បាក់ខែង
@@ -7670,6 +8942,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6653243'
+      long: '104.8552509'
+      bounding_box:
+      - '11.6453243'
+      - '11.6853243'
+      - '104.8352509'
+      - '104.8752509'
   '121102':
     name:
       km: ពញាពន់
@@ -7678,6 +8958,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6551695'
+      long: '104.7929146'
+      bounding_box:
+      - '11.6351695'
+      - '11.6751695'
+      - '104.7729146'
+      - '104.8129146'
   '121103':
     name:
       km: សំរោង
@@ -7686,6 +8974,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6854873'
+      long: '104.8351562'
+      bounding_box:
+      - '11.6654873'
+      - '11.7054873'
+      - '104.8151562'
+      - '104.8551562'
   '121104':
     name:
       km: គោករកា
@@ -7694,6 +8990,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5992797'
+      long: '104.8184632'
+      bounding_box:
+      - '11.5792797'
+      - '11.6192797'
+      - '104.7984632'
+      - '104.8384632'
   '121105':
     name:
       km: ពន្សាំង
@@ -7702,6 +9006,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.6333603'
+      long: '104.7648233'
+      bounding_box:
+      - '11.6133603'
+      - '11.6533603'
+      - '104.7448233'
+      - '104.7848233'
   '121201':
     name:
       km: ច្បារអំពៅទី ១
@@ -7710,6 +9022,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5298382'
+      long: '104.9385287'
+      bounding_box:
+      - '11.5098382'
+      - '11.5498382'
+      - '104.9185287'
+      - '104.9585287'
   '121202':
     name:
       km: ច្បារអំពៅទី ២
@@ -7718,6 +9038,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5360096'
+      long: '104.9381036'
+      bounding_box:
+      - '11.5160096'
+      - '11.5560096'
+      - '104.9181036'
+      - '104.9581036'
   '121203':
     name:
       km: និរោធ
@@ -7726,6 +9054,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5262469'
+      long: '104.9537196'
+      bounding_box:
+      - '11.5062469'
+      - '11.5462469'
+      - '104.9337196'
+      - '104.9737196'
   '121204':
     name:
       km: ព្រែកប្រា
@@ -7734,6 +9070,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5063174'
+      long: '104.9477173'
+      bounding_box:
+      - '11.4863174'
+      - '11.5263174'
+      - '104.9277173'
+      - '104.9677173'
   '121205':
     name:
       km: វាលស្បូវ
@@ -7742,6 +9086,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5310124'
+      long: '104.9733348'
+      bounding_box:
+      - '11.5110124'
+      - '11.5510124'
+      - '104.9533348'
+      - '104.9933348'
   '121206':
     name:
       km: ព្រែកឯង
@@ -7750,6 +9102,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5289849'
+      long: '104.9886913'
+      bounding_box:
+      - '11.5089849'
+      - '11.5489849'
+      - '104.9686913'
+      - '105.0086913'
   '121207':
     name:
       km: ក្បាលកោះ
@@ -7758,6 +9118,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5036877'
+      long: '105.0102142'
+      bounding_box:
+      - '11.4836877'
+      - '11.5236877'
+      - '104.9902142'
+      - '105.0302142'
   '121208':
     name:
       km: ព្រែកថ្មី
@@ -7766,6 +9134,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4703998'
+      long: '104.9820909'
+      bounding_box:
+      - '11.4503998'
+      - '11.4903998'
+      - '104.9620909'
+      - '105.0020909'
   '121301':
     name:
       km: បឹងកេងកងទី ១
@@ -7774,6 +9150,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5504554'
+      long: '104.9249988'
+      bounding_box:
+      - '11.5304554'
+      - '11.5704554'
+      - '104.9049988'
+      - '104.9449988'
   '121302':
     name:
       km: បឹងកេងកងទី ២
@@ -7782,6 +9166,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5529917'
+      long: '104.9184799'
+      bounding_box:
+      - '11.5329917'
+      - '11.5729917'
+      - '104.8984799'
+      - '104.9384799'
   '121303':
     name:
       km: បឹងកេងកងទី ៣
@@ -7790,6 +9182,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.547771'
+      long: '104.9178497'
+      bounding_box:
+      - '11.527771'
+      - '11.567771'
+      - '104.8978497'
+      - '104.9378497'
   '121304':
     name:
       km: អូឡាំពិក
@@ -7798,6 +9198,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5532352'
+      long: '104.9133669'
+      bounding_box:
+      - '11.5332352'
+      - '11.5732352'
+      - '104.8933669'
+      - '104.9333669'
   '121305':
     name:
       km: ទំនប់ទឹក
@@ -7806,6 +9214,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.54573'
+      long: '104.9049028'
+      bounding_box:
+      - '11.52573'
+      - '11.56573'
+      - '104.8849028'
+      - '104.9249028'
   '121306':
     name:
       km: ទួលស្វាយព្រៃទី ១
@@ -7824,6 +9240,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuol_Svay_Prey_2
+    geodata:
+      lat: '11.5543617'
+      long: '104.9062018'
+      bounding_box:
+      - '11.5343617'
+      - '11.5743617'
+      - '104.8862018'
+      - '104.9262018'
   '121401':
     name:
       km: កំបូល
@@ -7832,6 +9256,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5416595'
+      long: '104.7746396'
+      bounding_box:
+      - '11.5216595'
+      - '11.5616595'
+      - '104.7546396'
+      - '104.7946396'
   '121402':
     name:
       km: កន្ទោក
@@ -7840,6 +9272,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5061345'
+      long: '104.7833627'
+      bounding_box:
+      - '11.4861345'
+      - '11.5261345'
+      - '104.7633627'
+      - '104.8033627'
   '121403':
     name:
       km: ឪឡោក
@@ -7848,6 +9288,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.5691298'
+      long: '104.7456644'
+      bounding_box:
+      - '11.5491298'
+      - '11.5891298'
+      - '104.7256644'
+      - '104.7656644'
   '121404':
     name:
       km: ស្នោរ
@@ -7864,6 +9312,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4940305'
+      long: '104.8050835'
+      bounding_box:
+      - '11.4740305'
+      - '11.5140305'
+      - '104.7850835'
+      - '104.8250835'
   '121406':
     name:
       km: បឹងធំ
@@ -7872,6 +9328,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4767247'
+      long: '104.771594'
+      bounding_box:
+      - '11.4567247'
+      - '11.4967247'
+      - '104.751594'
+      - '104.791594'
   '121407':
     name:
       km: ប្រទះឡាង
@@ -7880,6 +9344,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '11.4690007'
+      long: '104.7923055'
+      bounding_box:
+      - '11.4490007'
+      - '11.4890007'
+      - '104.7723055'
+      - '104.8123055'
   '130101':
     name:
       km: ស្អាង
@@ -8040,6 +9512,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '14.2317726'
+      long: '104.6097563'
+      bounding_box:
+      - '14.2117726'
+      - '14.2517726'
+      - '104.5897563'
+      - '104.6297563'
   '130307':
     name:
       km: ស្រអែម
@@ -8048,6 +9528,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '14.2524458'
+      long: '104.7236913'
+      bounding_box:
+      - '14.2324458'
+      - '14.2724458'
+      - '104.7036913'
+      - '104.7436913'
   '130308':
     name:
       km: មរកត
@@ -8472,6 +9960,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.1923893'
+      long: '105.5495047'
+      bounding_box:
+      - '11.1723893'
+      - '11.2123893'
+      - '105.5295047'
+      - '105.5695047'
   '140307':
     name:
       km: កំពង់ត្របែក
@@ -8930,6 +10426,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.1707184'
+      long: '105.3888088'
+      bounding_box:
+      - '11.1507184'
+      - '11.1907184'
+      - '105.3688088'
+      - '105.4088088'
   '140908':
     name:
       km: ព្រះស្ដេច
@@ -9066,6 +10570,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.1707184'
+      long: '105.3888088'
+      bounding_box:
+      - '11.1507184'
+      - '11.1907184'
+      - '105.3688088'
+      - '105.4088088'
   '141204':
     name:
       km: ព្នៅទី ១
@@ -9114,6 +10626,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.7327549'
+      long: '105.3658658'
+      bounding_box:
+      - '11.7127549'
+      - '11.7527549'
+      - '105.3458658'
+      - '105.3858658'
   '141210':
     name:
       km: រំលេច
@@ -9218,6 +10738,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.3820685'
+      long: '105.4509218'
+      bounding_box:
+      - '11.3620685'
+      - '11.4020685'
+      - '105.4309218'
+      - '105.4709218'
   '150101':
     name:
       km: បឹងបត់កណ្ដាល
@@ -10074,6 +11602,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.6295432'
+      long: '104.2485422'
+      bounding_box:
+      - '13.6095432'
+      - '13.6495432'
+      - '104.2285422'
+      - '104.2685422'
   '170201':
     name:
       km: ជប់តាត្រាវ
@@ -10098,6 +11634,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.6150082'
+      long: '103.8948941'
+      bounding_box:
+      - '13.5950082'
+      - '13.6350082'
+      - '103.8748941'
+      - '103.9148941'
   '170204':
     name:
       km: ស្វាយចេក
@@ -10178,6 +11722,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.1238655'
+      long: '104.3364802'
+      bounding_box:
+      - '13.1038655'
+      - '13.1438655'
+      - '104.3164802'
+      - '104.3564802'
   '170404':
     name:
       km: ខ្វាវ
@@ -10250,6 +11802,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.0910779'
+      long: '104.3976054'
+      bounding_box:
+      - '13.0710779'
+      - '13.1110779'
+      - '104.3776054'
+      - '104.4176054'
   '170601':
     name:
       km: ចន្លាសដៃ
@@ -10418,6 +11978,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.54893'
+      long: '103.7673134'
+      bounding_box:
+      - '13.52893'
+      - '13.56893'
+      - '103.7473134'
+      - '103.7873134'
   '170713':
     name:
       km: សំរោងយា
@@ -10628,6 +12196,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.2459296'
+      long: '104.1219699'
+      bounding_box:
+      - '13.2259296'
+      - '13.2659296'
+      - '104.1019699'
+      - '104.1419699'
   '171103':
     name:
       km: ដានរុន
@@ -10780,6 +12356,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.6295432'
+      long: '104.2485422'
+      bounding_box:
+      - '13.6095432'
+      - '13.6495432'
+      - '104.2285422'
+      - '104.2685422'
   '171401':
     name:
       km: ប្រាសាទ
@@ -11332,6 +12916,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '10.8724737'
+      long: '106.0811825'
+      bounding_box:
+      - '10.8524737'
+      - '10.8924737'
+      - '106.0611825'
+      - '106.1011825'
   '200104':
     name:
       km: ច្រេស
@@ -11364,6 +12956,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '10.9283646'
+      long: '106.1285716'
+      bounding_box:
+      - '10.9083646'
+      - '10.9483646'
+      - '106.1085716'
+      - '106.1485716'
   '200110':
     name:
       km: ទួលស្ដី
@@ -11372,6 +12972,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '10.8841797'
+      long: '106.1314316'
+      bounding_box:
+      - '10.8641797'
+      - '10.9041797'
+      - '106.1114316'
+      - '106.1514316'
   '200201':
     name:
       km: បន្ទាយក្រាំង
@@ -11620,6 +13228,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.5298046'
+      long: '105.7132448'
+      bounding_box:
+      - '11.5098046'
+      - '11.5498046'
+      - '105.6932448'
+      - '105.7332448'
   '200411':
     name:
       km: មុខដា
@@ -11668,6 +13284,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.5305197'
+      long: '105.8234169'
+      bounding_box:
+      - '11.5105197'
+      - '11.5505197'
+      - '105.8034169'
+      - '105.8434169'
   '200501':
     name:
       km: អង្គតាសូ
@@ -11724,6 +13348,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.2254407'
+      long: '105.7151913'
+      bounding_box:
+      - '11.2054407'
+      - '11.2454407'
+      - '105.6951913'
+      - '105.7351913'
   '200509':
     name:
       km: គោកព្រីង
@@ -12076,6 +13708,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Komar_Reachea_Commune
+    geodata:
+      lat: '11.2638718'
+      long: '104.7398177'
+      bounding_box:
+      - '11.2438718'
+      - '11.2838718'
+      - '104.7198177'
+      - '104.7598177'
   '210206':
     name:
       km: ក្រាំងលាវ
@@ -12106,6 +13746,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Lumpong_Commune
+    geodata:
+      lat: '11.3141446'
+      long: '104.764363'
+      bounding_box:
+      - '11.2941446'
+      - '11.3341446'
+      - '104.744363'
+      - '104.784363'
   '210209':
     name:
       km: ពារាម
@@ -12126,6 +13774,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pot_Sar_Commune
+    geodata:
+      lat: '11.3281258'
+      long: '104.9004929'
+      bounding_box:
+      - '11.3081258'
+      - '11.3481258'
+      - '104.8804929'
+      - '104.9204929'
   '210211':
     name:
       km: សូរភី
@@ -12136,6 +13792,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sour_Phi_Commune
+    geodata:
+      lat: '11.2874239'
+      long: '104.7074123'
+      bounding_box:
+      - '11.2674239'
+      - '11.3074239'
+      - '104.6874123'
+      - '104.7274123'
   '210212':
     name:
       km: តាំងដូង
@@ -12416,6 +14080,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angkanh_Commune_(Prey_Kabbas_District)
+    geodata:
+      lat: '10.8865424'
+      long: '104.8322133'
+      bounding_box:
+      - '10.8665424'
+      - '10.9065424'
+      - '104.8122133'
+      - '104.8522133'
   '210602':
     name:
       km: បានកាម
@@ -12496,6 +14168,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Kabbas_Commune
+    geodata:
+      lat: '11.09663'
+      long: '104.9464702'
+      bounding_box:
+      - '11.07663'
+      - '11.11663'
+      - '104.9264702'
+      - '104.9664702'
   '210610':
     name:
       km: ព្រៃល្វា
@@ -12506,6 +14186,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Lvea_Commune
+    geodata:
+      lat: '11.1624021'
+      long: '104.9587343'
+      bounding_box:
+      - '11.1424021'
+      - '11.1824021'
+      - '104.9387343'
+      - '104.9787343'
   '210611':
     name:
       km: ព្រៃផ្ដៅ
@@ -12616,6 +14304,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Samraong_Commune_(Samraong_District)
+    geodata:
+      lat: '10.8004948'
+      long: '104.8364855'
+      bounding_box:
+      - '10.7804948'
+      - '10.8204948'
+      - '104.8164855'
+      - '104.8564855'
   '210709':
     name:
       km: សឹង្ហ
@@ -12686,6 +14382,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angk_Ta_Saom_Commune
+    geodata:
+      lat: '11.0130714'
+      long: '104.6732034'
+      bounding_box:
+      - '10.9930714'
+      - '11.0330714'
+      - '104.6532034'
+      - '104.6932034'
   '210902':
     name:
       km: ជាងទង
@@ -12776,6 +14480,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Samraong_Commune_(Tram_Kak_District)
+    geodata:
+      lat: '10.8004948'
+      long: '104.8364855'
+      bounding_box:
+      - '10.7804948'
+      - '10.8204948'
+      - '104.8164855'
+      - '104.8564855'
   '210911':
     name:
       km: ស្រែរនោង
@@ -12816,6 +14528,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Trapeang_Thum_Khang_Cheung_Commune
+    geodata:
+      lat: '11.0512407'
+      long: '104.5688112'
+      bounding_box:
+      - '11.0312407'
+      - '11.0712407'
+      - '104.5488112'
+      - '104.5888112'
   '210915':
     name:
       km: ត្រពាំងធំខាងត្បូង
@@ -12836,6 +14556,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angkanh_Commune_(Treang_District)
+    geodata:
+      lat: '10.8865424'
+      long: '104.8322133'
+      bounding_box:
+      - '10.8665424'
+      - '10.9065424'
+      - '104.8122133'
+      - '104.8522133'
   '211002':
     name:
       km: អង្គខ្នុរ
@@ -12846,6 +14574,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angk_Khnor_Commune
+    geodata:
+      lat: '10.8576098'
+      long: '104.8309913'
+      bounding_box:
+      - '10.8376098'
+      - '10.8776098'
+      - '104.8109913'
+      - '104.8509913'
   '211003':
     name:
       km: ជីខ្មា
@@ -12856,6 +14592,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chi_Khma_Commune
+    geodata:
+      lat: '10.8059315'
+      long: '104.7983052'
+      bounding_box:
+      - '10.7859315'
+      - '10.8259315'
+      - '104.7783052'
+      - '104.8183052'
   '211004':
     name:
       km: ខ្វាវ
@@ -12876,6 +14620,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prambei_Mum_Commune
+    geodata:
+      lat: '10.8426624'
+      long: '104.7824997'
+      bounding_box:
+      - '10.8226624'
+      - '10.8626624'
+      - '104.7624997'
+      - '104.8024997'
   '211006':
     name:
       km: អង្គកែវ
@@ -12886,6 +14638,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angk_Kev_Commune
+    geodata:
+      lat: '10.8609481'
+      long: '104.7408709'
+      bounding_box:
+      - '10.8409481'
+      - '10.8809481'
+      - '104.7208709'
+      - '104.7608709'
   '211007':
     name:
       km: ព្រៃស្លឹក
@@ -12896,6 +14656,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Sloek_Commune
+    geodata:
+      lat: '10.8941031'
+      long: '104.7802661'
+      bounding_box:
+      - '10.8741031'
+      - '10.9141031'
+      - '104.7602661'
+      - '104.8002661'
   '211008':
     name:
       km: រនាម
@@ -12906,6 +14674,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Roneam_Commune
+    geodata:
+      lat: '10.9333266'
+      long: '104.7506177'
+      bounding_box:
+      - '10.9133266'
+      - '10.9533266'
+      - '104.7306177'
+      - '104.7706177'
   '211009':
     name:
       km: សំបួរ
@@ -12916,6 +14692,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sambuor_Commune
+    geodata:
+      lat: '10.9372704'
+      long: '104.8856448'
+      bounding_box:
+      - '10.9172704'
+      - '10.9572704'
+      - '104.8656448'
+      - '104.9056448'
   '211010':
     name:
       km: សន្លុង
@@ -12926,6 +14710,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sanlong_Commune
+    geodata:
+      lat: '10.7978826'
+      long: '104.7513378'
+      bounding_box:
+      - '10.7778826'
+      - '10.8178826'
+      - '104.7313378'
+      - '104.7713378'
   '211011':
     name:
       km: ស្មោង
@@ -12936,6 +14728,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Smaong_Commune
+    geodata:
+      lat: '10.8004948'
+      long: '104.8364855'
+      bounding_box:
+      - '10.7804948'
+      - '10.8204948'
+      - '104.8164855'
+      - '104.8564855'
   '211012':
     name:
       km: ស្រង៉ែ
@@ -12946,6 +14746,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Srangae_Commune_(Treang_District)
+    geodata:
+      lat: '10.8004948'
+      long: '104.8364855'
+      bounding_box:
+      - '10.7804948'
+      - '10.8204948'
+      - '104.8164855'
+      - '104.8564855'
   '211013':
     name:
       km: ធ្លក
@@ -12956,6 +14764,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Thlok_Commune_(Treang_District)
+    geodata:
+      lat: '10.9097849'
+      long: '104.810425'
+      bounding_box:
+      - '10.8897849'
+      - '10.9297849'
+      - '104.790425'
+      - '104.830425'
   '211014':
     name:
       km: ត្រឡាច
@@ -12966,6 +14782,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tralach_Commune
+    geodata:
+      lat: '10.829381'
+      long: '104.8368503'
+      bounding_box:
+      - '10.809381'
+      - '10.849381'
+      - '104.8168503'
+      - '104.8568503'
   '220101':
     name:
       km: អន្លង់វែង
@@ -13038,6 +14862,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '14.1617182'
+      long: '103.2813975'
+      bounding_box:
+      - '14.1417182'
+      - '14.1817182'
+      - '103.2613975'
+      - '103.3013975'
   '220301':
     name:
       km: ជើងទៀន
@@ -13112,6 +14944,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/O_Smach
+    geodata:
+      lat: '14.4141518'
+      long: '103.6934515'
+      bounding_box:
+      - '14.3941518'
+      - '14.4341518'
+      - '103.6734515'
+      - '103.7134515'
   '220501':
     name:
       km: បាក់អន្លូង
@@ -13352,6 +15192,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '12.1411778'
+      long: '105.5466077'
+      bounding_box:
+      - '12.1211778'
+      - '12.1611778'
+      - '105.5266077'
+      - '105.5666077'
   '250205':
     name:
       km: ក្រូចឆ្មារ
@@ -13440,6 +15288,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.7673982'
+      long: '106.3387138'
+      bounding_box:
+      - '11.7473982'
+      - '11.7873982'
+      - '106.3187138'
+      - '106.3587138'
   '250304':
     name:
       km: ជាំតាម៉ៅ
@@ -13592,6 +15448,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.755725'
+      long: '105.7217814'
+      bounding_box:
+      - '11.735725'
+      - '11.775725'
+      - '105.7017814'
+      - '105.7417814'
   '250502':
     name:
       km: កក់
@@ -13608,6 +15472,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.8286792'
+      long: '105.7823332'
+      bounding_box:
+      - '11.8086792'
+      - '11.8486792'
+      - '105.7623332'
+      - '105.8023332'
   '250504':
     name:
       km: កោងកាង
@@ -13624,6 +15496,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.7667471'
+      long: '105.9304438'
+      bounding_box:
+      - '11.7467471'
+      - '11.7867471'
+      - '105.9104438'
+      - '105.9504438'
   '250506':
     name:
       km: ពពេល
@@ -13714,6 +15594,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.914365'
+      long: '105.6254787'
+      bounding_box:
+      - '11.894365'
+      - '11.934365'
+      - '105.6054787'
+      - '105.6454787'
   '250707':
     name:
       km: គរ
@@ -13762,6 +15650,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.8769066'
+      long: '105.7420154'
+      bounding_box:
+      - '11.8569066'
+      - '11.8969066'
+      - '105.7220154'
+      - '105.7620154'
   '250713':
     name:
       km: ថ្មពេជ្រ

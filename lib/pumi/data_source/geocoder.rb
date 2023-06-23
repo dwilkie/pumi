@@ -13,6 +13,27 @@ module Pumi
           @options = options
         end
 
+        def geocode_all
+          locations.each_with_object([]) do |location, results|
+            next if !options[:regeocode] && !location.geodata.nil?
+
+            search_term = build_search_term(location)
+            puts "Searching for '#{search_term}'"
+
+            geocoder_results = geocoder.search(search_term)
+            geocoder_result = filter(location, geocoder_results)
+
+            if geocoder_result.nil?
+              puts "Unable to geocode '#{search_term}'. Found: #{geocoder_results}"
+              ungeocoded_locations << location
+              next
+            end
+
+            puts "Found: #{geocoder_result.inspect}, in: #{location.address_en}"
+            results << build_result(code: location.id, geocoder_result:)
+          end
+        end
+
         private
 
         def build_result(code:, geocoder_result:)
@@ -23,51 +44,67 @@ module Pumi
             bounding_box: geocoder_result.data["boundingbox"]
           )
         end
+
+        def build_search_term(location)
+          location.full_name_km
+        end
+
+        def ungeocoded_locations
+          @ungeocoded_locations ||= []
+        end
+
+        def iso3166_2(province)
+          "KH-#{province.id.to_i}"
+        end
       end
 
       class CambodianProvinces < AbstractGeocoder
-        def geocode_all
-          Pumi::Province.all.each_with_object([]) do |province, results|
-            next if !options[:regeocode] && !province.geodata.nil?
+        private
 
-            iso_code = "KH-#{province.id.to_i}"
-            geocoder_results = geocoder.search(iso_code)
-            geocoder_result = geocoder_results.find do |r|
-              r.data["address"]["ISO3166-2-lvl4"] == iso_code && r.data["type"] == "administrative"
-            end
+        def locations
+          Pumi::Province.all
+        end
 
-            raise "No results from #{geocoder_results}" if geocoder_result.nil?
+        def build_search_term(province)
+          iso3166_2(province)
+        end
 
-            results << build_result(code: province.id, geocoder_result:)
+        def filter(province, geocoder_results)
+          geocoder_results.find do |r|
+            r.data["address"]["ISO3166-2-lvl4"] == iso3166_2(province) && r.data["type"] == "administrative"
           end
         end
       end
 
       class CambodianDistricts < AbstractGeocoder
-        def geocode_all
-          Pumi::District.all.each_with_object([]) do |district, results|
-            next if !options[:regeocode] && !district.geodata.nil?
-
-            district_name = district.full_name_km
-            geocoder_results = geocoder.search(district_name)
-            geocoder_result = geocoder_results.find do |r|
-              r.data["address"]["country_code"] == "kh" &&
-                %w[town city administrative].include?(r.data["type"])
-            end
-
-            if geocoder_result.nil?
-              ungeocoded_districts << district
-              next
-            end
-
-            results << build_result(code: district.id, geocoder_result:)
-          end
-        end
-
         private
 
-        def ungeocoded_districts
-          @ungeocoded_districts ||= []
+        def locations
+          Pumi::District.all
+        end
+
+        def filter(district, geocoder_results)
+          geocoder_results.find do |r|
+            r.data["address"]["country_code"] == "kh" &&
+              r.data["address"]["ISO3166-2-lvl4"] == iso3166_2(district.province) &&
+              %w[town city administrative].include?(r.data["type"])
+          end
+        end
+      end
+
+      class CambodianCommunes < AbstractGeocoder
+        private
+
+        def locations
+          Pumi::Commune.all
+        end
+
+        def filter(commune, geocoder_results)
+          geocoder_results.find do |r|
+            r.data["address"]["country_code"] == "kh" &&
+              (r.data["address"]["ISO3166-2-lvl4"] == iso3166_2(commune.province) || r.data["address"]["county"].to_s.include?(commune.district.name_en)) &&
+              %w[village].include?(r.data["type"])
+          end
         end
       end
 
