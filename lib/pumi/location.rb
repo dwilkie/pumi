@@ -9,6 +9,7 @@ module Pumi
     :administrative_unit,
     :links,
     :geodata,
+    :iso3166_2,
     keyword_init: true
   ) do
     class << self

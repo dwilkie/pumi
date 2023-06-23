@@ -1,4 +1,6 @@
 require "geocoder"
+# require "redis"
+require "pry"
 
 module Pumi
   module DataSource
@@ -6,30 +8,106 @@ module Pumi
       Result = Struct.new(:code, :lat, :long, :bounding_box, keyword_init: true)
 
       class AbstractGeocoder
-        attr_reader :geocoder, :options
+        Result = Struct.new(
+          :lat, :long, :bounding_box, :country_code,
+          :types, :iso3166_2, :district_name_en,
+          keyword_init: true
+        )
 
-        def initialize(geocoder: ::Geocoder, **options)
-          @geocoder = geocoder
+        class AbstractProvider
+          attr_reader :geocoder, :name
+
+          def initialize(geocoder:, name:)
+            @geocoder = geocoder
+            @name = name
+          end
+
+          def search(term)
+            geocoder.search(term, lookup: name).map do |result|
+              build_result(result.data)
+            end
+          end
+        end
+
+        class Google < AbstractProvider
+          private
+
+          def build_result(data)
+            binding.pry
+
+            Result.new(
+              lat: data.dig("geometry", "location", "lat"),
+              long: data.dig("geometry", "location", "lng"),
+              bounding_box: [
+                data.dig("geometry", "bounds", "northeast", "lat"),
+                data.dig("geometry", "bounds", "northeast", "lng"),
+                data.dig("geometry", "bounds", "southwest", "lat"),
+                data.dig("geometry", "bounds", "southwest", "lng")
+              ],
+              country_code: find_address_component(data, "country").fetch("short_name").upcase,
+              district_name_en: find_address_component(
+                data,
+                "administrative_area_level_2"
+              ).fetch("long_name"),
+              types: data["types"]
+            )
+          end
+
+          def find_address_component(data, type)
+            data.fetch("address_components").find do |c|
+              c.fetch("types").include?(type)
+            end
+          end
+        end
+
+        class Nominatim < AbstractProvider
+          private
+
+          def build_result(data)
+            Result.new(
+              lat: data["lat"],
+              long: data["lon"],
+              bounding_box: data["boundingbox"],
+              types: Array(data["type"]),
+              iso3166_2: data.dig("address", "ISO3166-2-lvl4"),
+              country_code: data.dig("address", "country_code").upcase,
+              district_name_en: data.dig("address", "county")
+            )
+          end
+        end
+
+        PROVIDERS = {
+          nominatim: Nominatim,
+          google: Google
+        }.freeze
+
+        attr_reader :providers, :options
+
+        def initialize(geocoder: ::Geocoder, providers: PROVIDERS.keys, **options)
           @options = options
+
+          geocoder.configure(
+            google: {
+              api_key: ENV["GOOGLE_API_KEY"]
+            }
+            # cache: Redis.new
+          )
+
+          @providers = Array(providers).map do |name|
+            PROVIDERS.fetch(name).new(geocoder:, name:)
+          end
         end
 
         def geocode_all
           locations.each_with_object([]).with_index do |(location, results), index|
             next if !options[:regeocode] && !location.geodata.nil?
 
-            geocoder_results = []
-            geocoder_result = nil
-            Array(build_search_term(location)).each do |search_term|
-              puts "Geocoding #{index + 1} of #{locations.size}. Search term: '#{search_term}'"
+            puts "Geocoding #{index + 1} of #{locations.size}"
 
-              geocoder_results = geocoder.search(search_term)
-              geocoder_result = filter(location, geocoder_results)
-
-              break unless geocoder_result.nil?
-            end
+            geocoder_result = geocode(location)
 
             if geocoder_result.nil?
-              puts "Unable to geocode ('#{location.address_en}', '#{location.address_latin}'). Found: #{geocoder_results}"
+              puts "Unable to geocode ('#{location.address_en}', '#{location.address_latin}')"
               ungeocoded_locations << location
               next
             end
@@ -41,12 +119,27 @@ module Pumi
 
         private
 
+        def geocode(location)
+          providers.each do |provider|
+            Array(build_search_term(location)).each do |search_term|
+              puts "Searching for: '#{search_term}' with provider: #{provider.name}"
+
+              all_results = provider.search(search_term)
+              geocoder_result = filter(location, all_results)
+
+              return geocoder_result unless geocoder_result.nil?
+            end
+          end
+
+          nil
+        end
+
         def build_result(code:, geocoder_result:)
           Geocoder::Result.new(
             code:,
-            lat: geocoder_result.data["lat"],
-            long: geocoder_result.data["lon"],
-            bounding_box: geocoder_result.data["boundingbox"]
+            lat: geocoder_result.lat,
+            long: geocoder_result.long,
+            bounding_box: geocoder_result.bounding_box
           )
         end
 
@@ -76,7 +169,7 @@ module Pumi
 
         def filter(province, geocoder_results)
           geocoder_results.find do |r|
-            r.data["address"]["ISO3166-2-lvl4"] == iso3166_2(province) && r.data["type"] == "administrative"
+            r.iso3166_2 == iso3166_2(province) && r.types.include?("administrative")
           end
         end
       end
@@ -90,9 +183,9 @@ module Pumi
 
         def filter(district, geocoder_results)
           geocoder_results.find do |r|
-            r.data["address"]["country_code"] == "kh" &&
-              r.data["address"]["ISO3166-2-lvl4"] == iso3166_2(district.province) &&
-              %w[town city administrative].include?(r.data["type"])
+            r.country_code == "KH" &&
+              r.iso3166_2 == iso3166_2(district.province) &&
+              %w[town city administrative].any? { |type| r.types.include?(type) }
           end
         end
       end
@@ -101,14 +194,15 @@ module Pumi
         private
 
         def locations
-          @locations ||= Pumi::Commune.all
+          # @locations ||= Pumi::Commune.all
+          @locations ||= Pumi::Commune.all.find_all { |c| c.geodata.nil? }.first(1)
         end
 
         def filter(commune, geocoder_results)
           geocoder_results.find do |r|
-            r.data["address"]["country_code"] == "kh" &&
-              (r.data["address"]["ISO3166-2-lvl4"] == iso3166_2(commune.province) || r.data["address"]["county"].to_s.include?(commune.district.name_en)) &&
-              %w[village suburb neighbourhood].include?(r.data["type"])
+            r.country_code == "KH" &&
+              (r.iso3166_2 == iso3166_2(commune.province) || r.district_name_en.to_s.downcase.include?(commune.district.name_en.downcase)) &&
+              %w[village suburb neighbourhood].any? { |type| r.types.include?(type) }
           end
         end
       end

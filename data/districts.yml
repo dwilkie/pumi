@@ -1086,6 +1086,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chhuk
+    geodata:
+      lat: '10.8359739'
+      long: '104.4548114'
+      bounding_box:
+      - '10.7959739'
+      - '10.8759739'
+      - '104.4148114'
+      - '104.4948114'
   '0704':
     name:
       km: ជុំគិរី

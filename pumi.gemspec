@@ -33,6 +33,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "puma"
   spec.add_development_dependency "rails"
   spec.add_development_dependency "rake"
+  spec.add_development_dependency "redis"
   spec.add_development_dependency "rspec"
   spec.add_development_dependency "rspec-rails"
   spec.add_development_dependency "rubocop"
