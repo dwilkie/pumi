@@ -1120,6 +1120,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Poipet
+    geodata:
+      lat: '13.6597298'
+      long: '102.5622688'
+      bounding_box:
+      - '13.6397298'
+      - '13.6797298'
+      - '102.5422688'
+      - '102.5822688'
   '011003':
     name:
       km: ផ្សារកណ្តាល
@@ -1174,6 +1182,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bay_Damram
+    geodata:
+      lat: '12.9769769'
+      long: '103.1821759'
+      bounding_box:
+      - '12.9569769'
+      - '12.9969769'
+      - '103.1621759'
+      - '103.2021759'
   '020104':
     name:
       km: ឈើទាល
@@ -1184,6 +1200,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chheu_Teal
+    geodata:
+      lat: '12.9968151'
+      long: '103.1462857'
+      bounding_box:
+      - '12.9768151'
+      - '13.0168151'
+      - '103.1262857'
+      - '103.1662857'
   '020105':
     name:
       km: ចែងមានជ័យ
@@ -1194,6 +1218,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chaeng_Mean_Chey
+    geodata:
+      lat: '12.8546995'
+      long: '103.071575'
+      bounding_box:
+      - '12.8346995'
+      - '12.8746995'
+      - '103.051575'
+      - '103.091575'
   '020106':
     name:
       km: ភ្នំសំពៅ
@@ -1204,6 +1236,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnum_Sampov
+    geodata:
+      lat: '13.0315904'
+      long: '103.0816503'
+      bounding_box:
+      - '13.0115904'
+      - '13.0515904'
+      - '103.0616503'
+      - '103.1016503'
   '020107':
     name:
       km: ស្នឹង
@@ -1214,6 +1254,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Snoeng
+    geodata:
+      lat: '12.9583887'
+      long: '103.0297908'
+      bounding_box:
+      - '12.9383887'
+      - '12.9783887'
+      - '103.0097908'
+      - '103.0497908'
   '020108':
     name:
       km: តាគ្រាម
@@ -1234,6 +1282,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Pung
+    geodata:
+      lat: '13.2580689'
+      long: '103.1661427'
+      bounding_box:
+      - '13.2380689'
+      - '13.2780689'
+      - '103.1461427'
+      - '103.1861427'
   '020202':
     name:
       km: តាម៉ឺន
@@ -1244,6 +1300,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Meun
+    geodata:
+      lat: '13.3071533'
+      long: '103.1472193'
+      bounding_box:
+      - '13.2871533'
+      - '13.3271533'
+      - '103.1272193'
+      - '103.1672193'
   '020203':
     name:
       km: អូរតាគី
@@ -1254,6 +1318,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Ta_Ki
+    geodata:
+      lat: '13.1824567'
+      long: '103.1159897'
+      bounding_box:
+      - '13.1624567'
+      - '13.2024567'
+      - '103.0959897'
+      - '103.1359897'
   '020204':
     name:
       km: ជ្រៃ
@@ -1264,6 +1336,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chrey,_Thma_Koul
+    geodata:
+      lat: '13.1147228'
+      long: '103.106508'
+      bounding_box:
+      - '13.0947228'
+      - '13.1347228'
+      - '103.086508'
+      - '103.126508'
   '020205':
     name:
       km: អន្លង់រុន
@@ -1274,6 +1354,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Anlong_Run
+    geodata:
+      lat: '13.1599631'
+      long: '102.989521'
+      bounding_box:
+      - '13.1399631'
+      - '13.1799631'
+      - '102.969521'
+      - '103.009521'
   '020206':
     name:
       km: ជ្រោយស្ដៅ
@@ -1294,6 +1382,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Boeng_Pring
+    geodata:
+      lat: '13.3829668'
+      long: '103.0725515'
+      bounding_box:
+      - '13.3629668'
+      - '13.4029668'
+      - '103.0525515'
+      - '103.0925515'
   '020208':
     name:
       km: គោកឃ្មុំ
@@ -1304,6 +1400,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kouk_Khmum
+    geodata:
+      lat: '13.2488094'
+      long: '103.0675146'
+      bounding_box:
+      - '13.2288094'
+      - '13.2688094'
+      - '103.0475146'
+      - '103.0875146'
   '020209':
     name:
       km: បន្សាយត្រែង
@@ -1314,6 +1418,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bansay_Traeng
+    geodata:
+      lat: '13.2462594'
+      long: '103.0217393'
+      bounding_box:
+      - '13.2262594'
+      - '13.2662594'
+      - '103.0017393'
+      - '103.0417393'
   '020210':
     name:
       km: រូងជ្រៃ
@@ -1324,6 +1436,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rung_Chrey
+    geodata:
+      lat: '13.2716429'
+      long: '102.9859483'
+      bounding_box:
+      - '13.2516429'
+      - '13.2916429'
+      - '102.9659483'
+      - '103.0059483'
   '020301':
     name:
       km: ទួលតាឯក
@@ -1334,6 +1454,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tuol_Ta_Aek
+    geodata:
+      lat: '13.0933619'
+      long: '103.1868626'
+      bounding_box:
+      - '13.0733619'
+      - '13.1133619'
+      - '103.1668626'
+      - '103.2068626'
   '020302':
     name:
       km: ព្រែកព្រះស្ដេច
@@ -1350,6 +1478,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '13.1004825'
+      long: '103.213829'
+      bounding_box:
+      - '13.0804825'
+      - '13.1204825'
+      - '103.193829'
+      - '103.233829'
   '020304':
     name:
       km: ចំការសំរោង
@@ -1360,6 +1496,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chamkar_Samraong
+    geodata:
+      lat: '13.1202732'
+      long: '103.1832381'
+      bounding_box:
+      - '13.1002732'
+      - '13.1402732'
+      - '103.1632381'
+      - '103.2032381'
   '020305':
     name:
       km: ស្លាកែត
@@ -1370,6 +1514,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sla_Kaet
+    geodata:
+      lat: '13.1272408'
+      long: '103.1924282'
+      bounding_box:
+      - '13.1072408'
+      - '13.1472408'
+      - '103.1724282'
+      - '103.2124282'
   '020306':
     name:
       km: ក្ដុលដូនទាវ
@@ -1390,6 +1542,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Mal
+    geodata:
+      lat: '13.0731686'
+      long: '103.134455'
+      bounding_box:
+      - '13.0531686'
+      - '13.0931686'
+      - '103.114455'
+      - '103.154455'
   '020308':
     name:
       km: វត្ដគរ
@@ -1420,6 +1580,14 @@ communes:
       en: Quarter
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Pao
+    geodata:
+      lat: '13.0934306'
+      long: '103.1967875'
+      bounding_box:
+      - '13.0734306'
+      - '13.1134306'
+      - '103.1767875'
+      - '103.2167875'
   '020401':
     name:
       km: បវេល
@@ -1430,6 +1598,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bavel_(commune)
+    geodata:
+      lat: '13.2544052'
+      long: '102.8773064'
+      bounding_box:
+      - '13.2344052'
+      - '13.2744052'
+      - '102.8573064'
+      - '102.8973064'
   '020402':
     name:
       km: ខ្នាចរមាស
@@ -1440,6 +1616,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Khnach_Romeas
+    geodata:
+      lat: '13.2734687'
+      long: '102.9495343'
+      bounding_box:
+      - '13.2534687'
+      - '13.2934687'
+      - '102.9295343'
+      - '102.9695343'
   '020403':
     name:
       km: ល្វា
@@ -1448,6 +1632,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.3304773'
+      long: '102.9497664'
+      bounding_box:
+      - '13.3104773'
+      - '13.3504773'
+      - '102.9297664'
+      - '102.9697664'
   '020404':
     name:
       km: ព្រៃខ្ពស់
@@ -1458,6 +1650,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Khpos
+    geodata:
+      lat: '13.3753635'
+      long: '102.7609052'
+      bounding_box:
+      - '13.3553635'
+      - '13.3953635'
+      - '102.7409052'
+      - '102.7809052'
   '020405':
     name:
       km: អំពិលប្រាំដើម
@@ -1468,6 +1668,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ampil_Pram_Daeum
+    geodata:
+      lat: '13.286431'
+      long: '102.7468051'
+      bounding_box:
+      - '13.266431'
+      - '13.306431'
+      - '102.7268051'
+      - '102.7668051'
   '020406':
     name:
       km: ក្ដុលតាហែន
@@ -1486,6 +1694,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.0853871'
+      long: '102.8251435'
+      bounding_box:
+      - '13.0653871'
+      - '13.1053871'
+      - '102.8051435'
+      - '102.8451435'
   '020408':
     name:
       km: បឹងប្រាំ
@@ -1494,6 +1710,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.1917749'
+      long: '102.7942189'
+      bounding_box:
+      - '13.1717749'
+      - '13.2117749'
+      - '102.7742189'
+      - '102.8142189'
   '020409':
     name:
       km: បួវិល
@@ -1502,6 +1726,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '13.2544052'
+      long: '102.8773064'
+      bounding_box:
+      - '13.2344052'
+      - '13.2744052'
+      - '102.8573064'
+      - '102.8973064'
   '020501':
     name:
       km: ព្រែកនរិន្ទ
@@ -1692,6 +1924,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phlov_Meas
+    geodata:
+      lat: '12.7823285'
+      long: '102.8669054'
+      bounding_box:
+      - '12.7623285'
+      - '12.8023285'
+      - '102.8469054'
+      - '102.8869054'
   '020704':
     name:
       km: ត្រែង
@@ -1702,6 +1942,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Traeng
+    geodata:
+      lat: '12.8586283'
+      long: '102.8984533'
+      bounding_box:
+      - '12.8386283'
+      - '12.8786283'
+      - '102.8784533'
+      - '102.9184533'
   '020705':
     name:
       km: រស្មីសង្ហារ
@@ -1890,6 +2138,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Sampov_Lun_Commune
+    geodata:
+      lat: '13.3713543'
+      long: '102.6141448'
+      bounding_box:
+      - '13.3513543'
+      - '13.3913543'
+      - '102.5941448'
+      - '102.6341448'
   '021002':
     name:
       km: អង្គរបាន
@@ -1900,6 +2156,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Angkor_Ban
+    geodata:
+      lat: '13.365276'
+      long: '102.4679617'
+      bounding_box:
+      - '13.345276'
+      - '13.385276'
+      - '102.4479617'
+      - '102.4879617'
   '021003':
     name:
       km: តាស្ដា
@@ -1930,6 +2194,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Serei_Mean_Chey
+    geodata:
+      lat: '13.4524157'
+      long: '102.4651388'
+      bounding_box:
+      - '13.4324157'
+      - '13.4724157'
+      - '102.4451388'
+      - '102.4851388'
   '021006':
     name:
       km: ជ្រៃសីមា
@@ -1940,6 +2212,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Chrey_Seima
+    geodata:
+      lat: '13.4680517'
+      long: '102.463125'
+      bounding_box:
+      - '13.4480517'
+      - '13.4880517'
+      - '102.443125'
+      - '102.483125'
   '021101':
     name:
       km: ភ្នំព្រឹក
@@ -1950,6 +2230,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnum_Proek_(commune)
+    geodata:
+      lat: '13.3152192'
+      long: '102.5440886'
+      bounding_box:
+      - '13.2952192'
+      - '13.3352192'
+      - '102.5240886'
+      - '102.5640886'
   '021102':
     name:
       km: ពេជ្រចិន្ដា
@@ -1980,6 +2268,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Barang_Thleak
+    geodata:
+      lat: '13.3530398'
+      long: '102.3643067'
+      bounding_box:
+      - '13.3330398'
+      - '13.3730398'
+      - '102.3443067'
+      - '102.3843067'
   '021105':
     name:
       km: អូររំដួល
@@ -1990,6 +2286,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Rumduol
+    geodata:
+      lat: '13.2597461'
+      long: '102.5507983'
+      bounding_box:
+      - '13.2397461'
+      - '13.2797461'
+      - '102.5307983'
+      - '102.5707983'
   '021201':
     name:
       km: កំរៀង
@@ -2000,6 +2304,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kamrieng_(commune)
+    geodata:
+      lat: '13.0310843'
+      long: '102.5357143'
+      bounding_box:
+      - '13.0110843'
+      - '13.0510843'
+      - '102.5157143'
+      - '102.5557143'
   '021202':
     name:
       km: បឹងរាំង
@@ -2010,6 +2322,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Boeng_Reang
+    geodata:
+      lat: '13.0932601'
+      long: '102.478646'
+      bounding_box:
+      - '13.0732601'
+      - '13.1132601'
+      - '102.458646'
+      - '102.498646'
   '021203':
     name:
       km: អូរដា
@@ -2020,6 +2340,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ou_Da
+    geodata:
+      lat: '13.1025969'
+      long: '102.5522027'
+      bounding_box:
+      - '13.0825969'
+      - '13.1225969'
+      - '102.5322027'
+      - '102.5722027'
   '021204':
     name:
       km: ត្រាង
@@ -2030,6 +2358,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Trang_(commune)
+    geodata:
+      lat: '13.1333572'
+      long: '102.4753039'
+      bounding_box:
+      - '13.1133572'
+      - '13.1533572'
+      - '102.4553039'
+      - '102.4953039'
   '021205':
     name:
       km: តាសែន
@@ -2040,6 +2376,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Saen
+    geodata:
+      lat: '13.1727631'
+      long: '102.4629165'
+      bounding_box:
+      - '13.1527631'
+      - '13.1927631'
+      - '102.4429165'
+      - '102.4829165'
   '021206':
     name:
       km: តាក្រី
@@ -2050,6 +2394,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ta_Krai
+    geodata:
+      lat: '13.1567698'
+      long: '102.6875764'
+      bounding_box:
+      - '13.1367698'
+      - '13.1767698'
+      - '102.6675764'
+      - '102.7075764'
   '021301':
     name:
       km: ធិបតី
@@ -2118,6 +2470,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prek_Chik
+    geodata:
+      lat: '12.6131892'
+      long: '103.3551511'
+      bounding_box:
+      - '12.5931892'
+      - '12.6331892'
+      - '103.3351511'
+      - '103.3751511'
   '021402':
     name:
       km: ព្រៃត្រឡាច
@@ -2128,6 +2488,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Tralach
+    geodata:
+      lat: '12.5643963'
+      long: '103.5215313'
+      bounding_box:
+      - '12.5443963'
+      - '12.5843963'
+      - '103.5015313'
+      - '103.5415313'
   '021403':
     name:
       km: មុខរាហ៍

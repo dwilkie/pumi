@@ -14,8 +14,10 @@ module Pumi
         end
 
         def geocode_all
-          locations.each_with_object([]) do |location, results|
+          locations.each_with_object([]).with_index do |(location, results), index|
             next if !options[:regeocode] && !location.geodata.nil?
+
+            puts "Geocoding #{index + 1} of #{locations.size}"
 
             search_term = build_search_term(location)
             puts "Searching for '#{search_term}'"
@@ -24,7 +26,7 @@ module Pumi
             geocoder_result = filter(location, geocoder_results)
 
             if geocoder_result.nil?
-              puts "Unable to geocode '#{search_term}'. Found: #{geocoder_results}"
+              puts "Unable to geocode '#{search_term}' (#{location.address_en}). Found: #{geocoder_results}"
               ungeocoded_locations << location
               next
             end
@@ -62,7 +64,7 @@ module Pumi
         private
 
         def locations
-          Pumi::Province.all
+          @locations ||= Pumi::Province.all
         end
 
         def build_search_term(province)
@@ -80,7 +82,7 @@ module Pumi
         private
 
         def locations
-          Pumi::District.all
+          @locations ||= Pumi::District.all
         end
 
         def filter(district, geocoder_results)
@@ -96,14 +98,14 @@ module Pumi
         private
 
         def locations
-          Pumi::Commune.all
+          @locations ||= Pumi::Commune.all
         end
 
         def filter(commune, geocoder_results)
           geocoder_results.find do |r|
             r.data["address"]["country_code"] == "kh" &&
               (r.data["address"]["ISO3166-2-lvl4"] == iso3166_2(commune.province) || r.data["address"]["county"].to_s.include?(commune.district.name_en)) &&
-              %w[village].include?(r.data["type"])
+              %w[village suburb neighbourhood].include?(r.data["type"])
           end
         end
       end
