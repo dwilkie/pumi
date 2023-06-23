@@ -33,7 +33,11 @@ module Pumi
           private
 
           def build_result(data)
-            binding.pry
+            province_name_en = find_address_component(
+              data,
+              "administrative_area_level_1"
+            ).fetch("long_name")
+            province = Pumi::Province.where(full_name_en: province_name_en)
 
             Result.new(
               lat: data.dig("geometry", "location", "lat"),
@@ -49,7 +53,8 @@ module Pumi
                 data,
                 "administrative_area_level_2"
               ).fetch("long_name"),
-              types: data["types"]
+              types: data["types"],
+              iso3166_2: province&.iso3166_2
             )
           end
 
