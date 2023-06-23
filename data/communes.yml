@@ -3968,6 +3968,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.8322777'
+      long: '104.6937336'
+      bounding_box:
+      - '11.8222777'
+      - '11.8422777'
+      - '104.6837336'
+      - '104.7037336'
   '040707':
     name:
       km: ស្វាយជុក
@@ -6928,6 +6936,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.5660238'
+      long: '104.6940089'
+      bounding_box:
+      - '11.5560238'
+      - '11.5760238'
+      - '104.6840089'
+      - '104.7040089'
   '080816':
     name:
       km: ទួលព្រេជ
@@ -7072,6 +7088,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.2733805'
+      long: '104.9512566'
+      bounding_box:
+      - '11.2633805'
+      - '11.2833805'
+      - '104.9412566'
+      - '104.9612566'
   '081006':
     name:
       km: ប្រាសាទ
@@ -7096,6 +7120,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '11.3534381'
+      long: '105.0021243'
+      bounding_box:
+      - '11.3434381'
+      - '11.3634381'
+      - '104.9921243'
+      - '105.0121243'
   '081010':
     name:
       km: ស្អាងភ្នំ
@@ -12460,6 +12492,14 @@ communes:
       km: សង្កាត់
       latin: Sangkat
       en: Quarter
+    geodata:
+      lat: '13.374553'
+      long: '103.8718539'
+      bounding_box:
+      - '13.364553'
+      - '13.384553'
+      - '103.8618539'
+      - '103.8818539'
   '171002':
     name:
       km: ស្វាយដង្គំ
@@ -12868,6 +12908,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '10.5113885'
+      long: '103.616945'
+      bounding_box:
+      - '10.5013885'
+      - '10.5213885'
+      - '103.606945'
+      - '103.626945'
   '180209':
     name:
       km: សាមគ្គី
@@ -12916,6 +12964,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '10.705124'
+      long: '103.8190054'
+      bounding_box:
+      - '10.695124'
+      - '10.715124'
+      - '103.8090054'
+      - '103.8290054'
   '180215':
     name:
       km: តានៃ
@@ -12956,6 +13012,14 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
+    geodata:
+      lat: '10.8916702'
+      long: '103.7180696'
+      bounding_box:
+      - '10.8816702'
+      - '10.9016702'
+      - '103.7080696'
+      - '103.7280696'
   '180401':
     name:
       km: ចំការហ្លួង
@@ -14198,6 +14262,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Trapeang_Krasang_Commune
+    geodata:
+      lat: '11.2254172'
+      long: '104.7643989'
+      bounding_box:
+      - '11.2154172'
+      - '11.2354172'
+      - '104.7543989'
+      - '104.7743989'
   '210215':
     name:
       km: ត្រពាំងសាប
@@ -14218,6 +14290,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Bourei_Cholsar_Commune
+    geodata:
+      lat: '10.8484133'
+      long: '104.9845274'
+      bounding_box:
+      - '10.8384133'
+      - '10.8584133'
+      - '104.9745274'
+      - '104.9945274'
   '210302':
     name:
       km: ជ័យជោគ
@@ -14248,6 +14328,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Krasang_Commune
+    geodata:
+      lat: '10.7555135'
+      long: '105.0439887'
+      bounding_box:
+      - '10.7455135'
+      - '10.7655135'
+      - '105.0339887'
+      - '105.0539887'
   '210305':
     name:
       km: គោកពោធិ៍
@@ -14418,6 +14506,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Yuthka_Commune
+    geodata:
+      lat: '10.6777881'
+      long: '104.9604338'
+      bounding_box:
+      - '10.6677881'
+      - '10.6877881'
+      - '104.9504338'
+      - '104.9704338'
   '210505':
     name:
       km: រមេញ
@@ -14652,6 +14748,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Lumchang_Commune
+    geodata:
+      lat: '11.0589835'
+      long: '104.7640961'
+      bounding_box:
+      - '11.0489835'
+      - '11.0689835'
+      - '104.7540961'
+      - '104.7740961'
   '210707':
     name:
       km: រវៀង
@@ -14662,6 +14766,14 @@ communes:
       en: Commune
     links:
       wikipedia: https://en.wikipedia.org/wiki/Rovieng_Commune
+    geodata:
+      lat: '11.1853892'
+      long: '104.7984073'
+      bounding_box:
+      - '11.1753892'
+      - '11.1953892'
+      - '104.7884073'
+      - '104.8084073'
   '210708':
     name:
       km: សំរោង

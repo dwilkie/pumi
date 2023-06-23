@@ -17,16 +17,14 @@ module Pumi
           locations.each_with_object([]).with_index do |(location, results), index|
             next if !options[:regeocode] && !location.geodata.nil?
 
-            puts "Geocoding #{index + 1} of #{locations.size}"
-
             search_term = build_search_term(location)
-            puts "Searching for '#{search_term}'"
+            puts "Geocoding #{index + 1} of #{locations.size}. Search term: '#{search_term}'"
 
             geocoder_results = geocoder.search(search_term)
             geocoder_result = filter(location, geocoder_results)
 
             if geocoder_result.nil?
-              puts "Unable to geocode '#{search_term}' (#{location.address_en}). Found: #{geocoder_results}"
+              puts "Unable to geocode '#{search_term}' ('#{location.address_en}', '#{location.address_latin}'). Found: #{geocoder_results}"
               ungeocoded_locations << location
               next
             end
