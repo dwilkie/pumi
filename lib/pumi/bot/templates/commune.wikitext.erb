@@ -5,10 +5,12 @@
 | native_name             = <%= commune.name_km %>
 | native_name_lang        = khm<!-- ISO 639-2 code -->
 | settlement_type         = [[Communes of Cambodia|Commune]]
+<% if lat %>
 | map_caption             = Map highlighting <%= name_en %>
 | pushpin_map             = Cambodia
 | pushpin_map_caption     = Location within Cambodia
 | coordinates             = {{coord|<%= lat %>|<%= long %>|region:KH_type:adm3rd|display=inline,title}}
+<% end %>
 | subdivision_type        = [[List of sovereign states|Country]]
 | subdivision_name        = {{flag|Cambodia}}
 | subdivision_type1       = [[Provinces of Cambodia|Province]]
@@ -18,7 +20,7 @@
 | parts_type              = Villages
 | parts_style             = para
 | p1                      = <%= villages.size %>
-| unit_pref               = Metric<!-- or US or UK -->
+| unit_pref               = Metric
 | population_as_of        = 1998
 | population_density_km2  = auto
 | geocode                 = <%= commune.id %>
@@ -31,7 +33,7 @@
 
 ==Villages==
 
-<%= commune.name_en %> contains <%= villages.size %> villages.
+<%= commune.full_name_en %> contains <%= villages.size %> villages.
 
 {| class="wikitable sortable"
 |-

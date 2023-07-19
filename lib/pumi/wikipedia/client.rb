@@ -10,17 +10,22 @@ module Pumi
       end
 
       def create_page(params)
-        execute_request(:post, build_url(resource: :page, **params))
+        execute_request(:post, build_url(resource: :page), params)
       end
 
-      def update_page(page_title:, **params)
-        page = get_page(page_title:)
+      def update_page(title:, **params)
+        page = get_page(title:)
         latest = page.fetch(:latest)
-        execute_request(:put, build_url(resource: "page/#{page_title}"), latest:, **params)
+        execute_request(:put, build_url(resource: "page/#{title}"), latest:, **params)
       end
 
-      def get_page(page_title:)
-        execute_request(:get, build_url(resource: "page/#{page_title}"))
+      def get_page(title:)
+        execute_request(:get, build_url(resource: "page/#{title}"))
+      end
+
+      def page_exists?(title:)
+        response = get_page(title:)
+        response.success?
       end
 
       private
