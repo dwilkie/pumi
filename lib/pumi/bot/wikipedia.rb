@@ -1,5 +1,6 @@
 require "erb"
 require "ostruct"
+require "pry"
 
 module Pumi
   module Bot
@@ -18,7 +19,9 @@ module Pumi
           commune:,
           province_page_name: URI.parse(commune.province.links[:wikipedia]).path.split("/").last,
           district_page_name: URI.parse(commune.district.links[:wikipedia]).path.split("/").last,
-          villages_count: Pumi::Village.where(commune_id: commune.id).size
+          lat: commune.geodata.lat,
+          long: commune.geodata.long,
+          villages: Pumi::Village.where(commune_id: commune.id)
         )
         page_content = ERB.new(template).result(data.instance_eval { binding })
 
