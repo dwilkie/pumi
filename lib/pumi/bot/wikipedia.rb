@@ -39,6 +39,12 @@ module Pumi
             source: page_content,
             comment: "Create page for #{commune.full_name_en}"
           )
+
+          client.create_page(
+            title: "Draft talk:#{title}",
+            source: "{{WikiProject Cambodia}}",
+            comment: "Create talk page for #{title}"
+          )
         end
       end
     end

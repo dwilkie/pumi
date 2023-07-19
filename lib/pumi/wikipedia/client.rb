@@ -19,6 +19,19 @@ module Pumi
         execute_request(:put, build_url(resource: "page/#{title}"), latest:, **params)
       end
 
+      def submit_for_review(title:, **params)
+        page = get_page(title:)
+        execute_request(
+          :put,
+          build_url(resource: "page/#{title}"),
+          latest: page.fetch(:latest),
+          source: page.fetch(:source).prepend("{{subst:submit}}\n"),
+          title:,
+          comment: "Submit #{title} for review",
+          **params
+        )
+      end
+
       def get_page(title:)
         execute_request(:get, build_url(resource: "page/#{title}"))
       end
