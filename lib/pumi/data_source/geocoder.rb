@@ -1,6 +1,4 @@
 require "geocoder"
-# require "redis"
-require "pry"
 
 module Pumi
   module DataSource
@@ -11,8 +9,13 @@ module Pumi
         Result = Struct.new(
           :lat, :long, :bounding_box, :country_code,
           :types, :iso3166_2, :district_name_en,
+          :name,
           keyword_init: true
         )
+
+        Misspelling = Struct.new(:incorrect_text, :correct_text, keyword_init: true)
+
+        MISSPELLINGS = []
 
         class AbstractProvider
           attr_reader :geocoder, :name
@@ -33,13 +36,16 @@ module Pumi
           private
 
           def build_result(data)
+            p "building result (provider: #{name}): "
+            puts JSON.pretty_generate(data)
+
             province_name_en = find_address_component(
               data,
               "administrative_area_level_1"
-            ).fetch("long_name")
-            province = Pumi::Province.where(full_name_en: province_name_en)
-
+            )&.fetch("long_name")
+            province = Pumi::Province.where(full_name_en: province_name_en).first
             Result.new(
+              name: data.dig("address_components", 0, "long_name"),
               lat: data.dig("geometry", "location", "lat"),
               long: data.dig("geometry", "location", "lng"),
               bounding_box: [
@@ -52,7 +58,7 @@ module Pumi
               district_name_en: find_address_component(
                 data,
                 "administrative_area_level_2"
-              ).fetch("long_name"),
+              )&.fetch("long_name"),
               types: data["types"],
               iso3166_2: province&.iso3166_2
             )
@@ -69,13 +75,17 @@ module Pumi
           private
 
           def build_result(data)
+            p "building result (provider: #{name}): "
+            puts JSON.pretty_generate(data)
+
             Result.new(
+              name: nil,
               lat: data["lat"],
               long: data["lon"],
               bounding_box: data["boundingbox"],
               types: Array(data["type"]),
               iso3166_2: data.dig("address", "ISO3166-2-lvl4"),
-              country_code: data.dig("address", "country_code").upcase,
+              country_code: data.dig("address", "country_code")&.upcase,
               district_name_en: data.dig("address", "county")
             )
           end
@@ -95,7 +105,6 @@ module Pumi
             google: {
               api_key: ENV["GOOGLE_API_KEY"]
             }
-            # cache: Redis.new
           )
 
           @providers = Array(providers).map do |name|
@@ -149,7 +158,9 @@ module Pumi
         end
 
         def build_search_term(location)
-          [location.full_name_km, location.name_km]
+          [location.full_name_km, location.name_km].map do |term|
+            MISSPELLINGS.find { |m| m.correct_text == term }&.incorrect_text || term
+          end
         end
 
         def ungeocoded_locations
@@ -185,8 +196,11 @@ module Pumi
         def filter(district, geocoder_results)
           geocoder_results.find do |r|
             r.country_code == "KH" &&
-              r.iso3166_2 == district.province.iso3166_2 &&
-              %w[town city administrative].any? { |type| r.types.include?(type) }
+              r.iso3166_2 == district.province.iso3166_2 && (
+                %w[administrative_area_level_2 town city administrative].any? do |type|
+                  r.types.include?(type)
+                end || (%w[locality political].sort == r.types.sort)
+              )
           end
         end
       end
@@ -195,15 +209,16 @@ module Pumi
         private
 
         def locations
-          # @locations ||= Pumi::Commune.all
-          @locations ||= Pumi::Commune.all.find_all { |c| c.geodata.nil? }.first(1)
+          @locations ||= Pumi::Commune.all
         end
 
         def filter(commune, geocoder_results)
           geocoder_results.find do |r|
             r.country_code == "KH" &&
               (r.iso3166_2 == commune.province.iso3166_2 || r.district_name_en.to_s.downcase.include?(commune.district.name_en.downcase)) &&
-              %w[village suburb neighbourhood].any? { |type| r.types.include?(type) }
+              %w[administrative_area_level_3 village suburb neighbourhood].any? do |type|
+                r.types.include?(type)
+              end
           end
         end
       end

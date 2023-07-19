@@ -880,14 +880,6 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
-    geodata:
-      lat: '11.8772162'
-      long: '104.6041473'
-      bounding_box:
-      - '11.8372162'
-      - '11.9172162'
-      - '104.5641473'
-      - '104.6441473'
   '0601':
     name:
       km: បារាយណ៍
@@ -1506,6 +1498,14 @@ districts:
       en: District
     links:
       wikipedia: https://en.wikipedia.org/wiki/Srae_Ambel
+    geodata:
+      lat: 11.4655178
+      long: 103.8216261
+      bounding_box:
+      - 11.618103
+      - 104.0645137
+      - 10.8955079
+      - 103.5369259
   '0907':
     name:
       km: ថ្មបាំង

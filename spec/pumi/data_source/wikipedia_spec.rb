@@ -5,12 +5,12 @@ module Pumi
     RSpec.describe Wikipedia do
       describe "#load_data!" do
         it "loads data from Wikipedia" do
-          data_loader = Wikipedia.new(
+          data_source = Wikipedia.new(
             scraper: Pumi::DataSource::Wikipedia::CambodianProvincesScraper.new,
             data_file: DataFile.new(:provinces)
           )
 
-          data_loader.load_data!(output_dir: "tmp")
+          data_source.load_data!(output_dir: "tmp")
 
           data = YAML.load_file("tmp/provinces.yml").fetch("provinces")
           expect(data.keys.map(&:length).uniq).to eq([2])

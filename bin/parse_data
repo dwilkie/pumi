@@ -24,4 +24,12 @@ Pumi::DataSource::Wikipedia.new(
   data_file: Pumi::DataFile.new(:communes)
 ).load_data!
 
-Pumi::DataSource::Geocoder.new(data_file: Pumi::DataFile.new(:provinces)).load_data!
+Pumi::DataSource::Geocoder.new(
+  data_file: Pumi::DataFile.new(:districts),
+  geocoder: Pumi::DataSource::Geocoder::CambodianDistricts.new
+).load_data!
+
+Pumi::DataSource::Geocoder.new(
+  data_file: Pumi::DataFile.new(:communes),
+  geocoder: Pumi::DataSource::Geocoder::CambodianCommunes.new
+).load_data!
