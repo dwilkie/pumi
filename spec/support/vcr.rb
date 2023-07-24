@@ -12,6 +12,9 @@ RSpec.configure do |config|
       original_cassette_library_dir = vcr_config.cassette_library_dir
       vcr_config.cassette_library_dir = "spec/fixtures/vcr_cassettes"
       vcr_config.filter_sensitive_data("<GOOGLE_API_KEY>", :google_api) { ENV["GOOGLE_API_KEY"] }
+      vcr_config.filter_sensitive_data("<WIKIPEDIA_ACCESS_TOKEN>", :wikipedia_api) do
+        ENV["WIKIPEDIA_ACCESS_TOKEN"]
+      end
     end
 
     cassette = example.metadata[:cassette] || raise(ArgumentError, "You must specify a cassette")
