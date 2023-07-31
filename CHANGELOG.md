@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.0](https://github.com/dwilkie/pumi/compare/v0.19.0...v0.20.0) (2023-07-31)
+
+
+### Features
+
+* Add iso3166_2 and geodata ([#53](https://github.com/dwilkie/pumi/issues/53)) ([d32b3ea](https://github.com/dwilkie/pumi/commit/d32b3eadd169cf0e56ae40e566f581a5ab3536d2))
+
 ## [0.19.0](https://github.com/dwilkie/pumi/compare/v0.18.0...v0.19.0) (2023-06-04)
 
 
