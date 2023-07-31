@@ -1,7 +1,8 @@
 require "vcr"
 
-VCR.configure do |c|
-  c.hook_into :webmock
+VCR.configure do |vcr_config|
+  vcr_config.hook_into :webmock
+  vcr_config.ignore_localhost = true
 end
 
 RSpec.configure do |config|
@@ -31,7 +32,7 @@ RSpec.configure do |config|
     VCR.turned_off do
       WebMock.allow_net_connect!
       example.run
-      WebMock.disable_net_connect!
+      WebMock.disable_net_connect!(allow_localhost: true)
     end
   end
 end

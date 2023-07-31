@@ -40,6 +40,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "selenium-webdriver"
   spec.add_development_dependency "sprockets-rails"
   spec.add_development_dependency "vcr"
-  spec.add_development_dependency "webdrivers"
   spec.add_development_dependency "webmock"
 end

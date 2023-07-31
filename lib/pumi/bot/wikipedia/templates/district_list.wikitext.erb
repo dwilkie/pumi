@@ -13,7 +13,7 @@
 <% districts.each_with_index do |district, index| %>
 | <%= index + 1 %>
 <% if district.links[:wikipedia] %>
-<% district_page = URI.parse(district.links[:wikipedia]).path.split("/").last %>
+<% district_page = URI.parse(district.links[:wikipedia]).path.split("/").last.gsub("_", " ") %>
 | [[<%= district_page %>|<%= district.name_en %>]]
 <% else %>
 | <%= district.name_en %>

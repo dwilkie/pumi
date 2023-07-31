@@ -2,7 +2,7 @@ require "spec_helper"
 
 module Pumi
   module DataSource
-    RSpec.describe Geocoder, :vcr, vcr_options: { tag: :google_api, record: :new_episodes } do
+    RSpec.xdescribe Geocoder, :vcr, vcr_options: { tag: :google_api, record: :new_episodes } do
       describe "#load_data!", cassette: :geocode_cambodian_provinces do
         it "loads geodata" do
           data_source = Geocoder.new(

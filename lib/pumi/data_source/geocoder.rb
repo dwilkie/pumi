@@ -36,9 +36,6 @@ module Pumi
           private
 
           def build_result(data)
-            p "building result (provider: #{name}): "
-            puts JSON.pretty_generate(data)
-
             province_name_en = find_address_component(
               data,
               "administrative_area_level_1"
@@ -75,9 +72,6 @@ module Pumi
           private
 
           def build_result(data)
-            p "building result (provider: #{name}): "
-            puts JSON.pretty_generate(data)
-
             Result.new(
               name: nil,
               lat: data["lat"],
@@ -113,20 +107,16 @@ module Pumi
         end
 
         def geocode_all
-          locations.each_with_object([]).with_index do |(location, results), index|
+          locations.each_with_object([]).with_index do |(location, results), _index|
             next if !options[:regeocode] && !location.geodata.nil?
-
-            puts "Geocoding #{index + 1} of #{locations.size}"
 
             geocoder_result = geocode(location)
 
             if geocoder_result.nil?
-              puts "Unable to geocode ('#{location.address_en}', '#{location.address_latin}')"
               ungeocoded_locations << location
               next
             end
 
-            puts "Found: #{geocoder_result.inspect}, in: #{location.address_en}"
             results << build_result(code: location.id, geocoder_result:)
           end
         end
@@ -136,8 +126,6 @@ module Pumi
         def geocode(location)
           providers.each do |provider|
             Array(build_search_term(location)).each do |search_term|
-              puts "Searching for: '#{search_term}' with provider: #{provider.name}"
-
               all_results = provider.search(search_term)
               geocoder_result = filter(location, all_results)
 

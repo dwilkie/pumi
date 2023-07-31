@@ -28,7 +28,7 @@
 <% district.communes.each_with_index do |commune, index| %>
 | <%= index + 1 %>
 <% if commune.links[:wikipedia] %>
-<% commune_page = URI.parse(commune.links[:wikipedia]).path.split("/").last %>
+<% commune_page = URI.parse(commune.links[:wikipedia]).path.split("/").last.gsub("_", " ") %>
 | [[<%= commune_page %>|<%= commune.name_en %>]]
 <% else %>
 | <%= commune.name_en %>

@@ -10,11 +10,6 @@ require "pumi"
 Pumi::DataSource::NCDD.new.load_data!
 
 Pumi::DataSource::Wikipedia.new(
-  scraper: Pumi::DataSource::Wikipedia::CambodianProvincesScraper.new,
-  data_file: Pumi::DataFile.new(:provinces)
-).load_data!
-
-Pumi::DataSource::Wikipedia.new(
   scraper: Pumi::DataSource::Wikipedia::CambodianDistrictsScraper.new,
   data_file: Pumi::DataFile.new(:districts)
 ).load_data!
@@ -22,14 +17,4 @@ Pumi::DataSource::Wikipedia.new(
 Pumi::DataSource::Wikipedia.new(
   scraper: Pumi::DataSource::Wikipedia::CambodianCommunesScraper.new,
   data_file: Pumi::DataFile.new(:communes)
-).load_data!
-
-Pumi::DataSource::Geocoder.new(
-  data_file: Pumi::DataFile.new(:districts),
-  geocoder: Pumi::DataSource::Geocoder::CambodianDistricts.new
-).load_data!
-
-Pumi::DataSource::Geocoder.new(
-  data_file: Pumi::DataFile.new(:communes),
-  geocoder: Pumi::DataSource::Geocoder::CambodianCommunes.new
 ).load_data!

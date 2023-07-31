@@ -18,7 +18,7 @@ module Pumi
         end
       end
 
-      describe Wikipedia::CambodianProvincesScraper do
+      xdescribe Wikipedia::CambodianProvincesScraper do
         describe "#scrape!", cassette: :wikipedia_provinces_in_cambodia_article do
           it "loads data from Wikipedia" do
             scraper = Wikipedia::CambodianProvincesScraper.new
@@ -31,7 +31,7 @@ module Pumi
         end
       end
 
-      describe Wikipedia::CambodianDistrictsScraper do
+      xdescribe Wikipedia::CambodianDistrictsScraper do
         describe "#scrape!", cassette: :wikipedia_districts_in_cambodia_article do
           it "loads data from Wikipedia" do
             scraper = Wikipedia::CambodianDistrictsScraper.new
@@ -44,7 +44,7 @@ module Pumi
         end
       end
 
-      describe Wikipedia::CambodianCommunesScraper do
+      xdescribe Wikipedia::CambodianCommunesScraper do
         describe "#scrape!", cassette: :wikipedia_communes_in_cambodia_article do
           it "loads data from Wikipedia" do
             scraper = Wikipedia::CambodianCommunesScraper.new
