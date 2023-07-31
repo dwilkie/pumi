@@ -15,6 +15,7 @@ module Pumi
       data_key: :provinces,
       id_length: 2
     )
+
     DISTRICT = AdministrativeDivision.new(
       type: District,
       name: :district,
@@ -85,11 +86,17 @@ module Pumi
         attributes.fetch("administrative_unit")
       )
 
+      if attributes.key?("geodata")
+        geodata = Geodata.new(attributes.fetch("geodata").transform_keys(&:to_sym))
+      end
+
       {
         id:,
         administrative_unit:,
         name_km:,
         name_latin:,
+        geodata:,
+        iso3166_2: attributes["iso3166_2"],
         links: attributes.fetch("links", {}).transform_keys(&:to_sym),
         name_en: name_latin,
         full_name_km: [

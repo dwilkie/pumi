@@ -1,0 +1,27 @@
+<div id=province-districts-<%= province.id %>>
+<%= province.name_en %> contains <%= districts_summary %>. <ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/province.castle?pv=<%= province.id %> |title=<%= province.name_en %> |publisher=National Committee for Sub-National Democratic Development }}</ref>
+
+{| class="wikitable sortable"
+|-
+! #
+! Name
+! Khmer
+! Administrative Unit
+! Geocode
+|-
+
+<% districts.each_with_index do |district, index| %>
+| <%= index + 1 %>
+<% if district.links[:wikipedia] %>
+<% district_page = URI.parse(district.links[:wikipedia]).path.split("/").last.gsub("_", " ") %>
+| [[<%= district_page %>|<%= district.name_en %>]]
+<% else %>
+| <%= district.name_en %>
+<% end %>
+| <%= district.name_km %>
+| <%= "#{district.administrative_unit.name_en} (#{district.administrative_unit.name_km} #{district.administrative_unit.name_latin})" %>
+| <%= district.id %>
+|-
+<% end %>
+|}
+</div>

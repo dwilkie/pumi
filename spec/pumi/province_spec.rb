@@ -65,5 +65,22 @@ module Pumi
         )
       end
     end
+
+    describe "#geodata" do
+      it "returns geodata" do
+        geodata = Province.find_by_id("12").geodata
+        expect(geodata).to have_attributes(
+          lat: "11.5730391",
+          long: "104.857807",
+          bounding_box: ["11.4200852", "11.7349524", "104.7204046", "105.0440261"]
+        )
+      end
+    end
+
+    describe "#iso3166_2" do
+      it "returns the ISO3166-2 code" do
+        expect(Province.find_by_id("12").iso3166_2).to eq("KH-12")
+      end
+    end
   end
 end

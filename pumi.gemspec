@@ -25,6 +25,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "capybara"
   spec.add_development_dependency "coffee-rails"
+  spec.add_development_dependency "faraday"
+  spec.add_development_dependency "geocoder"
   spec.add_development_dependency "jquery-rails"
   spec.add_development_dependency "nokogiri"
   spec.add_development_dependency "pry"
@@ -37,5 +39,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rubocop-rspec"
   spec.add_development_dependency "selenium-webdriver"
   spec.add_development_dependency "sprockets-rails"
-  spec.add_development_dependency "webdrivers"
+  spec.add_development_dependency "vcr"
+  spec.add_development_dependency "webmock"
 end

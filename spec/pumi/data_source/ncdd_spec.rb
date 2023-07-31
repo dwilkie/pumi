@@ -5,9 +5,9 @@ module Pumi
     RSpec.describe NCDD do
       describe "#load_data!" do
         it "loads data from source" do
-          data_loader = NCDD.new
+          data_source = NCDD.new
 
-          data_loader.load_data!(
+          data_source.load_data!(
             source_dir: "spec/fixtures/files/source_data/ncdd",
             output_dir: "tmp"
           )

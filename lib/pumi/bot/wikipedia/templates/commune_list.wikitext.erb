@@ -1,0 +1,46 @@
+<div id="communes-list">
+<% provinces.each do |province| %>
+<% province_page = URI.parse(province.links[:wikipedia]).path.split("/").last %>
+==[[<%= province_page %>|<%= province.full_name_en %>]]==
+<div id=province-communes-<%= province.id %>>
+<%= province.name_en %> contains <%= province.communes_summary %>.<ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/province.castle?pv=<%= province.id %> |title=<%= province.name_en %> |publisher=National Committee for Sub-National Democratic Development }}</ref>
+
+<% province.districts.each do |district| %>
+<% if district.links[:wikipedia] %>
+<% district_page = URI.parse(district.links[:wikipedia]).path.split("/").last %>
+===[[<%= district_page %>|<%= district.full_name_en %>]]===
+<% else %>
+===<%= district.full_name_en %>===
+<% end %>
+
+<div id=district-communes-<%= district.id %>>
+<%= district.name_en %> contains <%= district.communes_summary %>.<ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/district.castle?ds=<%= district.id %> |title=<%= district.name_en %> |publisher=National Committee for Sub-National Democratic Development }}</ref>
+
+{| class="wikitable sortable"
+|-
+! #
+! Name
+! Khmer
+! Administrative Unit
+! Geocode
+|-
+
+<% district.communes.each_with_index do |commune, index| %>
+| <%= index + 1 %>
+<% if commune.links[:wikipedia] %>
+<% commune_page = URI.parse(commune.links[:wikipedia]).path.split("/").last.gsub("_", " ") %>
+| [[<%= commune_page %>|<%= commune.name_en %>]]
+<% else %>
+| <%= commune.name_en %>
+<% end %>
+| <%= commune.name_km %>
+| <%= "#{commune.administrative_unit.name_en} (#{commune.administrative_unit.name_km} #{commune.administrative_unit.name_latin})" %>
+| <%= commune.id %>
+|-
+<% end %>
+|}
+</div>
+<% end %>
+</div>
+<% end %>
+</div>
