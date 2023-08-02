@@ -1,4 +1,5 @@
 require "spec_helper"
+require "pumi/bot/wikipedia"
 
 module Pumi
   module Bot

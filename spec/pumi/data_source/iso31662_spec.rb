@@ -1,4 +1,5 @@
 require "spec_helper"
+require "pumi/data_source/iso31662"
 
 module Pumi
   module DataSource

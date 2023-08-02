@@ -1,4 +1,5 @@
 require "spec_helper"
+require "pumi/data_source/ncdd"
 
 module Pumi
   module DataSource
