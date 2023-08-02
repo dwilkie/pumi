@@ -6,6 +6,8 @@
 
 require "bundler/setup"
 require "pumi"
+require "pumi/data_source/ncdd"
+require "pumi/data_source/wikipedia"
 
 Pumi::DataSource::NCDD.new.load_data!
 
