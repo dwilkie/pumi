@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.1](https://github.com/dwilkie/pumi/compare/v0.20.0...v0.20.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* Don't load bots and datasources by default ([#55](https://github.com/dwilkie/pumi/issues/55)) ([8abf5a0](https://github.com/dwilkie/pumi/commit/8abf5a06b4f98057c4c826ecde6be851e7c1db3f))
+
 ## [0.20.0](https://github.com/dwilkie/pumi/compare/v0.19.0...v0.20.0) (2023-07-31)
 
 
