@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.2](https://github.com/dwilkie/pumi/compare/v0.20.1...v0.20.2) (2023-08-08)
+
+
+### Bug Fixes
+
+* NCDD parser ([fa41129](https://github.com/dwilkie/pumi/commit/fa411290c1c120150efdca01a8335ad3ae67add1))
+
 ## [0.20.1](https://github.com/dwilkie/pumi/compare/v0.20.0...v0.20.1) (2023-08-02)
 
 
