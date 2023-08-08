@@ -27,6 +27,14 @@ module Pumi
         "ភូមិ" => AdministrativeUnit.new(en: "Village", km: "ភូមិ", latin: "Phum", code_length: 8, group: "villages")
       }.freeze
 
+      attr_accessor :existing_data
+
+      def initialize(data_files: default_data_files)
+        @existing_data = data_files.each_with_object({}) do |data_file, result|
+          result[data_file.type] = data_file.read
+        end
+      end
+
       def load_data!(source_dir: "tmp", output_dir: "data")
         source_files(source_dir).each do |file|
           parse_source_file(file)
@@ -37,6 +45,10 @@ module Pumi
 
       private
 
+      def data
+        @data ||= {}
+      end
+
       def parse_source_file(file)
         CSV.read(file, headers: CSV_HEADERS).each do |csv_row|
           row = build_row(csv_row)
@@ -44,12 +56,8 @@ module Pumi
           next unless row.code
           next if row.administrative_unit.code_length != row.code.length
 
-          write_location(row)
+          add_data(row)
         end
-      end
-
-      def data
-        @data ||= {}
       end
 
       def build_row(row)
@@ -69,9 +77,10 @@ module Pumi
         code
       end
 
-      def write_location(row)
+      def add_data(row)
         data[row.administrative_unit.group] ||= {}
-        data[row.administrative_unit.group][row.code] = {
+        data[row.administrative_unit.group][row.code] = existing_data.dig(row.administrative_unit.group, row.code) || {}
+        data[row.administrative_unit.group][row.code].merge!(
           "name" => {
             "km" => row.name_km,
             "latin" => row.name_latin
@@ -81,7 +90,7 @@ module Pumi
             "latin" => row.administrative_unit.latin,
             "en" => row.administrative_unit.en
           }
-        }
+        )
       end
 
       def source_files(source_dir)
@@ -94,6 +103,14 @@ module Pumi
         ADMINISTRATIVE_UNITS.values.map(&:group).uniq do |data_group|
           DataFile.new(data_group).write(data.fetch(data_group), data_directory: output_dir)
         end
+      end
+
+      def default_data_files
+        [
+          DataFile.new(:districts),
+          DataFile.new(:communes),
+          DataFile.new(:villages)
+        ]
       end
     end
   end
