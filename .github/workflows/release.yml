@@ -16,7 +16,7 @@ jobs:
           bump-minor-pre-major: true
           version-file: "lib/pumi/version.rb"
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         if: ${{ steps.release.outputs.release_created }}
 
       - uses: ruby/setup-ruby@v1
