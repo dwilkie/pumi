@@ -12,9 +12,7 @@ jobs:
       - uses: google-github-actions/release-please-action@v4
         id: release
         with:
-          release-type: ruby
-          bump-minor-pre-major: true
-          version-file: "lib/pumi/version.rb"
+          token: ${{ secrets.PUMI_PERSONAL_ACCESS_TOKEN }}
 
       - uses: actions/checkout@v4
         if: ${{ steps.release.outputs.release_created }}
