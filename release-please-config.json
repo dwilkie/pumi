@@ -1,6 +1,7 @@
 {
   "bootstrap-sha": "9e39dffc4a3a229b72668cb04eda4b1c932e04f6",
   "include-component-in-tag": false,
+  "version-file": "lib/pumi/version.rb",
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md",
