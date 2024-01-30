@@ -3,14 +3,13 @@
 set -e
 set -o pipefail
 
-PLACEHOLDER='${province_code}'
+URL="https://db.ncdd.gov.kh/gazetteer/province/downloadprovince.castle?pv=PROVINCE_CODE"
+PLACEHOLDER="PROVINCE_CODE"
+NUM_PROVINCES="25"
 
-num_provinces=$1
-url=$2
-
-for province_code in `seq 1 $num_provinces`
+for province_code in `seq 1 $NUM_PROVINCES`
 do
-  province_url=$(echo $url | sed -e s/$PLACEHOLDER/$province_code/g)
+  province_url=$(echo $URL | sed -e s/$PLACEHOLDER/$province_code/g)
   curl -s $province_url > "tmp/p$province_code.xls"
   ssconvert "tmp/p$province_code.xls" "tmp/p$province_code.csv"
 done
