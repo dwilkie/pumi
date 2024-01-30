@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.23.2](https://github.com/dwilkie/pumi/compare/v0.23.1...v0.23.2) (2024-01-30)
+
+
+### Bug Fixes
+
+* Specify version-file in release-please config ([272e793](https://github.com/dwilkie/pumi/commit/272e793fe42074a9339ed905599b97609e73e2e5))
+
 ## [0.23.1](https://github.com/dwilkie/pumi/compare/v0.23.0...v0.23.1) (2024-01-30)
 
 
