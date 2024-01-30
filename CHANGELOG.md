@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.23.1](https://github.com/dwilkie/pumi/compare/v0.23.0...v0.23.1) (2024-01-30)
+
+
+### Bug Fixes
+
+* Fetch action ([#71](https://github.com/dwilkie/pumi/issues/71)) ([7d0e4d0](https://github.com/dwilkie/pumi/commit/7d0e4d04f1d43010e0bc43ef3a47263ec2525cee))
+
 ## [0.23.0](https://github.com/dwilkie/pumi/compare/v0.22.0...v0.23.0) (2024-01-22)
 
 
