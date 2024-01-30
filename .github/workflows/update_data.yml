@@ -1,6 +1,8 @@
 name: Update Data
 
-on: push
+on:
+  schedule:
+    - cron: '0 2 * * 0'
 
 jobs:
   fetch_data:
@@ -20,14 +22,14 @@ jobs:
       - name: Parse Data
         run: ./bin/parse_data
 
-      # - name: Create Pull Request
-      #   uses: peter-evans/create-pull-request@v5
-      #   with:
-      #     token: ${{ secrets.REPO_TOKEN }}
-      #     commit-message: "feat: Update data"
-      #     title: "feat: Update data"
-      #     labels: "update_data"
-      #     base: "master"
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.REPO_TOKEN }}
+          commit-message: "feat: Update data"
+          title: "feat: Update data"
+          labels: "update_data"
+          base: "master"
 
       - name: Upload Data
         uses: actions/upload-artifact@v4
