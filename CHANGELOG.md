@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.24.0](https://github.com/dwilkie/pumi/compare/v0.23.2...v0.24.0) (2024-04-24)
+
+
+### Features
+
+* Update data ([#75](https://github.com/dwilkie/pumi/issues/75)) ([f7c2cbb](https://github.com/dwilkie/pumi/commit/f7c2cbba14b1ac62065f3569ab5f08cabcc2aaa2))
+
 ## [0.23.2](https://github.com/dwilkie/pumi/compare/v0.23.1...v0.23.2) (2024-01-30)
 
 
