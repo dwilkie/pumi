@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.24.1](https://github.com/dwilkie/pumi/compare/v0.24.0...v0.24.1) (2024-05-13)
+
+
+### Bug Fixes
+
+* Fix parse error when data is missing ([#77](https://github.com/dwilkie/pumi/issues/77)) ([e3aab0b](https://github.com/dwilkie/pumi/commit/e3aab0b4ff45c85f2049ea91d849f747e8e38d97))
+
 ## [0.24.0](https://github.com/dwilkie/pumi/compare/v0.23.2...v0.24.0) (2024-04-24)
 
 
