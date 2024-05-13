@@ -10,6 +10,9 @@ module Pumi
   module DataSource
     class NCDD
       CSV_HEADERS = %w[type code name_km name_latin reference note1 note2].freeze
+      MISSING_DATA = {
+        "1715" => { type: "ក្រុង" }
+      }.freeze
 
       AdministrativeUnit = Struct.new(:en, :km, :latin, :code_length, :group, :type, keyword_init: true)
       Row = Struct.new(:code, :name_km, :name_latin, :type, keyword_init: true) do
@@ -61,11 +64,13 @@ module Pumi
       end
 
       def build_row(row)
+        code = parse_location_code(row)
+
         Row.new(
-          code: parse_location_code(row),
+          code:,
           name_km: row.fetch("name_km"),
           name_latin: row.fetch("name_latin"),
-          type: row.fetch("type")
+          type: row.fetch("type") || MISSING_DATA.dig(code, :type)
         )
       end
 
