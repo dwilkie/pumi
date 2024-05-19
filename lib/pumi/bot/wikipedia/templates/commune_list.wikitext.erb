@@ -2,7 +2,7 @@
 <% provinces.each do |province| %>
 <% province_page = URI.parse(province.links[:wikipedia]).path.split("/").last %>
 ==[[<%= province_page %>|<%= province.full_name_en %>]]==
-<div id=province-communes-<%= province.id %>>
+<div id="province-communes-<%= province.id %>">
 <%= province.name_en %> contains <%= province.communes_summary %>.<ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/province.castle?pv=<%= province.id %> |title=<%= province.name_en %> |publisher=National Committee for Sub-National Democratic Development }}</ref>
 
 <% province.districts.each do |district| %>
@@ -13,7 +13,7 @@
 ===<%= district.full_name_en %>===
 <% end %>
 
-<div id=district-communes-<%= district.id %>>
+<div id="district-communes-<%= district.id %>">
 <%= district.name_en %> contains <%= district.communes_summary %>.<ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/district.castle?ds=<%= district.id %> |title=<%= district.name_en %> |publisher=National Committee for Sub-National Democratic Development }}</ref>
 
 {| class="wikitable sortable"

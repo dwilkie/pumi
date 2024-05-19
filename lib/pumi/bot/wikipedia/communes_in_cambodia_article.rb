@@ -1,4 +1,5 @@
 require "ostruct"
+require "nokogiri"
 
 module Pumi
   module Bot
@@ -62,7 +63,7 @@ module Pumi
           end
         end
 
-        PAGE_TITLE = "List_of_communes_in_Cambodia".freeze
+        PAGE_TITLE = "Draft:List_of_communes_in_Cambodia".freeze
         INTRO_TEXT = "<div id=\"intro\">The '''communes of Cambodia''' ({{lang|km|ឃុំ}} ''[[khum]]''/{{lang|km|សង្កាត់}} ''[[sangkat]]'') are the third-level administrative divisions in  Cambodia. They are the subdivisions of the [[List of districts in Cambodia|districts and municipalities of Cambodia]]. Communes can consist of as few as %<min_villages>s<ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/commune.castle?cm=%<smallest_commune_id>s |title=%<smallest_commune_name>s |publisher=National Committee for Sub-National Democratic Development }}</ref> or as many as %<max_villages>s<ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/commune.castle?cm=%<largest_commune_id>s |title=%<largest_commune_name>s |publisher=National Committee for Sub-National Democratic Development }}</ref> villages (''[[phum]]''), depending on the population.\nThere are a total of %<communes_count>s communes and %<villages_count>s villages in Cambodia.</div>".freeze
 
         TEMPLATE = File.read("#{__dir__}/templates/commune_list.wikitext.erb")
@@ -105,7 +106,7 @@ module Pumi
         def replace_communes_list
           provinces = Pumi::Province.all.map { |province| Province.new(province) }
           data = OpenStruct.new(provinces:)
-          communes_list = ERB.new(TEMPLATE).result(data.instance_eval { binding })
+          communes_list = ERB.new(TEMPLATE, trim_mode: "-").result(data.instance_eval { binding })
           source.sub!(communes_list_section.to_html, communes_list)
         end
 

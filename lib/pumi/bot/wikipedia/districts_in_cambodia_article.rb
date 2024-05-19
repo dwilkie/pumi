@@ -1,4 +1,5 @@
 require "ostruct"
+require "erb"
 
 module Pumi
   module Bot
@@ -49,7 +50,7 @@ module Pumi
             districts:,
             districts_summary: generate_districts_summary(districts:)
           )
-          result = ERB.new(DISTRICTS_TEMPLATE).result(data.instance_eval { binding })
+          result = ERB.new(DISTRICTS_TEMPLATE, trim_mode: "-").result(data.instance_eval { binding })
           "\n\n#{result}\n"
         end
 
