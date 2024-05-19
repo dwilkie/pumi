@@ -5616,6 +5616,14 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '02010508':
+    name:
+      km: ប៉ៃឡាំ
+      latin: " "
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '02010601':
     name:
       km: ចែងក្ដារ
@@ -11716,6 +11724,22 @@ villages:
     name:
       km: បឹងធ្មួយ
       latin: Boeng Thmouy
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140110':
+    name:
+      km: ព្រែកជីក១
+      latin: " Preaek Chik Muoy"
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '02140111':
+    name:
+      km: ឆ្កែខាំប្រើស១
+      latin: Chhkae Kham Praeus Mouy
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -74616,6 +74640,22 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
+  '14110607':
+    name:
+      km: កំពង់ឫស្សីជើង
+      latin: Kampong Ruessei Chaeung
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '14110608':
+    name:
+      km: កំពង់ឫស្សីត្បូង
+      latin: Kampong Ruessei Tbong
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
   '14110609':
     name:
       km: វាល
@@ -83488,62 +83528,6 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
-  '17030501':
-    name:
-      km: តាឯក
-      latin: Ta Aek
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17030502':
-    name:
-      km: ត្មាតពង
-      latin: Tmat Pong
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17030503':
-    name:
-      km: តានី
-      latin: Ta Ni
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17030504':
-    name:
-      km: រុន
-      latin: Run
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17030505':
-    name:
-      km: ជ័យ
-      latin: Chey
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17030506':
-    name:
-      km: ថ្នល់
-      latin: Thnal
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17030507':
-    name:
-      km: ស្រែចង្ហូត
-      latin: Srae Changhout
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
   '17030601':
     name:
       km: ត្បែងកើត
@@ -86728,70 +86712,6 @@ villages:
       km: ភូមិ
       latin: Phum
       en: Village
-  '17090301':
-    name:
-      km: ធ្លកកំបុត
-      latin: Thlok Kambot
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17090302':
-    name:
-      km: គោកឫស្សី
-      latin: Kouk Ruessei
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17090303':
-    name:
-      km: ស្នារសង្គ្រាម
-      latin: Snar Sangkream
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17090304':
-    name:
-      km: ក្រពើ
-      latin: Krapeu
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17090305':
-    name:
-      km: តាកុយ
-      latin: Ta Koy
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17090306':
-    name:
-      km: ព្រំកុដ្ឋ
-      latin: Prum Kod
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17090307':
-    name:
-      km: ត្រាច
-      latin: Trach
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-  '17090308':
-    name:
-      km: ពពេល
-      latin: Popel
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
   '17090401':
     name:
       km: គោកក្ដុល
@@ -89692,6 +89612,126 @@ villages:
     name:
       km: គោកស្រុក
       latin: Kouk Srok
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150101':
+    name:
+      km: តាឯក
+      latin: Ta Aek
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150102':
+    name:
+      km: ត្មាតពង
+      latin: Tmat Pong
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150103':
+    name:
+      km: តានី
+      latin: Ta Ni
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150104':
+    name:
+      km: រុន
+      latin: Run
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150105':
+    name:
+      km: ជ័យ
+      latin: Chey
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150106':
+    name:
+      km: ថ្នល់
+      latin: Thnal
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150107':
+    name:
+      km: ស្រែចង្ហូត
+      latin: Srae Changhout
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150201':
+    name:
+      km: ធ្លកកំបុត
+      latin: Thlok Kambot
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150202':
+    name:
+      km: គោកឫស្សី
+      latin: Kouk Ruessei
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150203':
+    name:
+      km: ស្នារសង្គ្រាម
+      latin: Snar Sangkream
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150204':
+    name:
+      km: ក្រពើ
+      latin: Krapeu
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150205':
+    name:
+      km: តាកុយ
+      latin: Ta Koy
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150206':
+    name:
+      km: ព្រំកុដ្ឋ
+      latin: Prum Kod
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150207':
+    name:
+      km: ត្រាច
+      latin: Trach
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+  '17150208':
+    name:
+      km: ពពេល
+      latin: Popel
     administrative_unit:
       km: ភូមិ
       latin: Phum
