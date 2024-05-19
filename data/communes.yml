@@ -17442,22 +17442,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '170305':
-    name:
-      km: រុនតាឯក
-      latin: Run Ta Aek
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-    geodata:
-      lat: 13.4740164
-      long: 104.0255945
-      bounding_box:
-      - 13.503113
-      - 104.1188961
-      - 13.423096
-      - 103.9702759
   '170306':
     name:
       km: ត្បែង
@@ -17890,22 +17874,6 @@ communes:
       km: ឃុំ
       latin: Khum
       en: Commune
-  '170903':
-    name:
-      km: បល្ល័ង្ក
-      latin: Ballangk
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-    geodata:
-      lat: 13.4115811
-      long: 104.0110899
-      bounding_box:
-      - 13.447876
-      - 104.0540771
-      - 13.3723139
-      - 103.986694
   '170904':
     name:
       km: កំពង់ភ្លុក
@@ -18444,6 +18412,22 @@ communes:
       - 103.888306
       - 13.8270869
       - 103.6818849
+  '171501':
+    name:
+      km: រុនតាឯក
+      latin: Run Ta Aek
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+  '171502':
+    name:
+      km: បល្ល័ង្ក
+      latin: Ballangk
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
   '180101':
     name:
       km: លេខ១

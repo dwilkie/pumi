@@ -2848,6 +2848,14 @@ districts:
       - '13.9675896'
       - '103.6810398'
       - '104.115603'
+  '1715':
+    name:
+      km: រុនតាឯកតេជោសែន
+      latin: Run Ta Aek Techo Sen
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
   '1801':
     name:
       km: ព្រះសីហនុ
