@@ -12,6 +12,11 @@ require "pumi/data_source/wikipedia"
 Pumi::DataSource::NCDD.new.load_data!
 
 Pumi::DataSource::Wikipedia.new(
+  scraper: Pumi::DataSource::Wikipedia::CambodianProvincesScraper.new,
+  data_file: Pumi::DataFile.new(:provinces)
+).load_data!
+
+Pumi::DataSource::Wikipedia.new(
   scraper: Pumi::DataSource::Wikipedia::CambodianDistrictsScraper.new,
   data_file: Pumi::DataFile.new(:districts)
 ).load_data!

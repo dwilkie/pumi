@@ -24,6 +24,8 @@ module Pumi
         expect(commune.full_name_latin).to eq("Khum Banteay Neang")
         expect(commune.name_en).to eq("Banteay Neang")
         expect(commune.full_name_en).to eq("Banteay Neang Commune")
+        expect(commune.name_ungegn).to eq("Bântéay Néang")
+        expect(commune.full_name_ungegn).to eq("Khŭm Bântéay Néang")
         expect(commune.district.name_en).to eq("Mongkol Borei")
         expect(commune.province.name_en).to eq("Banteay Meanchey")
       end

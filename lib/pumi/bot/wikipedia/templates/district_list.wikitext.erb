@@ -6,6 +6,7 @@
 ! #
 ! Name
 ! Khmer
+! [[Romanization of Khmer#UNGEGN|UNGEGN]]
 ! Administrative Unit
 ! Geocode
 |-
@@ -22,6 +23,11 @@
 | <%= district.name_en %>
 <% end -%>
 | <%= district.name_km %>
+<% if district.name_ungegn -%>
+| {{transliteration|km|<%= district.name_ungegn %>}}
+<% else -%>
+|
+<% end -%>
 | <%= "#{district.administrative_unit.name_en} (#{district.administrative_unit.name_km} #{district.administrative_unit.name_latin})" %>
 | <%= district.id %>
 |-

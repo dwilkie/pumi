@@ -4,10 +4,12 @@ provinces:
     name:
       km: បន្ទាយមានជ័យ
       latin: Banteay Meanchey
+      ungegn: Bântéay Méanchoăy
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Banteay_Meanchey_province
     geodata:
@@ -23,10 +25,12 @@ provinces:
     name:
       km: បាត់ដំបង
       latin: Battambang
+      ungegn: Bătdâmbâng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Battambang_province
     geodata:
@@ -42,10 +46,12 @@ provinces:
     name:
       km: កំពង់ចាម
       latin: Kampong Cham
+      ungegn: Kâmpóng Cham
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Cham_province
     geodata:
@@ -61,10 +67,12 @@ provinces:
     name:
       km: កំពង់ឆ្នាំង
       latin: Kampong Chhnang
+      ungegn: Kâmpóng Chhnăng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Chhnang_province
     geodata:
@@ -80,10 +88,12 @@ provinces:
     name:
       km: កំពង់ស្ពឺ
       latin: Kampong Speu
+      ungegn: Kâmpóng Spœ
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Speu_province
     geodata:
@@ -99,10 +109,12 @@ provinces:
     name:
       km: កំពង់ធំ
       latin: Kampong Thom
+      ungegn: Kâmpóng Thum
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampong_Thom_province
     geodata:
@@ -122,6 +134,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kampot_province
     geodata:
@@ -137,10 +150,12 @@ provinces:
     name:
       km: កណ្តាល
       latin: Kandal
+      ungegn: Kândal
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kandal_province
     geodata:
@@ -156,10 +171,12 @@ provinces:
     name:
       km: កោះកុង
       latin: Koh Kong
+      ungegn: Kaôh Kŏng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koh_Kong_province
     geodata:
@@ -174,11 +191,13 @@ provinces:
   '10':
     name:
       km: ក្រចេះ
-      latin: Kratie
+      latin: Kratié
+      ungegn: Krâchéh
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Krati%C3%A9_province
     geodata:
@@ -193,11 +212,13 @@ provinces:
   '11':
     name:
       km: មណ្ឌលគិរី
-      latin: Mondul Kiri
+      latin: Mondulkiri
+      ungegn: Môndôlkĭri
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Mondulkiri_province
     geodata:
@@ -213,10 +234,12 @@ provinces:
     name:
       km: ភ្នំពេញ
       latin: Phnom Penh
+      ungegn: Phnum Pénh
     administrative_unit:
       km: រាជធានី
       latin: Reach Theani
       en: Capital
+      ungegn: Réachthéani
     links:
       wikipedia: https://en.wikipedia.org/wiki/Phnom_Penh
     geodata:
@@ -232,10 +255,12 @@ provinces:
     name:
       km: ព្រះវិហារ
       latin: Preah Vihear
+      ungegn: Preăh Vĭhar
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Preah_Vihear_province
     geodata:
@@ -251,10 +276,12 @@ provinces:
     name:
       km: ព្រៃវែង
       latin: Prey Veng
+      ungegn: Preý Vŭng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Prey_Veng_province
     geodata:
@@ -270,10 +297,12 @@ provinces:
     name:
       km: ពោធិ៍សាត់
       latin: Pursat
+      ungegn: Poŭthĭsăt
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pursat_province
     geodata:
@@ -288,11 +317,13 @@ provinces:
   '16':
     name:
       km: រតនគិរី
-      latin: Ratanak Kiri
+      latin: Ratanakiri
+      ungegn: Rôtânôkĭri
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Ratanakiri_province
     geodata:
@@ -307,11 +338,13 @@ provinces:
   '17':
     name:
       km: សៀមរាប
-      latin: Siemreap
+      latin: Siem Reap
+      ungegn: Siĕm Réab
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Siem_Reap_province
     geodata:
@@ -327,12 +360,14 @@ provinces:
     name:
       km: ព្រះសីហនុ
       latin: Preah Sihanouk
+      ungegn: Preăh Seihânŭ
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Sihanoukville_province
+      wikipedia: https://en.wikipedia.org/wiki/Preah_Sihanouk_province
     geodata:
       lat: '10.50614075'
       long: '103.26205644863938'
@@ -346,10 +381,12 @@ provinces:
     name:
       km: ស្ទឹងត្រែង
       latin: Stung Treng
+      ungegn: Stœ̆ng Trêng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Stung_Treng_province
     geodata:
@@ -365,10 +402,12 @@ provinces:
     name:
       km: ស្វាយរៀង
       latin: Svay Rieng
+      ungegn: Svay Riĕng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Svay_Rieng_province
     geodata:
@@ -383,11 +422,12 @@ provinces:
   '21':
     name:
       km: តាកែវ
-      latin: Takeo
+      latin: Takéo
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tak%C3%A9o_province
     geodata:
@@ -403,10 +443,12 @@ provinces:
     name:
       km: ឧត្តរមានជ័យ
       latin: Oddar Meanchey
+      ungegn: Ŏttâr Méanchoăy
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Oddar_Meanchey_province
     geodata:
@@ -422,10 +464,12 @@ provinces:
     name:
       km: កែប
       latin: Kep
+      ungegn: Kêb
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Kep_province
     geodata:
@@ -441,10 +485,12 @@ provinces:
     name:
       km: ប៉ៃលិន
       latin: Pailin
+      ungegn: Pailĭn
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Pailin_province
     geodata:
@@ -464,6 +510,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
+      ungegn: Khétt
     links:
       wikipedia: https://en.wikipedia.org/wiki/Tboung_Khmum_province
     geodata:

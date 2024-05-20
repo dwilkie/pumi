@@ -14,7 +14,14 @@ module Pumi
         "1715" => { type: "ក្រុង" }
       }.freeze
 
-      AdministrativeUnit = Struct.new(:en, :km, :latin, :code_length, :group, :type, keyword_init: true)
+      Misspelling = Struct.new(:incorrect_text, :correct_text, keyword_init: true)
+
+      MISSPELLINGS = [
+        Misspelling.new(incorrect_text: "Siem Reab", correct_text: "Siem Reap"),
+        Misspelling.new(incorrect_text: "Aoral", correct_text: "Aural")
+      ].freeze
+
+      AdministrativeUnit = Struct.new(:en, :km, :latin, :ungegn, :code_length, :group, :type, keyword_init: true)
       Row = Struct.new(:code, :name_km, :name_latin, :type, keyword_init: true) do
         def administrative_unit
           ADMINISTRATIVE_UNITS.fetch(type)
@@ -22,12 +29,54 @@ module Pumi
       end
 
       ADMINISTRATIVE_UNITS = {
-        "ស្រុក" => AdministrativeUnit.new(en: "District", km: "ស្រុក", latin: "Srok", code_length: 4, group: "districts"),
-        "ខណ្ឌ" => AdministrativeUnit.new(en: "Section", km: "ខណ្ឌ", latin: "Khan", code_length: 4, group: "districts"),
-        "ក្រុង" => AdministrativeUnit.new(en: "Municipality", km: "ក្រុង", latin: "Krong", code_length: 4, group: "districts"),
-        "ឃុំ" => AdministrativeUnit.new(en: "Commune", km: "ឃុំ", latin: "Khum", code_length: 6, group: "communes"),
-        "សង្កាត់" => AdministrativeUnit.new(en: "Quarter", km: "សង្កាត់", latin: "Sangkat", code_length: 6, group: "communes"),
-        "ភូមិ" => AdministrativeUnit.new(en: "Village", km: "ភូមិ", latin: "Phum", code_length: 8, group: "villages")
+        "ស្រុក" => AdministrativeUnit.new(
+          en: "District",
+          km: "ស្រុក",
+          latin: "Srok",
+          ungegn: "Srŏk",
+          code_length: 4,
+          group: "districts"
+        ),
+        "ខណ្ឌ" => AdministrativeUnit.new(
+          en: "Section",
+          km: "ខណ្ឌ",
+          latin: "Khan",
+          ungegn: "Khând",
+          code_length: 4,
+          group: "districts"
+        ),
+        "ក្រុង" => AdministrativeUnit.new(
+          en: "Municipality",
+          km: "ក្រុង",
+          latin: "Krong",
+          ungegn: "Krŏng",
+          code_length: 4,
+          group: "districts"
+        ),
+        "ឃុំ" => AdministrativeUnit.new(
+          en: "Commune",
+          km: "ឃុំ",
+          latin: "Khum",
+          ungegn: "Khŭm",
+          code_length: 6,
+          group: "communes"
+        ),
+        "សង្កាត់" => AdministrativeUnit.new(
+          en: "Quarter",
+          km: "សង្កាត់",
+          latin: "Sangkat",
+          ungegn: "Sângkéat",
+          code_length: 6,
+          group: "communes"
+        ),
+        "ភូមិ" => AdministrativeUnit.new(
+          en: "Village",
+          km: "ភូមិ",
+          latin: "Phum",
+          ungegn: "Phum",
+          code_length: 8,
+          group: "villages"
+        )
       }.freeze
 
       attr_accessor :existing_data
@@ -66,10 +115,13 @@ module Pumi
       def build_row(row)
         code = parse_location_code(row)
 
+        name_latin = row.fetch("name_latin")
+        name_latin = MISSPELLINGS.find { |m| m.incorrect_text == name_latin }&.correct_text || name_latin
+
         Row.new(
           code:,
           name_km: row.fetch("name_km"),
-          name_latin: row.fetch("name_latin"),
+          name_latin:,
           type: row.fetch("type") || MISSING_DATA.dig(code, :type)
         )
       end
@@ -85,15 +137,17 @@ module Pumi
       def add_data(row)
         data[row.administrative_unit.group] ||= {}
         data[row.administrative_unit.group][row.code] = existing_data.dig(row.administrative_unit.group, row.code) || {}
+        data[row.administrative_unit.group][row.code]["name"] = existing_data.dig(row.administrative_unit.group, row.code, "name") || {}
+        data[row.administrative_unit.group][row.code]["name"].merge!(
+          "km" => row.name_km,
+          "latin" => row.name_latin
+        )
         data[row.administrative_unit.group][row.code].merge!(
-          "name" => {
-            "km" => row.name_km,
-            "latin" => row.name_latin
-          },
           "administrative_unit" => {
             "km" => row.administrative_unit.km,
             "latin" => row.administrative_unit.latin,
-            "en" => row.administrative_unit.en
+            "en" => row.administrative_unit.en,
+            "ungegn" => row.administrative_unit.ungegn
           }
         )
       end

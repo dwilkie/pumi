@@ -21,26 +21,35 @@
 ! #
 ! Name
 ! Khmer
+! [[Romanization of Khmer#UNGEGN|UNGEGN]]
 ! Administrative Unit
 ! Geocode
 |-
-
 <% district.communes.each_with_index do |commune, index| %>
 | <%= index + 1 %>
-<% if commune.links[:wikipedia] %>
-<% commune_page = URI.parse(commune.links[:wikipedia]).path.split("/").last.gsub("_", " ") %>
+<% if commune.links[:wikipedia] -%>
+<% commune_page = URI.parse(commune.links[:wikipedia]).path.split("/").last -%>
+<% if commune_page.gsub("_", " ") == commune.name_en -%>
+| [[<%= commune.name_en %>]]
+<% else -%>
 | [[<%= commune_page %>|<%= commune.name_en %>]]
-<% else %>
+<% end -%>
+<% else -%>
 | <%= commune.name_en %>
-<% end %>
+<% end -%>
 | <%= commune.name_km %>
+<% if commune.name_ungegn -%>
+| {{transliteration|km|<%= commune.name_ungegn %>}}
+<% else -%>
+|
+<% end -%>
 | <%= "#{commune.administrative_unit.name_en} (#{commune.administrative_unit.name_km} #{commune.administrative_unit.name_latin})" %>
 | <%= commune.id %>
 |-
-<% end %>
+<% end -%>
 |}
 </div>
-<% end %>
+<% end -%>
 </div>
-<% end %>
+<% end -%>
 </div>
