@@ -1,4 +1,5 @@
 require "ostruct"
+require "erb"
 
 module Pumi
   module Bot
@@ -12,15 +13,10 @@ module Pumi
         Misspelling = Struct.new(:incorrect_text, :correct_text, keyword_init: true)
 
         MISSPELLINGS = [
-          Misspelling.new(incorrect_text: "Kratié", correct_text: "Kratie"),
-          Misspelling.new(incorrect_text: "Mondulkiri", correct_text: "Mondul Kiri"),
           Misspelling.new(
             incorrect_text: "Phnom Penh (autonomous municipality)",
             correct_text: "Phnom Penh"
-          ),
-          Misspelling.new(incorrect_text: "Ratanakiri", correct_text: "Ratanak Kiri"),
-          Misspelling.new(incorrect_text: "Siem Reap", correct_text: "Siemreap"),
-          Misspelling.new(incorrect_text: "Takéo", correct_text: "Takeo")
+          )
         ].freeze
 
         def publish
@@ -49,7 +45,7 @@ module Pumi
             districts:,
             districts_summary: generate_districts_summary(districts:)
           )
-          result = ERB.new(DISTRICTS_TEMPLATE).result(data.instance_eval { binding })
+          result = ERB.new(DISTRICTS_TEMPLATE, trim_mode: "-").result(data.instance_eval { binding })
           "\n\n#{result}\n"
         end
 

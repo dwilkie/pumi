@@ -82,6 +82,7 @@ module Pumi
       name = attributes.fetch("name")
       name_km = name.fetch("km")
       name_latin = name.fetch("latin")
+      name_ungegn = name["ungegn"]
       administrative_unit = build_administrative_unit(
         attributes.fetch("administrative_unit")
       )
@@ -94,20 +95,25 @@ module Pumi
         id:,
         administrative_unit:,
         name_km:,
+        name_en: name_latin,
         name_latin:,
+        name_ungegn:,
         geodata:,
         iso3166_2: attributes["iso3166_2"],
         links: attributes.fetch("links", {}).transform_keys(&:to_sym),
-        name_en: name_latin,
         full_name_km: [
           administrative_unit_name(name_km, administrative_unit.name_km),
           name_km
         ].compact.join,
+        full_name_en: [name_latin, administrative_unit.name_en].join(" "),
         full_name_latin: [
           administrative_unit_name(name_latin, administrative_unit.name_latin),
           name_latin
         ].compact.join(" "),
-        full_name_en: [name_latin, administrative_unit.name_en].join(" ")
+        full_name_ungegn: name_ungegn && [
+          administrative_unit_name(name_ungegn, administrative_unit.name_ungegn),
+          name_ungegn
+        ].compact.join(" ")
       }
     end
 
@@ -138,7 +144,8 @@ module Pumi
       AdministrativeUnit.new(
         name_km: attributes.fetch("km"),
         name_latin: attributes.fetch("latin"),
-        name_en: attributes.fetch("en")
+        name_en: attributes.fetch("en"),
+        name_ungegn: attributes.fetch("ungegn")
       )
     end
 

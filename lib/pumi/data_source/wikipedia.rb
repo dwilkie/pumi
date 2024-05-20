@@ -16,8 +16,12 @@ module Pumi
           location_data = scraped_data.find { |location| location.code == code }
           next unless location_data
 
-          attributes["links"] ||= {}
-          attributes["links"]["wikipedia"] = location_data.wikipedia
+          if location_data.wikipedia
+            attributes["links"] ||= {}
+            attributes["links"]["wikipedia"] = location_data.wikipedia
+          end
+
+          attributes["name"]["ungegn"] = location_data.name_ungegn if location_data.name_ungegn
         end
 
         write_data!(output_dir)
@@ -37,7 +41,7 @@ module Pumi
         data_file.write(data, data_directory:)
       end
 
-      ScraperResult = Struct.new(:code, :wikipedia, keyword_init: true)
+      ScraperResult = Struct.new(:code, :wikipedia, :name_ungegn, keyword_init: true)
 
       class WebScraper
         class ElementNotFoundError < StandardError; end
@@ -58,7 +62,11 @@ module Pumi
 
         def scrape!
           Province.all.each_with_object([]) do |province, result|
-            result << ScraperResult.new(code: province.id, wikipedia: find_url(province))
+            result << ScraperResult.new(
+              code: province.id,
+              wikipedia: find_url(province),
+              name_ungegn: find_ungegn(province)
+            )
           end
         end
 
@@ -69,14 +77,25 @@ module Pumi
         end
 
         def find_url(province)
+          td = find_khmer_name_td(province)
+          link = td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          URI.join(URL, link[:href]).to_s
+        end
+
+        def find_ungegn(province)
+          td = find_khmer_name_td(province)
+          td.at_xpath("following-sibling::td/span[contains(@title, 'Khmer-language romanization')]")&.text
+        end
+
+        def find_khmer_name_td(province)
           td = province_table_rows.at_xpath("child::td[contains(., '#{province.name_km}')]")
+
           if td.nil?
             raise WebScraper::ElementNotFoundError,
                   "No cell containing '#{province.name_km}' was found in a table on #{URL}"
           end
 
-          link = td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
-          URI.join(URL, link[:href]).to_s
+          td
         end
 
         def province_table_rows
@@ -99,10 +118,11 @@ module Pumi
 
         def scrape!
           District.all.each_with_object([]) do |district, result|
-            url = find_url(district)
-            next unless url
-
-            result << ScraperResult.new(code: district.id, wikipedia: url)
+            result << ScraperResult.new(
+              code: district.id,
+              wikipedia: find_url(district),
+              name_ungegn: find_ungegn(district)
+            )
           end
         end
 
@@ -113,15 +133,27 @@ module Pumi
         end
 
         def find_url(district)
-          geocode = scraper.page.at_xpath("//td[text()[contains(., '#{district.id}')]]")
+          geocode_td = find_geocode_td(district)
 
-          return if geocode.nil?
+          return if geocode_td.nil?
 
-          link = geocode.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
 
           return if link.nil?
 
           URI.join(URL, link[:href]).to_s
+        end
+
+        def find_ungegn(district)
+          geocode_td = find_geocode_td(district)
+
+          return if geocode_td.nil?
+
+          geocode_td.at_xpath("preceding-sibling::td/span[contains(@title, 'Khmer-language romanization')]")&.text
+        end
+
+        def find_geocode_td(district)
+          scraper.page.at_xpath("//td[text()[contains(., '#{district.id}')]]")
         end
       end
 
@@ -130,25 +162,38 @@ module Pumi
 
         def scrape!
           Commune.all.each_with_object([]) do |commune, result|
-            url = find_url(commune)
-            next if url.nil?
-
-            result << ScraperResult.new(code: commune.id, wikipedia: url)
+            result << ScraperResult.new(
+              code: commune.id,
+              wikipedia: find_url(commune),
+              name_ungegn: find_ungegn(commune)
+            )
           end
         end
 
         private
 
         def find_url(commune)
-          geocode = scraper.page.at_xpath("//td[text()[contains(., '#{commune.id}')]]")
+          geocode_td = find_geocode_td(commune)
 
-          return if geocode.nil?
+          return if geocode_td.nil?
 
-          link = geocode.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
 
           return if link.nil?
 
           URI.join(URL, link[:href]).to_s
+        end
+
+        def find_ungegn(commune)
+          geocode_td = find_geocode_td(commune)
+
+          return if geocode_td.nil?
+
+          geocode_td.at_xpath("preceding-sibling::td/span[contains(@title, 'Khmer-language romanization')]")&.text
+        end
+
+        def find_geocode_td(commune)
+          scraper.page.at_xpath("//td[text()[contains(., '#{commune.id}')]]")
         end
 
         def scraper

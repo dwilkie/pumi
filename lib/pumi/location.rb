@@ -5,6 +5,7 @@ module Pumi
     :name_km, :full_name_km,
     :name_latin, :full_name_latin,
     :name_en, :full_name_en,
+    :name_ungegn, :full_name_ungegn,
     :address_km, :address_latin, :address_en,
     :administrative_unit,
     :links,

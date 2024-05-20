@@ -101,7 +101,11 @@ And then execute:
 
   # Return the district's province name in latin
   district.province.name_latin
-  # => Phnom Penh
+  # => "Phnom Penh"
+
+  # Return the district's province name in UNGEGN
+  district.province.name_ungegn
+  # => "Phnum Pénh"
 
   # Working with Communes (ឃុំ / សង្កាត់)
 

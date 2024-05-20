@@ -1,4 +1,5 @@
 require "ostruct"
+require "nokogiri"
 
 module Pumi
   module Bot
@@ -105,7 +106,7 @@ module Pumi
         def replace_communes_list
           provinces = Pumi::Province.all.map { |province| Province.new(province) }
           data = OpenStruct.new(provinces:)
-          communes_list = ERB.new(TEMPLATE).result(data.instance_eval { binding })
+          communes_list = ERB.new(TEMPLATE, trim_mode: "-").result(data.instance_eval { binding })
           source.sub!(communes_list_section.to_html, communes_list)
         end
 
