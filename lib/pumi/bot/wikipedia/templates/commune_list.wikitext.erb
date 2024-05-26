@@ -24,6 +24,7 @@
 ! [[Romanization of Khmer#UNGEGN|UNGEGN]]
 ! Administrative Unit
 ! Geocode
+! # of Villages
 |-
 <% district.communes.each_with_index do |commune, index| %>
 | <%= index + 1 %>
@@ -45,6 +46,7 @@
 <% end -%>
 | <%= "#{commune.administrative_unit.name_en} (#{commune.administrative_unit.name_km} #{commune.administrative_unit.name_latin})" %>
 | <%= commune.id %>
+| <%= Village.where(commune_id: commune.id).size %>
 |-
 <% end -%>
 |}
