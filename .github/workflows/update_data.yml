@@ -23,7 +23,7 @@ jobs:
         run: ./bin/parse_data
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.REPO_TOKEN }}
           commit-message: "feat: Update data"
