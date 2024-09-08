@@ -101142,87 +101142,6 @@ villages:
       latin: Phum
       en: Village
       ungegn: Phum
-  '18020201':
-    name:
-      km: បឹងជុំ
-      latin: Boeng Chum
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020202':
-    name:
-      km: បឹងតាព្រហ្ម
-      latin: Boeng Ta Prum
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020203':
-    name:
-      km: បឹងតាស្រី
-      latin: Boeng Ta Srei
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020204':
-    name:
-      km: ដូនលយ
-      latin: Doun Loy
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020205':
-    name:
-      km: ភ្នំតូច
-      latin: Phnum Touch
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020206':
-    name:
-      km: ទឹកចេញ
-      latin: Tuek Chenh
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020301':
-    name:
-      km: ចំណោតរាម
-      latin: Chamnaot Ream
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020302':
-    name:
-      km: គគីរ
-      latin: Kokir
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020303':
-    name:
-      km: ពូធឿង
-      latin: Pu Thoeang
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
   '18020401':
     name:
       km: ចំការកៅស៊ូ
@@ -101254,96 +101173,6 @@ villages:
     name:
       km: ត្រពាំងមូល
       latin: Trapeang Mul
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020501':
-    name:
-      km: កោះខ្យង
-      latin: Kaoh Khyang
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020502':
-    name:
-      km: អូរជ្រៅ
-      latin: Ou Chrov
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020503':
-    name:
-      km: ស្រែចាមក្រោម
-      latin: Srae Cham Kraom
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020504':
-    name:
-      km: ស្រែចាមលើ
-      latin: Srae Cham Leu
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020505':
-    name:
-      km: ស្រែក្នុង
-      latin: Srae Knong
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020601':
-    name:
-      km: បត់គគីរ
-      latin: Bat Kokir
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020602':
-    name:
-      km: អូរចំណារ
-      latin: Ou Chamnar
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020603':
-    name:
-      km: អូរតាប៉ាង
-      latin: Ou Ta Pang
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020604':
-    name:
-      km: អូរតាសេក
-      latin: Ou Ta Sek
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020605':
-    name:
-      km: អូរឧកញ៉ាហេង
-      latin: Ou Oknha Heng
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -101389,42 +101218,6 @@ villages:
     name:
       km: បែកក្រង់
       latin: Baek Krang
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020801':
-    name:
-      km: អុង
-      latin: Ong
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020802':
-    name:
-      km: រាម
-      latin: Ream
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020804':
-    name:
-      km: ស្មាច់ដែង
-      latin: Smach Daeng
-    administrative_unit:
-      km: ភូមិ
-      latin: Phum
-      en: Village
-      ungegn: Phum
-  '18020805':
-    name:
-      km: ថ្មធំ
-      latin: Thma Thum
     administrative_unit:
       km: ភូមិ
       latin: Phum
@@ -101956,6 +101749,213 @@ villages:
     name:
       km: កោះរ៉ុងសន្លឹម
       latin: Kaoh Rung Sanloem
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060101':
+    name:
+      km: អុង
+      latin: Ong
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060102':
+    name:
+      km: រាម
+      latin: Ream
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060103':
+    name:
+      km: ស្មាច់ដែង
+      latin: Smach Daeng
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060104':
+    name:
+      km: ថ្មធំ
+      latin: Thma Thum
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060201':
+    name:
+      km: ចំណោតរាម
+      latin: Chamnaot Ream
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060202':
+    name:
+      km: គគីរ
+      latin: Kokir
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060203':
+    name:
+      km: ពូធឿង
+      latin: Pu Thoeang
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060301':
+    name:
+      km: បត់គគីរ
+      latin: Bat Kokir
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060302':
+    name:
+      km: អូរចំណារ
+      latin: Ou Chamnar
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060303':
+    name:
+      km: អូរតាប៉ាង
+      latin: Ou Ta Pang
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060304':
+    name:
+      km: អូរតាសេក
+      latin: Ou Ta Sek
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060305':
+    name:
+      km: អូរឧកញ៉ាហេង
+      latin: Ou Oknha Heng
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060401':
+    name:
+      km: បឹងជុំ
+      latin: Boeng Chum
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060402':
+    name:
+      km: បឹងតាព្រហ្ម
+      latin: Boeng Ta Prum
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060403':
+    name:
+      km: បឹងតាស្រី
+      latin: Boeng Ta Srei
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060404':
+    name:
+      km: ដូនលយ
+      latin: Doun Loy
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060405':
+    name:
+      km: ភ្នំតូច
+      latin: Phnum Touch
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060406':
+    name:
+      km: ទឹកចេញ
+      latin: Tuek Chenh
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060501':
+    name:
+      km: កោះខ្យង
+      latin: Kaoh Khyang
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060502':
+    name:
+      km: អូរជ្រៅ
+      latin: Ou Chrov
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060503':
+    name:
+      km: ស្រែចាមក្រោម
+      latin: Srae Cham Kraom
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060504':
+    name:
+      km: ស្រែចាមលើ
+      latin: Srae Cham Leu
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '18060505':
+    name:
+      km: ស្រែក្នុង
+      latin: Srae Knong
     administrative_unit:
       km: ភូមិ
       latin: Phum

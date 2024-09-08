@@ -3110,6 +3110,15 @@ districts:
       ungegn: Krŏng
     links:
       wikipedia: https://en.wikipedia.org/wiki/Koh_Rong_(town)
+  '1806':
+    name:
+      km: កំពង់សោម
+      latin: Kampong Soam
+    administrative_unit:
+      km: ក្រុង
+      latin: Krong
+      en: Municipality
+      ungegn: Krŏng
   '1901':
     name:
       km: សេសាន

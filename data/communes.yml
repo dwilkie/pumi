@@ -19838,40 +19838,6 @@ communes:
       - 103.8613281
       - 10.6420899
       - 103.682678
-  '180202':
-    name:
-      km: បឹងតាព្រហ្ម
-      latin: Boeng Ta Prum
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
-    geodata:
-      lat: 10.5724625
-      long: 103.7740888
-      bounding_box:
-      - 10.5963128
-      - 103.8399051
-      - 10.5314939
-      - 103.734131
-  '180203':
-    name:
-      km: បិតត្រាង
-      latin: Bet Trang
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
-    geodata:
-      lat: 10.601182
-      long: 103.6239763
-      bounding_box:
-      - 10.6740719
-      - 103.646729
-      - 10.5400999
-      - 103.560913
   '180204':
     name:
       km: ជើងគោ
@@ -19889,40 +19855,6 @@ communes:
       - 103.891907
       - 10.7200929
       - 103.6737062
-  '180205':
-    name:
-      km: អូរជ្រៅ
-      latin: Ou Chrov
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
-    geodata:
-      lat: 10.536239
-      long: 103.7878125
-      bounding_box:
-      - 10.5678709
-      - 103.8151249
-      - 10.51947
-      - 103.758484
-  '180206':
-    name:
-      km: អូរឧកញ៉ាហេង
-      latin: Ou Oknha Heng
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
-    geodata:
-      lat: 10.5848478
-      long: 103.7439632
-      bounding_box:
-      - 10.6217039
-      - 103.8344731
-      - 10.54248
-      - 103.6903079
   '180207':
     name:
       km: ព្រៃនប់
@@ -19940,23 +19872,6 @@ communes:
       - 103.84967
       - 10.585083
       - 103.688721
-  '180208':
-    name:
-      km: រាម
-      latin: Ream
-    administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
-    geodata:
-      lat: '10.5113885'
-      long: '103.616945'
-      bounding_box:
-      - '10.5013885'
-      - '10.5213885'
-      - '103.606945'
-      - '103.626945'
   '180209':
     name:
       km: សាមគ្គី
@@ -20217,6 +20132,51 @@ communes:
     name:
       km: កោះរ៉ុងសន្លឹម
       latin: Koah Rung Sonlem
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
+  '180601':
+    name:
+      km: រាម
+      latin: Ream
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
+  '180602':
+    name:
+      km: បិតត្រាង
+      latin: Bet Trang
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
+  '180603':
+    name:
+      km: អូរឧកញ៉ាហេង
+      latin: Ou Oknha Heng
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
+  '180604':
+    name:
+      km: បឹងតាព្រហ្ម
+      latin: Boeng Ta Prum
+    administrative_unit:
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
+  '180605':
+    name:
+      km: អូរជ្រៅ
+      latin: Ou Chrov
     administrative_unit:
       km: សង្កាត់
       latin: Sangkat
