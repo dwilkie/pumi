@@ -50,15 +50,27 @@ module Pumi
         end
 
         def generate_districts_summary(districts:)
+          village_administrative_unit = Pumi::Village.all.first.administrative_unit
+
           summary = districts_by_type(collection: districts).map do |au, d|
             next if Array(d).empty?
 
-            text = "#{d.size} #{au.name_en}"
+            text = "#{format_number(d.size)} #{au.name_en}"
             if d.size > 1
               au.name_en.end_with?("y") ? text.chomp!("y") << "ies" : text << "s"
             end
             text << " (#{au.name_km} #{au.name_latin})"
           end
+
+          number_of_villages = 0
+          districts.each do |district|
+            number_of_villages += Pumi::Village.where(district_id: district.id).size
+          end
+          villages_text = "#{format_number(number_of_villages)} #{village_administrative_unit.name_en}"
+          villages_text << "s" if number_of_villages > 1
+          villages_text << " (#{village_administrative_unit.name_km} #{village_administrative_unit.name_latin})"
+
+          summary << villages_text
 
           if summary.size <= 2
             summary.join(" and ")
@@ -111,6 +123,10 @@ module Pumi
         def fetch_districts_by_type(type, collection:)
           administrative_unit = collection.keys.find { |au| au.name_en == type }
           Array(collection[administrative_unit])
+        end
+
+        def format_number(number)
+          number.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
         end
       end
     end

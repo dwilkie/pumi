@@ -18,7 +18,9 @@ module Pumi
 
       MISSPELLINGS = [
         Misspelling.new(incorrect_text: "Siem Reab", correct_text: "Siem Reap"),
-        Misspelling.new(incorrect_text: "Aoral", correct_text: "Aural")
+        Misspelling.new(incorrect_text: "Aoral", correct_text: "Aural"),
+        Misspelling.new(incorrect_text: "Angk  Romeas", correct_text: "Angk Romeas"),
+        Misspelling.new(incorrect_text: "Prea​ek Chrey", correct_text: "Preaek Chrey")
       ].freeze
 
       AdministrativeUnit = Struct.new(:en, :km, :latin, :ungegn, :code_length, :group, :type, keyword_init: true)
