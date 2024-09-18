@@ -1,3 +1,3 @@
 module Pumi
-  VERSION = "0.28.0".freeze
+  VERSION = "0.29.0".freeze
 end
