@@ -6775,46 +6775,46 @@ communes:
       km: វាំងចាស់
       latin: Veang Chas
     administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
   '050902':
     name:
       km: វាលពង់
       latin: Veal Pong
     administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
   '050903':
     name:
       km: ត្រាចទង
       latin: Trach Tong
     administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
   '050904':
     name:
       km: ព្រះស្រែ
       latin: Preah Srae
     administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
   '050905':
     name:
       km: ក្សេមក្សាន្ដ
       latin: Khsem Khsant
     administrative_unit:
-      km: ឃុំ
-      latin: Khum
-      en: Commune
-      ungegn: Khŭm
+      km: សង្កាត់
+      latin: Sangkat
+      en: Quarter
+      ungegn: Sângkéat
     geodata:
       lat: '11.6837497'
       long: '104.7002298'
