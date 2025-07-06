@@ -4077,6 +4077,24 @@ villages:
       latin: Phum
       en: Village
       ungegn: Phum
+  '01070116':
+    name:
+      km: ថ្មរមៀលកើត
+      latin: Thma Romiel Keurt
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '01070117':
+    name:
+      km: ថ្មរមៀលលិច
+      latin: Thma Romiel Lech
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
   '01070201':
     name:
       km: គោកព្រេច
@@ -5521,6 +5539,42 @@ villages:
     name:
       km: អូរកេស
       latin: Ou Kes
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '01090513':
+    name:
+      km: បឹងជង្រុកតេជោឈ្នះឈ្នះ
+      latin: Boeng Chung Rok Techo Chnas Chnas
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '01090514':
+    name:
+      km: បឹង៧៥តេជោឈ្នះឈ្នះ
+      latin: Boeng 75 Techou Chhneah Chneah
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '01090515':
+    name:
+      km: ម៉ក់ហឹន
+      latin: Mok Hen
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '01090516':
+    name:
+      km: ភ្នំដូនសម
+      latin: Phnom Daun Sam
     administrative_unit:
       km: ភូមិ
       latin: Phum
