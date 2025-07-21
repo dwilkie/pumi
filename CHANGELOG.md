@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.36.0](https://github.com/dwilkie/pumi/compare/v0.35.0...v0.36.0) (2025-07-21)
+
+
+### Features
+
+* Add more latin misspellings ([#102](https://github.com/dwilkie/pumi/issues/102)) ([1105e3c](https://github.com/dwilkie/pumi/commit/1105e3cee219137a4a3baf73c6aa51969727052a))
+
 ## [0.35.0](https://github.com/dwilkie/pumi/compare/v0.34.0...v0.35.0) (2025-07-21)
 
 
