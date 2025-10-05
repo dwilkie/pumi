@@ -4905,6 +4905,24 @@ villages:
       latin: Phum
       en: Village
       ungegn: Phum
+  '01080413':
+    name:
+      km: ល្បើកស្វាយ
+      latin: Lbeuk Svay
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
+  '01080414':
+    name:
+      km: តេជោភ្នំឆ័ត្រ
+      latin: Techou Phnum Chhatr
+    administrative_unit:
+      km: ភូមិ
+      latin: Phum
+      en: Village
+      ungegn: Phum
   '01080501':
     name:
       km: គោកតាឯក
