@@ -3,14 +3,14 @@ districts:
   '0102':
     name:
       km: មង្គលបូរី
-      latin: Mongkol Borei
+      latin: Mongkol Borey
     administrative_unit:
       km: ស្រុក
       latin: Srok
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Mongkol_Borei_District
+      wikipedia: https://en.wikipedia.org/wiki/Mongkol_Borey_district
     geodata:
       lat: '13.4940861'
       long: '102.9791567'
