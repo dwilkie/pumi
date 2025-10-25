@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.38.2](https://github.com/dwilkie/pumi/compare/v0.38.1...v0.38.2) (2025-10-25)
+
+
+### Bug Fixes
+
+* configure CI for pull requests ([#114](https://github.com/dwilkie/pumi/issues/114)) ([c0f27b8](https://github.com/dwilkie/pumi/commit/c0f27b81440ca29a98bbfa90fc9e1c741c9101eb))
+
 ## [0.38.1](https://github.com/dwilkie/pumi/compare/v0.38.0...v0.38.1) (2025-10-25)
 
 
