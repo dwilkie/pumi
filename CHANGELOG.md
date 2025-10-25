@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.38.1](https://github.com/dwilkie/pumi/compare/v0.38.0...v0.38.1) (2025-10-25)
+
+
+### Bug Fixes
+
+* Add more misspellings ([#111](https://github.com/dwilkie/pumi/issues/111)) ([e8cfc71](https://github.com/dwilkie/pumi/commit/e8cfc71d04bd4da580211084a39ea0752e204840))
+
 ## [0.38.0](https://github.com/dwilkie/pumi/compare/v0.37.0...v0.38.0) (2025-10-10)
 
 
