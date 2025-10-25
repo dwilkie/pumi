@@ -20,10 +20,10 @@ module Pumi
         expect(district.id).to eq("0102")
         expect(district.name_km).to eq("មង្គលបូរី")
         expect(district.full_name_km).to eq("ស្រុកមង្គលបូរី")
-        expect(district.name_latin).to eq("Mongkol Borei")
-        expect(district.full_name_latin).to eq("Srok Mongkol Borei")
-        expect(district.name_en).to eq("Mongkol Borei")
-        expect(district.full_name_en).to eq("Mongkol Borei District")
+        expect(district.name_latin).to eq("Mongkol Borey")
+        expect(district.full_name_latin).to eq("Srok Mongkol Borey")
+        expect(district.name_en).to eq("Mongkol Borey")
+        expect(district.full_name_en).to eq("Mongkol Borey District")
         expect(district.province.name_en).to eq("Banteay Meanchey")
       end
 
