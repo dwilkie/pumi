@@ -9,10 +9,10 @@ module Pumi
           "ភូមិខ្ទុម្ពរាយលិច ឃុំបត់ត្រង់ ស្រុកមង្គលបូរី ខេត្តបន្ទាយមានជ័យ"
         )
         expect(village.address_latin).to eq(
-          "Phum Khtum Reay Lech, Khum Bat Trang, Srok Mongkol Borei, Khaet Banteay Meanchey"
+          "Phum Khtum Reay Lech, Khum Bat Trang, Srok Mongkol Borey, Khaet Banteay Meanchey"
         )
         expect(village.address_en).to eq(
-          "Khtum Reay Lech Village, Bat Trang Commune, Mongkol Borei District, Banteay Meanchey Province"
+          "Khtum Reay Lech Village, Bat Trang Commune, Mongkol Borey District, Banteay Meanchey Province"
         )
       end
     end
@@ -40,7 +40,7 @@ module Pumi
         expect(village.name_en).to eq("Khtum Reay Lech")
         expect(village.full_name_en).to eq("Khtum Reay Lech Village")
         expect(village.commune.name_en).to eq("Bat Trang")
-        expect(village.district.name_en).to eq("Mongkol Borei")
+        expect(village.district.name_en).to eq("Mongkol Borey")
         expect(village.province.name_en).to eq("Banteay Meanchey")
       end
 

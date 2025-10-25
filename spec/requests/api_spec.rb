@@ -20,7 +20,7 @@ RSpec.describe "API" do
 
       results = JSON.parse(response.body)
       expect(results.size).to eq(9)
-      expect(results.dig(0, "name_latin")).to eq("Mongkol Borei")
+      expect(results.dig(0, "name_latin")).to eq("Mongkol Borey")
     end
   end
 

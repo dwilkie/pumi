@@ -16,7 +16,7 @@ RSpec.describe "pumi.js", :js, type: :system do
     expect(page).to have_field("District", disabled: false)
     expect(page.find("#district")[:class]).not_to eq("my-disabled-class")
 
-    select("Mongkol Borei", from: "District")
+    select("Mongkol Borey", from: "District")
 
     expect(page).to have_field("Commune", disabled: false)
     expect(page.find("#commune")[:class]).not_to eq("my-disabled-class")
@@ -30,7 +30,7 @@ RSpec.describe "pumi.js", :js, type: :system do
     click_button("Save")
 
     expect(page).to have_select("Province", selected: "Banteay Meanchey")
-    expect(page).to have_select("District", selected: "Mongkol Borei")
+    expect(page).to have_select("District", selected: "Mongkol Borey")
     expect(page).to have_select("Commune", selected: "Bat Trang")
     expect(page).to have_select("Village", selected: "Khtum Reay Lech")
   end
