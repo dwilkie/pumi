@@ -1097,6 +1097,7 @@ districts:
     name:
       km: អង្គរជ័យ
       latin: Angkor Chey
+      ungegn: Ângkŏr Chey
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1116,6 +1117,7 @@ districts:
     name:
       km: បន្ទាយមាស
       latin: Banteay Meas
+      ungegn: Bântéay Méas
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1135,6 +1137,7 @@ districts:
     name:
       km: ឈូក
       latin: Chhuk
+      ungegn: Chhŭk
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1154,6 +1157,7 @@ districts:
     name:
       km: ជុំគិរី
       latin: Chum Kiri
+      ungegn: Chum Kirĭ
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1173,6 +1177,7 @@ districts:
     name:
       km: ដងទង់
       latin: Dang Tong
+      ungegn: Dâng Tông
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1192,6 +1197,7 @@ districts:
     name:
       km: កំពង់ត្រាច
       latin: Kampong Trach
+      ungegn: Kâmpŏng Trâch
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1211,6 +1217,7 @@ districts:
     name:
       km: ទឹកឈូ
       latin: Tuek Chhou
+      ungegn: Tœ̆k Chhou
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1230,6 +1237,7 @@ districts:
     name:
       km: កំពត
       latin: Kampot
+      ungegn: Kâmpŏt
     administrative_unit:
       km: ក្រុង
       latin: Krong
@@ -1249,6 +1257,7 @@ districts:
     name:
       km: បូកគោ
       latin: Bokor
+      ungegn: Bŏkô
     administrative_unit:
       km: ក្រុង
       latin: Krong
@@ -3690,6 +3699,7 @@ districts:
     name:
       km: កែប
       latin: Kep
+      ungegn: Kêb
     administrative_unit:
       km: ក្រុង
       latin: Krong
