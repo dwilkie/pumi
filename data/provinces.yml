@@ -423,6 +423,7 @@ provinces:
     name:
       km: តាកែវ
       latin: Takéo
+      ungegn: Takêv
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -506,6 +507,7 @@ provinces:
     name:
       km: ត្បូងឃ្មុំ
       latin: Tboung Khmum
+      ungegn: Tbong Khmum
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
