@@ -1748,6 +1748,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Ou_Krieng_Saenchey_District
   '1101':
     name:
       km: កែវសីមា
@@ -3130,6 +3132,8 @@ districts:
       latin: Krong
       en: Municipality
       ungegn: Krŏng
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kampong_Soam_Municipality
   '1901':
     name:
       km: សេសាន
