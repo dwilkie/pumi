@@ -43,6 +43,26 @@ module Pumi
 
       ScraperResult = Struct.new(:code, :wikipedia, :name_ungegn, keyword_init: true)
 
+      class URLParser
+        attr_reader :base_url, :link_node
+
+        def self.parse(...)
+          new(...).to_s
+        end
+
+        def initialize(base_url, link_node)
+          @base_url = base_url
+          @link_node = link_node
+        end
+
+        def to_s
+          return if link_node.nil? || link_node[:href].nil?
+
+          escaped_href = URI::DEFAULT_PARSER.escape(link_node[:href])
+          URI.join(base_url, escaped_href).to_s
+        end
+      end
+
       class WebScraper
         class ElementNotFoundError < StandardError; end
 
@@ -79,7 +99,7 @@ module Pumi
         def find_url(province)
           td = find_khmer_name_td(province)
           link = td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
-          URI.join(URL, link[:href]).to_s
+          URLParser.parse(URL, link)
         end
 
         def find_ungegn(province)
@@ -141,7 +161,7 @@ module Pumi
 
           return if link.nil?
 
-          URI.join(URL, link[:href]).to_s
+          URLParser.parse(URL, link)
         end
 
         def find_ungegn(district)
@@ -181,7 +201,7 @@ module Pumi
 
           return if link.nil?
 
-          URI.join(URL, link[:href]).to_s
+          URLParser.parse(URL, link)
         end
 
         def find_ungegn(commune)
