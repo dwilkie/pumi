@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.44.1](https://github.com/dwilkie/pumi/compare/v0.44.0...v0.44.1) (2026-09-13)
+
+
+### Bug Fixes
+
+* Update misspellings ([#138](https://github.com/dwilkie/pumi/issues/138)) ([8ee4b04](https://github.com/dwilkie/pumi/commit/8ee4b04e6d7b7c5730acb60441948d5fc14f12bd))
+
 ## [0.44.0](https://github.com/dwilkie/pumi/compare/v0.43.0...v0.44.0) (2026-09-13)
 
 
