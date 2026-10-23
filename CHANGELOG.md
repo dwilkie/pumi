@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.44.2](https://github.com/dwilkie/pumi/compare/v0.44.1...v0.44.2) (2026-10-23)
+
+
+### Bug Fixes
+
+* Wikipedia parser ([#140](https://github.com/dwilkie/pumi/issues/140)) ([df15ece](https://github.com/dwilkie/pumi/commit/df15ece8890509f4490ff797d80b793e7a745568))
+
 ## [0.44.1](https://github.com/dwilkie/pumi/compare/v0.44.0...v0.44.1) (2026-09-13)
 
 
