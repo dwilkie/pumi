@@ -1,6 +1,8 @@
 require "nokogiri"
 require "open-uri"
 
+require "pry"
+
 module Pumi
   module DataSource
     class Wikipedia
@@ -97,39 +99,27 @@ module Pumi
         end
 
         def find_url(province)
-          td = find_khmer_name_td(province)
-          link = td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          row = find_province_row(province)
+          # Finds the Wikipedia page link located in the Name column (first td with an a tag)
+          link = row.at_xpath("./td/a[contains(@href, '/wiki/')]")
           URLParser.parse(URL, link)
         end
 
         def find_ungegn(province)
-          td = find_khmer_name_td(province)
-          td.at_xpath("following-sibling::td/span[contains(@title, 'Khmer-language romanization')]")&.text
+          row = find_province_row(province)
+          # Finds the UNGEGN span element directly inside the row
+          row.at_xpath(".//td/span[contains(@title, 'Khmer-language romanization')]")&.text
         end
 
-        def find_khmer_name_td(province)
-          td = province_table_rows.at_xpath("child::td[contains(., '#{province.name_km}')]")
+        def find_province_row(province)
+          row = scraper.page.at_xpath("//table//tr[td[normalize-space(text()) = '#{province.iso3166_2}']]")
 
-          if td.nil?
+          if row.nil?
             raise WebScraper::ElementNotFoundError,
-                  "No cell containing '#{province.name_km}' was found in a table on #{URL}"
+                  "No row matching ISO code '#{province.iso3166_2}' was found in a table on #{URL}"
           end
 
-          td
-        end
-
-        def province_table_rows
-          @province_table_rows ||= begin
-            sample_province = Province.all.first
-
-            sample_row = scraper.page.at_xpath("//table/tbody/tr[td//text()[contains(., '#{sample_province.name_km}')]]")
-            if sample_row.at_xpath("//a[text()[contains(., '#{sample_province.name_en}')]]").nil?
-              raise WebScraper::ElementNotFoundError,
-                    "No link containing '#{sample_province.name_en}' was found in a table on #{URL}"
-            end
-
-            sample_row.parent.xpath("child::tr")
-          end
+          row
         end
       end
 

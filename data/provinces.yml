@@ -4,7 +4,7 @@ provinces:
     name:
       km: បន្ទាយមានជ័យ
       latin: Banteay Meanchey
-      ungegn: Bântéay Méanchoăy
+      ungegn: Bǎntiĕy Miĕn Chei
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -25,7 +25,7 @@ provinces:
     name:
       km: បាត់ដំបង
       latin: Battambang
-      ungegn: Bătdâmbâng
+      ungegn: Băt Dâmbâng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -46,7 +46,7 @@ provinces:
     name:
       km: កំពង់ចាម
       latin: Kampong Cham
-      ungegn: Kâmpóng Cham
+      ungegn: Kâmpǒng Cham
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -67,7 +67,7 @@ provinces:
     name:
       km: កំពង់ឆ្នាំង
       latin: Kampong Chhnang
-      ungegn: Kâmpóng Chhnăng
+      ungegn: Kâmpǒng Chhnăng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -88,7 +88,7 @@ provinces:
     name:
       km: កំពង់ស្ពឺ
       latin: Kampong Speu
-      ungegn: Kâmpóng Spœ
+      ungegn: Kâmpǒng Spue
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -109,7 +109,7 @@ provinces:
     name:
       km: កំពង់ធំ
       latin: Kampong Thom
-      ungegn: Kâmpóng Thum
+      ungegn: Kâmpǒng Thom
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -150,7 +150,7 @@ provinces:
     name:
       km: កណ្តាល
       latin: Kandal
-      ungegn: Kândal
+      ungegn: Kǎndal
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -171,7 +171,7 @@ provinces:
     name:
       km: កោះកុង
       latin: Koh Kong
-      ungegn: Kaôh Kŏng
+      ungegn: Kâh Kŏng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -192,7 +192,7 @@ provinces:
     name:
       km: ក្រចេះ
       latin: Kratié
-      ungegn: Krâchéh
+      ungegn: Krâcheh
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -213,7 +213,7 @@ provinces:
     name:
       km: មណ្ឌលគិរី
       latin: Mondulkiri
-      ungegn: Môndôlkĭri
+      ungegn: Mǒndǒl Kĭri
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -234,7 +234,7 @@ provinces:
     name:
       km: ភ្នំពេញ
       latin: Phnom Penh
-      ungegn: Phnum Pénh
+      ungegn: Phnom Penh
     administrative_unit:
       km: រាជធានី
       latin: Reach Theani
@@ -255,7 +255,7 @@ provinces:
     name:
       km: ព្រះវិហារ
       latin: Preah Vihear
-      ungegn: Preăh Vĭhar
+      ungegn: Preăh Vĭhiĕ
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -276,7 +276,7 @@ provinces:
     name:
       km: ព្រៃវែង
       latin: Prey Veng
-      ungegn: Preý Vŭng
+      ungegn: Prei Vêng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -297,7 +297,7 @@ provinces:
     name:
       km: ពោធិ៍សាត់
       latin: Pursat
-      ungegn: Poŭthĭsăt
+      ungegn: Posăt
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -318,7 +318,7 @@ provinces:
     name:
       km: រតនគិរី
       latin: Ratanakiri
-      ungegn: Rôtânôkĭri
+      ungegn: Roătănă Kĭri
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -339,7 +339,7 @@ provinces:
     name:
       km: សៀមរាប
       latin: Siem Reap
-      ungegn: Siĕm Réab
+      ungegn: Siĕm Riĕp
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -360,7 +360,7 @@ provinces:
     name:
       km: ព្រះសីហនុ
       latin: Preah Sihanouk
-      ungegn: Preăh Seihânŭ
+      ungegn: Preăh Sĕihănŭ
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -381,7 +381,7 @@ provinces:
     name:
       km: ស្ទឹងត្រែង
       latin: Stung Treng
-      ungegn: Stœ̆ng Trêng
+      ungegn: Stuĕng Traêng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -423,7 +423,7 @@ provinces:
     name:
       km: តាកែវ
       latin: Takéo
-      ungegn: Takêv
+      ungegn: Ta Kaêw
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -444,7 +444,7 @@ provinces:
     name:
       km: ឧត្តរមានជ័យ
       latin: Oddar Meanchey
-      ungegn: Ŏttâr Méanchoăy
+      ungegn: Ŭtdâ Miĕn Chei
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -465,7 +465,7 @@ provinces:
     name:
       km: កែប
       latin: Kep
-      ungegn: Kêb
+      ungegn: Kaêp
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -507,7 +507,7 @@ provinces:
     name:
       km: ត្បូងឃ្មុំ
       latin: Tboung Khmum
-      ungegn: Tbong Khmum
+      ungegn: Tbong Khmŭm
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
