@@ -201,7 +201,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Thma_Koul
+      wikipedia: https://en.wikipedia.org/wiki/Thma_Kol?action=edit&redlink=1
     geodata:
       lat: '13.24944415'
       long: '103.07118059476997'
@@ -334,7 +334,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Samlout
+      wikipedia: https://en.wikipedia.org/wiki/Samlot?action=edit&redlink=1
     geodata:
       lat: '12.6226916'
       long: '102.8523788'
@@ -791,7 +791,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Basedth
+      wikipedia: https://en.wikipedia.org/wiki/Basaet?action=edit&redlink=1
     geodata:
       lat: '11.200398'
       long: '104.50433350548424'
@@ -829,7 +829,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Kong_Pisei
+      wikipedia: https://en.wikipedia.org/wiki/Kong_Pisoei?action=edit&redlink=1
     geodata:
       lat: '11.3106024'
       long: '104.62320857080852'
@@ -923,6 +923,8 @@ districts:
       latin: Krong
       en: Municipality
       ungegn: Krŏng
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Udong_Mae_Chei?action=edit&redlink=1
   '0510':
     name:
       km: សាមគ្គីមុនីជ័យ
@@ -932,6 +934,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sameakki_Muni_Chei?action=edit&redlink=1
   '0601':
     name:
       km: បារាយណ៍
@@ -1018,7 +1022,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Prasat_Sambour
+      wikipedia: https://en.wikipedia.org/wiki/Prasat_Sambo?action=edit&redlink=1
     geodata:
       lat: '12.8857488'
       long: '105.0679436'
@@ -1075,7 +1079,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Stoung
+      wikipedia: https://en.wikipedia.org/wiki/Stong
     geodata:
       lat: '12.9389734'
       long: '104.5716049'
@@ -1099,14 +1103,14 @@ districts:
     name:
       km: អង្គរជ័យ
       latin: Angkor Chey
-      ungegn: Ângkŏr Chey
+      ungegn: Ǎngkô Chei
     administrative_unit:
       km: ស្រុក
       latin: Srok
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Angkor_Chey
+      wikipedia: https://en.wikipedia.org/wiki/Angko_Chei?action=edit&redlink=1
     geodata:
       lat: '10.8393757'
       long: '104.6545648'
@@ -1119,14 +1123,14 @@ districts:
     name:
       km: បន្ទាយមាស
       latin: Banteay Meas
-      ungegn: Bântéay Méas
+      ungegn: Bǎntiay Miah
     administrative_unit:
       km: ស្រុក
       latin: Srok
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Banteay_Meas
+      wikipedia: https://en.wikipedia.org/wiki/Bantiay_Miah?action=edit&redlink=1
     geodata:
       lat: '10.6731987'
       long: '104.5571703'
@@ -1139,7 +1143,7 @@ districts:
     name:
       km: ឈូក
       latin: Chhuk
-      ungegn: Chhŭk
+      ungegn: Chhuk
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1159,7 +1163,7 @@ districts:
     name:
       km: ជុំគិរី
       latin: Chum Kiri
-      ungegn: Chum Kirĭ
+      ungegn: Chŭm Kĭri
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1179,7 +1183,7 @@ districts:
     name:
       km: ដងទង់
       latin: Dang Tong
-      ungegn: Dâng Tông
+      ungegn: Dâng Tǒng
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1199,7 +1203,7 @@ districts:
     name:
       km: កំពង់ត្រាច
       latin: Kampong Trach
-      ungegn: Kâmpŏng Trâch
+      ungegn: Kǎmpǒng Trach
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1219,7 +1223,7 @@ districts:
     name:
       km: ទឹកឈូ
       latin: Tuek Chhou
-      ungegn: Tœ̆k Chhou
+      ungegn: Tuĕk Chhu
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1239,7 +1243,7 @@ districts:
     name:
       km: កំពត
       latin: Kampot
-      ungegn: Kâmpŏt
+      ungegn: Kǎmpôt
     administrative_unit:
       km: ក្រុង
       latin: Krong
@@ -1259,7 +1263,7 @@ districts:
     name:
       km: បូកគោ
       latin: Bokor
-      ungegn: Bŏkô
+      ungegn: Bokko
     administrative_unit:
       km: ក្រុង
       latin: Krong
@@ -1271,6 +1275,7 @@ districts:
     name:
       km: កណ្ដាលស្ទឹង
       latin: Kandal Stueng
+      ungegn: Kǎndal Stuĕng
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1290,6 +1295,7 @@ districts:
     name:
       km: កៀនស្វាយ
       latin: Kien Svay
+      ungegn: Kian Svay
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1309,6 +1315,7 @@ districts:
     name:
       km: ខ្សាច់កណ្ដាល
       latin: Khsach Kandal
+      ungegn: Khsăch Kǎndal
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1328,13 +1335,14 @@ districts:
     name:
       km: កោះធំ
       latin: Kaoh Thum
+      ungegn: Kăh Thŏm
     administrative_unit:
       km: ស្រុក
       latin: Srok
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Kaoh_Thum
+      wikipedia: https://en.wikipedia.org/wiki/Kah_Thom?action=edit&redlink=1
     geodata:
       lat: '11.1256716'
       long: '105.0555595'
@@ -1347,13 +1355,14 @@ districts:
     name:
       km: លើកដែក
       latin: Leuk Daek
+      ungegn: Loek Daek
     administrative_unit:
       km: ស្រុក
       latin: Srok
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Leuk_Daek
+      wikipedia: https://en.wikipedia.org/wiki/Loek_Daek?action=edit&redlink=1
     geodata:
       lat: '11.1778929'
       long: '105.2277136'
@@ -1366,13 +1375,14 @@ districts:
     name:
       km: ល្វាឯម
       latin: Lvea Aem
+      ungegn: Lvia Aem
     administrative_unit:
       km: ស្រុក
       latin: Srok
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Lvea_Aem
+      wikipedia: https://en.wikipedia.org/wiki/Lvia_Aem?action=edit&redlink=1
     geodata:
       lat: '11.5430427'
       long: '105.0485316'
@@ -1385,6 +1395,7 @@ districts:
     name:
       km: មុខកំពូល
       latin: Mukh Kampul
+      ungegn: Mŭk Kǎmpul
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1404,13 +1415,14 @@ districts:
     name:
       km: អង្គស្នួល
       latin: Angk Snuol
+      ungegn: Ǎng Snual
     administrative_unit:
       km: ស្រុក
       latin: Srok
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Angk_Snuol
+      wikipedia: https://en.wikipedia.org/wiki/Ang_Snual?action=edit&redlink=1
     geodata:
       lat: '11.5078333'
       long: '104.7157787'
@@ -1423,6 +1435,7 @@ districts:
     name:
       km: ពញាឮ
       latin: Ponhea Lueu
+      ungegn: Pnhia Lue
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1442,6 +1455,7 @@ districts:
     name:
       km: ស្អាង
       latin: S'ang
+      ungegn: S’ang
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1461,6 +1475,7 @@ districts:
     name:
       km: តាខ្មៅ
       latin: Ta Khmau
+      ungegn: Ta Khmau
     administrative_unit:
       km: ក្រុង
       latin: Krong
@@ -1480,20 +1495,26 @@ districts:
     name:
       km: សំពៅពូន
       latin: Sampeou Poun
+      ungegn: Sǎmpoeu Puan
     administrative_unit:
       km: ក្រុង
       latin: Krong
       en: Municipality
       ungegn: Krŏng
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Sampoeu_Puan?action=edit&redlink=1
   '0813':
     name:
       km: អរិយក្សត្រ
       latin: Akreiy Ksatr
+      ungegn: Ărĕy Ksăt
     administrative_unit:
       km: ក្រុង
       latin: Krong
       en: Municipality
       ungegn: Krŏng
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Arey_Ksat
   '0901':
     name:
       km: បុទុមសាគរ
@@ -1504,7 +1525,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Botum_Sakor
+      wikipedia: https://en.wikipedia.org/wiki/Botum_Sako?action=edit&redlink=1
     geodata:
       lat: '11.1910731'
       long: '103.4626525'
@@ -1523,7 +1544,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Kiri_Sakor
+      wikipedia: https://en.wikipedia.org/wiki/Kiri_Sako?action=edit&redlink=1
     geodata:
       lat: '10.9422524'
       long: '103.1004568'
@@ -1580,7 +1601,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Mondol_Seima
+      wikipedia: https://en.wikipedia.org/wiki/Mondol_Soeima?action=edit&redlink=1
     geodata:
       lat: '11.5698303'
       long: '102.9539371'
@@ -3685,7 +3706,7 @@ districts:
     name:
       km: ដំណាក់ចង្អើរ
       latin: Damnak Chang'aeur
-      ungegn: Dâmnăk Châng'aeur
+      ungegn: Dǎmnăk Chǎng'aoe
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -3705,7 +3726,7 @@ districts:
     name:
       km: កែប
       latin: Kep
-      ungegn: Kêb
+      ungegn: Kaep
     administrative_unit:
       km: ក្រុង
       latin: Krong
