@@ -147,7 +147,7 @@ module Pumi
 
           return if geocode_td.nil?
 
-          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/') and not(contains(@href, 'redlink=1'))]")
 
           return if link.nil?
 
@@ -187,7 +187,7 @@ module Pumi
 
           return if geocode_td.nil?
 
-          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/') and not(contains(@href, 'redlink=1'))]")
 
           return if link.nil?
 

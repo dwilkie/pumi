@@ -4,7 +4,7 @@ provinces:
     name:
       km: បន្ទាយមានជ័យ
       latin: Banteay Meanchey
-      ungegn: Bǎntiĕy Miĕn Chei
+      ungegn: Bǎntiay Mian Chĕi
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -25,7 +25,7 @@ provinces:
     name:
       km: បាត់ដំបង
       latin: Battambang
-      ungegn: Băt Dâmbâng
+      ungegn: Băt Dǎmbâng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -46,7 +46,7 @@ provinces:
     name:
       km: កំពង់ចាម
       latin: Kampong Cham
-      ungegn: Kâmpǒng Cham
+      ungegn: Kǎmpǒng Cham
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -67,7 +67,7 @@ provinces:
     name:
       km: កំពង់ឆ្នាំង
       latin: Kampong Chhnang
-      ungegn: Kâmpǒng Chhnăng
+      ungegn: Kǎmpǒng Chhnăng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -88,7 +88,7 @@ provinces:
     name:
       km: កំពង់ស្ពឺ
       latin: Kampong Speu
-      ungegn: Kâmpǒng Spue
+      ungegn: Kǎmpǒng Spue
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -109,7 +109,7 @@ provinces:
     name:
       km: កំពង់ធំ
       latin: Kampong Thom
-      ungegn: Kâmpǒng Thom
+      ungegn: Kǎmpǒng Thǒm
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -171,7 +171,7 @@ provinces:
     name:
       km: កោះកុង
       latin: Koh Kong
-      ungegn: Kâh Kŏng
+      ungegn: Kǎh Kŏng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -234,7 +234,7 @@ provinces:
     name:
       km: ភ្នំពេញ
       latin: Phnom Penh
-      ungegn: Phnom Penh
+      ungegn: Phnǒm Penh
     administrative_unit:
       km: រាជធានី
       latin: Reach Theani
@@ -255,7 +255,7 @@ provinces:
     name:
       km: ព្រះវិហារ
       latin: Preah Vihear
-      ungegn: Preăh Vĭhiĕ
+      ungegn: Preăh Vihia
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -276,7 +276,7 @@ provinces:
     name:
       km: ព្រៃវែង
       latin: Prey Veng
-      ungegn: Prei Vêng
+      ungegn: Prĕi Vêng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -297,7 +297,7 @@ provinces:
     name:
       km: ពោធិ៍សាត់
       latin: Pursat
-      ungegn: Posăt
+      ungegn: Po Săt
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -339,7 +339,7 @@ provinces:
     name:
       km: សៀមរាប
       latin: Siem Reap
-      ungegn: Siĕm Riĕp
+      ungegn: Siam Riap
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -360,7 +360,7 @@ provinces:
     name:
       km: ព្រះសីហនុ
       latin: Preah Sihanouk
-      ungegn: Preăh Sĕihănŭ
+      ungegn: Preăh Seihănŭ
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -381,7 +381,7 @@ provinces:
     name:
       km: ស្ទឹងត្រែង
       latin: Stung Treng
-      ungegn: Stuĕng Traêng
+      ungegn: Stuĕng Traeng
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -402,7 +402,7 @@ provinces:
     name:
       km: ស្វាយរៀង
       latin: Svay Rieng
-      ungegn: Svay Riĕng
+      ungegn: Svay Riang
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -423,7 +423,7 @@ provinces:
     name:
       km: តាកែវ
       latin: Takéo
-      ungegn: Ta Kaêw
+      ungegn: Ta Kaew
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -444,7 +444,7 @@ provinces:
     name:
       km: ឧត្តរមានជ័យ
       latin: Oddar Meanchey
-      ungegn: Ŭtdâ Miĕn Chei
+      ungegn: Ŭdâ Mian Chĕi
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -465,7 +465,7 @@ provinces:
     name:
       km: កែប
       latin: Kep
-      ungegn: Kaêp
+      ungegn: Kaep
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
@@ -486,7 +486,7 @@ provinces:
     name:
       km: ប៉ៃលិន
       latin: Pailin
-      ungegn: Pailĭn
+      ungegn: Pai Lĭn
     administrative_unit:
       km: ខេត្ត
       latin: Khaet
