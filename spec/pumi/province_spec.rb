@@ -30,8 +30,8 @@ module Pumi
         expect(province.full_name_latin).to eq("Khaet Banteay Meanchey")
         expect(province.name_en).to eq("Banteay Meanchey")
         expect(province.full_name_en).to eq("Banteay Meanchey Province")
-        expect(province.name_ungegn).to eq("Bǎntiĕy Miĕn Chei")
-        expect(province.full_name_ungegn).to eq("Khétt Bǎntiĕy Miĕn Chei")
+        expect(province.name_ungegn).to eq("Bǎntiay Mian Chĕi")
+        expect(province.full_name_ungegn).to eq("Khétt Bǎntiay Mian Chĕi")
       end
 
       it "filters by name_latin" do

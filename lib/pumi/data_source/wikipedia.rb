@@ -21,6 +21,9 @@ module Pumi
           if location_data.wikipedia
             attributes["links"] ||= {}
             attributes["links"]["wikipedia"] = location_data.wikipedia
+          elsif attributes["links"]
+            attributes["links"].delete("wikipedia")
+            attributes.delete("links") if attributes["links"].empty?
           end
 
           attributes["name"]["ungegn"] = location_data.name_ungegn if location_data.name_ungegn
@@ -147,7 +150,7 @@ module Pumi
 
           return if geocode_td.nil?
 
-          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/') and not(contains(@href, 'redlink=1'))]")
 
           return if link.nil?
 
@@ -187,7 +190,7 @@ module Pumi
 
           return if geocode_td.nil?
 
-          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/')]")
+          link = geocode_td.at_xpath("preceding-sibling::td/a[contains(@href, '/wiki/') and not(contains(@href, 'redlink=1'))]")
 
           return if link.nil?
 
