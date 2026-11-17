@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.45.1](https://github.com/dwilkie/pumi/compare/v0.45.0...v0.45.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* Add misspelling for Arey Ksat ([#145](https://github.com/dwilkie/pumi/issues/145)) ([5edbb03](https://github.com/dwilkie/pumi/commit/5edbb037b8a06479e66fbe56e892349ea6f1ab2e))
+
 ## [0.45.0](https://github.com/dwilkie/pumi/compare/v0.44.2...v0.45.0) (2026-11-17)
 
 
