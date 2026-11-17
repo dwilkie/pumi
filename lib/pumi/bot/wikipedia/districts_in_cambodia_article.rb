@@ -6,6 +6,7 @@ module Pumi
     module Wikipedia
       class DistrictsInCambodiaArticle < Article
         PAGE_TITLE = "List_of_districts,_municipalities_and_sections_in_Cambodia".freeze
+        # PAGE_TITLE = "User:Dcwilkie%2Fsandbox%2FList_of_districts,_municipalities_and_sections_in_Cambodia".freeze
 
         INTRO_TEXT = "This is a list of [[Cambodia]]'s %<districts_count>s districts ({{lang|km|ស្រុក}} ''srok''), %<municipalities_count>s district-level municipalities ({{lang|km|ក្រុង}} ''krong'') and %<sections_count>s sections ({{lang|km|ខណ្ឌ}} ''khan'') organized by each [[Provinces of Cambodia|province]] and an [[Provinces of Cambodia|autonomous municipality]] ([[Phnom Penh]]).".freeze
         DISTRICTS_TEMPLATE = File.read("#{__dir__}/templates/district_list.wikitext.erb")
@@ -83,7 +84,9 @@ module Pumi
           misspelling = MISSPELLINGS.find { |m| m.correct_text == title }
           search_term = misspelling&.incorrect_text || title
 
-          section = source.match(/==\s*\[\[[[:word:]\s]+\|#{Regexp.escape(search_term)}\]\].+?==(.+?(?===))/m)
+          section = source.match(
+            /==\s*\[\[[[:word:]\s]+\|#{Regexp.escape(search_term)}\]\]\s*==.+?(\n*<div id="province-districts-.+?(?===|\z))/m
+          )
 
           raise "Missing section for #{search_term}" if section.nil?
 
