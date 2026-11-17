@@ -1,5 +1,5 @@
 <div id="province-districts-<%= province.id %>">
-<%= province.name_en %> contains <%= districts_summary %>.<ref>{{cite web|url=http://db.ncdd.gov.kh/gazetteer/view/province.castle?pv=<%= province.id %> |title=<%= province.name_en %> |publisher=National Committee for Sub-National Democratic Development }}</ref>
+<%= province.name_en %> contains <%= districts_summary %>.<ref>{{cite web|url=https://db.ncdd.gov.kh/gazetteer/view/province.castle?pv=<%= province.id %> |title=<%= province.name_en %> |publisher=National Committee for Sub-National Democratic Development }}</ref>
 
 {| class="wikitable sortable"
 |-
@@ -13,8 +13,8 @@
 <% districts.each_with_index do |district, index| %>
 | <%= index + 1 %>
 <% if district.links[:wikipedia] -%>
-<% district_page = URI.parse(district.links[:wikipedia]).path.split("/").last -%>
-<% if district_page.gsub("_", " ") == district.name_en -%>
+<% district_page = URI.decode_www_form_component(URI.parse(district.links[:wikipedia]).path.split("/").last).tr("_", " ") -%>
+<% if district_page == district.name_en -%>
 | [[<%= district.name_en %>]]
 <% else -%>
 | [[<%= district_page %>|<%= district.name_en %>]]
