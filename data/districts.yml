@@ -200,6 +200,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Thma_Koul
     geodata:
       lat: '13.24944415'
       long: '103.07118059476997'
@@ -331,6 +333,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Samlout
     geodata:
       lat: '12.6226916'
       long: '102.8523788'
@@ -786,6 +790,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Basedth
     geodata:
       lat: '11.200398'
       long: '104.50433350548424'
@@ -822,6 +828,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kong_Pisei
     geodata:
       lat: '11.3106024'
       long: '104.62320857080852'
@@ -1009,6 +1017,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Prasat_Sambour
     geodata:
       lat: '12.8857488'
       long: '105.0679436'
@@ -1065,7 +1075,7 @@ districts:
       en: District
       ungegn: Srŏk
     links:
-      wikipedia: https://en.wikipedia.org/wiki/Stong
+      wikipedia: https://en.wikipedia.org/wiki/Stoung
     geodata:
       lat: '12.9389734'
       long: '104.5716049'
@@ -1095,6 +1105,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angkor_Chey
     geodata:
       lat: '10.8393757'
       long: '104.6545648'
@@ -1113,6 +1125,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Banteay_Meas
     geodata:
       lat: '10.6731987'
       long: '104.5571703'
@@ -1323,6 +1337,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kaoh_Thum
     geodata:
       lat: '11.1256716'
       long: '105.0555595'
@@ -1341,6 +1357,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Leuk_Daek
     geodata:
       lat: '11.1778929'
       long: '105.2277136'
@@ -1359,6 +1377,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Lvea_Aem
     geodata:
       lat: '11.5430427'
       long: '105.0485316'
@@ -1397,6 +1417,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Angk_Snuol
     geodata:
       lat: '11.5078333'
       long: '104.7157787'
@@ -1496,6 +1518,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Botum_Sakor
     geodata:
       lat: '11.1910731'
       long: '103.4626525'
@@ -1513,6 +1537,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Kiri_Sakor
     geodata:
       lat: '10.9422524'
       long: '103.1004568'
@@ -1568,6 +1594,8 @@ districts:
       latin: Srok
       en: District
       ungegn: Srŏk
+    links:
+      wikipedia: https://en.wikipedia.org/wiki/Mondol_Seima
     geodata:
       lat: '11.5698303'
       long: '102.9539371'

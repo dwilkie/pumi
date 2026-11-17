@@ -21,9 +21,6 @@ module Pumi
           if location_data.wikipedia
             attributes["links"] ||= {}
             attributes["links"]["wikipedia"] = location_data.wikipedia
-          elsif attributes["links"]
-            attributes["links"].delete("wikipedia")
-            attributes.delete("links") if attributes["links"].empty?
           end
 
           attributes["name"]["ungegn"] = location_data.name_ungegn if location_data.name_ungegn
